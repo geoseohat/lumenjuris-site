@@ -28,6 +28,7 @@ import type { ContractAnalysis, ClauseRisk } from "../types";
 import type { AnalysisContext } from "../types/contextualAnalysis";
 import type { AnalysisProgress } from "../types/analysisProgress";
 import { negotiationApi } from "../components/DashboardComponents/negotiation/api";
+import { htmlToPlainText } from "../utils/documentViewerTools/htmlToPlainText";
 
 import {
   createContractHistoryId,
@@ -267,10 +268,7 @@ export default function ContractAnalysis() {
     let contentToAnalyze = baseContract.content;
 
     if (entry.htmlContent) {
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(entry.htmlContent, "text/html");
-      const plainText = doc.body.innerText || doc.body.textContent || baseContract.content;
-      contentToAnalyze = plainText;
+      contentToAnalyze = htmlToPlainText(entry.htmlContent) || baseContract.content;
     }
 
     try {
@@ -564,6 +562,12 @@ export default function ContractAnalysis() {
     } catch (error) {
       setActiveHistoryId(null);
       console.error("Erreur upload:", error);
+      toast.error(
+        error instanceof Error
+          ? error.message
+          : "Échec de l'extraction du texte. Réessayez.",
+        { duration: 8000 },
+      );
     } finally {
       if (documentPreparationRef.current === preparationKey) {
         documentPreparationRef.current = null;

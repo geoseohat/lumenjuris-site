@@ -36,7 +36,7 @@ export async function authMiddleware(
         banned: true,
       });
     }
-   
+
 
     await prisma.user.update({
       where : { idUser : userId},

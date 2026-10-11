@@ -6,7 +6,10 @@
 import { useState, useCallback, useRef } from "react";
 import type { ClauseRisk, ContractAnalysis } from "../types";
 import type { AnalysisContext } from "../types/contextualAnalysis";
-import { extractDocumentContent } from "../utils/documentExtractor";
+import {
+  DocumentRefuseError,
+  extractDocumentContent,
+} from "../utils/documentExtractor";
 import type { AnalysisProgress } from "../types/analysisProgress";
 import {
   performCompleteMarketAnalysis,
@@ -227,7 +230,9 @@ export const useContractAnalysis = (): UseContractAnalysisReturn => {
 
         console.error("Erreur lors de l'extraction:", err);
         throw new Error(
-          "Échec de l'extraction du texte. Assurez-vous que le PDF n'est pas protégé et réessayez.",
+          err instanceof DocumentRefuseError
+            ? err.message
+            : "Échec de l'extraction du texte. Assurez-vous que le PDF n'est pas protégé et réessayez.",
         );
       } finally {
         if (isCurrentOperation(operationId)) {
