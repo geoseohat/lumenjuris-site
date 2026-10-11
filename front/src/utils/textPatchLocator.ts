@@ -85,6 +85,21 @@ export function findBestClauseSpan(
     }
   }
 
+  // 4 bis. Sans aucune espace : le texte analysé sépare les paragraphes alors que le
+  // texte du HTML affiché les colle (« …résiliation.Article 5 »), ou l'inverse.
+  const compactTarget = target.replace(/\s+/g, "");
+  if (compactTarget.length >= 20) {
+    const compact = buildCompactMap(originalText);
+    const idxCompact = compact.text.indexOf(compactTarget);
+    if (idxCompact !== -1) {
+      const start = compact.map[idxCompact];
+      const end = compact.map[idxCompact + compactTarget.length - 1] + 1;
+      if (validBounds(originalText, start, end)) {
+        return { start, end, strategy: "compact" };
+      }
+    }
+  }
+
   // 5. Fallback partiel: essayer un préfixe de la clause (60 premiers chars) s'il est distinctif
   const prefix = target
     .slice(0, Math.min(60, Math.floor(target.length / 2)))
@@ -164,6 +179,19 @@ function buildNormalizationMap(original: string): NormalizationMap {
     }
   }
   return { normalized, map };
+}
+
+// Texte sans aucune espace, avec pour chaque caractère sa position dans l'original.
+function buildCompactMap(original: string): { text: string; map: number[] } {
+  let text = "";
+  const map: number[] = [];
+  for (let i = 0; i < original.length; i++) {
+    if (!/\s/.test(original[i])) {
+      text += original[i];
+      map.push(i);
+    }
+  }
+  return { text, map };
 }
 
 function normalizeText(s: string): string {

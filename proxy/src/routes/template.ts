@@ -440,11 +440,21 @@ const PLACEHOLDER_TOKEN_REGEX = /\[\[(P\d+)\]\]/g;
 
 /**
  * Découpe le texte extrait en paragraphes non vides.
- * Les PDF coupent souvent une phrase sur plusieurs lignes : si une ligne se
- * termine par une virgule ou si la suivante commence par une minuscule, on
- * considère que c'est le même paragraphe.
+ * Le moteur Python sépare ses paragraphes par une ligne vide (lignes déjà
+ * recollées, mots coupés réparés, en-têtes et pieds de page retirés) : on les
+ * garde tels quels.
+ * Texte sans ligne vide (ancien format) : les PDF coupent souvent une phrase
+ * sur plusieurs lignes ; si une ligne se termine par une virgule ou si la
+ * suivante commence par une minuscule, c'est le même paragraphe.
  */
 function splitIntoParagraphs(text: string): string[] {
+  if (/\n[ \t]*\n/.test(text)) {
+    return text
+      .split(/\n[ \t]*\n/)
+      .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
+      .filter((paragraph) => paragraph.length > 0);
+  }
+
   const lines = text
     .split(/\r?\n/)
     .map((line) => line.replace(/\s+/g, " ").trim())
@@ -977,6 +987,11 @@ async function extractDocumentText(fileBase64: string, filename: string): Promis
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ filename, fileBase64 }),
   });
+  if (extractRes.status === 422) {
+    // Refus expliqué par le moteur (ancien .doc, PDF protégé, document vide) : message montré tel quel.
+    const refus = (await extractRes.json().catch(() => ({}))) as { detail?: string };
+    throw new ImportError(422, refus.detail || "Document illisible.");
+  }
   if (!extractRes.ok) throw new ImportError(502, "Extraction du document échouée.");
 
   const extractData = (await extractRes.json()) as { text?: string };

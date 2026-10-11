@@ -1,0 +1,4 @@
+# Fabriqués par generer_documents.py et comparer.py : on les régénère à la demande.
+documents/
+resultats/
+__pycache__/
