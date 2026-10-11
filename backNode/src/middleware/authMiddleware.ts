@@ -36,14 +36,12 @@ export async function authMiddleware(
         banned: true,
       });
     }
-
-    const date = new Date()
-    const today = date.toLocaleDateString()
+   
 
     await prisma.user.update({
       where : { idUser : userId},
       data : {
-        lastConnected : today
+        lastConnected : new Date()
       }
     })
 
