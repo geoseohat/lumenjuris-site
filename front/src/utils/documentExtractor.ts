@@ -14,9 +14,30 @@ export interface ExtractedContent {
   clauses: any[];
 }
 
-const PDF_SERVER_URL = `/api/user-uploads/extract-document-text`;
+// Fichier envoyé en base64 dans du JSON : chez o2switch, un envoi multipart
+// contenant un fichier est détourné avant d'atteindre le relais (404), et
+// l'écran retombait toujours sur PDF.js (ni Word, ni scans, ni mise en forme).
+const PDF_SERVER_URL = `/api/user-uploads/extract-document-text-json`;
 const MAX_RETRIES = 2;
 const TIMEOUT_MS = 180000; // 3 minutes pour l'OCR
+
+/**
+ * Refus expliqué par le moteur (ancien .doc, PDF protégé, document vide) :
+ * le message est montré tel quel, sans nouvel essai ni lecture de secours.
+ */
+export class DocumentRefuseError extends Error {}
+
+async function fileToBase64(file: File): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const result = reader.result as string;
+      resolve(result.split(",")[1] ?? result);
+    };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
 
 /**
  * Extrait le contenu d'un PDF via le serveur local (priorité) ou PDF.js (fallback)
@@ -31,8 +52,8 @@ export async function extractDocumentContent(
     console.log("HTML AFTER EXTRACT FROM SERVER ▶️▶️▶️ ", result);
     return result;
   } catch (error: any) {
-    // Si c'est une annulation volontaire, on propage l'erreur sans fallback
-    if (error.name === "AbortError") {
+    // Si c'est une annulation volontaire ou un refus expliqué, on propage l'erreur sans fallback
+    if (error.name === "AbortError" || error instanceof DocumentRefuseError) {
       throw error;
     }
 
@@ -69,8 +90,10 @@ async function extractViaServer(
   file: File,
   retries = MAX_RETRIES,
 ): Promise<ExtractedContent> {
-  const formData = new FormData();
-  formData.append("file", file);
+  const body = JSON.stringify({
+    filename: file.name,
+    fileBase64: await fileToBase64(file),
+  });
 
   let lastError: Error | null = null;
 
@@ -81,13 +104,20 @@ async function extractViaServer(
 
     try {
       const response = await fetchProxy(PDF_SERVER_URL, {
-        // ✅ Correction: PDF_SERVER_URL au lieu de SERVER_URL
         method: "POST",
-        body: formData,
+        headers: { "Content-Type": "application/json" },
+        body,
         signal: controller.signal,
       });
 
       clearTimeout(timeoutId);
+
+      if (response.status === 422) {
+        const refus = (await response.json().catch(() => ({}))) as {
+          detail?: string;
+        };
+        throw new DocumentRefuseError(refus.detail || "Document illisible.");
+      }
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
@@ -108,7 +138,9 @@ async function extractViaServer(
       );
 
       return {
-        text: applyLightSanitizeIfEnabled(data.text, "server"),
+        // Texte déjà mis au propre par le moteur (le même que son HTML) : pas de
+        // nettoyage supplémentaire, qui collait par exemple les guillemets aux mots.
+        text: data.text,
         html: data.html || null,
         isProtected: false,
         extractionQuality: data.extraction_quality || "high",
@@ -122,6 +154,8 @@ async function extractViaServer(
       };
     } catch (error: any) {
       clearTimeout(timeoutId);
+
+      if (error instanceof DocumentRefuseError) throw error;
 
       // Si c'est une annulation volontaire (changement de fichier), ne pas logger comme erreur
       if (error.name === "AbortError") {

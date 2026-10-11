@@ -1,7 +1,7 @@
 import { Router } from "express"
 import { relayToNode } from "../relay.js"
 import { proxyAuthMiddleware as auth } from "../middleware/authMiddleware.js"
-import { relayStreamToPython } from "../relay.js"
+import { relayJsonToPython, relayStreamToPython } from "../relay.js"
 
 export const userUploadsRouter: Router = Router()
 
@@ -10,6 +10,13 @@ export const userUploadsRouter: Router = Router()
 // Multipart (upload PDF) — stream direct, body non consommé par express.json
 userUploadsRouter.post("/extract-document-text", auth, (req, res) => {
     relayStreamToPython(req, res, "/extract-document-text");
+  },
+);
+
+// Même lecture, fichier envoyé en base64 dans du JSON : chez o2switch, un envoi
+// multipart contenant un fichier est détourné avant d'atteindre le relais (404).
+userUploadsRouter.post("/extract-document-text-json", auth, (req, res) => {
+    relayJsonToPython(req, res, "/extract-document-text-json");
   },
 );
 

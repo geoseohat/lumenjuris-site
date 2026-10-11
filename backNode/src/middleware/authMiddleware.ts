@@ -37,13 +37,12 @@ export async function authMiddleware(
       });
     }
 
-    const date = new Date()
-    const today = date.toLocaleDateString()
-
+    // lastConnected est un DateTime : Prisma refuse une date mise en forme
+    // (toLocaleDateString() donne « 11/10/2026 ») et chaque requête finissait en 500.
     await prisma.user.update({
       where : { idUser : userId},
       data : {
-        lastConnected : today
+        lastConnected : new Date()
       }
     })
 

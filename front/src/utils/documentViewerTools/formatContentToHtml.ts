@@ -34,14 +34,19 @@ export const formatContentToHtml = ({
   const htmlParts: string[] = [];
   let cursor = 0;
 
+  // Paragraphes : séparés par une ligne vide ; un texte sans ligne vide (collé à
+  // la main) a un paragraphe par ligne. L'ancienne découpe coupait avant chaque
+  // « Article », « Objet », « M. » ou « S.A.S. », même en pleine phrase.
+  const paragraphSeparator = /\n[ \t]*\n/.test(text) ? /\n[ \t]*\n/ : /\n/;
+
   const processTextFragment = (fragment: string) => {
     const paragraphs = fragment
-      .split(/(?=(?:Article|Objet))|(?=\*\*)|(?=[A-ZÀÂÄÉÈÊËÎÏÔÖÙÛÜ][.)\-;])/)
+      .split(paragraphSeparator)
       .filter((paragraph) => paragraph.trim());
     for (const paragraph of paragraphs) {
       const trimmed = paragraph.trim();
       if (!trimmed) continue;
-      const escaped = escapeHtml(trimmed).replace(/\n\n/g, "<br/>");
+      const escaped = escapeHtml(trimmed).replace(/\s*\n\s*/g, " ");
       htmlParts.push(
         `<p style="padding-bottom:1rem;line-height:1.625;color:#1f2937;">${escaped}</p>`,
       );

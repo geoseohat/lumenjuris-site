@@ -21,36 +21,28 @@ IS_PROD = os.environ.get("IS_PROD", "false").lower() == "true"
 if IS_PROD:
     from services.pdf_processing import (
         allowed_file,
-        is_word_file,
-        extract_text_from_word,
-        corriger_espaces,
         extract_clauses_ia_robuste,
-        _extract_text_from_pdf_content,
-        _extract_html_from_pdf_dict,
         _extract_keywords_basic,
         _sanitize_query_text,
         _legifrance_search,
         _judilibre_search,
         _judilibre_hydrate_text,
         _openai_client,
-    )   
+    )
+    from services.mise_en_forme import lire_document
     from legal_watch.router import router as legal_watch_router
 else:
     from back.services.pdf_processing import (
         allowed_file,
-        is_word_file,
-        extract_text_from_word,
-        corriger_espaces,
         extract_clauses_ia_robuste,
-        _extract_text_from_pdf_content,
-        _extract_html_from_pdf_dict,
         _extract_keywords_basic,
         _sanitize_query_text,
         _legifrance_search,
         _judilibre_search,
         _judilibre_hydrate_text,
         _openai_client,
-    )   
+    )
+    from back.services.mise_en_forme import lire_document
     from back.legal_watch.router import router as legal_watch_router
 
 from .logging_setup import setup_logging
@@ -174,66 +166,36 @@ async def extract_pdf_text(file: UploadFile = File(...), scan: bool = Form(False
         raise HTTPException(status_code=400, detail="Type de fichier non autorisé (PDF ou WORD requis)")
 
 
-    t0 = datetime.now()
-    print(t0)
     content = await file.read()
+    debut = datetime.now()
+    document = await _lire(file.filename, content, scan)
+    duree = (datetime.now() - debut).total_seconds()
+    logger.info(f"[extraction] {file.filename} lu en {duree:.1f}s ({document.lecture}, {document.pages} page(s), {len(document.texte)} car.).")
 
-
-
-    if is_word_file(file.filename):
-        t1 = datetime.now()
-
-        try:
-            texte_brut, html_formatte = extract_text_from_word(content)
-            t2 = datetime.now()
-        except ValueError as e:
-            raise HTTPException(status_code=422, detail=str(e))
-        texte_corrige = corriger_espaces(texte_brut)
-        extraction_method = "word"
-    else:
-        t1 = datetime.now()
-        try :
-            html_formatte = _extract_html_from_pdf_dict(content)
-            t2 = datetime.now()
-        except ValueError as e:
-            raise HTTPException(status_code=422, detail=str(e))
-        """        
-        print("EXTRACT PDF CONTENT IN HTML : ", html_formatte[:1000])
-        """        
-
-        print()
-        texte_brut = _extract_text_from_pdf_content(content, scan)
-        texte_corrige = corriger_espaces(texte_brut)
-        extraction_method = "server"
-
-    
-    """ clauses_detectees = extract_clauses_ia_robuste(texte_corrige) """
-    t3 = datetime.now()
-    """ texte_des_clauses = " ".join(c.get("text", "") for c in clauses_detectees) """
-    t4 = datetime.now()
-    """ keywords = _extract_keywords_basic(texte_des_clauses, max_terms=10) """
-    t5 = datetime.now()
-
-
-    print(f"T0 {t0}")
-    print(f"T1 {t1}")
-    print(f"T2 {t2}")
-    print(f"T3 {t3}")
-    print(f"T4 {t4}")
-    print(f"T5 {t5}")
-
+    # Le texte et le HTML viennent du MÊME document propre (voir services/mise_en_forme.py) :
+    # l'écran d'analyse affiche le HTML, l'import de modèle découpe le texte en paragraphes.
     return {
         "success": True,
-        "text": texte_corrige,
-        "html": html_formatte,
-        """ "clauses": clauses_detectees, """
-        """ "keywords": keywords or [], """
+        "text": document.texte,
+        "html": document.html,
         "filename": file.filename,
-        "extraction_method": extraction_method,
-        "extraction_quality": "high" if len(texte_corrige) > 1000 else "medium",
-        "pages": 1,
+        "extraction_method": document.methode,
+        "lecture": document.lecture,
+        "extraction_quality": "high" if len(document.texte) > 1000 else "medium",
+        "pages": document.pages or 1,
         "is_protected": False,
     }
+
+
+async def _lire(filename: str, content: bytes, scan: bool):
+    """Lit un document ; les refus (ancien .doc, PDF protégé, document vide) partent en 422 avec un message lisible."""
+    try:
+        return await run_in_threadpool(lire_document, filename, content, scan)
+    except ValueError as e:
+        raise HTTPException(status_code=422, detail=str(e))
+    except RuntimeError as e:
+        logger.error(f"[extraction] {filename} : {e}")
+        raise HTTPException(status_code=503, detail=str(e))
 
 
 class DocumentBase64Request(BaseModel):
@@ -298,24 +260,14 @@ class ContractMetadataFromTextRequest(BaseModel):
     text: str
 
 
-def _lire_texte_contrat(filename: str, content: bytes, scan: bool) -> Tuple[str, str]:
+async def _lire_texte_contrat(filename: str, content: bytes, scan: bool) -> Tuple[str, str]:
     """Extrait le texte d'un contrat (Word ou PDF) et la méthode utilisée.
 
-    Étape rapide (PyMuPDF / python-docx) : c'est elle qui alimente l'aperçu
-    affiché immédiatement à l'utilisateur, avant l'analyse IA.
+    Étape rapide (sans IA) : c'est elle qui alimente l'aperçu affiché
+    immédiatement à l'utilisateur, avant l'analyse IA.
     """
-    if is_word_file(filename):
-        try:
-            texte_brut, _ = extract_text_from_word(content)
-        except ValueError as e:
-            raise HTTPException(status_code=422, detail=str(e))
-        return corriger_espaces(texte_brut), "word"
-
-    try:
-        texte_brut = _extract_text_from_pdf_content(content, scan)
-    except ValueError as e:
-        raise HTTPException(status_code=422, detail=str(e))
-    return corriger_espaces(texte_brut), "server"
+    document = await _lire(filename, content, scan)
+    return document.texte, document.methode
 
 
 METADATA_MODEL = "gpt-5.2"
@@ -412,7 +364,7 @@ async def extract_contract_text(file: UploadFile = File(...), scan: bool = Form(
 
     content = await file.read()
     debut = datetime.now()
-    texte, extraction_method = _lire_texte_contrat(file.filename, content, scan)
+    texte, extraction_method = await _lire_texte_contrat(file.filename, content, scan)
     duree = (datetime.now() - debut).total_seconds()
     logger.info(f"[texte-contrat] {file.filename} lu en {duree:.1f}s ({len(texte)} car., {extraction_method}).")
 
@@ -448,7 +400,7 @@ async def extract_contract_metadata(file: UploadFile = File(...), scan: bool = F
         raise HTTPException(status_code=400, detail="Type de fichier non autorisé (PDF ou WORD requis)")
 
     content = await file.read()
-    texte, extraction_method = _lire_texte_contrat(file.filename, content, scan)
+    texte, extraction_method = await _lire_texte_contrat(file.filename, content, scan)
     fields, resp = await _analyser_metadonnees_ia(texte)
 
     return {
