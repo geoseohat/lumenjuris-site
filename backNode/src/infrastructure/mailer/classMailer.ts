@@ -8,6 +8,7 @@ import { templateInvoiceEmail } from "./template/invoiceEmail.js";
 import { templateWelcomeFreemium } from "./template/welcomeFreemium.js";
 import { templateSignatureInvite } from "./template/signatureInvite.js";
 import { templateSignatureCompletion } from "./template/signatureCompletion.js";
+import { templateSignatureOtp } from "./template/signatureOtp.js";
 import { templateExportData } from "./template/userData.js";
 import { templateDeleteAccount } from "./template/deleteAccount.js";
 import { templatePaymentFailed } from "./template/paymentFailed.js";
@@ -495,6 +496,23 @@ export class Mailer {
         html,
         "Lumen Juris - Votre accès bêta-testeur est activé",
       ),
+    );
+  }
+
+  /**
+   * Code à usage unique demandé avant de signer (émetteur comme cocontractant).
+   */
+  async sendSignatureOtp(opts: {
+    code: string;
+    documentName: string;
+    validityMinutes: number;
+    recipientName?: string;
+  }): Promise<MailResult> {
+    const html = this.createHtmlFullContent(templateSignatureOtp(opts));
+
+    return this.send(
+      this.createOption(html, `Votre code de signature — ${opts.documentName}`),
+      `Un code de signature a été envoyé à ${this.email}.`,
     );
   }
 

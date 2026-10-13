@@ -248,13 +248,32 @@ Passer par un QTSP (Universign, Yousign, Docusign EU…) pour délivrer un certi
 
 ---
 
-## 9. Avancement
+## 9. Fichiers du back
+
+| Fichier | Contenu |
+|---|---|
+| `src/services/classSignatureLog.ts` | `SignatureLog` : `record`, `getJournal`, `verifyChain`, `sealSignedDocument`, `timestampEnvelope`, `readFinalDocument`, `buildEvidencePackage` ; helpers `getRequestContext`, `sha256Hex`, `computeEventHash`, constante `INVITATION_VALIDITY_DAYS` |
+| `src/services/classSignatureOtp.ts` | `SignatureOtp` : `send`, `verify`, `hasRecentlyVerified` |
+| `src/infrastructure/timestamp/tsaClient.ts` | Requête / réponse RFC 3161 (`requestTimestamp`) |
+| `src/infrastructure/pdf/signatureCertificatePDF.ts` | Certificat de signature lisible (pdfkit) |
+| `src/infrastructure/mailer/template/signatureOtp.ts` | E-mail du code + `Mailer.sendSignatureOtp` |
+
+Variable d'environnement facultative : `TSA_URL` (FreeTSA par défaut).
+
+### Ce qui est horodaté
+
+`sealHash = SHA-256(finalDocumentHash + eventHash du dernier événement avant l'horodatage)`.
+Ces valeurs figurent dans les `details` de l'événement `TIMESTAMP_OBTAINED`. Pour vérifier :
+recalculer `sealHash`, puis `openssl ts -verify -digest <sealHash> -in horodatage.tsr -token_in -CAfile cacert.pem`
+(certificat racine de la TSA).
+
+## 10. Avancement
 
 | Étape | État |
 |---|---|
 | 1. Recherche des données | ✅ |
 | 2. Validation des propositions | ✅ |
-| 3. Tables en base (`SignatureAuditEvent`, `SignatureOtp`, champs enveloppe) | ✅ schéma écrit, migration à lancer |
-| 4. Logique métier `classSignatureLog` | à faire |
+| 3. Tables en base (`SignatureAuditEvent`, `SignatureOtp`, champs enveloppe) | ✅ |
+| 4. Logique métier (`classSignatureLog`, `classSignatureOtp`, TSA, certificat) | ✅ |
 | 5. Câblage au service signature | à faire |
 | 6. Front | à faire |
