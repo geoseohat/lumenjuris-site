@@ -530,6 +530,8 @@ export class Mailer {
     counterpartyEmail?: string;
     signedDate?: Date;
     pdf?: { filename: string; content: Buffer };
+    /** Dossier de preuve (ZIP : PDF, certificat, journal, horodatage). */
+    evidence?: { filename: string; content: Buffer };
   }): Promise<MailResult> {
     const dateStr = (opts.signedDate ?? new Date()).toLocaleDateString("fr-FR", {
       day: "numeric",
@@ -547,18 +549,18 @@ export class Mailer {
         ...(opts.counterpartyEmail ? { counterpartyEmail: opts.counterpartyEmail } : {}),
         signedDate: dateStr,
         hasPdf: !!opts.pdf,
+        hasEvidence: !!opts.evidence,
       }),
     );
 
-    const attachments: MailAttachment[] | undefined = opts.pdf
-      ? [
-          {
-            filename: opts.pdf.filename,
-            content: opts.pdf.content,
-            contentType: "application/pdf",
-          },
-        ]
-      : undefined;
+    const attachmentList: MailAttachment[] = [];
+    if (opts.pdf) {
+      attachmentList.push({ filename: opts.pdf.filename, content: opts.pdf.content, contentType: "application/pdf" });
+    }
+    if (opts.evidence) {
+      attachmentList.push({ filename: opts.evidence.filename, content: opts.evidence.content, contentType: "application/zip" });
+    }
+    const attachments = attachmentList.length > 0 ? attachmentList : undefined;
 
     return this.send(
       this.createOption(html, `Document signé — ${opts.documentName}`, {

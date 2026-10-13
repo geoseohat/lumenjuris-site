@@ -85,16 +85,13 @@ export function sha256Hex(content: Buffer | string): string {
 
 /**
  * Récupère l'IP et l'appareil du visiteur.
- * Derrière le proxy de l'hébergeur, la vraie IP est dans `x-forwarded-for`
- * (la première de la liste) ; sinon on prend l'IP de la connexion.
+ * `req.ip` donne la vraie IP grâce à `app.set("trust proxy", 1)` (index.ts) :
+ * le proxy transmet l'IP du visiteur dans `x-forwarded-for`, et son
+ * `user-agent` d'origine.
  */
 export function getRequestContext(req: Request): RequestContext {
-  const forwardedFor = req.headers["x-forwarded-for"]
-  const forwardedValue = Array.isArray(forwardedFor) ? forwardedFor[0] : forwardedFor
-  const firstForwardedIp = forwardedValue?.split(",")[0]?.trim()
-
   return {
-    ipAddress: firstForwardedIp || req.socket.remoteAddress || null,
+    ipAddress: req.ip ?? null,
     userAgent: req.headers["user-agent"] ?? null,
   }
 }

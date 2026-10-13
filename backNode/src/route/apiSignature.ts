@@ -4,9 +4,13 @@ import fs from "fs/promises"
 import path from "path"
 import crypto from "crypto"
 import { authMiddleware } from "../middleware/authMiddleware.js"
-import { Mailer } from "../infrastructure/mailer/classMailer.js"
-import { SignatureEnvelopeService } from "../services/classSignatureEnvelope.js"
+import {
+    SignatureEnvelopeService,
+    SignatureFlowError,
+    sanitizeFileName,
+} from "../services/classSignatureEnvelope.js"
 import type { EnvelopeFieldsPayload, EnvelopeStatusValue } from "../services/classSignatureEnvelope.js"
+import { getRequestContext, sha256Hex } from "../services/classSignatureLog.js"
 import { prisma } from "../../prisma/singletonPrisma.js"
 import { encryptBuffer, decryptBuffer } from "../services/encryption.js"
 import { Credit } from "../services/classCredit.js"
@@ -16,6 +20,32 @@ const svc = new SignatureEnvelopeService()
 
 const ENVELOPES_DIR = path.join(process.cwd(), "signatureenvelopes")
 
+/**
+ * Réponse d'erreur commune : une SignatureFlowError porte son code HTTP et son
+ * message ; toute autre erreur est une erreur serveur.
+ */
+function sendError(res: Response, err: unknown, logLabel: string) {
+    if (err instanceof SignatureFlowError) {
+        return res.status(err.httpStatus).json({
+            success: false,
+            message: err.message,
+            ...(err.code ? { code: err.code } : {}),
+            ...(err.extra ?? {}),
+        })
+    }
+    console.error(`[signature] ${logLabel} error:`, err)
+    return res.status(500).json({ success: false, message: "Erreur serveur." })
+}
+
+/** Lit le code OTP et le consentement envoyés par le signataire. */
+function readConfirmation(body: unknown) {
+    const { code, consentAccepted } = (body ?? {}) as { code?: unknown; consentAccepted?: unknown }
+    return {
+        code: typeof code === "string" ? code : "",
+        consentAccepted: consentAccepted === true,
+    }
+}
+
 /** GET /signature-envelope/stats — agrégats pour le dashboard. */
 router.get("/stats", authMiddleware, async (req: Request, res: Response) => {
     try {
@@ -23,8 +53,7 @@ router.get("/stats", authMiddleware, async (req: Request, res: Response) => {
         const stats = await svc.stats(userId)
         return res.json({ success: true, data: stats })
     } catch (err) {
-        console.error("[signature] stats error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+        return sendError(res, err, "stats")
     }
 })
 
@@ -40,15 +69,17 @@ router.get("/", authMiddleware, async (req: Request, res: Response) => {
         const list = await svc.list(userId, status)
         return res.json({ success: true, data: list })
     } catch (err) {
-        console.error("[signature] list error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+        return sendError(res, err, "list")
     }
 })
 
 /**
  * POST /signature-envelope
- * Crée une nouvelle enveloppe. Reçoit le PDF en base64 (sauvegardé sur disque)
- * + les champs/signatures (chiffrés en DB) + les coordonnées des signataires.
+ * Crée l'enveloppe en brouillon. Reçoit le PDF en base64 (sauvegardé sur
+ * disque) + les champs/signatures (chiffrés en DB) + le cocontractant.
+ *
+ * Rien n'est envoyé au cocontractant à ce stade : l'émetteur doit d'abord
+ * confirmer sa signature avec un code OTP (routes /:externalId/otp et /:externalId/sign).
  */
 router.post("/", authMiddleware, async (req: Request, res: Response) => {
     try {
@@ -60,7 +91,6 @@ router.post("/", authMiddleware, async (req: Request, res: Response) => {
             fields?: EnvelopeFieldsPayload
             counterpartyName?: string
             counterpartyEmail?: string
-            selfSigned?: boolean
         }
 
         if (!body.documentName || !body.fileBase64 || !body.fields) {
@@ -70,10 +100,10 @@ router.post("/", authMiddleware, async (req: Request, res: Response) => {
             return res.status(400).json({ success: false, message: "Nom et e-mail du cocontractant requis." })
         }
 
-        // Quota : 1 crédit "signature" par email d'invitation envoyé.
-        // On vérifie AVANT de créer l'enveloppe, on décompte après l'envoi.
-        const credit = new Credit()
-        const quota = await credit.hasFeatureQuota(userId, "signature")
+        // Quota : 1 crédit "signature" par invitation envoyée. On vérifie dès
+        // la création pour ne pas faire signer l'émetteur pour rien ; le
+        // décompte se fait à l'envoi de l'invitation (route /:externalId/sign).
+        const quota = await new Credit().hasFeatureQuota(userId, "signature")
         if (quota.success && quota.data?.allowed === false) {
             return res.status(402).json({
                 success: false,
@@ -83,107 +113,126 @@ router.post("/", authMiddleware, async (req: Request, res: Response) => {
         }
 
         // Sauvegarde le PDF chiffré sur le filesystem (pas en DB pour ne pas alourdir)
+        const originalPdf = Buffer.from(body.fileBase64, "base64")
         await fs.mkdir(ENVELOPES_DIR, { recursive: true })
         const storedName = crypto.randomBytes(8).toString("hex") + ".pdf.enc"
         const filePath = path.join(ENVELOPES_DIR, storedName)
-        await fs.writeFile(filePath, encryptBuffer(Buffer.from(body.fileBase64, "base64")))
+        await fs.writeFile(filePath, encryptBuffer(originalPdf))
 
-        // Récupère l'email de l'utilisateur connecté pour le mettre en CC
         const user = await prisma.user.findUnique({
-            where: {idUser: userId},
-            select: {
-                email: true,
-                prenom: true,
-                nom: true,
-            },
-        });
-
-        if (!user?.email) {
-            throw new Error ("L'e-mail de l'utilisateur est introuvable.");
-        }
-
-        const selfName = [user.prenom, user.nom].filter(Boolean).join(" ").trim();
-
-        const dto = await svc.create(userId, {
-            documentName: body.documentName,
-            documentFilePath: filePath,
-            numPages: body.numPages ?? 1,
-            fields: body.fields,
-            selfName: selfName,
-            selfEmail: user.email,
-            counterpartyName: body.counterpartyName.trim(),
-            counterpartyEmail: body.counterpartyEmail.trim(),
-            selfSigned: !!body.selfSigned,
+            where: { idUser: userId },
+            select: { email: true, prenom: true, nom: true },
         })
-        // Construire le lien de signature public
-        const frontUrl = process.env["HOST_FRONT"] ?? "http://localhost:5173"
-        const signingLink = `${frontUrl}/signer/${dto.signingToken}`
+        if (!user?.email) {
+            throw new Error("L'e-mail de l'utilisateur est introuvable.")
+        }
+        const selfName = [user.prenom, user.nom].filter(Boolean).join(" ").trim()
 
-        // Envoi email fire-and-forget (ne bloque pas la réponse).
-        // `selfEmail`/`selfName` viennent du compte connecté (le titulaire du
-        // compte, jamais une adresse d'administration) : cette adresse est mise
-        // en copie, affichée au cocontractant et utilisée comme adresse de
-        // réponse.
-        new Mailer(body.counterpartyEmail.trim())
-            .sendSignatureInvite({
-                counterpartyName: body.counterpartyName.trim(),
+        const dto = await svc.create(
+            userId,
+            {
                 documentName: body.documentName,
-                signingLink,
-                cc: dto.selfEmail,
-                senderName: dto.selfName,
-                senderEmail: dto.selfEmail,
-            })
-            .then((mailResult) => {
-                if (mailResult.success) return credit.consumeQuota(userId, "signature")
-            })
-            .catch((err: unknown) => console.error("[signature] échec envoi invitation:", err))
+                documentFilePath: filePath,
+                originalDocumentHash: sha256Hex(originalPdf),
+                numPages: body.numPages ?? 1,
+                fields: body.fields,
+                selfName,
+                selfEmail: user.email,
+                counterpartyName: body.counterpartyName.trim(),
+                counterpartyEmail: body.counterpartyEmail.trim(),
+            },
+            getRequestContext(req),
+        )
 
         return res.status(201).json({ success: true, data: dto })
     } catch (err) {
-        console.error("[signature] create error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
-    }
-})
-
-/** DELETE /signature-envelope/:externalId */
-router.delete("/:externalId", authMiddleware, async (req: Request, res: Response) => {
-    try {
-        const userId = Number(req.idUser)
-        await svc.delete(userId, req.params["externalId"] as string)
-        return res.json({ success: true })
-    } catch (err) {
-        console.error("[signature] delete error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+        return sendError(res, err, "create")
     }
 })
 
 /**
- * Nom de fichier propre pour une pièce jointe ou un téléchargement : on retire
- * l'extension .pdf et les caractères gênants pour un en-tête HTTP / un client
- * mail.
+ * POST /signature-envelope/:externalId/otp
+ * Envoie à l'émetteur le code qui confirmera sa signature.
  */
-function sanitizeFileName(documentName: string): string {
-    return documentName.replace(/\.pdf$/i, "").replace(/[^\w.\- ]+/g, "_").trim() || "document"
-}
+router.post("/:externalId/otp", authMiddleware, async (req: Request, res: Response) => {
+    try {
+        const userId = Number(req.idUser)
+        await svc.requestSenderOtp(userId, req.params["externalId"] as string, getRequestContext(req))
+        return res.json({ success: true })
+    } catch (err) {
+        return sendError(res, err, "sender otp")
+    }
+})
+
+/**
+ * POST /signature-envelope/:externalId/sign   body: { code, consentAccepted }
+ * L'émetteur confirme sa signature avec le code reçu ; l'invitation part
+ * alors chez le cocontractant.
+ */
+router.post("/:externalId/sign", authMiddleware, async (req: Request, res: Response) => {
+    try {
+        const userId = Number(req.idUser)
+        const result = await svc.signAsSender(
+            userId,
+            req.params["externalId"] as string,
+            readConfirmation(req.body),
+            getRequestContext(req),
+        )
+        if (result.invitationSent) {
+            await new Credit().consumeQuota(userId, "signature")
+        }
+        return res.json({ success: true, data: result.envelope, invitationSent: result.invitationSent })
+    } catch (err) {
+        return sendError(res, err, "sender sign")
+    }
+})
+
+/**
+ * GET /signature-envelope/evidence/:externalId
+ * Dossier de preuve (ZIP), re-téléchargeable par l'émetteur.
+ */
+router.get("/evidence/:externalId", authMiddleware, async (req: Request, res: Response) => {
+    try {
+        const userId = Number(req.idUser)
+        const evidence = await svc.exportEvidence(userId, req.params["externalId"] as string, getRequestContext(req))
+        res.setHeader("Content-Type", "application/zip")
+        res.setHeader("Content-Disposition", `attachment; filename="${evidence.fileName}"`)
+        return res.send(evidence.buffer)
+    } catch (err) {
+        return sendError(res, err, "evidence")
+    }
+})
+
+/**
+ * DELETE /signature-envelope/:externalId
+ * Archive l'enveloppe : la preuve est conservée, on ne supprime plus.
+ */
+router.delete("/:externalId", authMiddleware, async (req: Request, res: Response) => {
+    try {
+        const userId = Number(req.idUser)
+        await svc.archive(userId, req.params["externalId"] as string, getRequestContext(req))
+        return res.json({ success: true })
+    } catch (err) {
+        return sendError(res, err, "archive")
+    }
+})
 
 /** Garde-fou : seuls les statuts attendus sont acceptés en filtre. */
 function isValidStatus(s: string | undefined): boolean {
     return s === "DRAFT" || s === "SENT" || s === "PARTIALLY_SIGNED"
-        || s === "SIGNED" || s === "DECLINED" || s === "EXPIRED"
+        || s === "SIGNED" || s === "DECLINED" || s === "EXPIRED" || s === "ARCHIVED"
 }
 
 // ─── Routes PUBLIQUES (sans auth) pour la page de signature cocontractant ──────
 
 /**
- * GET /public/sign/:token
+ * GET /public/:token
  * Retourne les métadonnées de l'enveloppe + les champs (déchiffrés) + le PDF
  * en base64. Accessible sans cookie d'auth — le token est le secret.
  */
 router.get("/public/:token", async (req: Request, res: Response) => {
     try {
-        const token = req.params["token"] as string
-        const result = await svc.getByToken(token)
-        if (!result) return res.status(404).json({ success: false, message: "Lien invalide ou expiré." })
+        const result = await svc.openByToken(req.params["token"] as string, getRequestContext(req))
 
         // Charge le PDF en base64 si le fichier existe
         let fileBase64: string | null = null
@@ -196,131 +245,104 @@ router.get("/public/:token", async (req: Request, res: Response) => {
 
         return res.json({ success: true, data: { meta: result.meta, fields: result.fields, fileBase64 } })
     } catch (err) {
-        console.error("[signature/public] get error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+        return sendError(res, err, "public get")
     }
 })
 
 /**
- * POST /public/sign/:token
- * Le cocontractant soumet ses signatures. Passe l'enveloppe en statut SIGNED.
- * Déclenche ensuite un email aux deux parties avec le PDF signé en pièce jointe.
+ * POST /public/:token/otp
+ * Envoie au cocontractant le code qui confirmera sa signature.
  */
-router.post("/public/:token", async (req: Request, res: Response) => {
+router.post("/public/:token/otp", async (req: Request, res: Response) => {
     try {
-        const token = req.params["token"] as string
-        const { fields } = req.body as { fields?: EnvelopeFieldsPayload }
-        if (!fields) return res.status(400).json({ success: false, message: "fields requis." })
-        const dto = await svc.signByToken(token, fields)
-        if (!dto) return res.status(404).json({ success: false, message: "Lien invalide ou expiré." })
-
-        // Confirmation aux deux parties (fire-and-forget). La pièce jointe est
-        // le PDF « aplati » : le fichier sur disque est le contrat d'origine,
-        // les signatures vivent à part (chiffrées) et doivent être incrustées,
-        // sinon les deux parties reçoivent un contrat vierge de signatures.
-        svc.generateSignedPdfByToken(token).then((signedPdf) => {
-            let pdf: { filename: string; content: Buffer } | undefined
-            if (signedPdf) {
-                pdf = { filename: `${sanitizeFileName(dto.documentName)}_signe.pdf`, content: signedPdf.buffer }
-            } else {
-                console.warn("[signature] PDF signé indisponible pour la pièce jointe, enveloppe:", dto.id)
-            }
-
-            const selfLabel = dto.selfName || dto.selfEmail
-            const signedDate = dto.completedAt ? new Date(dto.completedAt) : new Date()
-            const common = {
-                documentName: dto.documentName,
-                selfLabel,
-                selfEmail: dto.selfEmail,
-                counterpartyName: dto.counterpartyName,
-                counterpartyEmail: dto.counterpartyEmail,
-                signedDate,
-                pdf,
-            }
-
-            new Mailer(dto.selfEmail)
-                .sendSignatureCompletion({ recipientName: selfLabel, ...common })
-                .catch((err: unknown) => console.error("[signature] échec confirmation (émetteur):", err))
-            new Mailer(dto.counterpartyEmail)
-                .sendSignatureCompletion({ recipientName: dto.counterpartyName, ...common })
-                .catch((err: unknown) => console.error("[signature] échec confirmation (cocontractant):", err))
-        }).catch((err: unknown) => {
-            console.error("[signature] impossible de charger les données pour l'email de complétion:", err)
-        })
-
-        return res.json({ success: true, data: dto })
+        await svc.requestCounterpartyOtp(req.params["token"] as string, getRequestContext(req))
+        return res.json({ success: true })
     } catch (err) {
-        console.error("[signature/public] sign error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+        return sendError(res, err, "public otp")
     }
 })
 
+/**
+ * POST /public/:token   body: { fields, code, consentAccepted }
+ * Le cocontractant soumet ses signatures avec le code reçu. L'enveloppe passe
+ * en SIGNED ; le PDF figé, l'horodatage et les e-mails (PDF signé + dossier de
+ * preuve aux deux parties) sont traités en arrière-plan.
+ */
+router.post("/public/:token", async (req: Request, res: Response) => {
+    try {
+        const { fields } = req.body as { fields?: EnvelopeFieldsPayload }
+        if (!fields) return res.status(400).json({ success: false, message: "fields requis." })
+
+        const dto = await svc.signByToken(
+            req.params["token"] as string,
+            fields,
+            readConfirmation(req.body),
+            getRequestContext(req),
+        )
+        return res.json({ success: true, data: dto })
+    } catch (err) {
+        return sendError(res, err, "public sign")
+    }
+})
+
+/**
+ * POST /public/:token/decline   body: { reason? }
+ * Le cocontractant refuse de signer.
+ */
+router.post("/public/:token/decline", async (req: Request, res: Response) => {
+    try {
+        const { reason } = req.body as { reason?: string }
+        await svc.declineByToken(req.params["token"] as string, reason, getRequestContext(req))
+        return res.json({ success: true })
+    } catch (err) {
+        return sendError(res, err, "public decline")
+    }
+})
 
 /**
  * GET /public/:token/download
  * Téléchargement du contrat signé par le cocontractant, depuis la page
- * publique de signature. Pas d'authentification : le token est le secret, et
- * il donne déjà accès au document via `GET /public/:token`.
- *
- * Réservé aux enveloppes complètes : avant la signature des deux parties, il
- * n'y a pas de « contrat signé » à remettre.
+ * publique de signature. Réservé aux enveloppes signées par les deux parties.
  */
 router.get("/public/:token/download", async (req: Request, res: Response) => {
     try {
-        const token = req.params["token"] as string
-        const envelope = await svc.getByToken(token)
-        if (!envelope) {
-            return res.status(404).json({ success: false, message: "Lien invalide ou expiré." })
-        }
-        if (envelope.meta.status !== "SIGNED") {
-            return res.status(409).json({ success: false, message: "Ce document n'est pas encore signé par les deux parties." })
-        }
-
-        const result = await svc.generateSignedPdfByToken(token)
+        const result = await svc.downloadSignedPdfByToken(req.params["token"] as string, getRequestContext(req))
         if (!result) {
             return res.status(404).json({ success: false, message: "Document introuvable." })
         }
 
-        const baseName = sanitizeFileName(result.documentName)
         res.setHeader("Content-Type", "application/pdf")
-        res.setHeader("Content-Disposition", `attachment; filename="${baseName}_signe.pdf"`)
+        res.setHeader("Content-Disposition", `attachment; filename="${sanitizeFileName(result.documentName)}_signe.pdf"`)
         return res.send(result.buffer)
-    } catch (err: unknown) {
-        console.error("[signature/public] download error:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+    } catch (err) {
+        return sendError(res, err, "public download")
     }
 })
 
 /**
  * GET /download/:externalId
- * Renvoie le contrat « aplati » (PDF original + signatures incrustées) afin que
- * l'utilisateur puisse le télécharger. Le PDF est généré à la volée : les
- * signatures ne sont jamais stockées fusionnées sur disque.
+ * Contrat signé, téléchargé par l'émetteur : le PDF figé à la clôture, ou
+ * reconstruit à la volée pour les enveloppes antérieures au journal.
  */
 router.get("/download/:externalId", authMiddleware, async (req: Request, res: Response) => {
     try {
         const userId = Number(req.idUser)
-        const externalId = req.params["externalId"] as string
-
-        const result = await svc.generateSignedPdf(userId, externalId)
+        const result = await svc.downloadSignedPdfAsOwner(userId, req.params["externalId"] as string, getRequestContext(req))
         if (!result) {
             return res.status(404).json({ success: false, message: "Enveloppe introuvable ou document manquant." })
         }
 
-        const baseName = sanitizeFileName(result.documentName)
         res.setHeader("Content-Type", "application/pdf")
-        res.setHeader("Content-Disposition", `attachment; filename="${baseName}_signe.pdf"`)
+        res.setHeader("Content-Disposition", `attachment; filename="${sanitizeFileName(result.documentName)}_signe.pdf"`)
         return res.send(result.buffer)
-    } catch (err: unknown) {
-        console.error("[Signature-download] - Une erreur est survenue lors de la route backend err:", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+    } catch (err) {
+        return sendError(res, err, "download")
     }
 })
 
 /**
  * POST /resend
- * Renvoie l'email d'invitation à signer au cocontractant pour une enveloppe
- * existante. Bloqué si le document est déjà signé par les deux parties.
+ * Renvoie l'invitation au cocontractant et repousse l'expiration de 14 jours.
  */
 router.post("/resend", authMiddleware, async (req: Request, res: Response) => {
     try {
@@ -330,39 +352,10 @@ router.post("/resend", authMiddleware, async (req: Request, res: Response) => {
             return res.status(400).json({ success: false, message: "externalId requis." })
         }
 
-        const envelope = await svc.get(userId, externalId)
-        if (!envelope) {
-            return res.status(404).json({ success: false, message: "Enveloppe introuvable." })
-        }
-
-        const { meta } = envelope
-        // On bloque le renvoi si le document est déjà signé par les deux parties.
-        if (meta.status === "SIGNED") {
-            return res.status(409).json({ success: false, message: "Ce document est déjà signé par les deux parties." })
-        }
-
-        // Réutilise le lien + l'email d'invitation de la création. L'email de
-        // l'émetteur (CC) est repris depuis l'enveloppe (selfEmail) plutôt que
-        // du token courant, pour rester fiable dans le temps.
-        const frontUrl = process.env["HOST_FRONT"] ?? "http://localhost:5173"
-        const signingLink = `${frontUrl}/signer/${meta.signingToken}`
-
-        new Mailer(meta.counterpartyEmail)
-            .sendSignatureInvite({
-                counterpartyName: meta.counterpartyName,
-                documentName: meta.documentName,
-                signingLink,
-                cc: meta.selfEmail,
-                senderName: meta.selfName,
-                senderEmail: meta.selfEmail,
-                isReminder: true,
-            })
-            .catch((err: unknown) => console.error("[signature] échec renvoi invitation:", err))
-
+        await svc.resend(userId, externalId, getRequestContext(req))
         return res.json({ success: true })
-    } catch (err: unknown) {
-        console.error("[Signature] - Une erreur backend est survenue lors du resend d'une enveloppe, error : ", err)
-        return res.status(500).json({ success: false, message: "Erreur serveur." })
+    } catch (err) {
+        return sendError(res, err, "resend")
     }
 })
 export default router

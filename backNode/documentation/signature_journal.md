@@ -152,7 +152,7 @@ la boîte mail du signataire.
    - comparaison des hash avec `crypto.timingSafeEqual` (ne laisse pas deviner le code au temps de réponse)
    - échec → `attempts + 1`, événement `OTP_FAILED`
    - succès → `usedAt = now`, événement `OTP_VERIFIED`
-5. **Signature** : la route de signature refuse toute requête sans OTP validé pour ce signataire et cette enveloppe.
+5. **Signature** : le code est envoyé **dans la même requête** que la validation de la signature (`code` + `consentAccepted`). Sans code valide, rien n'est signé.
 
 ---
 
@@ -253,7 +253,9 @@ Passer par un QTSP (Universign, Yousign, Docusign EU…) pour délivrer un certi
 | Fichier | Contenu |
 |---|---|
 | `src/services/classSignatureLog.ts` | `SignatureLog` : `record`, `getJournal`, `verifyChain`, `sealSignedDocument`, `timestampEnvelope`, `readFinalDocument`, `buildEvidencePackage` ; helpers `getRequestContext`, `sha256Hex`, `computeEventHash`, constante `INVITATION_VALIDITY_DAYS` |
-| `src/services/classSignatureOtp.ts` | `SignatureOtp` : `send`, `verify`, `hasRecentlyVerified` |
+| `src/services/classSignatureOtp.ts` | `SignatureOtp` : `send`, `verify` |
+| `src/services/classSignatureEnvelope.ts` | Parcours complet (`create`, `signAsSender`, `openByToken`, `signByToken`, `finalize`, `archive`…) et `SignatureFlowError` |
+| `src/route/apiSignature.ts` | Routes HTTP (voir §11) |
 | `src/infrastructure/timestamp/tsaClient.ts` | Requête / réponse RFC 3161 (`requestTimestamp`) |
 | `src/infrastructure/pdf/signatureCertificatePDF.ts` | Certificat de signature lisible (pdfkit) |
 | `src/infrastructure/mailer/template/signatureOtp.ts` | E-mail du code + `Mailer.sendSignatureOtp` |
@@ -267,7 +269,58 @@ Ces valeurs figurent dans les `details` de l'événement `TIMESTAMP_OBTAINED`. P
 recalculer `sealHash`, puis `openssl ts -verify -digest <sealHash> -in horodatage.tsr -token_in -CAfile cacert.pem`
 (certificat racine de la TSA).
 
-## 10. Avancement
+## 10. Parcours de signature
+
+```
+Émetteur (connecté)                         Cocontractant (lien public)
+───────────────────                         ───────────────────────────
+POST /                → DRAFT
+POST /:id/otp         → code par e-mail
+POST /:id/sign        → émetteur signé,
+  { code, consentAccepted }  invitation envoyée → SENT (expire à J+14)
+                                            GET  /public/:token        → DOCUMENT_OPENED
+                                            POST /public/:token/otp    → code par e-mail
+                                            POST /public/:token        → SIGNED
+                                              { fields, code, consentAccepted }
+                                            (ou POST /public/:token/decline → DECLINED)
+Clôture en arrière-plan : PDF figé → horodatage TSA → e-mail aux deux parties
+(PDF signé + dossier de preuve ZIP)
+GET /evidence/:id     → dossier de preuve (re-téléchargement)
+DELETE /:id           → ARCHIVED (plus de suppression)
+```
+
+Règles de sécurité appliquées :
+- Le cocontractant ne peut modifier **que la valeur** de ses propres champs : la signature
+  de l'émetteur et la position des zones sont reprises de la base.
+- Double envoi simultané : un seul passe (mise à jour conditionnée au statut `SENT`).
+- Le crédit « signature » est vérifié à la création et décompté à l'envoi de l'invitation.
+- Les enveloppes signées avant le journal n'ont ni PDF figé ni dossier de preuve
+  (le PDF signé reste reconstruit à la volée pour elles).
+
+## 11. Routes
+
+| Méthode | Route (backNode, préfixe `/signature-envelope`) | Auth | Rôle |
+|---|---|---|---|
+| POST | `/` | oui | Crée l'enveloppe (DRAFT) |
+| POST | `/:externalId/otp` | oui | Code OTP à l'émetteur |
+| POST | `/:externalId/sign` | oui | Signature émetteur + envoi de l'invitation |
+| GET | `/evidence/:externalId` | oui | Dossier de preuve (ZIP) |
+| GET | `/download/:externalId` | oui | PDF signé |
+| POST | `/resend` | oui | Relance (+14 jours) |
+| DELETE | `/:externalId` | oui | Archivage |
+| GET | `/public/:token` | non | Ouverture du lien |
+| POST | `/public/:token/otp` | non | Code OTP au cocontractant |
+| POST | `/public/:token` | non | Signature du cocontractant |
+| POST | `/public/:token/decline` | non | Refus |
+| GET | `/public/:token/download` | non | PDF signé |
+
+Codes d'erreur renvoyés au front (`code`) : `CONSENT_REQUIRED`, `OTP_REQUIRED`,
+`OTP_WRONG_CODE` (+ `attemptsLeft`), `OTP_EXPIRED`, `OTP_TOO_MANY_ATTEMPTS`, `OTP_NO_CODE`,
+`TOO_SOON` (+ `retryAfterSeconds`), `TOO_MANY_SENDS`, `MAIL_FAILED`, `EXPIRED`, `QUOTA_EXCEEDED`.
+
+Le proxy relaie ces routes et transmet le `user-agent` d'origine à backNode.
+
+## 12. Avancement
 
 | Étape | État |
 |---|---|
@@ -275,5 +328,5 @@ recalculer `sealHash`, puis `openssl ts -verify -digest <sealHash> -in horodatag
 | 2. Validation des propositions | ✅ |
 | 3. Tables en base (`SignatureAuditEvent`, `SignatureOtp`, champs enveloppe) | ✅ |
 | 4. Logique métier (`classSignatureLog`, `classSignatureOtp`, TSA, certificat) | ✅ |
-| 5. Câblage au service signature | à faire |
+| 5. Câblage au service signature | ✅ (testé de bout en bout sur la BDD de dev) |
 | 6. Front | à faire |

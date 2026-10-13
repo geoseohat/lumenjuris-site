@@ -22,8 +22,6 @@ const OTP_MAX_ATTEMPTS = 5
 const OTP_RESEND_DELAY_SECONDS = 60
 /** Nombre maximal de codes envoyés par heure, pour un signataire et une enveloppe. */
 const OTP_MAX_SENDS_PER_HOUR = 5
-/** Après validation du code, temps laissé au signataire pour signer. */
-const SIGNING_WINDOW_MINUTES = 15
 
 /** Le signataire concerné par le code. */
 export type OtpSigner = {
@@ -136,19 +134,6 @@ export class SignatureOtp {
       details: { channel: "email" },
     })
     return { success: true }
-  }
-
-  /**
-   * Le signataire a-t-il validé un code récemment ?
-   * À appeler par la route de signature : sans OTP validé, on refuse de signer.
-   */
-  async hasRecentlyVerified(envelopeId: number, signerRole: OtpSigner["role"]): Promise<boolean> {
-    const windowStart = new Date(Date.now() - SIGNING_WINDOW_MINUTES * 60_000)
-    const verifiedOtp = await prisma.signatureOtp.findFirst({
-      where: { envelopeId, signerRole, usedAt: { gte: windowStart } },
-      select: { idOtp: true },
-    })
-    return verifiedOtp !== null
   }
 
   /** Anti-abus : un envoi par minute et 5 par heure au maximum. */
