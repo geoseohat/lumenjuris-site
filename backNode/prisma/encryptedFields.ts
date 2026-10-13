@@ -68,6 +68,8 @@ export const ENCRYPTED_FIELDS: Record<string, string[]> = {
         // Copie chiffrée du lien de signature (la recherche se fait sur signingTokenHash)
         "signingToken",
     ],
+    // Journal de preuve : identité et contexte technique du signataire
+    SignatureAuditEvent: ["actorName", "actorEmail", "ipAddress", "userAgent", "details"],
 
     // ─── Données personnelles ───
     // User.email reste en clair : il sert à la connexion (where) et porte un @unique.

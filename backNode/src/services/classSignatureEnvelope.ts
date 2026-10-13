@@ -15,7 +15,8 @@ export type EnvelopeStatusValue =
   | "PARTIALLY_SIGNED"
   | "SIGNED"
   | "DECLINED"
-  | "EXPIRED";
+  | "EXPIRED"
+  | "ARCHIVED";
 
 /**
  * Données des champs (positions, signatures capturées) stockées chiffrées
