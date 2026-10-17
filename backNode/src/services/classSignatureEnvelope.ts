@@ -77,6 +77,8 @@ export interface SignatureEnvelopeDTO {
   completedAt: string | null;
   createdAt: string;
   updatedAt: string;
+  /** Vrai si le dossier de preuve existe (enveloppes signées avec le journal). */
+  hasEvidence: boolean;
 }
 
 export interface SignatureEnvelopeNoTokenDTO {
@@ -126,6 +128,7 @@ function toDTO(row: {
   completedAt: Date | null;
   createdAt: Date;
   updatedAt: Date;
+  finalDocumentHash: string | null;
 }): SignatureEnvelopeDTO {
   return {
     id: row.externalId,
@@ -143,6 +146,7 @@ function toDTO(row: {
     completedAt: row.completedAt?.toISOString() ?? null,
     createdAt: row.createdAt.toISOString(),
     updatedAt: row.updatedAt.toISOString(),
+    hasEvidence: row.finalDocumentHash !== null,
   };
 }
 

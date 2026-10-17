@@ -320,7 +320,20 @@ Codes d'erreur renvoyés au front (`code`) : `CONSENT_REQUIRED`, `OTP_REQUIRED`,
 
 Le proxy relaie ces routes et transmet le `user-agent` d'origine à backNode.
 
-## 12. Avancement
+## 12. Front
+
+| Fichier | Rôle |
+|---|---|
+| `front/.../signature/SigningOtpModal.tsx` | Modale commune : code reçu par e-mail + consentement + bouton « Signer » (renvoi du code après 60 s) |
+| `front/.../signature/signingApi.ts` | `postSigningRequest` : appel POST JSON → `{ success, message, code, attemptsLeft, … }` |
+| `front/.../signature/SignatureWizard.tsx` | « Envoyer » crée le brouillon puis ouvre la modale ; l'invitation part après le code |
+| `front/.../signature/SignatureDashboard.tsx` + `EnvelopeTable.tsx` | Actions : confirmer ma signature (brouillon), télécharger le contrat signé, télécharger le dossier de preuve, archiver ; filtres Refusés / Expirés / Archivés |
+| `front/src/page/SignerPage.tsx` | Page du cocontractant : modale de code, bouton « Refuser de signer », écrans « Lien expiré » / « Signature refusée » |
+
+Remarque : en développement, React (StrictMode) charge la page deux fois, d'où deux
+événements `DOCUMENT_OPENED` à l'ouverture. Ce n'est pas le cas en production.
+
+## 13. Avancement
 
 | Étape | État |
 |---|---|
@@ -329,4 +342,4 @@ Le proxy relaie ces routes et transmet le `user-agent` d'origine à backNode.
 | 3. Tables en base (`SignatureAuditEvent`, `SignatureOtp`, champs enveloppe) | ✅ |
 | 4. Logique métier (`classSignatureLog`, `classSignatureOtp`, TSA, certificat) | ✅ |
 | 5. Câblage au service signature | ✅ (testé de bout en bout sur la BDD de dev) |
-| 6. Front | à faire |
+| 6. Front | ✅ |
