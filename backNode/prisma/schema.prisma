@@ -32,6 +32,38 @@ enum EnvelopeStatus {
   SIGNED
   DECLINED
   EXPIRED
+  ARCHIVED
+}
+
+// Qui a déclenché un événement du journal de signature
+enum SignatureActorRole {
+  SENDER // l'émetteur (utilisateur LumenJuris)
+  COUNTERPARTY // le cocontractant (via le lien public)
+  SYSTEM // le serveur (horodatage, expiration…)
+}
+
+// Types d'événements du journal de signature (voir documentation/signature_journal.md)
+enum SignatureEventType {
+  ENVELOPE_CREATED
+  DOCUMENT_HASHED
+  INVITE_SENT
+  INVITE_RESENT
+  DOCUMENT_OPENED
+  DOCUMENT_VIEWED
+  CONSENT_ACCEPTED
+  OTP_SENT
+  OTP_VERIFIED
+  OTP_FAILED
+  SIGNATURE_APPLIED
+  SIGNER_COMPLETED
+  ENVELOPE_COMPLETED
+  SIGNED_DOCUMENT_SEALED
+  TIMESTAMP_OBTAINED
+  SIGNED_DOCUMENT_DOWNLOADED
+  EVIDENCE_EXPORTED
+  DECLINED
+  EXPIRED
+  ENVELOPE_ARCHIVED
 }
 
 enum AuthProvider {
@@ -153,16 +185,16 @@ enum ApprovalStatus {
 /// Compte utilisateur principal : identité, rôle, statut de vérification et bannissement.
 /// Nœud central du schéma — toutes les entités de l'application sont rattachées à un User.
 model User {
-  idUser           Int     @id @default(autoincrement())
-  role             Role    @default(USER)
-  email            String  @unique
-  nom              String? @db.Text // chiffré
-  prenom           String? @db.Text // chiffré
+  idUser           Int      @id @default(autoincrement())
+  role             Role     @default(USER)
+  email            String   @unique
+  nom              String?  @db.Text // chiffré
+  prenom           String?  @db.Text // chiffré
   password         String?
-  isVerified       Boolean @default(false)
-  twoFactorEnabled Boolean @default(false)
-  isBanned         Boolean @default(false)
-  cgu              Boolean @default(false)
+  isVerified       Boolean  @default(false)
+  twoFactorEnabled Boolean  @default(false)
+  isBanned         Boolean  @default(false)
+  cgu              Boolean  @default(false)
   stripeCustomerId String?
   createdAt        DateTime @default(now())
   lastConnected    DateTime @default(now())
@@ -586,14 +618,75 @@ model SignatureEnvelope {
   selfSignedAt         DateTime?
   counterpartySignedAt DateTime?
   completedAt          DateTime?
+  expiresAt            DateTime? // fin de validité de l'invitation (envoi + 14 jours)
+  archivedAt           DateTime? // remplace la suppression : la preuve est conservée
   createdAt            DateTime  @default(now())
   updatedAt            DateTime  @updatedAt
 
-  userId Int
-  user   User @relation(fields: [userId], references: [idUser], onDelete: Cascade)
+  // Preuve d'intégrité du document (SHA-256 en hexadécimal)
+  originalDocumentHash String? // PDF source, calculé à l'envoi
+  finalDocumentHash    String? // PDF signé figé, calculé à la clôture
+  finalDocumentPath    String? // PDF signé figé, stocké dans backNode/contractSignature
+
+  // Horodatage RFC 3161 du PDF signé final, délivré par la TSA
+  finalTimestampToken Bytes?    @db.MediumBlob // jeton TSA brut (format DER)
+  finalTimestampedAt  DateTime? // date certifiée par la TSA
+
+  // Pas de cascade : si le compte est supprimé, l'enveloppe et sa preuve restent
+  userId Int?
+  user   User? @relation(fields: [userId], references: [idUser], onDelete: SetNull)
+
+  auditEvents SignatureAuditEvent[]
+  otps        SignatureOtp[]
 
   @@index([userId])
   @@index([status])
+}
+
+/// Journal de preuve d'une enveloppe : on AJOUTE des lignes, on ne les modifie
+/// ni ne les supprime jamais. Chaque ligne contient le hash de la précédente
+/// (chaînage) : toute modification après coup casse la chaîne et se voit.
+model SignatureAuditEvent {
+  idEvent    Int                @id @default(autoincrement())
+  externalId String             @unique
+  sequence   Int // numéro d'ordre dans l'enveloppe (1, 2, 3…)
+  eventType  SignatureEventType
+  actorRole  SignatureActorRole
+
+  // Données personnelles, chiffrées par l'extension Prisma
+  actorName  String? @db.Text
+  actorEmail String? @db.Text
+  ipAddress  String? @db.Text
+  userAgent  String? @db.Text
+  details    Json? // ex : champ signé, motif du refus, nombre d'essais OTP
+
+  occurredAt   DateTime @default(now()) // heure du serveur (UTC)
+  documentHash String? // SHA-256 du document à cet instant
+  previousHash String? // eventHash de l'événement précédent (null pour le premier)
+  eventHash    String   @unique // SHA-256 de cet événement + previousHash
+
+  envelopeId Int
+  envelope   SignatureEnvelope @relation(fields: [envelopeId], references: [idEnvelope], onDelete: Restrict)
+
+  @@unique([envelopeId, sequence])
+  @@index([envelopeId])
+}
+
+/// Code à usage unique envoyé par e-mail avant de signer.
+/// On ne stocke que le hash du code, jamais le code lui-même.
+model SignatureOtp {
+  idOtp      Int                @id @default(autoincrement())
+  signerRole SignatureActorRole // SENDER ou COUNTERPARTY
+  codeHash   String
+  attempts   Int                @default(0) // essais ratés (bloqué à 5)
+  expiresAt  DateTime // création + 10 minutes
+  usedAt     DateTime? // renseigné quand le code a été validé
+  createdAt  DateTime           @default(now())
+
+  envelopeId Int
+  envelope   SignatureEnvelope @relation(fields: [envelopeId], references: [idEnvelope], onDelete: Restrict)
+
+  @@index([envelopeId, signerRole])
 }
 
 // --- ASSETS UTILISATEUR (filigranes) ---

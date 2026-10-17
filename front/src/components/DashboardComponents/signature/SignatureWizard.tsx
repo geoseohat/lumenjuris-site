@@ -4,6 +4,8 @@ import { PlaceStep } from "./PlaceStep";
 import { SignStep } from "./SignStep";
 import { SignatureModal } from "./SignatureModal";
 import { RecipientModal } from "./RecipientModal";
+import { SigningOtpModal } from "./SigningOtpModal";
+import { postSigningRequest } from "./signingApi";
 import { fetchProxy } from "../../../utils/fetchProxy";
 import { useUserStore } from "../../../store/userStore";
 import type {
@@ -21,7 +23,7 @@ interface Props {
    * coordonnées du destinataire pour que le parent puisse confirmer l'envoi
    * (le wizard est démonté juste après).
    */
-  onSent?: (recipient: { name: string; email: string }) => void;
+  onSent?: (recipient: { name: string; email: string; invitationSent: boolean }) => void;
   /** Callback "Annuler / Retour" pour fermer le wizard. */
   onExit?: () => void;
 }
@@ -87,6 +89,12 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
   const [counterpartyEmail, setCounterpartyEmail] = useState("");
   const [sending, setSending] = useState(false);
   const [sendError, setSendError] = useState("");
+
+  // Enveloppe créée en brouillon côté serveur, en attente de la confirmation
+  // de l'émetteur par code OTP. Gardée pour ne pas recréer un brouillon si
+  // l'utilisateur ferme la modale puis reclique sur « Envoyer ».
+  const [draftEnvelopeId, setDraftEnvelopeId] = useState<string | null>(null);
+  const [otpModalOpen, setOtpModalOpen] = useState(false);
 
   // E-mail du compte connecté : c'est cette adresse (celle du créateur du
   // compte, pas une adresse d'administration) qui porte la procédure côté
@@ -216,6 +224,7 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
       return f;
     });
     setFields(next);
+    setDraftEnvelopeId(null); // le brouillon éventuel ne correspond plus aux signatures
 
     // L'émetteur vient de finir de signer : la seule information encore
     // manquante est le destinataire. On la demande tout de suite, au centre de
@@ -231,6 +240,7 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
     setCounterpartyName(recipient.name);
     setCounterpartyEmail(recipient.email);
     setRecipientModalOpen(false);
+    setDraftEnvelopeId(null); // le brouillon éventuel ne correspond plus au destinataire
   }
 
   function handleModalConfirm(sig: CapturedSignature) {
@@ -252,6 +262,8 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
     setReplicateAllPages(false);
     setInitialAllPages(false);
     setRecipientModalOpen(false);
+    setDraftEnvelopeId(null);
+    setOtpModalOpen(false);
   }
 
   // ─── Calculs dérivés ─────────────────────────────────────────────────────
@@ -263,12 +275,16 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
   const canSend = allSelfSigned && recipientFormValid;
 
   /**
-   * Envoi de l'enveloppe : persiste le PDF + champs + métadonnées via le proxy
-   * (POST /api/signature-envelope). En cas de succès, on bascule sur l'écran
-   * de confirmation et on notifie le parent.
+   * Clic sur « Envoyer » : enregistre l'enveloppe en brouillon (PDF + champs +
+   * destinataire) puis ouvre la modale de confirmation par code. Rien n'est
+   * envoyé au cocontractant tant que l'émetteur n'a pas saisi son code.
    */
   async function handleSend() {
     if (!file || !canSend) return;
+    if (draftEnvelopeId) {
+      setOtpModalOpen(true);
+      return;
+    }
     setSending(true);
     setSendError("");
     try {
@@ -309,7 +325,6 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
           fields: { fields: fieldsToSend },
           counterpartyName: counterpartyName.trim(),
           counterpartyEmail: counterpartyEmail.trim(),
-          selfSigned: true,
         }),
       });
       // Quota de signatures épuisé : modale de plafond plutôt qu'une erreur inline.
@@ -317,17 +332,45 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
         openQuotaLimit("signature");
         return;
       }
-      const data = await res.json() as { success?: boolean; message?: string };
-      if (!res.ok || !data.success) {
-        throw new Error(data.message || "Échec de l'envoi");
+      const data = await res.json() as { success?: boolean; message?: string; data?: { id: string } };
+      if (!res.ok || !data.success || !data.data) {
+        throw new Error(data.message || "Échec de l'enregistrement du document");
       }
-      setSent(true);
-      onSent?.({ name: counterpartyName.trim(), email: counterpartyEmail.trim() });
+      setDraftEnvelopeId(data.data.id);
+      setOtpModalOpen(true);
     } catch (e: unknown) {
       setSendError(e instanceof Error ? e.message : "Erreur réseau");
     } finally {
       setSending(false);
     }
+  }
+
+  /** Demande l'envoi du code OTP à l'émetteur. */
+  function requestSenderCode() {
+    return postSigningRequest(fetchProxy, `/api/signature-envelope/${draftEnvelopeId}/otp`);
+  }
+
+  /**
+   * Valide la signature de l'émetteur avec son code : le serveur envoie alors
+   * l'invitation au cocontractant.
+   */
+  async function confirmSenderSignature(code: string) {
+    const result = await postSigningRequest(
+      fetchProxy,
+      `/api/signature-envelope/${draftEnvelopeId}/sign`,
+      { code, consentAccepted: true },
+    );
+    if (result.success) {
+      setOtpModalOpen(false);
+      setDraftEnvelopeId(null);
+      setSent(true);
+      onSent?.({
+        name: counterpartyName.trim(),
+        email: counterpartyEmail.trim(),
+        invitationSent: result.invitationSent !== false,
+      });
+    }
+    return result;
   }
 
   // ─── Render ──────────────────────────────────────────────────────────────
@@ -432,6 +475,16 @@ export function SignatureWizard({ initialFile, onSent, onExit }: Props = {}) {
         senderEmail={senderEmail}
         onClose={() => setRecipientModalOpen(false)}
         onConfirm={handleRecipientConfirm}
+      />
+
+      <SigningOtpModal
+        open={otpModalOpen}
+        recipientEmail={senderEmail}
+        documentName={file?.name ?? ""}
+        accentHex={signers.find((s) => s.role === "self")?.hex ?? "#2C3A5E"}
+        onRequestCode={requestSenderCode}
+        onConfirm={confirmSenderSignature}
+        onClose={() => setOtpModalOpen(false)}
       />
 
       {modalOpenFor && (

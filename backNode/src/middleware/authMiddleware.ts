@@ -1,6 +1,5 @@
 import { Request, Response, NextFunction } from "express";
 import { prisma } from "../../prisma/singletonPrisma.js";
-import { truncate } from "node:fs";
 
 
 
@@ -37,8 +36,7 @@ export async function authMiddleware(
       });
     }
 
-    // lastConnected est un DateTime : Prisma refuse une date mise en forme
-    // (toLocaleDateString() donne « 11/10/2026 ») et chaque requête finissait en 500.
+
     await prisma.user.update({
       where : { idUser : userId},
       data : {

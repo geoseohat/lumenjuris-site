@@ -75,8 +75,17 @@ export function Signature() {
    * Retour au tableau de bord après un envoi réussi, avec confirmation.
    * L'`id` fixe évite deux toasts empilés si l'envoi part deux fois.
    */
-  function handleSent(recipient: { name: string; email: string }) {
+  function handleSent(recipient: { name: string; email: string; invitationSent: boolean }) {
     closeWizard();
+    // Signature de l'émetteur enregistrée, mais l'e-mail n'est pas parti :
+    // l'utilisateur doit pouvoir relancer depuis le tableau de bord.
+    if (!recipient.invitationSent) {
+      toast.error(
+        "Votre signature est enregistrée, mais l'invitation n'a pas pu être envoyée. Utilisez « Renvoyer » dans le tableau.",
+        { id: "signature-envoi-echoue", duration: SENT_TOAST_DURATION_MS },
+      );
+      return;
+    }
     toast.custom(
       (t) => (
         <SentToast

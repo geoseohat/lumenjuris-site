@@ -33,6 +33,7 @@ gpt5_tokens_log.json
 backNode/userassets/
 backNode/templatesources/
 backNode/signatureenvelopes/
+backNode/contractSignature
 backNode/feedback-logs.json
 backNode/app.log.json
 backNode/logger.json

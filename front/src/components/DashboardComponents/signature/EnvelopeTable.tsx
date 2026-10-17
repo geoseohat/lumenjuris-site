@@ -1,11 +1,11 @@
 import { useMemo, useState } from "react";
-import { CheckCircle2, FileText, Loader2, MailPlus, Trash2 } from "lucide-react";
+import { Archive, CheckCircle2, Download, FileArchive, FileText, Loader2, MailPlus, PenLine } from "lucide-react";
 
 import { DataTable, EmptyCell, type DataTableColumn } from "../../common/DataTable";
 import { RowActionsMenu, type RowAction } from "../../common/RowActionsMenu";
 
 /** Statuts d'enveloppe (miroir de l'enum Prisma). */
-export type EnvelopeStatus = "DRAFT" | "SENT" | "PARTIALLY_SIGNED" | "SIGNED" | "DECLINED" | "EXPIRED";
+export type EnvelopeStatus = "DRAFT" | "SENT" | "PARTIALLY_SIGNED" | "SIGNED" | "DECLINED" | "EXPIRED" | "ARCHIVED";
 
 export interface EnvelopeDTO {
   id: string;
@@ -22,6 +22,8 @@ export interface EnvelopeDTO {
   completedAt: string | null;
   createdAt: string;
   updatedAt: string;
+  /** Vrai si le dossier de preuve existe (enveloppes signées avec le journal). */
+  hasEvidence: boolean;
 }
 
 /** État d'une relance déclenchée depuis le tableau. */
@@ -33,8 +35,12 @@ type SortDirection = "asc" | "desc";
 interface Props {
   items: EnvelopeDTO[];
   loading: boolean;
-  onDelete: (id: string) => void;
+  onArchive: (id: string) => void;
   onResend: (envelope: EnvelopeDTO) => void;
+  /** Brouillon : l'émetteur n'a pas encore confirmé sa signature par code. */
+  onConfirmSignature: (envelope: EnvelopeDTO) => void;
+  onDownloadSignedPdf: (envelope: EnvelopeDTO) => void;
+  onDownloadEvidence: (envelope: EnvelopeDTO) => void;
   resendStates: Record<string, ResendState>;
 }
 
@@ -42,7 +48,7 @@ const STORAGE_KEY = "signature_table_visible_columns";
 const DEFAULT_COLUMNS = ["documentName", "counterpartyName", "status", "sentAt", "waiting", "action"];
 
 /** Ordre logique des statuts pour le tri (du brouillon à la fin du cycle). */
-const STATUS_ORDER: EnvelopeStatus[] = ["DRAFT", "SENT", "PARTIALLY_SIGNED", "SIGNED", "DECLINED", "EXPIRED"];
+const STATUS_ORDER: EnvelopeStatus[] = ["DRAFT", "SENT", "PARTIALLY_SIGNED", "SIGNED", "DECLINED", "EXPIRED", "ARCHIVED"];
 
 const STATUS_CONFIG: Record<EnvelopeStatus, { label: string; bg: string; fg: string }> = {
   DRAFT:             { label: "Brouillon",      bg: "#f1f5f9", fg: "#64748b" },
@@ -51,6 +57,7 @@ const STATUS_CONFIG: Record<EnvelopeStatus, { label: string; bg: string; fg: str
   SIGNED:            { label: "Signé",          bg: "#d1fae5", fg: "#065f46" },
   DECLINED:          { label: "Refusé",         bg: "#fee2e2", fg: "#991b1b" },
   EXPIRED:           { label: "Expiré",         bg: "#f3f4f6", fg: "#6b7280" },
+  ARCHIVED:          { label: "Archivé",        bg: "#eaecf2", fg: "#374151" },
 };
 
 /** Au-delà de cette attente, le badge passe en orange : il est temps de relancer. */
@@ -103,7 +110,9 @@ function sortEnvelopes(items: EnvelopeDTO[], sortBy: SortKey, sortDirection: Sor
 }
 
 /** Tableau des enveloppes de signature. */
-export function EnvelopeTable({ items, loading, onDelete, onResend, resendStates }: Props) {
+export function EnvelopeTable({
+  items, loading, onArchive, onResend, onConfirmSignature, onDownloadSignedPdf, onDownloadEvidence, resendStates,
+}: Props) {
   const [sortBy, setSortBy] = useState<SortKey>("createdAt");
   const [sortDirection, setSortDirection] = useState<SortDirection>("desc");
 
@@ -127,6 +136,31 @@ export function EnvelopeTable({ items, loading, onDelete, onResend, resendStates
     const actions: RowAction[] = [];
     const resendState = resendStates[envelope.id] ?? "idle";
 
+    // Brouillon : la signature de l'émetteur attend encore son code de confirmation.
+    if (envelope.status === "DRAFT") {
+      actions.push({
+        label: "Confirmer ma signature",
+        icon: <PenLine className="h-3.5 w-3.5" />,
+        onSelect: () => onConfirmSignature(envelope),
+      });
+    }
+
+    // Signé par les deux parties : contrat signé et dossier de preuve.
+    if (envelope.status === "SIGNED") {
+      actions.push({
+        label: "Télécharger le contrat signé",
+        icon: <Download className="h-3.5 w-3.5" />,
+        onSelect: () => onDownloadSignedPdf(envelope),
+      });
+      if (envelope.hasEvidence) {
+        actions.push({
+          label: "Télécharger le dossier de preuve",
+          icon: <FileArchive className="h-3.5 w-3.5" />,
+          onSelect: () => onDownloadEvidence(envelope),
+        });
+      }
+    }
+
     // Relance : uniquement pour les enveloppes qui attendent encore une signature.
     if (isPending(envelope.status)) {
       let label = "Relancer";
@@ -145,12 +179,14 @@ export function EnvelopeTable({ items, loading, onDelete, onResend, resendStates
       });
     }
 
-    actions.push({
-      label: "Supprimer",
-      icon: <Trash2 className="h-3.5 w-3.5" />,
-      danger: true,
-      onSelect: () => onDelete(envelope.id),
-    });
+    // Plus de suppression : l'enveloppe et sa preuve sont conservées.
+    if (envelope.status !== "ARCHIVED") {
+      actions.push({
+        label: "Archiver",
+        icon: <Archive className="h-3.5 w-3.5" />,
+        onSelect: () => onArchive(envelope.id),
+      });
+    }
 
     return actions;
   };

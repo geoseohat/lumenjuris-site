@@ -13,6 +13,20 @@
       "runtimeArgs": ["run", "dev"],
       "port": 5173,
       "cwd": "front"
+    },
+    {
+      "name": "backnode-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3020,
+      "cwd": "backNode"
+    },
+    {
+      "name": "proxy-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "cwd": "proxy"
     }
   ]
 }

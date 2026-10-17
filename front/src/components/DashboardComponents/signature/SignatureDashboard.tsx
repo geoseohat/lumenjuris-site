@@ -3,6 +3,8 @@ import { Plus, FileText, Send, Clock, CheckCircle2, AlertCircle, Filter } from "
 import { fetchProxy } from "../../../utils/fetchProxy";
 import { ConfirmationModal } from "../../ui/ConfirmationModal";
 import { EnvelopeTable } from "./EnvelopeTable";
+import { SigningOtpModal } from "./SigningOtpModal";
+import { postSigningRequest } from "./signingApi";
 import type { EnvelopeDTO, EnvelopeStatus, ResendState } from "./EnvelopeTable";
 import { BannerAction, PageBanner } from "../../common/PageBanner";
 
@@ -41,7 +43,9 @@ export function SignatureDashboard({ onNewContract, refreshKey }: Props) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [validateModalOpen, setValidateModalOpen] = useState(false);
-  const [pendingDeleteId, setPendingDeleteId] = useState<string | null>(null);
+  const [pendingArchiveId, setPendingArchiveId] = useState<string | null>(null);
+  // Brouillon dont l'émetteur confirme sa signature par code depuis le tableau.
+  const [envelopeToConfirm, setEnvelopeToConfirm] = useState<EnvelopeDTO | null>(null);
   // Relance : enveloppe en attente de confirmation + état par enveloppe.
   // Une relance envoie un e-mail : elle passe toujours par une confirmation.
   const [pendingResend, setPendingResend] = useState<EnvelopeDTO | null>(null);
@@ -69,24 +73,80 @@ export function SignatureDashboard({ onNewContract, refreshKey }: Props) {
   useEffect(() => { void fetchAll(); }, [fetchAll, refreshKey]);
 
 
-  async function handleDelete(externalId: string) {
-    setPendingDeleteId(externalId);
+  function handleArchive(externalId: string) {
+    setPendingArchiveId(externalId);
     setValidateModalOpen(true);
   }
 
-  async function validateConfirmed() {
-     if (!pendingDeleteId) return;
+  async function archiveConfirmed() {
+    if (!pendingArchiveId) return;
     try {
-      await fetchProxy(`/api/signature-envelope/${pendingDeleteId}`, {
+      await fetchProxy(`/api/signature-envelope/${pendingArchiveId}`, {
         method: "DELETE",
         credentials: "include",
       });
       await fetchAll();
     } catch { /* silent */ }
-      finally {
+    finally {
       setValidateModalOpen(false);
-      setPendingDeleteId(null);
+      setPendingArchiveId(null);
     }
+  }
+
+  /**
+   * Télécharge un fichier renvoyé par le back (PDF signé ou ZIP de preuve).
+   * Le nom vient de l'en-tête Content-Disposition, sinon du nom proposé.
+   */
+  async function downloadFile(url: string, fallbackFileName: string) {
+    setError("");
+    try {
+      const res = await fetchProxy(url, { credentials: "include" });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({})) as { message?: string };
+        throw new Error(data.message ?? "Le téléchargement a échoué.");
+      }
+      const disposition = res.headers.get("content-disposition") ?? "";
+      const fileName = /filename="([^"]+)"/.exec(disposition)?.[1] ?? fallbackFileName;
+      const blobUrl = URL.createObjectURL(await res.blob());
+      const link = document.createElement("a");
+      link.href = blobUrl;
+      link.download = fileName;
+      // Le lien doit être dans le document et l'URL libérée après coup :
+      // certains navigateurs annulent le téléchargement sinon.
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      window.setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
+    } catch (e: unknown) {
+      setError(e instanceof Error ? e.message : "Le téléchargement a échoué.");
+    }
+  }
+
+  function handleDownloadSignedPdf(envelope: EnvelopeDTO) {
+    const baseName = envelope.documentName.replace(/\.pdf$/i, "");
+    void downloadFile(`/api/signature-envelope/download/${envelope.id}`, `${baseName}_signe.pdf`);
+  }
+
+  function handleDownloadEvidence(envelope: EnvelopeDTO) {
+    const baseName = envelope.documentName.replace(/\.pdf$/i, "");
+    void downloadFile(`/api/signature-envelope/evidence/${envelope.id}`, `${baseName}_dossier_de_preuve.zip`);
+  }
+
+  /** Valide la signature d'un brouillon avec le code : l'invitation part alors. */
+  async function confirmDraftSignature(code: string) {
+    const result = await postSigningRequest(
+      fetchProxy,
+      `/api/signature-envelope/${envelopeToConfirm?.id}/sign`,
+      { code, consentAccepted: true },
+    );
+    if (result.success) {
+      setEnvelopeToConfirm(null);
+      if (result.invitationSent === false) {
+        setError("Votre signature est enregistrée, mais l'invitation n'a pas pu être envoyée. Utilisez « Relancer ».");
+      }
+      await fetchAll();
+    }
+    return result;
   }
 
   /** Ouvre la confirmation de relance pour une enveloppe. */
@@ -166,17 +226,29 @@ export function SignatureDashboard({ onNewContract, refreshKey }: Props) {
       <EnvelopeTable
         items={list}
         loading={loading}
-        onDelete={handleDelete}
+        onArchive={handleArchive}
         onResend={handleResend}
+        onConfirmSignature={setEnvelopeToConfirm}
+        onDownloadSignedPdf={handleDownloadSignedPdf}
+        onDownloadEvidence={handleDownloadEvidence}
         resendStates={resendStates}
       />
         <ConfirmationModal
           open={validateModalOpen}
-          title="Supprimer l'enveloppe"
-          description={`Souhaitez-vous supprimer l'enveloppe ?`}
-          confirmLabel="Valider"
-          onConfirm={validateConfirmed}
-          onCancel={() => { setValidateModalOpen(false); setPendingDeleteId(null); }}
+          title="Archiver l'enveloppe"
+          description="L'enveloppe disparaîtra de la liste (filtre « Archivés » pour la retrouver). Le document et son journal de preuve restent conservés."
+          confirmLabel="Archiver"
+          onConfirm={archiveConfirmed}
+          onCancel={() => { setValidateModalOpen(false); setPendingArchiveId(null); }}
+        />
+        <SigningOtpModal
+          open={!!envelopeToConfirm}
+          recipientEmail={envelopeToConfirm?.selfEmail}
+          documentName={envelopeToConfirm?.documentName ?? ""}
+          accentHex="#2C3A5E"
+          onRequestCode={() => postSigningRequest(fetchProxy, `/api/signature-envelope/${envelopeToConfirm?.id}/otp`)}
+          onConfirm={confirmDraftSignature}
+          onClose={() => setEnvelopeToConfirm(null)}
         />
         <ConfirmationModal
           open={!!pendingResend}
@@ -249,6 +321,9 @@ function StatusFilters({
     { id: "PARTIALLY_SIGNED", label: "Partiellement signés" },
     { id: "SIGNED", label: "Signés" },
     { id: "DRAFT", label: "Brouillons" },
+    { id: "DECLINED", label: "Refusés" },
+    { id: "EXPIRED", label: "Expirés" },
+    { id: "ARCHIVED", label: "Archivés" },
   ];
   return (
     <div className="flex items-center gap-2 flex-wrap">

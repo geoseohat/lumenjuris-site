@@ -14,10 +14,11 @@ export const templateSignatureCompletion = (opts: {
   counterpartyEmail?: string;
   signedDate: string;
   hasPdf: boolean;
+  hasEvidence?: boolean;
 }) => {
   const {
     recipientName, documentName, selfLabel, selfEmail,
-    counterpartyName, counterpartyEmail, signedDate, hasPdf,
+    counterpartyName, counterpartyEmail, signedDate, hasPdf, hasEvidence,
   } = opts;
 
   return `
@@ -69,7 +70,7 @@ ${hasPdf
             <td style="padding:14px 18px;">
               <p style="margin:0; font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
                          font-size:13px; color:#4b5563; line-height:1.6;">
-                Le document signé est joint en pièce jointe (PDF). Conservez-le comme preuve de signature.
+                Le document signé est joint en pièce jointe (PDF). Conservez-le comme preuve de signature.${hasEvidence ? `<br>Le dossier de preuve (ZIP) est également joint : il contient le certificat de signature, le journal horodaté et le document original.` : ""}
               </p>
             </td>
           </tr>

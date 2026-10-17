@@ -88,6 +88,8 @@ export function relayToNode(
       // IP reelle du visiteur : sans elle, backNode voit le proxy et applique
       // ses quotas (connexion, quota global) a tous les utilisateurs en commun.
       "x-forwarded-for": req.ip || "",
+      // Navigateur d'origine : tracé dans le journal de preuve des signatures.
+      "user-agent": req.headers["user-agent"] || "",
       "x-internal-api-key": process.env.INTERNAL_API_KEY || "",
       ...(res.locals.userId !== undefined
         ? {
@@ -158,6 +160,7 @@ export function relayToNodeRaw(
     headers: {
       cookie: req.headers.cookie || "",
       "x-forwarded-for": req.ip || "",
+      "user-agent": req.headers["user-agent"] || "",
       "x-internal-api-key": process.env.INTERNAL_API_KEY || "",
       ...(res.locals.userId !== undefined
         ? {

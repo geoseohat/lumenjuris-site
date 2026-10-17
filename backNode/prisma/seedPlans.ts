@@ -1,7 +1,6 @@
 import { logger } from "../src/logger/logger.js";
 import { prisma } from "./singletonPrisma.js";
 import { Prisma, PlanInterval, PlanName } from "@prisma/client";
-import { logger } from "../src/logger/logger.js"
 
 
 /**
@@ -391,7 +390,7 @@ const PLANS_SEED = [
     // TESTE ADMIN  il servira de teste pour valider le fonctionnement de stripe et nous occtroyé du debrydage pour les admins
     {
         name: PlanName.Teste_admin,
-        price: 0.01,
+        price: 1, 
         interval: PlanInterval.yearly,
         creditsIncluded: {
             analyzer: {
