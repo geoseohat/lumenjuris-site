@@ -66,12 +66,17 @@ BIBLIO_TITRE = "Modèles juridiques gratuits"
 ORG = {"@id": f"{SITE}/#organization"}
 # Navigateur sans fenêtre pour le PDF et l'image : Edge sur le PC,
 # Chrome/Chromium dans la routine cloud (variable NAVIGATEUR pour forcer).
+# Dans le cloud, le Chromium du système reste bloqué : on prend d'abord la version
+# « sans fenêtre » de Playwright, lancée sans bac à sable (la routine tourne en root).
+import glob  # noqa: E402
 EDGE = os.environ.get("NAVIGATEUR") or next(
     (c for c in (r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
+                 *sorted(glob.glob("/opt/pw-browsers/chromium_headless_shell-*/chrome-headless-shell-linux64/chrome-headless-shell")),
                  shutil.which("chromium"), shutil.which("chromium-browser"),
                  shutil.which("google-chrome"), shutil.which("google-chrome-stable"))
      if c and Path(c).exists()),
     r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
+SANS_BAC = [] if os.name == "nt" else ["--no-sandbox"]
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
         "septembre", "octobre", "novembre", "décembre"]
 
@@ -253,7 +258,7 @@ mark {{ background: #FFF3A3; }}
     # fenêtre existante et ne produit aucun fichier.
     import tempfile
     profil = Path(tempfile.mkdtemp(prefix="lj-edge-"))
-    subprocess.run([EDGE, "--headless=new", "--disable-gpu", "--no-pdf-header-footer",
+    subprocess.run([EDGE, "--headless=new", *SANS_BAC, "--disable-gpu", "--no-pdf-header-footer",
                     f"--user-data-dir={profil}", f"--print-to-pdf={chemin}", source.as_uri()],
                    check=True, capture_output=True, timeout=120)
     source.unlink()
@@ -600,7 +605,7 @@ h1{{font-size:58px;line-height:1.1;margin:0 0 26px}}
     source.write_text(page, encoding="utf-8")
     chemin.unlink(missing_ok=True)
     profil = Path(tempfile.mkdtemp(prefix="lj-edge-"))
-    subprocess.run([EDGE, "--headless=new", "--disable-gpu", "--hide-scrollbars", "--window-size=1200,630",
+    subprocess.run([EDGE, "--headless=new", *SANS_BAC, "--disable-gpu", "--hide-scrollbars", "--window-size=1200,630",
                     f"--user-data-dir={profil}", f"--screenshot={chemin}", source.as_uri()],
                    check=True, capture_output=True, timeout=120)
     import time
