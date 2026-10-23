@@ -48,7 +48,8 @@
       },
       "statut": "publish",
       "id": 2962,
-      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-de-vente/"
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-de-vente/",
+      "gabarit": "2026-10-23"
     },
     "contrat-de-prestation-de-services": {
       "fichiers": {
@@ -73,7 +74,8 @@
       },
       "statut": "publish",
       "id": 2970,
-      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-prestation-de-services/"
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-prestation-de-services/",
+      "gabarit": "2026-10-23"
     },
     "contrat-de-travail-cdi": {
       "fichiers": {
@@ -98,7 +100,8 @@
       },
       "statut": "publish",
       "id": 2976,
-      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/"
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/",
+      "gabarit": "2026-10-23"
     },
     "contrat-de-travail-cdd": {
       "fichiers": {
@@ -123,7 +126,8 @@
       },
       "statut": "publish",
       "id": 2992,
-      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/"
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/",
+      "gabarit": "2026-10-23"
     },
     "accord-de-confidentialite": {
       "fichiers": {
@@ -148,7 +152,8 @@
       },
       "statut": "publish",
       "id": 3000,
-      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/"
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/",
+      "gabarit": "2026-10-23"
     },
     "statuts-sas": {
       "fichiers": {
@@ -201,11 +206,39 @@
       "id": 3030,
       "lien": "https://www.lumenjuris.com/?page_id=3030",
       "gabarit": "2026-10-23"
+    },
+    "contrat-de-sous-traitance": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o1.id}}",
+          "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "f5b04c7a654e9c6834f0d07e44ebaed6d4135f097127f53598cbc3b291f8983e"
+        },
+        "pdf": {
+          "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o2.id}}",
+          "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o2.source_url}}",
+          "taille": "123 Ko",
+          "empreinte": "f5b04c7a654e9c6834f0d07e44ebaed6d4135f097127f53598cbc3b291f8983e"
+        }
+      },
+      "image": {
+        "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o3.id}}",
+        "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o3.source_url}}",
+        "taille": "291 Ko",
+        "empreinte": "e957407ca3b8abbddb2f4b0bfc761e5303066309ddf78cf2d842d7d95e0cb971"
+      },
+      "statut": "publish",
+      "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o7.id}}",
+      "lien": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261023-201929-publier-en-ligne-contrat-de-sous-traitance"
+  ]
 }
