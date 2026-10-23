@@ -15,6 +15,14 @@ Usage :
   python modeles_contrat.py liste                      -> état de chaque modèle
   python modeles_contrat.py synchroniser               -> relit ce que le serveur a publié
 
+Routine quotidienne (compétence routine-modele-contrat) :
+  python modeles_contrat.py preparer                   -> contrat du jour, doublons, dossier prérempli
+  python modeles_contrat.py controler <slug>           -> contrôle qualité (SEO, doublons, mots interdits)
+  python modeles_contrat.py terminer <slug> --mode normal|test -> coche mots-cles.txt, écrit le journal
+  python modeles_contrat.py ecarter "<raison>"         -> pas de page pour le contrat du jour
+  python modeles_contrat.py valider <slug>             -> la juriste a relu le modèle (affiché sur la page)
+« publier » refuse une page qui ne passe pas le contrôle qualité (--forcer pour passer outre).
+
 La page parente /modele-contrat/ (bibliothèque) est créée et régénérée
 automatiquement, ainsi que le bloc « Modèles associés » de chaque page.
 
@@ -36,6 +44,7 @@ import re
 import shutil
 import subprocess
 import sys
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -95,6 +104,18 @@ def date_fr(iso):
     return f"{d.day} {MOIS[d.month - 1]} {d.year}"
 
 
+def de(nom):
+    """« de » ou « d' » devant un nom : « Modèle d'accord de confidentialité »."""
+    initiale = unicodedata.normalize("NFD", nom[:1].lower())[:1]
+    return f"d'{nom}" if initiale in "aeiouy" else f"de {nom}"
+
+
+# Version du gabarit commun des pages (textes fixes, mise en page, micro-données).
+# À changer quand ce gabarit change : chaque page en ligne est alors régénérée une
+# fois, à la prochaine mise en ligne d'un modèle.
+GABARIT = "2026-10-23"
+
+
 def lire_etat():
     return json.loads(ETAT.read_text(encoding="utf-8")) if ETAT.exists() else {"modeles": {}}
 
@@ -122,7 +143,8 @@ def fiche(slug):
 
 
 def tous_les_slugs():
-    return sorted(p.name for p in DOSSIER.iterdir() if (p / "fiche.json").exists())
+    return sorted(p.name for p in DOSSIER.iterdir()
+                  if (p / "fiche.json").exists() and not p.name.startswith(("_", ".")))
 
 
 # --------------------------------------------------------------------------
@@ -187,6 +209,10 @@ def modele_html(blocs, niveau=3):
 
 
 def construire_docx(f, blocs, chemin):
+    try:
+        import docx  # noqa: F401
+    except ImportError:  # routine cloud : conteneur neuf à chaque passage
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "python-docx"], check=True)
     from docx import Document
     from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_COLOR_INDEX
     from docx.shared import Pt, RGBColor, Cm
@@ -231,14 +257,14 @@ def construire_docx(f, blocs, chemin):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             remplir(p, txt)
-    doc.core_properties.title = f"Modèle de {f['nom_court']}"
+    doc.core_properties.title = f"Modèle {de(f['nom_court'])}"
     doc.core_properties.author = "Lumen Juris"
     doc.save(chemin)
 
 
 def construire_pdf(f, blocs, chemin):
     page = f"""<!doctype html><html lang="fr"><meta charset="utf-8">
-<title>Modèle de {e(f['nom_court'])} – Lumen Juris</title>
+<title>Modèle {e(de(f['nom_court']))} – Lumen Juris</title>
 <style>
 @page {{ size: A4; margin: 20mm 22mm; }}
 body {{ font: 10.5pt/1.55 Calibri, Arial, sans-serif; color: #111; }}
@@ -385,16 +411,29 @@ def modeles_associes(slug, etat, publics_seulement):
     return [x[2] for x in sorted(autres, key=lambda x: (x[0], x[1]))][:6]
 
 
+def encart_auteur(f):
+    """Rôle et présentation de l'encart auteur. Une relecture humaine n'est annoncée que si
+    elle a eu lieu (relecture.valide) : l'affirmer sinon serait trompeur pour le lecteur
+    comme pour Google (REFERENTIEL-LEGAL.md)."""
+    rel = f["relecture"]
+    if rel["valide"]:
+        return rel["fonction"], f"{rel['presentation']} Dernière relecture le {date_fr(rel['date_validation'])}."
+    return ("Rédaction des modèles de contrat",
+            "Ce modèle est rédigé à partir des textes de loi en vigueur, cités en sources ci-dessous, "
+            f"et a été mis à jour le {date_fr(f['date_mise_a_jour'])}.")
+
+
 def page_modele(slug, etat, publics_seulement=True):
     f = fiche(slug)
     em = etat["modeles"].get(slug, {})
     fich = fichiers_telechargement(em)
     blocs = blocs_modele(slug)
     rel = f["relecture"]
+    role, presentation = encart_auteur(f)
     u = f["url"]
     article = (DOSSIER / slug / "article.html").read_text(encoding="utf-8")
     sommaire = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', article)
-    sommaire = [("modele", f"Le modèle de {f['nom_court']}")] + sommaire + [
+    sommaire = [("modele", f"Le modèle {de(f['nom_court'])}")] + sommaire + [
         ("etapes", "Remplir le modèle en 5 étapes"), ("faq", "Questions fréquentes")]
     docx, pdf = fich.get("docx", {}), fich.get("pdf", {})
     perso = f["personnaliser"]
@@ -414,7 +453,7 @@ def page_modele(slug, etat, publics_seulement=True):
 
     associes = modeles_associes(slug, etat, publics_seulement)
     cartes = "".join(
-        f'<li><a href="{e(a["url"])}">Modèle de {e(a["nom_court"])}</a><p>{e(a["categorie"])}</p></li>'
+        f'<li><a href="{e(a["url"])}">Modèle {e(de(a["nom_court"]))}</a><p>{e(a["categorie"])}</p></li>'
         for a in associes)
     cartes += "".join(f'<li><a href="{e(url)}">{e(nom)}</a><p>Outil Lumen Juris</p></li>' for nom, url in OUTILS)
 
@@ -425,7 +464,7 @@ def page_modele(slug, etat, publics_seulement=True):
          f'<p class="lj-chapo">{e(f["chapo"])}</p>',
          '<nav class="lj-sommaire" aria-label="Sommaire"><p>Sommaire</p><ol>'
          + "".join(f'<li><a href="#{i}">{t}</a></li>' for i, t in sommaire) + "</ol></nav>",
-         f'<h2 id="modele">Le modèle de {e(f["nom_court"])}</h2>'
+         f'<h2 id="modele">Le modèle {e(de(f["nom_court"]))}</h2>'
          f'<section class="lj-modele" aria-labelledby="modele">'
          f'<div class="lj-modele-tete">{actions}</div>'
          f'<div class="lj-modele-texte" tabindex="0" role="region" aria-label="Texte du modèle">{modele_html(blocs)}</div>'
@@ -442,8 +481,8 @@ def page_modele(slug, etat, publics_seulement=True):
          '<div class="lj-avatar" aria-hidden="true"><svg class="lj-ico" style="width:28px;height:28px" viewBox="0 0 24 24" '
          'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18"/>'
          '<path d="M5 21h14"/><path d="M3 7h18"/><path d="m6 7-3 7a3 3 0 0 0 6 0Z"/><path d="m18 7-3 7a3 3 0 0 0 6 0Z"/></svg></div>'
-         f'<div><h2 id="auteur">{e(rel["nom"])}</h2><p class="lj-role">{e(rel["fonction"])}</p>'
-         f'<p>{e(rel["presentation"])}</p><p><a href="{e(rel["url_profil"])}">Découvrir l\'équipe Lumen Juris</a></p>'
+         f'<div><h2 id="auteur">{e(rel["nom"])}</h2><p class="lj-role">{e(role)}</p>'
+         f'<p>{e(presentation)}</p><p><a href="{e(rel["url_profil"])}">Découvrir l\'équipe Lumen Juris</a></p>'
          f'<p class="lj-role">Ce modèle est fourni à titre informatif. Il ne remplace pas un conseil personnalisé adapté à votre situation.</p></div></section>',
          '<section class="lj-sources" aria-label="Sources"><h2>Sources</h2><ul>'
          + "".join(f'<li><a href="{e(url)}" rel="noopener" target="_blank">{e(nom)}</a></li>' for nom, url in f["sources"])
@@ -458,7 +497,7 @@ def schema_modele(f, blocs, fich, associes, image=None):
     u, rel = f["url"], f["relecture"]
     personne_id = f"{SITE}/#equipe-juridique"
     mots = sum(len(t.split()) for _, t in blocs)
-    encodages = [{"@type": "MediaObject", "name": f"Modèle de {f['nom_court']} ({fmt})",
+    encodages = [{"@type": "MediaObject", "name": f"Modèle {de(f['nom_court'])} ({fmt})",
                   "contentUrl": fich[k]["url"], "encodingFormat": mime, "contentSize": fich[k].get("taille")}
                  for k, fmt, mime in (("docx", "Word", "application/vnd.openxmlformats-officedocument.wordprocessingml.document"),
                                       ("pdf", "PDF", "application/pdf")) if k in fich]
@@ -478,8 +517,8 @@ def schema_modele(f, blocs, fich, associes, image=None):
         page["lastReviewed"] = rel["date_validation"]
     modele = {
         "@type": "DigitalDocument", "@id": f"{u}#modele", "url": u,
-        "name": f"Modèle de {f['nom_court']}", "headline": f["titre_h1"],
-        "alternateName": [f"Exemple de {f['nom_court']}", f"Trame de {f['nom_court']}"],
+        "name": f"Modèle {de(f['nom_court'])}", "headline": f["titre_h1"],
+        "alternateName": [f"Exemple {de(f['nom_court'])}", f"Trame {de(f['nom_court'])}"],
         "description": f["chapo"],
         "genre": "Modèle de contrat", "inLanguage": "fr-FR",
         "about": {"@id": f"{u}#sujet"}, "mainEntityOfPage": {"@id": f"{u}#webpage"},
@@ -488,14 +527,15 @@ def schema_modele(f, blocs, fich, associes, image=None):
         "copyrightYear": int(f["date_publication"][:4]),
         "datePublished": f["date_publication"], "dateModified": f["date_mise_a_jour"],
         "wordCount": mots, "isAccessibleForFree": f["gratuit"],
-        "audience": {"@type": "BusinessAudience", "audienceType": "Associés, fondateurs et dirigeants de sociétés"},
+        # « public » (facultatif dans fiche.json) : à qui s'adresse le modèle.
+        "audience": {"@type": "Audience", "audienceType": f.get("public", "Entreprises, indépendants et dirigeants")},
         "spatialCoverage": {"@type": "Country", "name": "France"},
         "encoding": encodages,
         "citation": [{"@type": "Legislation", "name": nom, "url": url, "legislationJurisdiction": "FR",
                       "inLanguage": "fr-FR"} for nom, url in f["sources"]],
         "potentialAction": [
             *[{"@type": "DownloadAction", "target": x["contentUrl"]} for x in encodages],
-            {"@type": "CreateAction", "name": f"Personnaliser le {f['nom_court']} en ligne",
+            {"@type": "CreateAction", "name": f"Personnaliser le modèle {de(f['nom_court'])}",
              "target": {"@type": "EntryPoint", "urlTemplate": f["personnaliser"]["url"]},
              "agent": ORG}],
     }
@@ -510,7 +550,7 @@ def schema_modele(f, blocs, fich, associes, image=None):
     }
     if image:
         img = {"@type": "ImageObject", "@id": f"{u}#image", "url": image["url"], "contentUrl": image["url"],
-               "width": 1200, "height": 630, "caption": f"Modèle de {f['nom_court']} – Lumen Juris",
+               "width": 1200, "height": 630, "caption": f"Modèle {de(f['nom_court'])} – Lumen Juris",
                "inLanguage": "fr-FR"}
         page["primaryImageOfPage"] = {"@id": f"{u}#image"}
         page["image"] = {"@id": f"{u}#image"}
@@ -524,7 +564,7 @@ def schema_modele(f, blocs, fich, associes, image=None):
         page, modele, article,
         {"@type": "Thing", "@id": f"{u}#sujet", "name": f["nom"],
          "alternateName": [m for m in f["mots_cles_secondaires"] if not m.startswith(("modèle", "exemple"))]},
-        {"@type": "HowTo", "@id": f"{u}#howto", "name": f"Comment remplir le modèle de {f['nom_court']}",
+        {"@type": "HowTo", "@id": f"{u}#howto", "name": f"Comment remplir le modèle {de(f['nom_court'])}",
          "inLanguage": "fr-FR", "tool": [{"@type": "HowToTool", "name": "Traitement de texte (Word, LibreOffice, Google Docs)"}],
          "step": [{"@type": "HowToStep", "position": i, "name": n, "text": t, "url": f"{u}#etape-{i}"}
                   for i, (n, t) in enumerate(f["etapes"], 1)]},
@@ -532,9 +572,11 @@ def schema_modele(f, blocs, fich, associes, image=None):
          "mainEntity": [{"@type": "Question", "name": q,
                          "acceptedAnswer": {"@type": "Answer", "text": r}} for q, r in f["faq"]]},
     ]
-    # Auteur : l'équipe juridique (service de l'organisation), sans personne nommée.
+    # Auteur : l'équipe juridique (service de l'organisation), sans personne nommée. La
+    # description ne dit rien d'une relecture : elle est commune à toutes les pages.
     graphe.append({"@type": "Organization", "@id": personne_id, "name": rel["nom"],
-                   "description": rel["presentation"], "url": rel["url_profil"],
+                   "description": "Service de Lumen Juris chargé de la rédaction des modèles de contrat publiés sur "
+                                  "www.lumenjuris.com.", "url": rel["url_profil"],
                    "parentOrganization": ORG, "knowsAbout": rel["domaines"]})
     if image:
         graphe.append(img)
@@ -551,7 +593,7 @@ def page_bibliotheque(etat, publics_seulement=True):
     sections = []
     for cat in sorted(par_cat):
         cartes = "".join(
-            f'<li><a href="{e(f["url"])}">Modèle de {e(f["nom_court"])}</a><p>{e(f["meta_description"][:140])}…</p></li>'
+            f'<li><a href="{e(f["url"])}">Modèle {e(de(f["nom_court"]))}</a><p>{e(f["meta_description"][:140])}…</p></li>'
             for f in sorted(par_cat[cat], key=lambda x: x["nom"]))
         sections.append(f'<h2>{e(cat)}</h2><ul class="lj-cartes">{cartes}</ul>')
     toutes = [fiche(s) for s in slugs]
@@ -561,13 +603,14 @@ def page_bibliotheque(etat, publics_seulement=True):
          "publisher": ORG, "mainEntity": {"@id": f"{BIBLIO_URL}#liste"},
          "breadcrumb": {"@id": f"{BIBLIO_URL}#breadcrumb"}},
         {"@type": "ItemList", "@id": f"{BIBLIO_URL}#liste", "numberOfItems": len(toutes),
-         "itemListElement": [{"@type": "ListItem", "position": i, "url": f["url"], "name": f"Modèle de {f['nom_court']}"}
+         "itemListElement": [{"@type": "ListItem", "position": i, "url": f["url"], "name": f"Modèle {de(f['nom_court'])}"}
                              for i, f in enumerate(toutes, 1)]}]}
     h = [f"<style>{CSS_MIN}</style>",
          '<div class="lj-mc">',
          FIL_ARIANE,
-         '<p class="lj-chapo">Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. '
-         'Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions.</p>',
+         '<p class="lj-chapo">Des modèles de contrat gratuits, rédigés en français clair à partir des textes de loi '
+         'en vigueur. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques '
+         'questions.</p>',
          *sections,
          "</div>",
          f'<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False, separators=(",", ":"))}</script>']
@@ -730,13 +773,8 @@ def envoyer_media(chemin):
 
 
 def sauvegarder(page_id, nom):
-    if _ordre is not None:  # le serveur sauvegarde aussi chaque page avant de la modifier
-        if not isinstance(page_id, int):
-            return Path("(sauvegarde faite par le serveur)")
-        try:
-            return _sauvegarder(page_id, nom)
-        except Exception as err:
-            return Path(f"(lecture impossible : {err} ; sauvegarde faite par le serveur)")
+    if _ordre is not None:  # le serveur sauvegarde chaque page juste avant de la modifier
+        return Path("(sauvegarde faite par le serveur)")
     return _sauvegarder(page_id, nom)
 
 
@@ -774,21 +812,31 @@ def bibliotheque(etat, statut):
     p = ecrire_page(b.get("id"), donnees, BIBLIO_SLUG)
     b.update(id=p["id"], statut=p["status"])
     meta_seo(p["id"], "Modèles juridiques gratuits (Word, PDF) | Lumen Juris",
-             "Bibliothèque de modèles de contrat gratuits relus par une juriste : pacte d'associés, statuts, CGV... "
-             "À télécharger en Word ou PDF, ou à personnaliser en ligne.", "modèle de contrat")
+             "Modèles de contrat gratuits rédigés à partir des textes en vigueur : statuts, CGV, contrats de "
+             "travail... En Word ou PDF, ou à personnaliser en ligne.", "modèle de contrat")
     return p
 
 
-def publier(slug, en_ligne=False, sans_relecture=False):
+def associes_publics(etat):
+    """Modèles associés de chaque page en ligne (pour ne régénérer que celles qui changent)."""
+    return {s: [a["slug"] for a in modeles_associes(s, etat, True)]
+            for s, em in etat["modeles"].items() if em.get("statut") == "publish" and (DOSSIER / s).exists()}
+
+
+def publier(slug, en_ligne=False, sans_relecture=False, forcer=False):
     f = fiche(slug)
     # --sans-relecture : utilisé par la routine quotidienne (choix de Geoff, 25 sept 2026).
     # Les micro-données n'annoncent alors aucune relecture (reviewedBy absent).
     if en_ligne and not f["relecture"]["valide"] and not sans_relecture:
         sys.exit("Refus : la relecture juridique n'est pas validée dans fiche.json "
                  "(relecture.valide = true et date_validation).")
+    if not forcer and controle(slug):
+        sys.exit("Refus : corrigez d'abord les erreurs du contrôle qualité ci-dessus "
+                 "(--forcer pour passer outre, à éviter).")
     if DIFFERE:
         synchroniser()
     etat = lire_etat()
+    avant = associes_publics(etat)
     em = etat["modeles"].setdefault(slug, {})
     sortie = construire(slug)
     ordre_ouvrir("publier-en-ligne" if en_ligne else "publier", slug)
@@ -810,7 +858,7 @@ def publier(slug, en_ligne=False, sans_relecture=False):
     if em.get("image", {}).get("empreinte") != empreinte:
         em["image"] = envoyer_media(image)
         em["image"]["empreinte"] = empreinte
-        api(f"wp/v2/media/{em['image']['id']}", {"alt_text": f"Modèle de {f['nom_court']} gratuit – Lumen Juris"}, "POST")
+        api(f"wp/v2/media/{em['image']['id']}", {"alt_text": f"Modèle {de(f['nom_court'])} gratuit – Lumen Juris"}, "POST")
         print(f"  image envoyée : {em['image']['url']}")
     ecrire_etat(etat)
 
@@ -821,12 +869,12 @@ def publier(slug, en_ligne=False, sans_relecture=False):
                "featured_media": em["image"]["id"],
                "content": page_modele(slug, etat, publics_seulement=statut == "publish")}
     p = ecrire_page(em.get("id"), donnees, slug)
-    em.update(id=p["id"], statut=p["status"], lien=p["link"])
+    em.update(id=p["id"], statut=p["status"], lien=p["link"], gabarit=GABARIT)
     meta_seo(p["id"], f["titre_seo"], f["meta_description"], f["mot_cle"], f["nom"])
     ecrire_etat(etat)
     if en_ligne:
         bibliotheque(etat, "publish")
-        rafraichir_associes(etat, sauf=slug)
+        rafraichir_associes(etat, sauf=slug, avant=avant)
     if _ordre is not None:
         api("elementor/v1/cache", None, "DELETE")
         ordre_fermer(etat)
@@ -845,17 +893,25 @@ def publier(slug, en_ligne=False, sans_relecture=False):
         verifier(f["url"])
 
 
-def rafraichir_associes(etat, sauf):
+def rafraichir_associes(etat, sauf, avant=None):
+    """Régénère les pages en ligne dont les « modèles associés » changent, ou dont le gabarit
+    est plus ancien que GABARIT (sans `avant` : toutes les pages en ligne)."""
+    apres = associes_publics(etat)
     for s, em in etat["modeles"].items():
-        if s != sauf and em.get("statut") == "publish" and em.get("id"):
-            api(f"wp/v2/pages/{em['id']}", {"content": page_modele(s, etat)}, "POST")
-            print(f"  modèles associés mis à jour : {s}")
+        if s == sauf or em.get("statut") != "publish" or not em.get("id") or s not in apres:
+            continue
+        if avant is not None and avant.get(s) == apres[s] and em.get("gabarit") == GABARIT:
+            continue
+        api(f"wp/v2/pages/{em['id']}", {"content": page_modele(s, etat)}, "POST")
+        em["gabarit"] = GABARIT
+        print(f"  page mise à jour (modèles associés ou gabarit) : {s}")
 
 
 def retirer(slug):
     if DIFFERE:
         synchroniser()
     etat = lire_etat()
+    avant = associes_publics(etat)
     em = etat["modeles"][slug]
     ordre_ouvrir("retirer", slug)
     print(f"  sauvegarde : {sauvegarder(em['id'], slug).name}")
@@ -863,7 +919,7 @@ def retirer(slug):
     em["statut"] = "draft"
     ecrire_etat(etat)
     bibliotheque(etat, etat.get("bibliotheque", {}).get("statut", "draft"))
-    rafraichir_associes(etat, sauf=slug)
+    rafraichir_associes(etat, sauf=slug, avant=avant)
     if _ordre is not None:
         ordre_fermer(etat)
         print(f"{slug} : retrait confié au serveur (la page repassera en brouillon à son prochain passage).")
@@ -947,6 +1003,273 @@ def liste():
         print(f"{s:<35} {em.get('statut', 'jamais publié'):<14} {rel:<22} {lien}")
 
 
+# --------------------------------------------------------------------------
+# Routine quotidienne : préparer -> (rédaction) -> controler -> publier -> terminer
+# --------------------------------------------------------------------------
+
+MOTS_CLES = DOSSIER / "mots-cles.txt"
+JOURNAL = DOSSIER / "journal-routine.txt"
+EN_COURS = DOSSIER / ".en-cours.json"  # contrat du jour, pour reprendre un passage interrompu
+A_COMPLETER = "À COMPLÉTER"
+GENERIQUES = MOTS_VIDES | {"contrat", "modele", "type", "gratuit", "exemple", "entre", "avec"}
+
+
+def controle(slug, afficher=True):
+    """Contrôle qualité automatique (outils/qualite_modele.py). Renvoie le nombre d'erreurs."""
+    import qualite_modele
+    autres = [DOSSIER / s for s in tous_les_slugs() if s != slug]
+    erreurs, avertissements, a_relire = qualite_modele.controler(DOSSIER / slug, autres)
+    if afficher:
+        print(f"Contrôle qualité de {slug} : {len(erreurs)} erreur(s), {len(avertissements)} avertissement(s)")
+        for x in erreurs:
+            print(f"  ERREUR  {x}")
+        for x in avertissements:
+            print(f"  attention  {x}")
+        print("À relire vous-même (exactitude) :")
+        for x in a_relire:
+            print(f"  - {x}")
+    return len(erreurs)
+
+
+def slugifier(texte):
+    s = unicodedata.normalize("NFKD", re.sub(r"\([^)]*\)", "", texte).lower())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
+def lignes_a_faire():
+    return [l.strip() for l in MOTS_CLES.read_text(encoding="utf-8").splitlines()
+            if l.strip() and not l.strip().startswith(("#", "["))]
+
+
+def cocher(ligne, suite):
+    lignes = MOTS_CLES.read_text(encoding="utf-8").splitlines()
+    for i, l in enumerate(lignes):
+        if l.strip() == ligne:
+            lignes[i] = f"[x] {date.today()} {ligne} -> {suite}"
+            MOTS_CLES.write_text("\n".join(lignes) + "\n", encoding="utf-8")
+            return
+    print(f"  (ligne « {ligne} » introuvable dans mots-cles.txt : rien à cocher)")
+
+
+def noter_journal(texte):
+    with JOURNAL.open("a", encoding="utf-8") as j:
+        j.write(texte.rstrip("\n") + "\n")
+
+
+def jetons(texte):
+    import qualite_modele
+    return {m for m in qualite_modele.mots(texte) if m not in GENERIQUES}
+
+
+def pages_proches(ligne):
+    """Pages existantes qui visent peut-être la même recherche (risque de doublon pour Google)."""
+    import qualite_modele
+    cherche, j = " ".join(qualite_modele.mots(ligne)), jetons(ligne)
+    res = []
+    for s in tous_les_slugs():
+        f = fiche(s)
+        cibles = [f["nom_court"], f["mot_cle"], *f.get("mots_cles_secondaires", [])]
+        exact = any(cherche in " ".join(qualite_modele.mots(c)) for c in cibles)
+        score = max((len(j & jetons(c)) / len(j | jetons(c)) for c in cibles if j | jetons(c)), default=0)
+        if exact or score >= 0.34:
+            res.append((1.0 if exact else score, s, f))
+    return sorted(res, key=lambda x: -x[0])[:3]
+
+
+def creer_squelette(ligne, slug):
+    """Dossier du modèle prérempli : seuls les « À COMPLÉTER » restent à écrire."""
+    d = DOSSIER / slug
+    d.mkdir()
+    nom_court = re.sub(r"\s*\([^)]*\)", "", ligne).strip()
+    aujourd_hui = str(date.today())
+    categories = sorted({fiche(s)["categorie"] for s in tous_les_slugs()})
+    f = {
+        "slug": slug,
+        "nom": nom_court[:1].upper() + nom_court[1:],
+        "nom_court": nom_court,
+        "categorie": f"{A_COMPLETER} : une catégorie existante ({' / '.join(categories)}) ou une nouvelle",
+        "mot_cle": f"modèle {nom_court}",
+        "mots_cles_secondaires": [f"{A_COMPLETER} : 3 à 8 recherches proches réellement tapées"],
+        "titre_h1": f"Modèle {de(nom_court)} gratuit (Word et PDF)",
+        "titre_seo": f"Modèle {de(nom_court)} gratuit {date.today().year} (Word, PDF) | Lumen Juris",
+        "meta_description": f"{A_COMPLETER} : 120 à 160 caractères, ce que contient le modèle et pour qui",
+        "chapo": f"{A_COMPLETER} : 2 phrases, à quoi sert ce document et ce que propose la page",
+        "public": f"{A_COMPLETER} : à qui s'adresse le modèle (ex. « Employeurs et salariés »)",
+        "gratuit": True,
+        "fichier_base": f"modele-{slug}-lumen-juris",
+        "date_publication": aujourd_hui,
+        "date_mise_a_jour": aujourd_hui,
+        "relecture": {
+            "nom": "L'équipe juridique de Lumen Juris",
+            "fonction": "Rédaction et relecture des modèles de contrat",
+            "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe "
+                            "juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre "
+                            "des clauses entre les parties.",
+            "url_profil": f"{SITE}/qui-sommes-nous/",
+            "domaines": [f"{A_COMPLETER} : 2 ou 3 domaines du droit (ex. « Droit du travail »)"],
+            "valide": False,
+            "date_validation": None,
+        },
+        "etapes": [[f"{A_COMPLETER} : titre de l'étape {i}", f"{A_COMPLETER} : ce que l'utilisateur fait, propre à ce contrat"]
+                   for i in range(1, 6)],
+        "faq": [[f"{A_COMPLETER} : question réellement posée sur ce contrat {i} ?", f"{A_COMPLETER} : réponse exacte, 2 à 4 phrases"]
+                for i in range(1, 7)],
+        "sources": [[f"{A_COMPLETER} : Code …, articles … (objet)", "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"],
+                    [f"{A_COMPLETER} : Code …, articles … (objet)", "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"]],
+        "personnaliser": {"doc": doc_app(slug)},
+    }
+    (d / "fiche.json").write_text(json.dumps(f, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    t = f"{A_COMPLETER} : titre propre à ce contrat"
+    (d / "article.html").write_text(f"""<h2 id="definition">{t} (définition, à quoi il sert, qui le signe)</h2>
+<p>{A_COMPLETER}</p>
+
+<h2 id="comparatif">{t} (comparaison utile au lecteur : ce contrat ou un autre ? quelle option choisir ?)</h2>
+<div class="lj-table-wrap">
+<table class="lj-table">
+<thead><tr><th scope="col"></th><th scope="col">{A_COMPLETER}</th><th scope="col">{A_COMPLETER}</th></tr></thead>
+<tbody>
+<tr><th scope="row">{A_COMPLETER}</th><td>{A_COMPLETER}</td><td>{A_COMPLETER}</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 id="clauses">{t} (clauses essentielles et mentions obligatoires)</h2>
+<ul class="lj-clauses">
+<li><strong>{A_COMPLETER}</strong> : {A_COMPLETER}</li>
+</ul>
+
+<h2 id="cas-particuliers">{t} (situation particulière propre à ce contrat)</h2>
+<p>{A_COMPLETER}</p>
+
+<h2 id="erreurs">{t} (erreurs fréquentes propres à ce contrat)</h2>
+<ul>
+<li><strong>{A_COMPLETER}</strong> : {A_COMPLETER}</li>
+</ul>
+
+<h2 id="relecture">{t} (quand faire relire, cas où le modèle ne suffit pas)</h2>
+<p>{A_COMPLETER}</p>
+""", encoding="utf-8")
+    (d / "modele.txt").write_text(f"""# {A_COMPLETER} : TITRE DU CONTRAT EN MAJUSCULES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[{A_COMPLETER} : identité complète de chaque partie]
+
+## ARTICLE 1 – {A_COMPLETER}
+
+{A_COMPLETER}
+""", encoding="utf-8")
+
+
+def preparer():
+    """Tout ce qui précède la rédaction : environnement, synchronisation, contrat du jour,
+    doublons, dossier prérempli. Affiche un résumé de ce qu'il reste à faire."""
+    print("Environnement :")
+    try:
+        import docx  # noqa: F401
+        print("  Word (python-docx) : prêt")
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "python-docx"], check=True)
+        print("  Word (python-docx) : installé")
+    print(f"  navigateur pour le PDF et l'image : {EDGE if Path(EDGE).exists() else 'INTROUVABLE (PDF et image impossibles)'}")
+    if DIFFERE:
+        print("  publication : par le serveur o2switch (ordres sur GitHub)")
+        synchroniser()
+    if EN_COURS.exists():
+        c = json.loads(EN_COURS.read_text(encoding="utf-8"))
+        if (DOSSIER / c["slug"] / "fiche.json").exists():
+            print(f"\nREPRISE du contrat commencé le {c['date']} : {c['ligne']} (dossier {c['slug']})")
+            return resume(c["ligne"], c["slug"])
+        EN_COURS.unlink()
+    while True:
+        a_faire = lignes_a_faire()
+        if not a_faire:
+            print("\nListe de mots-clés vide : ajoutez des contrats dans mots-cles.txt")
+            return
+        ligne = a_faire[0]
+        slug = slugifier(ligne)
+        if (DOSSIER / slug / "fiche.json").exists():
+            cocher(ligne, f"doublon : le modèle existe déjà ({BIBLIO_URL}{slug}/)")
+            noter_journal(f"{date.today()} | {ligne} | - | doublon : le dossier {slug} existe déjà, ligne cochée")
+            print(f"\n« {ligne} » existe déjà : ligne cochée comme doublon, contrat suivant.")
+            continue
+        break
+    creer_squelette(ligne, slug)
+    EN_COURS.write_text(json.dumps({"ligne": ligne, "slug": slug, "date": str(date.today())}, ensure_ascii=False),
+                        encoding="utf-8")
+    resume(ligne, slug)
+
+
+def resume(ligne, slug):
+    print(f"\nCONTRAT DU JOUR : {ligne}")
+    print(f"  dossier : wordpress-vitrine/modeles-contrat/{slug}/ (fiche.json, article.html, modele.txt)")
+    print(f"  adresse prévue : {BIBLIO_URL}{slug}/")
+    proches = pages_proches(ligne)
+    if proches:
+        print("\nPAGES EXISTANTES PROCHES : même recherche Google ? (deux pages pour la même intention = doublon)")
+        for score, s, f in proches:
+            print(f"  - {s} : « {f['nom']} » ({score:.0%}) – mots-clés : {', '.join(f.get('mots_cles_secondaires', [])[:5])}")
+        print("  Si le document et l'usage sont les mêmes, n'écrivez pas de page :")
+        print('    python outils/modeles_contrat.py ecarter "même intention que <slug> : <explication>"')
+    else:
+        print("\nAucune page existante proche.")
+    print("\nPages en ligne (pour les liens et la cohérence) :")
+    etat = lire_etat()
+    for s in tous_les_slugs():
+        if s != slug:
+            print(f"  - {s} ({etat['modeles'].get(s, {}).get('statut', 'jamais publié')}) : {fiche(s)['categorie']}")
+    print("\nÀ FAIRE : remplacer tous les « À COMPLÉTER » (compétence routine-modele-contrat), puis :")
+    print(f"  python outils/modeles_contrat.py controler {slug}")
+
+
+def terminer(slug, mode):
+    """Coche la ligne de mots-cles.txt et écrit le journal, après « publier »."""
+    f = fiche(slug)
+    c = json.loads(EN_COURS.read_text(encoding="utf-8")) if EN_COURS.exists() else {}
+    etat = lire_etat()
+    ordre = next((o for o in reversed(etat.get("ordres_en_attente", [])) if o.endswith(f"-{slug}")), None)
+    test = mode.lower() == "test"
+    if c.get("slug") == slug:
+        cocher(c["ligne"], f["url"] + (" (brouillon test)" if test else ""))
+    noter_journal(f"{date.today()} | {f['nom']} | {f['url']} | mode {'TEST (brouillon)' if test else 'NORMAL (en ligne)'} : "
+                  + (f"ordre {ordre} confié au serveur o2switch" if ordre else
+                     f"page {etat['modeles'].get(slug, {}).get('id')} ({etat['modeles'].get(slug, {}).get('statut')})")
+                  + " ; contrôle qualité réussi ; vérifications en ligne au prochain passage (synchroniser)")
+    EN_COURS.unlink(missing_ok=True)
+    print("mots-cles.txt et journal-routine.txt à jour. Reste à enregistrer sur GitHub :")
+    print('  git add wordpress-vitrine/modeles-contrat && git commit -m "Modèle du jour : …" && git push origin claude/modeles-contrat')
+
+
+def ecarter(raison):
+    """Le contrat du jour n'aura pas de page (doublon d'intention, trop risqué…) : ligne cochée avec la raison."""
+    if not EN_COURS.exists():
+        sys.exit("Aucun contrat en cours : lancez d'abord « preparer ».")
+    c = json.loads(EN_COURS.read_text(encoding="utf-8"))
+    cocher(c["ligne"], f"écarté : {raison}")
+    noter_journal(f"{date.today()} | {c['ligne']} | - | écarté : {raison}")
+    d = DOSSIER / c["slug"]
+    fichiers = [d / n for n in ("fiche.json", "article.html", "modele.txt") if (d / n).exists()]
+    if d.exists() and all(A_COMPLETER in p.read_text(encoding="utf-8") for p in fichiers):
+        shutil.rmtree(d)  # squelette jamais rempli
+    elif d.exists():
+        print(f"  dossier {c['slug']} conservé : il contient déjà du texte rédigé")
+    EN_COURS.unlink()
+    print(f"« {c['ligne']} » écarté ({raison}). Relancez « preparer » pour le contrat suivant.")
+
+
+def valider(slug):
+    """À lancer seulement quand la juriste a réellement relu le modèle."""
+    p = DOSSIER / slug / "fiche.json"
+    f = json.loads(p.read_text(encoding="utf-8"))
+    f["relecture"].update(valide=True, date_validation=str(date.today()))
+    p.write_text(json.dumps(f, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{slug} : relecture enregistrée au {date_fr(str(date.today()))}. Pour l'afficher sur le site :")
+    print(f"  python outils/modeles_contrat.py publier {slug} --en-ligne")
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     cmd, args = sys.argv[1], sys.argv[2:]
@@ -954,7 +1277,8 @@ if __name__ == "__main__":
         construire(args[0])
         apercu(args[0], lire_etat())
     elif cmd == "publier":
-        publier(args[0], en_ligne="--en-ligne" in args, sans_relecture="--sans-relecture" in args)
+        publier(args[0], en_ligne="--en-ligne" in args, sans_relecture="--sans-relecture" in args,
+                forcer="--forcer" in args)
         apercu(args[0], lire_etat())
     elif cmd == "retirer":
         retirer(args[0])
@@ -962,5 +1286,15 @@ if __name__ == "__main__":
         liste()
     elif cmd == "synchroniser":
         synchroniser()
+    elif cmd == "preparer":
+        preparer()
+    elif cmd == "controler":
+        sys.exit(1 if controle(args[0]) else 0)
+    elif cmd == "terminer":
+        terminer(args[0], args[args.index("--mode") + 1] if "--mode" in args else "normal")
+    elif cmd == "ecarter":
+        ecarter(" ".join(args))
+    elif cmd == "valider":
+        valider(args[0])
     else:
         sys.exit(__doc__)
