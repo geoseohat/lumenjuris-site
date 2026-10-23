@@ -1,0 +1,119 @@
+{
+  "slug": "statuts-sarl",
+  "nom": "Statuts de SARL",
+  "nom_court": "statuts de SARL",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts SARL",
+  "mots_cles_secondaires": [
+    "statuts SARL",
+    "statuts SARL gratuit",
+    "modèle statuts EURL",
+    "exemple statuts SARL",
+    "rédiger les statuts d'une SARL",
+    "statuts société à responsabilité limitée"
+  ],
+  "titre_h1": "Modèle de statuts de SARL gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts de SARL gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de statuts de SARL gratuit en Word ou PDF : capital, gérance, cession de parts, décisions des associés, notes pour EURL. Personnalisable en ligne.",
+  "chapo": "Les statuts sont l'acte de naissance de votre SARL : ils fixent son nom, son activité, son capital, qui la gère et comment les associés décident. Voici un modèle complet et gratuit pour une SARL à plusieurs associés, avec des notes pour l'adapter à une EURL.",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-sarl-lumen-juris",
+  "date_publication": "2026-10-23",
+  "date_mise_a_jour": "2026-10-23",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit des contrats",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez les associés et la société",
+      "Complétez l'identité et la situation de famille de chaque associé, la dénomination, le siège, l'objet précis de l'activité et la date de clôture des comptes."
+    ],
+    [
+      "Indiquez les apports et le capital",
+      "Renseignez le montant apporté par chacun, le nombre de parts sociales et leur répartition en annexe 1. Ajoutez les articles sur les apports en nature et sur le conjoint seulement s'ils vous concernent."
+    ],
+    [
+      "Choisissez vos règles de fonctionnement",
+      "Nommez le premier gérant, puis gardez, adaptez ou supprimez les passages marqués « Option » : limites de pouvoirs, consultation écrite, cessions entre proches, décès d'un associé."
+    ],
+    [
+      "Signez et immatriculez",
+      "Supprimez les notes de rédaction, déposez les fonds, faites signer tous les associés, puis déclarez la société sur le guichet unique des formalités d'entreprises."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel capital minimum pour créer une SARL ?",
+      "Il n'y a pas de minimum légal : le capital est fixé librement par les statuts. Un capital trop faible peut toutefois inquiéter une banque ou un fournisseur, et il doit rester cohérent avec les besoins de l'activité."
+    ],
+    [
+      "Faut-il verser tout le capital dès la création ?",
+      "Non. Les apports en argent doivent être versés pour un cinquième au moins à la création. Le reste est appelé par la gérance, au plus tard dans les cinq ans qui suivent l'immatriculation."
+    ],
+    [
+      "Ce modèle convient-il pour une EURL ?",
+      "Oui. L'EURL est une SARL qui n'a qu'un seul associé. Suivez les notes « EURL » du modèle : l'associé unique prend seul les décisions et les consigne dans un registre."
+    ],
+    [
+      "Le gérant d'une SARL peut-il être une société ?",
+      "Non. En SARL, le ou les gérants sont obligatoirement des personnes physiques, associées ou non. C'est une différence importante avec la SAS, dont le Président peut être une société."
+    ],
+    [
+      "Peut-on vendre ses parts de SARL librement ?",
+      "Entre associés, et en principe au profit d'un conjoint, d'un ascendant ou d'un descendant, oui, sauf clause contraire des statuts. La vente à une personne extérieure exige l'accord de la majorité des associés représentant au moins la moitié des parts. En cas de refus, les associés doivent racheter ou faire racheter les parts."
+    ],
+    [
+      "Comment révoquer le gérant d'une SARL ?",
+      "Par une décision des associés représentant plus de la moitié des parts sociales, sauf majorité plus forte prévue par les statuts. Si la révocation est décidée sans juste motif, le gérant peut obtenir des dommages et intérêts."
+    ],
+    [
+      "Quelles démarches après la signature des statuts ?",
+      "Il faut publier un avis de constitution dans un support d'annonces légales, puis déclarer la société sur le guichet unique des formalités d'entreprises, avec les statuts signés, l'attestation de dépôt des fonds et les justificatifs demandés. La société existe juridiquement à partir de son immatriculation."
+    ],
+    [
+      "Peut-on rédiger les statuts d'une SARL soi-même ?",
+      "Oui. Aucune loi n'impose de passer par un professionnel pour rédiger les statuts d'une SARL, mais l'apport d'un bien immobilier exige l'intervention d'un notaire pour les formalités de publicité foncière. Une relecture reste recommandée dès que la répartition du capital est déséquilibrée ou que l'activité est réglementée."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 223-1 à L. 223-43 (règles propres à la société à responsabilité limitée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, article L. 210-6 (personnalité morale et reprise des actes accomplis pendant la formation de la société)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 232-10 et L. 232-13 (réserve légale et mise en paiement des dividendes)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1832 à 1844-17 (dispositions communes à toutes les sociétés, dont l'article 1832-2 sur le conjoint de l'associé)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, article 1843-4 (expertise du prix de cession des droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-sarl",
+    "titre": "statuts de SARL",
+    "accroche": "Répondez à quelques questions et obtenez des statuts de SARL remplis à votre nom, prêts à signer en ligne."
+  }
+}

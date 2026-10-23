@@ -1,0 +1,312 @@
+# STATUTS DE SOCIÉTÉ À RESPONSABILITÉ LIMITÉE
+
+> Modèle gratuit Lumen Juris pour une SARL comptant plusieurs associés, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature. Pour une SARL à associé unique (EURL), suivez les notes « EURL ».
+
+[Dénomination sociale]
+Société à responsabilité limitée au capital de [montant] euros
+Siège social : [adresse complète]
+
+LES SOUSSIGNÉS :
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], [marié(e) sous le régime de [régime matrimonial] avec [Prénom Nom du conjoint] / pacsé(e) / célibataire],
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], [situation de famille],
+
+[Dénomination de la société associée], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ont établi ainsi qu'il suit les statuts de la société à responsabilité limitée qu'ils sont convenus de constituer entre eux.
+
+## TITRE I – FORME, OBJET, DÉNOMINATION, SIÈGE, DURÉE
+
+## ARTICLE 1 – FORME
+
+Il est formé entre les propriétaires des parts sociales ci-après créées et de celles qui pourraient l'être ultérieurement une société à responsabilité limitée (la « Société »), régie par les articles L. 223-1 et suivants du Code de commerce, par les autres dispositions légales et réglementaires en vigueur et par les présents statuts (les « Statuts »).
+
+La Société peut comporter un ou plusieurs associés, dans la limite de cent.
+
+> EURL : écrivez « Il est formé par [Prénom Nom / Dénomination], associé unique, une société à responsabilité limitée… ». L'associé unique exerce seul les pouvoirs dévolus à l'assemblée des associés et ne peut pas les déléguer.
+
+## ARTICLE 2 – OBJET
+
+La Société a pour objet, en France et à l'étranger : [description précise de l'activité].
+
+Et, plus généralement, toutes opérations industrielles, commerciales, financières, mobilières ou immobilières pouvant se rattacher directement ou indirectement à cet objet ou à tout objet similaire ou connexe, de nature à favoriser son développement.
+
+> Note de rédaction : décrivez l'activité réellement exercée. Certaines activités (professions réglementées, transport, immobilier, débit de boissons, etc.) exigent un diplôme, une autorisation ou une carte professionnelle : vérifiez-le avant l'immatriculation.
+
+## ARTICLE 3 – DÉNOMINATION
+
+La dénomination de la Société est : [Dénomination sociale].
+
+Dans tous les actes et documents émanant de la Société et destinés aux tiers, la dénomination est précédée ou suivie immédiatement des mots « société à responsabilité limitée » ou des initiales « SARL » et de l'énonciation du montant du capital social.
+
+## ARTICLE 4 – SIÈGE SOCIAL
+
+Le siège social est fixé : [adresse complète].
+
+Il peut être transféré sur le territoire français par décision de la gérance, sous réserve de ratification par décision des associés représentant plus de la moitié des parts sociales. Tout autre transfert relève d'une décision collective extraordinaire.
+
+## ARTICLE 5 – DURÉE
+
+La durée de la Société est de [quatre-vingt-dix-neuf] années à compter de son immatriculation au registre du commerce et des sociétés, sauf dissolution anticipée ou prorogation.
+
+> Note de rédaction : la durée ne peut pas dépasser quatre-vingt-dix-neuf ans.
+
+## ARTICLE 6 – EXERCICE SOCIAL
+
+L'exercice social commence le [1er janvier] et se termine le [31 décembre] de chaque année.
+
+Par exception, le premier exercice commence à la date d'immatriculation de la Société et se termine le [date de clôture du premier exercice].
+
+## TITRE II – APPORTS, CAPITAL, PARTS SOCIALES
+
+## ARTICLE 7 – APPORTS
+
+Les associés font les apports suivants à la Société :
+
+### 7.1 Apports en numéraire
+
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+
+soit au total la somme de [montant] euros, correspondant à [nombre] parts sociales de [valeur nominale] euros chacune, souscrites en totalité et libérées à hauteur de [la totalité / [fraction, au moins un cinquième]] de leur montant.
+
+Les fonds correspondants ont été déposés au crédit d'un compte ouvert au nom de la Société en formation auprès de [banque / notaire / Caisse des dépôts et consignations], ainsi qu'il résulte du certificat du dépositaire annexé aux Statuts.
+
+> Note de rédaction : les parts souscrites en argent doivent être libérées d'au moins un cinquième de leur montant lors de la constitution. Le solde doit être versé, sur décision de la gérance, dans un délai de cinq ans à compter de l'immatriculation.
+
+### 7.2 Apports en nature
+
+> Option : supprimez cet article s'il n'y a que des apports d'argent.
+
+[Prénom Nom / Dénomination] apporte à la Société [description précise du bien apporté], évalué à [montant] euros, en rémunération duquel il lui est attribué [nombre] parts sociales.
+
+Cette évaluation résulte du rapport de [Prénom Nom], commissaire aux apports désigné [à l'unanimité des futurs associés / par décision de justice], annexé aux Statuts.
+
+> Note de rédaction : un commissaire aux apports doit en principe évaluer chaque apport en nature. Les futurs associés peuvent l'écarter à l'unanimité seulement dans les limites fixées par la loi ; ils restent alors responsables, pendant cinq ans, de la valeur attribuée aux apports.
+
+### 7.3 Déclaration relative aux conjoints
+
+> Option : à compléter pour chaque associé marié sous un régime de communauté qui apporte des biens communs.
+
+[Prénom Nom du conjoint], conjoint de [Prénom Nom de l'associé], intervient aux présentes et déclare avoir été averti de l'apport de biens communs fait par son conjoint, et [vouloir être personnellement associé pour la moitié des parts souscrites / renoncer à la qualité d'associé pour les parts souscrites au moyen de biens communs].
+
+> Note de rédaction : l'époux qui apporte des biens communs doit en informer son conjoint et le justifier dans l'acte (article 1832-2 du Code civil). Le conjoint peut alors revendiquer la qualité d'associé.
+
+## ARTICLE 8 – CAPITAL SOCIAL
+
+Le capital social est fixé à la somme de [montant] euros. Il est divisé en [nombre] parts sociales de [valeur nominale] euros chacune, numérotées de [1] à [nombre] et attribuées aux associés en proportion de leurs apports, comme indiqué en Annexe 1.
+
+## ARTICLE 9 – MODIFICATION DU CAPITAL
+
+Le capital social peut être augmenté ou réduit dans les conditions prévues par la loi, par décision collective extraordinaire des associés.
+
+En cas d'augmentation du capital, les nouvelles parts sociales sont souscrites et libérées dans les conditions prévues par la loi. L'admission d'un tiers à l'occasion d'une augmentation de capital est soumise à l'agrément prévu à l'article 11.
+
+## ARTICLE 10 – DROITS ATTACHÉS AUX PARTS SOCIALES
+
+Chaque part sociale donne droit, dans les bénéfices et dans l'actif social, à une part proportionnelle à la quotité du capital qu'elle représente, et à une voix lors des décisions collectives.
+
+Les associés ne supportent les pertes qu'à concurrence de leurs apports.
+
+La propriété d'une part sociale emporte de plein droit adhésion aux Statuts et aux décisions collectives des associés.
+
+Les parts sociales ne peuvent pas être représentées par des titres négociables. Elles sont indivisibles à l'égard de la Société. Les copropriétaires indivis sont représentés par l'un d'eux ou par un mandataire unique. En cas de démembrement, le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant l'affectation des bénéfices, où il est réservé à l'usufruitier.
+
+## ARTICLE 11 – CESSION ET TRANSMISSION DES PARTS SOCIALES
+
+### 11.1 Forme de la cession
+
+La cession de parts sociales est constatée par écrit. Elle n'est opposable à la Société qu'après lui avoir été signifiée, ou acceptée par elle dans un acte authentique, ou après dépôt d'un original de l'acte de cession au siège social contre remise par la gérance d'une attestation de ce dépôt. Elle n'est opposable aux tiers qu'après l'accomplissement de ces formalités et après publicité par dépôt au registre du commerce et des sociétés.
+
+### 11.2 Cessions libres
+
+Les parts sociales sont librement cessibles entre associés, ainsi qu'au profit des conjoints, ascendants et descendants des associés.
+
+> Option : les Statuts peuvent soumettre aussi ces cessions à l'agrément des associés. Remplacez alors cet article par une clause d'agrément dont vous fixez la majorité.
+
+### 11.3 Cessions à des tiers : agrément
+
+Les parts sociales ne peuvent être cédées à des tiers étrangers à la Société qu'avec le consentement de la majorité des associés représentant au moins [la moitié] des parts sociales.
+
+Le projet de cession est notifié à la Société et à chacun des associés par acte de commissaire de justice ou par lettre recommandée avec demande d'avis de réception. La gérance consulte les associés dans les conditions prévues par la loi. Si la Société n'a pas fait connaître sa décision dans un délai de trois mois à compter de la dernière des notifications, le consentement à la cession est réputé acquis.
+
+En cas de refus d'agrément, les associés sont tenus, dans un délai de trois mois à compter de ce refus, d'acquérir ou de faire acquérir les parts à un prix fixé dans les conditions de l'article 1843-4 du Code civil. La Société peut également, avec le consentement de l'associé cédant, décider de réduire son capital du montant de la valeur nominale de ses parts et de racheter ces parts au même prix. Si aucune de ces solutions n'intervient dans le délai, l'associé peut réaliser la cession initialement prévue. Ces règles s'appliquent dans les conditions et délais prévus par l'article L. 223-14 du Code de commerce.
+
+> Note de rédaction : vous pouvez prévoir une majorité plus forte que la moitié des parts, mais pas plus faible.
+
+### 11.4 Décès d'un associé
+
+En cas de décès d'un associé, la Société continue entre les associés survivants et les héritiers ou ayants droit de l'associé décédé, [librement / sous réserve de leur agrément par la majorité des associés représentant au moins la moitié des parts sociales, dans les conditions prévues par la loi].
+
+## TITRE III – GÉRANCE
+
+## ARTICLE 12 – NOMINATION DES GÉRANTS
+
+La Société est gérée par une ou plusieurs personnes physiques, associées ou non.
+
+Le ou les premiers gérants sont désignés à l'article 26 des Statuts. Les gérants suivants sont nommés par décision des associés représentant plus de la moitié des parts sociales, pour une durée [indéterminée / de [nombre] ans renouvelable].
+
+## ARTICLE 13 – POUVOIRS DE LA GÉRANCE
+
+Dans les rapports avec les associés, la gérance peut faire tous actes de gestion dans l'intérêt de la Société.
+
+> Option : à titre interne, vous pouvez soumettre certaines opérations (emprunt au-delà de [montant] euros, cession d'un actif important, embauche d'un cadre dirigeant) à l'autorisation préalable des associés. Ces limitations ne sont pas opposables aux tiers.
+
+Dans les rapports avec les tiers, chaque gérant est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société, sous réserve des pouvoirs que la loi attribue expressément aux associés. La Société est engagée même par les actes du gérant qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances.
+
+En cas de pluralité de gérants, chacun d'eux détient séparément ces pouvoirs. L'opposition formée par un gérant aux actes d'un autre gérant est sans effet à l'égard des tiers, à moins qu'il ne soit établi qu'ils en ont eu connaissance.
+
+## ARTICLE 14 – RÉMUNÉRATION ET FIN DES FONCTIONS
+
+La rémunération éventuelle de chaque gérant est fixée par décision ordinaire des associés. Chaque gérant a droit au remboursement de ses frais engagés dans l'intérêt de la Société, sur justificatifs.
+
+Les fonctions de gérant prennent fin par l'arrivée du terme, la démission, l'incapacité, le décès ou la révocation.
+
+Un gérant peut démissionner en prévenant les associés au moins [trois] mois à l'avance, sauf accord des associés sur un délai plus court.
+
+Un gérant peut être révoqué par décision des associés représentant plus de la moitié des parts sociales. Si la révocation est décidée sans juste motif, elle peut donner lieu à des dommages et intérêts. Le gérant peut également être révoqué par les tribunaux pour cause légitime, à la demande de tout associé.
+
+## ARTICLE 15 – CONVENTIONS RÉGLEMENTÉES
+
+La gérance ou, s'il en existe un, le commissaire aux comptes présente à l'assemblée qui statue sur les comptes de l'exercice un rapport sur les conventions intervenues, directement ou par personne interposée, entre la Société et l'un de ses gérants ou associés. L'assemblée statue sur ce rapport ; le gérant ou l'associé intéressé ne peut pas prendre part au vote et ses parts ne sont pas prises en compte pour le calcul du quorum et de la majorité.
+
+Toutefois, en l'absence de commissaire aux comptes, les conventions conclues par un gérant non associé sont soumises à l'approbation préalable de l'assemblée.
+
+Les conventions non approuvées produisent néanmoins leurs effets, à charge pour le gérant et, le cas échéant, pour l'associé contractant, de supporter individuellement ou solidairement les conséquences du contrat préjudiciables à la Société.
+
+Ces règles ne s'appliquent pas aux conventions portant sur des opérations courantes conclues à des conditions normales.
+
+Il est interdit aux gérants et aux associés autres que les personnes morales, ainsi qu'à leurs conjoints, ascendants, descendants et personnes interposées, de contracter, sous quelque forme que ce soit, des emprunts auprès de la Société, de se faire consentir par elle un découvert en compte courant ou autrement, ou de lui faire cautionner ou avaliser leurs engagements envers les tiers.
+
+> EURL : lorsque la convention est conclue avec l'associé unique, il en est seulement fait mention au registre des décisions.
+
+## ARTICLE 16 – COMMISSAIRES AUX COMPTES
+
+Les associés désignent un ou plusieurs commissaires aux comptes lorsque la loi l'impose, notamment lorsque la Société dépasse les seuils fixés par décret, ou lorsqu'ils le jugent utile.
+
+## TITRE IV – DÉCISIONS COLLECTIVES DES ASSOCIÉS
+
+## ARTICLE 17 – MODALITÉS
+
+Les décisions collectives sont prises en assemblée. Toutefois, à l'exception de l'approbation des comptes annuels, elles peuvent aussi être prises par consultation écrite des associés ou résulter du consentement de tous les associés exprimé dans un acte.
+
+> Option : supprimez la phrase précédente si vous souhaitez que toutes les décisions soient prises en assemblée.
+
+L'assemblée est convoquée par la gérance ou, à défaut, dans les conditions prévues par la loi. Un ou plusieurs associés détenant la moitié des parts sociales, ou détenant, s'ils représentent au moins le dixième des associés, le dixième des parts sociales, peuvent demander la réunion d'une assemblée.
+
+Les associés sont convoqués quinze jours au moins avant la réunion, par lettre recommandée ou, pour les associés qui l'ont accepté, par voie électronique. La convocation indique l'ordre du jour. Les associés peuvent participer à l'assemblée par visioconférence ou par un moyen de télécommunication permettant leur identification, dans les conditions prévues par la loi et les règlements.
+
+En cas de consultation écrite, le texte des résolutions et les documents nécessaires sont adressés à chaque associé, qui dispose d'un délai d'au moins quinze jours à compter de leur réception pour émettre son vote par écrit.
+
+Un associé peut se faire représenter par son conjoint, à moins que la Société ne comprenne que les deux époux. Sauf si les associés sont au nombre de deux, un associé peut aussi se faire représenter par un autre associé. [Un associé peut également se faire représenter par toute autre personne de son choix.] Le mandataire justifie d'un pouvoir écrit.
+
+> EURL : l'associé unique prend seul les décisions. Elles sont répertoriées dans un registre. S'il est aussi gérant, il approuve les comptes dans les conditions simplifiées prévues par l'article L. 223-31 du Code de commerce.
+
+## ARTICLE 18 – DÉCISIONS ORDINAIRES
+
+Les décisions qui ne modifient pas les Statuts, notamment l'approbation des comptes, l'affectation du résultat, la nomination et la révocation des gérants et des commissaires aux comptes et l'approbation des conventions réglementées, sont adoptées par un ou plusieurs associés représentant plus de la moitié des parts sociales.
+
+Si cette majorité n'est pas obtenue, et sauf pour la nomination et la révocation des gérants, les associés sont, selon le cas, convoqués ou consultés une seconde fois, et les décisions sont prises à la majorité des votes émis, quel que soit le nombre de votants.
+
+## ARTICLE 19 – DÉCISIONS EXTRAORDINAIRES
+
+Les décisions qui modifient les Statuts ne sont valablement prises en assemblée que si les associés présents ou représentés possèdent au moins, sur première convocation, le quart des parts sociales et, sur deuxième convocation, le cinquième de celles-ci. Elles sont adoptées à la majorité des deux tiers des parts détenues par les associés présents ou représentés.
+
+Par exception :
+
+- l'augmentation du capital par incorporation de bénéfices ou de réserves est décidée par les associés représentant au moins la moitié des parts sociales ;
+- l'augmentation des engagements d'un associé, le changement de nationalité de la Société et les autres décisions pour lesquelles la loi l'exige sont décidés à l'unanimité.
+
+> Note de rédaction : vous pouvez prévoir un quorum ou une majorité plus forts, mais pas l'unanimité pour toutes les modifications des Statuts. Évitez des seuils qui permettraient à un seul associé minoritaire de bloquer la Société.
+
+## ARTICLE 20 – PROCÈS-VERBAUX ET DROIT D'INFORMATION
+
+Les décisions collectives sont constatées par des procès-verbaux établis sur un registre spécial ou sur des feuillets mobiles numérotés, tenus au siège social, le cas échéant sous forme électronique dans les conditions prévues par la loi.
+
+Avant l'assemblée qui statue sur les comptes, les associés reçoivent les comptes annuels, le rapport de gestion lorsqu'il est exigé, le texte des résolutions proposées et, le cas échéant, le rapport du commissaire aux comptes, dans les délais prévus par la loi. Tout associé a en outre le droit d'obtenir communication, au siège social, des documents sociaux des trois derniers exercices.
+
+## TITRE V – COMPTES ET RÉSULTATS
+
+## ARTICLE 21 – COMPTES ANNUELS
+
+À la clôture de chaque exercice, la gérance établit l'inventaire, les comptes annuels et, lorsque la loi l'exige, un rapport de gestion.
+
+Les comptes annuels sont soumis à l'approbation des associés réunis en assemblée dans un délai de six mois à compter de la clôture de l'exercice, sauf prolongation de ce délai par décision de justice.
+
+## ARTICLE 22 – AFFECTATION DU RÉSULTAT
+
+Sur le bénéfice de l'exercice, diminué le cas échéant des pertes antérieures, il est prélevé cinq pour cent au moins pour constituer la réserve légale. Ce prélèvement cesse d'être obligatoire lorsque la réserve atteint le dixième du capital social.
+
+Le bénéfice distribuable est constitué par le bénéfice de l'exercice, diminué des pertes antérieures et des sommes portées en réserve en application de la loi ou des Statuts, et augmenté du report bénéficiaire. Les associés décident de son affectation : distribution de dividendes, mise en réserve ou report à nouveau.
+
+Les dividendes sont mis en paiement dans un délai maximal de neuf mois après la clôture de l'exercice, sauf prolongation par décision de justice.
+
+## ARTICLE 23 – CAPITAUX PROPRES INFÉRIEURS À LA MOITIÉ DU CAPITAL
+
+Si, du fait de pertes constatées dans les documents comptables, les capitaux propres deviennent inférieurs à la moitié du capital social, la gérance consulte les associés, dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, afin de décider s'il y a lieu à dissolution anticipée de la Société. La décision fait l'objet des mesures de publicité prévues par la loi. À défaut de dissolution, la situation est régularisée dans les délais et conditions prévus par la loi.
+
+## TITRE VI – DISSOLUTION, LITIGES
+
+## ARTICLE 24 – DISSOLUTION ET LIQUIDATION
+
+La Société est dissoute à l'arrivée de son terme, sauf prorogation, ou par décision collective extraordinaire des associés, ainsi que dans les autres cas prévus par la loi. Elle n'est dissoute ni par le décès, ni par l'incapacité, ni par la faillite personnelle d'un associé.
+
+Les associés nomment un ou plusieurs liquidateurs, dont ils fixent les pouvoirs. Après paiement du passif et remboursement du capital, le boni de liquidation est réparti entre les associés proportionnellement au nombre de leurs parts.
+
+> EURL : lorsque l'associé unique est une personne morale, la dissolution entraîne la transmission universelle du patrimoine de la Société à cet associé, sans liquidation, dans les conditions de l'article 1844-5 du Code civil.
+
+## ARTICLE 25 – CONTESTATIONS
+
+Les contestations relatives aux affaires sociales qui pourraient survenir pendant la durée de la Société ou de sa liquidation, entre les associés ou entre un associé et la Société, sont soumises au tribunal compétent dans le ressort du siège social, après une tentative de règlement amiable d'une durée de [trente] jours.
+
+## TITRE VII – DISPOSITIONS FINALES
+
+## ARTICLE 26 – NOMINATION DU PREMIER GÉRANT
+
+Est nommé premier gérant de la Société, pour une durée [indéterminée / de [nombre] ans] : [Prénom Nom], né(e) le [date] à [ville], demeurant [adresse complète].
+
+Il déclare accepter ces fonctions et n'être frappé d'aucune mesure ou incapacité susceptible de lui en interdire l'exercice.
+
+> Option : nommez de la même façon un second gérant si la Société en a plusieurs.
+
+## ARTICLE 27 – ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIÉTÉ EN FORMATION
+
+Un état des actes accomplis pour le compte de la Société en formation, avec l'indication pour chacun d'eux de l'engagement qui en résulte pour la Société, est annexé aux Statuts (Annexe 2). La signature des Statuts emporte reprise de ces engagements par la Société lorsqu'elle aura été immatriculée au registre du commerce et des sociétés.
+
+En outre, les soussignés donnent mandat à [Prénom Nom] de prendre, pour le compte de la Société, les engagements suivants avant son immatriculation : [liste précise des actes : signature du bail, ouverture d'un compte, etc.]. L'immatriculation emportera reprise de ces engagements par la Société.
+
+## ARTICLE 28 – JOUISSANCE DE LA PERSONNALITÉ MORALE ET FORMALITÉS
+
+La Société jouit de la personnalité morale à compter de son immatriculation au registre du commerce et des sociétés.
+
+Tous pouvoirs sont donnés au gérant, ou au porteur d'un original ou d'une copie des Statuts, pour accomplir les formalités de publicité, de dépôt et d'immatriculation prescrites par la loi.
+
+Fait à [ville], le [date],
+en [nombre] exemplaires originaux, dont un pour le dépôt au greffe et un pour la conservation au siège social.
+
+[Prénom Nom] — signature
+
+[Prénom Nom] — signature
+
+[Dénomination], représentée par [Prénom Nom] — signature
+
+[Prénom Nom du conjoint intervenant, le cas échéant] — signature
+
+## ANNEXE 1 – RÉPARTITION DES PARTS SOCIALES
+
+- [Associé A] : [nombre] parts numérotées de [1] à [__], soit [__] % du capital
+- [Associé B] : [nombre] parts numérotées de [__] à [__], soit [__] % du capital
+- [Associé C] : [nombre] parts numérotées de [__] à [__], soit [__] % du capital
+- Total : [nombre] parts sociales, soit 100 % du capital
+
+## ANNEXE 2 – ÉTAT DES ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIÉTÉ EN FORMATION
+
+- [Date] : [nature de l'acte, par exemple ouverture du compte de dépôt des fonds auprès de [banque]] — engagement pour la Société : [description]
+- [Date] : [nature de l'acte] — engagement pour la Société : [description]
+
+## ANNEXE 3 – PIÈCES JOINTES
+
+- Certificat du dépositaire des fonds
+- [Rapport du commissaire aux apports, le cas échéant]
