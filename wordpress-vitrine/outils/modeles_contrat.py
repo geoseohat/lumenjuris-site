@@ -13,9 +13,19 @@ Usage :
   python modeles_contrat.py publier <slug> --en-ligne  -> mise en ligne publique
   python modeles_contrat.py retirer <slug>             -> repasse la page en brouillon
   python modeles_contrat.py liste                      -> état de chaque modèle
+  python modeles_contrat.py synchroniser               -> relit ce que le serveur a publié
 
 La page parente /modele-contrat/ (bibliothèque) est créée et régénérée
 automatiquement, ainsi que le bloc « Modèles associés » de chaque page.
+
+Publication par le serveur (routine cloud) : depuis le 16 oct. 2026, la protection
+anti-robots d'o2switch (Tiger Protect) refuse les envois venant du cloud. Dans la
+routine (variables WP_USER / WP_APP_PASSWORD), « publier » et « retirer » n'envoient
+donc rien au site : ils écrivent un ordre dans modeles-contrat/ordres/. Une fois
+l'ordre enregistré sur GitHub, le serveur o2switch le récupère et l'exécute lui-même
+(outils/serveur/publication-lumenjuris.php, tâche programmée du cPanel). Les numéros
+de pages et de fichiers sont relus au passage suivant (« synchroniser »).
+PUBLICATION_DIRECTE=1 force l'ancien envoi direct.
 """
 import base64
 import hashlib
@@ -35,9 +45,16 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import wp_api  # noqa: E402
 
+DEPOT = Path(__file__).resolve().parents[2]
 DOSSIER = Path(__file__).resolve().parents[1] / "modeles-contrat"
 ETAT = DOSSIER / "etat.json"
+ORDRES = DOSSIER / "ordres"
 SITE = "https://www.lumenjuris.com"
+# Compte rendu public du serveur (numéros de pages et adresses des fichiers seulement).
+RESULTATS_URL = f"{SITE}/wp-content/uploads/lumenjuris-publication/resultats.json"
+DIFFERE = bool(os.environ.get("WP_APP_PASSWORD")) and not os.environ.get("PUBLICATION_DIRECTE")
+# Repère remplacé par le serveur : {{<ordre>.<opération>.<champ>}}, ex. {{20261023-180000-publier-statuts-sas.o3.id}}
+REPERE = re.compile(r"\{\{[\w-]+\.o\d+\.\w+\}\}")
 # La bibliothèque est rangée sous la page « Outil génération contrat IA » : le fil
 # d'Ariane de Rank Math suit cette hiérarchie (choix de Geoff, 25 sept 2026).
 PARENT_ID = 2630
@@ -643,7 +660,48 @@ def apercu(slug, etat):
 # WordPress
 # --------------------------------------------------------------------------
 
+_ordre = None  # ordre en cours d'écriture (publication par le serveur)
+
+
+def ordre_ouvrir(action, slug):
+    global _ordre
+    if DIFFERE:
+        _ordre = {"id": f"{datetime.now():%Y%m%d-%H%M%S}-{action}-{slug}",
+                  "cree": f"{datetime.now():%Y-%m-%d %H:%M:%S}", "description": f"{action} {slug}",
+                  "operations": []}
+
+
+def ordre_fermer(etat):
+    global _ordre
+    if _ordre is None:
+        return
+    ORDRES.mkdir(exist_ok=True)
+    chemin = ORDRES / f"{_ordre['id']}.json"
+    chemin.write_text(json.dumps(_ordre, ensure_ascii=False, indent=1), encoding="utf-8")
+    etat.setdefault("ordres_en_attente", []).append(_ordre["id"])
+    ecrire_etat(etat)
+    print(f"  ordre enregistré : {chemin.relative_to(DEPOT).as_posix()} ({len(_ordre['operations'])} opérations)")
+    print("  -> le serveur o2switch l'exécutera à son prochain passage, une fois le travail envoyé sur GitHub (git push).")
+    _ordre = None
+
+
+def repere(ref, champ):
+    return "{{%s.%s.%s}}" % (_ordre["id"], ref, champ)
+
+
+def operation(op):
+    op = {"ref": f"o{len(_ordre['operations']) + 1}", **op}
+    _ordre["operations"].append(op)
+    return op["ref"]
+
+
 def api(chemin, data=None, method=None):
+    if _ordre is not None and method in ("POST", "DELETE"):
+        ref = operation({"type": "rest", "methode": method, "route": f"/{chemin}", "donnees": data,
+                         **({"facultatif": True} if chemin.startswith("elementor/") else {})})
+        m = re.fullmatch(r"wp/v2/pages/(\S+)", chemin)
+        ident = (int(m.group(1)) if m.group(1).isdigit() else m.group(1)) if m else repere(ref, "id")
+        return {"id": ident, "status": (data or {}).get("status") or repere(ref, "status"), "link": repere(ref, "link")}
     return json.loads(wp_api.req(f"{SITE}/wp-json/{chemin}", data=data, method=method))
 
 
@@ -651,6 +709,11 @@ def envoyer_media(chemin):
     contenu = chemin.read_bytes()
     mime = {".pdf": "application/pdf", ".png": "image/png",
             ".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"}[chemin.suffix]
+    if _ordre is not None:
+        ref = operation({"type": "media", "fichier": chemin.relative_to(DEPOT).as_posix(), "mime": mime,
+                         "empreinte_fichier": hashlib.sha256(contenu).hexdigest()})
+        return {"id": repere(ref, "id"), "url": repere(ref, "source_url"),
+                "taille": f"{len(contenu) // 1024} Ko", "empreinte": hashlib.sha256(contenu).hexdigest()}
     r = urllib.request.Request(
         f"{SITE}/wp-json/wp/v2/media", data=contenu, method="POST",
         headers={"Authorization": f"Basic {wp_api.TOKEN}", "User-Agent": wp_api.UA, "Content-Type": mime,
@@ -662,6 +725,17 @@ def envoyer_media(chemin):
 
 
 def sauvegarder(page_id, nom):
+    if _ordre is not None:  # le serveur sauvegarde aussi chaque page avant de la modifier
+        if not isinstance(page_id, int):
+            return Path("(sauvegarde faite par le serveur)")
+        try:
+            return _sauvegarder(page_id, nom)
+        except Exception as err:
+            return Path(f"(lecture impossible : {err} ; sauvegarde faite par le serveur)")
+    return _sauvegarder(page_id, nom)
+
+
+def _sauvegarder(page_id, nom):
     dossier = DOSSIER / "_sauvegardes"
     dossier.mkdir(exist_ok=True)
     p = api(f"wp/v2/pages/{page_id}?context=edit")
@@ -707,9 +781,12 @@ def publier(slug, en_ligne=False, sans_relecture=False):
     if en_ligne and not f["relecture"]["valide"] and not sans_relecture:
         sys.exit("Refus : la relecture juridique n'est pas validée dans fiche.json "
                  "(relecture.valide = true et date_validation).")
+    if DIFFERE:
+        synchroniser()
     etat = lire_etat()
     em = etat["modeles"].setdefault(slug, {})
     sortie = construire(slug)
+    ordre_ouvrir("publier-en-ligne" if en_ligne else "publier", slug)
 
     # Fichiers à télécharger : renvoyés seulement s'ils ont changé.
     fich = em.setdefault("fichiers", {})
@@ -745,6 +822,13 @@ def publier(slug, en_ligne=False, sans_relecture=False):
     if en_ligne:
         bibliotheque(etat, "publish")
         rafraichir_associes(etat, sauf=slug)
+    if _ordre is not None:
+        api("elementor/v1/cache", None, "DELETE")
+        ordre_fermer(etat)
+        print(f"OK {slug} : publication confiée au serveur ({statut})")
+        print(f"  adresse prévue : {f['url']}" + ("" if en_ligne else " (brouillon : lien d'aperçu connu après le passage du serveur)"))
+        print("  vérifications (HTTP 200, micro-données, plan du site) : au prochain « synchroniser »")
+        return
     try:
         import wp_cache
         wp_cache.purge()
@@ -764,15 +848,75 @@ def rafraichir_associes(etat, sauf):
 
 
 def retirer(slug):
+    if DIFFERE:
+        synchroniser()
     etat = lire_etat()
     em = etat["modeles"][slug]
+    ordre_ouvrir("retirer", slug)
     print(f"  sauvegarde : {sauvegarder(em['id'], slug).name}")
     api(f"wp/v2/pages/{em['id']}", {"status": "draft"}, "POST")
     em["statut"] = "draft"
     ecrire_etat(etat)
     bibliotheque(etat, etat.get("bibliotheque", {}).get("statut", "draft"))
     rafraichir_associes(etat, sauf=slug)
+    if _ordre is not None:
+        ordre_fermer(etat)
+        print(f"{slug} : retrait confié au serveur (la page repassera en brouillon à son prochain passage).")
+        return
     print(f"{slug} retiré du site (repassé en brouillon).")
+
+
+def remplacer_reperes(valeur, valeurs):
+    if isinstance(valeur, dict):
+        return {k: remplacer_reperes(v, valeurs) for k, v in valeur.items()}
+    if isinstance(valeur, list):
+        return [remplacer_reperes(v, valeurs) for v in valeur]
+    if isinstance(valeur, str):
+        if valeur in valeurs:  # repère seul : garde le type (numéro de page = nombre)
+            return valeurs[valeur]
+        return REPERE.sub(lambda m: str(valeurs.get(m.group(0), m.group(0))), valeur)
+    return valeur
+
+
+def synchroniser():
+    """Relit le compte rendu du serveur et remplace les repères dans etat.json."""
+    etat = lire_etat()
+    attente = etat.get("ordres_en_attente", [])
+    if not attente:
+        return
+    try:
+        res = json.loads(wp_api.req(f"{RESULTATS_URL}?t={datetime.now():%H%M%S}", auth=False))
+    except Exception as err:
+        print(f"  compte rendu du serveur illisible ({err}) : {len(attente)} ordre(s) en attente")
+        return
+    valeurs = {"{{%s.%s.%s}}" % (oid, ref, champ): v
+               for oid, r in res.get("ordres", {}).items() if r.get("statut") == "fait"
+               for ref, champs in r.get("operations", {}).items() if isinstance(champs, dict)
+               for champ, v in champs.items()}
+    etat = remplacer_reperes(etat, valeurs)
+    faits = []
+    for oid in attente:
+        r = res.get("ordres", {}).get(oid, {})
+        if r.get("statut") == "fait":
+            faits.append(oid)
+            (ORDRES / f"{oid}.json").unlink(missing_ok=True)
+            print(f"  serveur : ordre {oid} exécuté le {r.get('date', '?')}")
+        elif r.get("statut") == "erreur":
+            print(f"  serveur : ordre {oid} en ERREUR : {r.get('message', '?')}")
+        else:
+            print(f"  serveur : ordre {oid} pas encore exécuté")
+    etat["ordres_en_attente"] = [o for o in attente if o not in faits]
+    ecrire_etat(etat)
+    for oid in faits:
+        slug = re.sub(r"^\d{8}-\d{6}-(publier-en-ligne|publier|retirer)-", "", oid)  # id = date-heure-action-slug
+        em = etat["modeles"].get(slug, {})
+        if em.get("id"):
+            print(f"  {slug} : page {em['id']} ({em.get('statut')}) – aperçu : {SITE}/?page_id={em['id']}&preview=true")
+            if em.get("statut") == "publish":
+                try:
+                    verifier(fiche(slug)["url"])
+                except Exception as err:
+                    print(f"  ! vérification en ligne impossible : {err}")
 
 
 def verifier(url):
@@ -786,11 +930,16 @@ def verifier(url):
 
 
 def liste():
+    if DIFFERE:
+        synchroniser()
     etat = lire_etat()
     for s in tous_les_slugs():
         em = etat["modeles"].get(s, {})
         rel = "relu" if fiche(s)["relecture"]["valide"] else "relecture en attente"
-        print(f"{s:<35} {em.get('statut', 'jamais publié'):<14} {rel:<22} {em.get('lien', '')}")
+        lien = em.get("lien", "")
+        if REPERE.search(json.dumps(em)):
+            lien = "(en attente du serveur)"
+        print(f"{s:<35} {em.get('statut', 'jamais publié'):<14} {rel:<22} {lien}")
 
 
 if __name__ == "__main__":
@@ -806,5 +955,7 @@ if __name__ == "__main__":
         retirer(args[0])
     elif cmd == "liste":
         liste()
+    elif cmd == "synchroniser":
+        synchroniser()
     else:
         sys.exit(__doc__)

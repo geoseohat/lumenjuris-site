@@ -50,6 +50,13 @@ Pas d'étoiles d'avis ni de fiche « produit » (interdit ou trompeur pour Googl
 ## Routine quotidienne
 Routine cloud quotidienne (branche `claude/modeles-contrat`, que le PC soit allumé ou non ; l'ancienne tâche locale « modele-contrat-quotidien » reste désactivée pour éviter les doublons) : prend la première ligne non cochée de `modeles-contrat/mots-cles.txt`, crée la page et la **met en ligne directement** avec `--en-ligne --sans-relecture` (choix de Geoff, 25 sept 2026 ; les micro-données n'annoncent alors aucune relecture), coche la ligne, écrit dans `modeles-contrat/journal-routine.txt`. Google : la page entre dans le plan du site (`page-sitemap.xml`) suivi par la Search Console ; Rank Math la signale à Bing par IndexNow. Pas d'envoi direct officiel à Google.
 
+### Publication par le serveur (depuis le 23 oct. 2026)
+Depuis le 16 oct. 2026, la protection anti-robots d'o2switch (Tiger Protect, « Sécurité par défaut d'o2switch ») répond « Security check » (503/307) à tout envoi venant du cloud : API REST, curl, etc. Les lectures passent. Aucun réglage de Tiger Protect ne permet d'exclure `/wp-json/` ; Geoff ne veut pas dépendre du support o2switch.
+- Dans la routine (variables `WP_USER` / `WP_APP_PASSWORD`), `publier` et `retirer` n'envoient rien : ils écrivent un **ordre** dans `modeles-contrat/ordres/` (repères `{{ordre.oN.champ}}` à la place des numéros pas encore connus). Il suffit de pousser la branche.
+- Sur le serveur, `outils/serveur/publication-lumenjuris.php` (tâche cron du cPanel toutes les 15 min, dossier `/home/dxin1098/publication-lumenjuris/` hors de public_html) lit les ordres sur GitHub avec un jeton en lecture seule et les exécute dans WordPress, sans passer par Internet. Il sauvegarde chaque page avant de la modifier, reprend là où il s'est arrêté en cas d'erreur (3 essais) et publie son compte rendu dans `wp-content/uploads/lumenjuris-publication/resultats.json`.
+- Au passage suivant, la routine lance `python outils/modeles_contrat.py synchroniser` (fait automatiquement par `publier`, `retirer` et `liste`) : numéros réels dans `etat.json`, ordre terminé supprimé, vérifications en ligne.
+- Installation : `outils/serveur/INSTALLATION.md`. Ne jamais réessayer l'envoi direct depuis le cloud. Sur le PC, l'envoi direct reste possible (`config.txt`) ; `PUBLICATION_DIRECTE=1` le force.
+
 ## Pièges connus
 - Trop de requêtes rapprochées → o2switch bloque (HTTP 429). Espacer les envois.
 - Le thème affiche le titre WordPress en H1 : pas de `<h1>` dans le contenu.

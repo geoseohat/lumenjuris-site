@@ -149,10 +149,38 @@
       "statut": "publish",
       "id": 3000,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/"
+    },
+    "statuts-sas": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261023-180829-publier-statuts-sas.o1.id}}",
+          "url": "{{20261023-180829-publier-statuts-sas.o1.source_url}}",
+          "taille": "45 Ko",
+          "empreinte": "523e16230e47d440773e9d57493c7a4c51463467d140f6f7d073510df53e9ea9"
+        },
+        "pdf": {
+          "id": "{{20261023-180829-publier-statuts-sas.o2.id}}",
+          "url": "{{20261023-180829-publier-statuts-sas.o2.source_url}}",
+          "taille": "173 Ko",
+          "empreinte": "523e16230e47d440773e9d57493c7a4c51463467d140f6f7d073510df53e9ea9"
+        }
+      },
+      "image": {
+        "id": "{{20261023-180829-publier-statuts-sas.o3.id}}",
+        "url": "{{20261023-180829-publier-statuts-sas.o3.source_url}}",
+        "taille": "285 Ko",
+        "empreinte": "07bac567a2cabe2e9beef01bda8ab4937ca8d12f0e7f98ec68e28f76654434cb"
+      },
+      "statut": "draft",
+      "id": "{{20261023-180829-publier-statuts-sas.o7.id}}",
+      "lien": "{{20261023-180829-publier-statuts-sas.o7.link}}"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
-  }
+  },
+  "ordres_en_attente": [
+    "20261023-180829-publier-statuts-sas"
+  ]
 }

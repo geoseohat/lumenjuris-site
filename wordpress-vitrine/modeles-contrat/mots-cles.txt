@@ -13,7 +13,7 @@
 [x] 2026-09-29 contrat de travail CDI -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/
 [x] 2026-09-29 contrat de travail CDD -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/
 [x] 2026-09-30 accord de confidentialité (NDA) -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/
-statuts SAS
+[x] 2026-10-23 statuts SAS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sas/ (brouillon test, publication confiée au serveur o2switch)
 statuts SARL
 contrat de sous-traitance
 contrat de bail commercial
