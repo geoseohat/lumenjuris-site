@@ -1,0 +1,230 @@
+# CONDITIONS GÉNÉRALES D'UTILISATION DU SITE [NOM DU SITE OU DE L'APPLICATION]
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant la mise en ligne.
+
+> Note de rédaction : ces conditions encadrent l'usage d'un site ou d'une application. Si vous vendez des biens ou des services payants, ajoutez des conditions générales de vente distinctes et renvoyez-y à l'article 15. Les données personnelles relèvent d'une politique de confidentialité séparée, à laquelle l'article 11 renvoie.
+
+Version en vigueur au [date de mise en ligne].
+
+## ARTICLE 1 – ÉDITEUR DU SERVICE
+
+Le service [nom du site ou de l'application], accessible à l'adresse [adresse du site] (le « Service »), est édité par :
+
+- [dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN] ;
+- dont le siège social est situé [adresse complète] ;
+- numéro de TVA intracommunautaire : [numéro] ;
+- adresse électronique de contact : [adresse électronique] ; téléphone : [numéro] ;
+- directeur ou directrice de la publication : [nom et prénom, qualité].
+
+Le Service est hébergé par [nom de l'hébergeur], [adresse complète], [téléphone].
+
+> Option : si l'éditeur est une personne physique non commerçante, indiquez ses nom, prénom, domicile, téléphone et adresse électronique. Une personne qui publie à titre non professionnel peut se limiter au nom de son hébergeur, à condition de lui avoir communiqué ses coordonnées.
+
+## ARTICLE 2 – DÉFINITIONS
+
+Dans les présentes conditions générales d'utilisation (les « Conditions »), les termes suivants ont le sens indiqué ci-après :
+
+- « Éditeur » : la personne désignée à l'article 1 ;
+- « Utilisateur » : toute personne qui accède au Service, avec ou sans Compte ;
+- « Membre » : tout Utilisateur titulaire d'un Compte ;
+- « Compte » : l'espace personnel créé par un Membre au moyen d'identifiants ;
+- « Contenu Utilisateur » : tout texte, image, vidéo, avis, message ou fichier publié ou transmis par un Utilisateur sur le Service ;
+- « Contenu Éditeur » : tous les éléments du Service autres que les Contenus Utilisateur.
+
+## ARTICLE 3 – OBJET ET CHAMP D'APPLICATION
+
+Les Conditions définissent les règles d'accès et d'utilisation du Service, ainsi que les droits et obligations de l'Éditeur et des Utilisateurs.
+
+Le Service permet aux Utilisateurs de [décrire précisément les fonctionnalités : consulter des contenus, créer un profil, publier des annonces, échanger des messages, etc.].
+
+Les Conditions s'appliquent à toute utilisation du Service, depuis un ordinateur, une tablette ou un téléphone, quel que soit le mode d'accès.
+
+## ARTICLE 4 – ACCEPTATION DES CONDITIONS
+
+### 4.1 Acceptation
+
+L'accès au Service sans Compte vaut connaissance des Conditions, accessibles en permanence par un lien placé en bas de chaque page.
+
+La création d'un Compte est subordonnée à l'acceptation expresse des Conditions, matérialisée par une case à cocher non précochée accompagnée d'un lien vers le texte complet. Sans cette acceptation, le Compte ne peut pas être créé.
+
+### 4.2 Conservation et preuve
+
+L'Éditeur conserve la version des Conditions acceptée par chaque Membre ainsi que la date de son acceptation. Le Membre peut à tout moment télécharger ou imprimer les Conditions en vigueur depuis [emplacement : pied de page, rubrique du Compte].
+
+### 4.3 Capacité et âge minimum
+
+L'Utilisateur déclare avoir la capacité juridique de s'engager au titre des Conditions.
+
+[Option A – Service réservé aux majeurs] Le Service est réservé aux personnes âgées de 18 ans révolus.
+
+[Option B – Service ouvert aux mineurs] Le Service est accessible aux mineurs âgés d'au moins [âge] ans. Lorsqu'un traitement de données personnelles repose sur le consentement d'un mineur de moins de 15 ans, ce consentement est donné conjointement par le mineur et par le ou les titulaires de l'autorité parentale.
+
+> Note de rédaction : en France, l'âge à partir duquel un mineur peut consentir seul au traitement de ses données pour un service en ligne est fixé à 15 ans. En dessous, prévoyez un parcours de recueil du consentement parental.
+
+## ARTICLE 5 – ACCÈS AU SERVICE
+
+Le Service est accessible [gratuitement / gratuitement pour ses fonctionnalités de base, certaines fonctionnalités étant payantes dans les conditions de l'article 15].
+
+Les frais de connexion et d'équipement nécessaires à l'accès au Service restent à la charge de l'Utilisateur.
+
+L'Éditeur s'efforce de rendre le Service accessible 24 heures sur 24 et 7 jours sur 7. Il peut toutefois en suspendre l'accès, en tout ou partie, pour des opérations de maintenance, de mise à jour ou de sécurité. Il en informe les Membres à l'avance lorsque l'interruption est programmée et dépasse [durée, par exemple 4 heures].
+
+## ARTICLE 6 – COMPTE
+
+### 6.1 Création
+
+Pour créer un Compte, l'Utilisateur fournit des informations exactes et à jour : [liste des informations demandées : adresse électronique, nom ou pseudonyme, etc.]. Il les met à jour en cas de changement.
+
+### 6.2 Identifiants
+
+Les identifiants sont personnels et confidentiels. Le Membre est responsable de leur conservation et de toute utilisation de son Compte, sauf s'il démontre une utilisation frauduleuse qui ne lui est pas imputable. En cas de perte ou de soupçon d'utilisation par un tiers, il prévient sans délai l'Éditeur à l'adresse [adresse électronique].
+
+### 6.3 Fermeture à l'initiative du Membre
+
+Le Membre peut fermer son Compte à tout moment, sans motif et sans frais, depuis [rubrique du Compte] ou par écrit à [adresse électronique]. La fermeture prend effet dans un délai de [nombre] jours au plus. Les données sont ensuite supprimées ou anonymisées selon les durées indiquées dans la politique de confidentialité.
+
+## ARTICLE 7 – RÈGLES D'UTILISATION
+
+L'Utilisateur s'engage à utiliser le Service de manière loyale et conforme à sa destination, aux lois en vigueur et aux présentes Conditions.
+
+Il s'interdit notamment :
+
+- de publier des contenus illicites, en particulier injurieux, diffamatoires, discriminatoires, violents, à caractère pornographique accessibles aux mineurs, ou portant atteinte à la vie privée ou au droit à l'image d'autrui ;
+- de reproduire ou diffuser des contenus protégés sans l'autorisation de leurs titulaires ;
+- d'usurper l'identité d'un tiers ou de créer plusieurs Comptes pour contourner une mesure de suspension ;
+- d'envoyer des messages non sollicités à des fins commerciales ;
+- d'extraire de manière systématique les contenus ou données du Service par des moyens automatisés, sauf autorisation écrite de l'Éditeur ;
+- de porter atteinte à la sécurité ou au fonctionnement du Service (virus, tentative d'intrusion, surcharge volontaire).
+
+> Option : ajoutez les règles propres à votre communauté (charte de publication, règles sur les annonces, langue des échanges). Restez précis : une règle vague sera difficile à appliquer de manière cohérente.
+
+## ARTICLE 8 – CONTENUS PUBLIÉS PAR LES UTILISATEURS
+
+### 8.1 Responsabilité de l'Utilisateur
+
+L'Utilisateur reste titulaire des droits sur ses Contenus Utilisateur et en demeure seul responsable. Il garantit disposer de tous les droits et autorisations nécessaires à leur publication.
+
+### 8.2 Autorisation d'utilisation consentie à l'Éditeur
+
+Afin de permettre le fonctionnement du Service, l'Utilisateur autorise l'Éditeur, à titre non exclusif et gratuit, à reproduire, représenter et adapter techniquement (redimensionnement, compression, mise en forme) ses Contenus Utilisateur, sur le Service et sur [préciser les autres supports : applications mobiles, lettre d'information, réseaux sociaux de l'Éditeur], pour le monde entier, pendant toute la durée de leur publication sur le Service, augmentée d'un délai technique de [nombre] jours après leur suppression.
+
+> Note de rédaction : chaque droit consenti doit être mentionné distinctement, avec son étendue, sa destination, son lieu et sa durée. Une formule générale du type « tous droits, sur tous supports, pour toute la durée de protection » est fragile. Si vous voulez exploiter les contenus à des fins publicitaires ou commerciales, demandez une autorisation spécifique.
+
+### 8.3 Modération et signalement
+
+Tout Utilisateur peut signaler un contenu qu'il estime illicite ou contraire aux Conditions au moyen du bouton « Signaler » ou par écrit à [adresse électronique], en indiquant :
+
+- l'adresse précise du contenu ;
+- les raisons pour lesquelles il le juge illicite ;
+- ses nom et adresse électronique, sauf pour certaines infractions graves pour lesquelles le signalement peut être anonyme ;
+- une déclaration confirmant sa bonne foi.
+
+L'Éditeur traite les signalements avec diligence et de manière objective. Il peut retirer un contenu, en restreindre la visibilité ou suspendre un Compte. Il informe l'Utilisateur concerné de sa décision et de ses motifs, et lui indique les voies de contestation à sa disposition, sauf si une autorité le lui interdit.
+
+L'Éditeur [recourt / ne recourt pas] à des outils automatisés de détection des contenus. [Le cas échéant : décrire leur rôle et préciser qu'une personne examine les contestations.]
+
+### 8.4 Contestation
+
+L'Utilisateur peut contester une décision de modération dans un délai de [six mois] à compter de sa notification, par écrit à [adresse électronique] ou depuis [rubrique du Compte]. L'Éditeur réexamine la décision et répond dans un délai de [nombre] jours.
+
+## ARTICLE 9 – PROPRIÉTÉ INTELLECTUELLE DE L'ÉDITEUR
+
+Le Service et les Contenus Éditeur (textes, graphismes, logos, marques, logiciels, bases de données) sont protégés par le droit de la propriété intellectuelle et appartiennent à l'Éditeur ou à ses partenaires.
+
+L'Éditeur concède à l'Utilisateur un droit personnel, non exclusif et non transférable d'utiliser le Service pour ses besoins propres, dans les limites des Conditions. Toute autre reproduction, représentation ou extraction, totale ou partielle, nécessite l'accord écrit préalable de l'Éditeur.
+
+## ARTICLE 10 – LIENS HYPERTEXTES
+
+Le Service peut contenir des liens vers des sites tiers. L'Éditeur n'exerce aucun contrôle sur ces sites et n'est pas responsable de leur contenu. Dès qu'il a connaissance du caractère illicite d'un site vers lequel il renvoie, il retire le lien.
+
+La création de liens vers le Service est libre, à condition qu'ils ne présentent pas le Service de manière trompeuse et qu'ils ne l'intègrent pas dans les pages d'un autre site (« framing »).
+
+## ARTICLE 11 – DONNÉES PERSONNELLES ET COOKIES
+
+L'Éditeur traite les données personnelles des Utilisateurs en qualité de responsable de traitement, conformément au règlement (UE) 2016/679 du 27 avril 2016 et à la loi n° 78-17 du 6 janvier 1978.
+
+Les finalités, bases légales, destinataires, durées de conservation et droits des Utilisateurs (accès, rectification, effacement, opposition, limitation, portabilité, directives post-mortem) sont détaillés dans la politique de confidentialité accessible à l'adresse [adresse de la politique].
+
+Les traceurs non indispensables au fonctionnement du Service ne sont déposés qu'après le consentement de l'Utilisateur, recueilli par le bandeau prévu à cet effet et modifiable à tout moment depuis [lien « Gérer mes cookies »].
+
+## ARTICLE 12 – RESPONSABILITÉ
+
+### 12.1 Responsabilité de l'Éditeur
+
+L'Éditeur met en œuvre les moyens raisonnables pour assurer la qualité et la sécurité du Service. Il ne garantit pas que le Service fonctionnera sans interruption ni erreur.
+
+Pour les Contenus Utilisateur, l'Éditeur agit en qualité d'hébergeur : sa responsabilité ne peut être engagée que si, ayant eu connaissance d'un contenu manifestement illicite, il n'a pas agi promptement pour le retirer ou en rendre l'accès impossible.
+
+Aucune clause des Conditions ne limite la responsabilité de l'Éditeur en cas de faute lourde ou intentionnelle, de dommage corporel, ni les droits que l'Utilisateur consommateur tient de la loi.
+
+### 12.2 Responsabilité de l'Utilisateur
+
+L'Utilisateur est responsable des dommages causés par une utilisation du Service contraire aux Conditions ou à la loi, notamment par ses Contenus Utilisateur.
+
+## ARTICLE 13 – SUSPENSION ET FERMETURE DU COMPTE PAR L'ÉDITEUR
+
+En cas de manquement aux Conditions, l'Éditeur peut, de manière proportionnée à la gravité du manquement :
+
+- adresser un avertissement ;
+- retirer le contenu en cause ;
+- suspendre le Compte pour une durée de [nombre] jours au plus ;
+- fermer définitivement le Compte en cas de manquement grave ou répété.
+
+Sauf urgence (contenu manifestement illicite, atteinte à la sécurité du Service ou des Utilisateurs), la suspension et la fermeture sont précédées d'une mise en demeure restée sans effet pendant [huit] jours. La décision est motivée et notifiée par courrier électronique. Le Membre peut la contester dans les conditions de l'article 8.4.
+
+L'Éditeur peut aussi mettre fin au Service ou fermer un Compte inactif depuis plus de [durée], sous réserve d'un préavis de [trente] jours permettant au Membre de récupérer ses Contenus Utilisateur.
+
+## ARTICLE 14 – MODIFICATION DES CONDITIONS
+
+L'Éditeur peut modifier les Conditions pour tenir compte d'une évolution du Service, de la loi ou de la jurisprudence.
+
+Toute modification substantielle est notifiée aux Membres par courrier électronique ou par un message à la connexion au moins [trente] jours avant son entrée en vigueur, avec un résumé des changements. Le Membre qui refuse les nouvelles Conditions peut fermer son Compte sans frais avant cette date. À défaut, la poursuite de l'utilisation du Service après l'entrée en vigueur vaut acceptation.
+
+Les modifications ne s'appliquent pas aux commandes et abonnements payants en cours, qui restent régis par les conditions acceptées lors de leur souscription.
+
+## ARTICLE 15 – SERVICES PAYANTS
+
+[Option A] Le Service est entièrement gratuit. Il ne donne lieu à aucune commande ni à aucun paiement.
+
+[Option B] Certaines fonctionnalités sont payantes. Leur souscription est régie par les conditions générales de vente accessibles à l'adresse [adresse des CGV], qui prévalent sur les présentes Conditions pour tout ce qui concerne le prix, la commande, le paiement, la durée, la résiliation et le droit de rétractation.
+
+## ARTICLE 16 – RÉCLAMATIONS ET MÉDIATION
+
+Toute réclamation est adressée à l'Éditeur à [adresse électronique ou postale]. L'Éditeur y répond dans un délai de [nombre] jours.
+
+[Si le Service comporte une offre payante destinée aux consommateurs] En cas d'échec de la réclamation écrite, l'Utilisateur consommateur peut recourir gratuitement au médiateur de la consommation suivant : [nom du médiateur, adresse postale, site internet], dans un délai d'un an à compter de sa réclamation écrite.
+
+## ARTICLE 17 – DROIT APPLICABLE ET LITIGES
+
+Les Conditions sont soumises au droit français. Lorsque l'Utilisateur est un consommateur résidant dans un autre État de l'Union européenne, il conserve le bénéfice des dispositions impératives de la loi de son pays de résidence.
+
+En cas de litige, l'Utilisateur consommateur peut saisir, à son choix, l'une des juridictions territorialement compétentes en vertu du Code de procédure civile ou la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable.
+
+[Option : uniquement si tous les Utilisateurs sont des commerçants ou des sociétés commerciales] Tout litige entre l'Éditeur et un Utilisateur professionnel sera soumis aux tribunaux compétents de [ville].
+
+## ARTICLE 18 – DISPOSITIONS DIVERSES
+
+Si une stipulation des Conditions est jugée nulle ou inapplicable, elle est réputée non écrite et les autres stipulations restent en vigueur.
+
+Le fait pour l'Éditeur de ne pas se prévaloir d'un manquement ne vaut pas renonciation à s'en prévaloir ultérieurement.
+
+En cas de traduction des Conditions, la version française fait foi.
+
+## ACCEPTATION EN LIGNE (TIENT LIEU DE SIGNATURE)
+
+> Note de rédaction : les conditions générales d'utilisation ne sont pas signées à la main. L'acceptation se fait par une case à cocher au moment de la création du Compte. Conservez la preuve de cette acceptation.
+
+Texte à placer à côté de la case à cocher :
+
+« [ ] J'ai lu et j'accepte les conditions générales d'utilisation (version du [date]) et j'ai pris connaissance de la politique de confidentialité. »
+
+Données à conserver pour chaque acceptation : identifiant du Membre, version des Conditions, date et heure, adresse IP.
+
+## ANNEXE – FORMULAIRE DE SIGNALEMENT D'UN CONTENU
+
+- Adresse (URL) du contenu signalé : [à compléter]
+- Motif du signalement : [contenu illicite / contraire aux Conditions] – précisez : [à compléter]
+- Explication des raisons pour lesquelles le contenu est illicite : [à compléter]
+- Nom, prénom et adresse électronique de l'auteur du signalement : [à compléter]
+- Déclaration : « Je déclare de bonne foi que les informations ci-dessus sont exactes et complètes. »
+- Date : [date]

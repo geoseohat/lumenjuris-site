@@ -1,0 +1,119 @@
+{
+  "slug": "conditions-generales-d-utilisation",
+  "nom": "Conditions générales d'utilisation",
+  "nom_court": "conditions générales d'utilisation",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle conditions générales d'utilisation",
+  "mots_cles_secondaires": [
+    "CGU",
+    "modèle CGU",
+    "CGU site internet",
+    "conditions générales d'utilisation site web",
+    "CGU application mobile",
+    "exemple CGU gratuit",
+    "CGU et mentions légales"
+  ],
+  "titre_h1": "Modèle de conditions générales d'utilisation gratuit (Word et PDF)",
+  "titre_seo": "Modèle de CGU gratuit 2026 : site et application (Word, PDF)",
+  "meta_description": "Modèle de conditions générales d'utilisation pour site ou application : compte, contenus publiés, modération (DSA), suspension. Word et PDF gratuits.",
+  "chapo": "Les conditions générales d'utilisation fixent les règles entre l'éditeur d'un site ou d'une application et ses utilisateurs : compte, contenus publiés, modération, suspension. Téléchargez un modèle complet à jour du règlement européen sur les services numériques, et voyez comment le rendre opposable à vos membres.",
+  "public": "Éditeurs de sites internet et d'applications",
+  "gratuit": true,
+  "fichier_base": "modele-conditions-generales-d-utilisation-lumen-juris",
+  "date_publication": "2026-10-23",
+  "date_mise_a_jour": "2026-10-23",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Droit de la consommation",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Décrire le service et ses fonctions",
+      "Indiquez précisément ce que les utilisateurs peuvent faire sur votre site ou votre application (consulter, publier, échanger, acheter) et ce qui est gratuit ou payant."
+    ],
+    [
+      "Compléter l'identité de l'éditeur et de l'hébergeur",
+      "Renseignez la société, son immatriculation, le directeur de la publication et les coordonnées de l'hébergeur. Ces mentions sont exigées par la loi pour un site professionnel."
+    ],
+    [
+      "Écrire vos règles de conduite et de modération",
+      "Adaptez la liste des comportements interdits à votre communauté, puis décrivez le circuit de signalement, de décision et de contestation exigé par le DSA."
+    ],
+    [
+      "Choisir les options sensibles",
+      "Tranchez l'âge minimum, l'étendue de l'autorisation sur les contenus publiés, la durée de suspension et le préavis de modification. Retirez les options inutiles."
+    ],
+    [
+      "Installer la case d'acceptation et garder la preuve",
+      "Ajoutez une case non précochée au formulaire d'inscription, un lien vers les CGU, et enregistrez pour chaque membre la version acceptée avec la date et l'heure."
+    ]
+  ],
+  "faq": [
+    [
+      "Les CGU sont-elles obligatoires pour un site internet ?",
+      "Aucun texte n'impose des CGU à tous les sites. Elles deviennent nécessaires dès que les utilisateurs créent un compte ou publient des contenus, car le DSA impose d'informer sur les règles de modération. Les mentions légales, elles, sont obligatoires pour tout site professionnel."
+    ],
+    [
+      "Un simple lien en bas de page suffit-il pour que les CGU s'appliquent ?",
+      "C'est risqué. Le Code civil exige que des conditions générales aient été portées à la connaissance de l'utilisateur et acceptées par lui. Une case à cocher au moment de l'inscription, avec une trace conservée, est beaucoup plus solide qu'un lien que l'internaute ne voit pas."
+    ],
+    [
+      "Peut-on copier les CGU d'un autre site ?",
+      "Non. Les CGU d'un autre site peuvent être protégées par le droit d'auteur, et elles décrivent un autre service que le vôtre. Elles contiennent souvent des clauses écrites pour un autre droit que le droit français, qui seraient écartées face à un consommateur."
+    ],
+    [
+      "Peut-on modifier ses CGU à tout moment ?",
+      "Oui, mais pas sans précaution. Prévenez les membres à l'avance, résumez les changements et laissez-leur la possibilité de fermer leur compte sans frais. Une clause permettant de tout changer sans préavis face à un consommateur est interdite."
+    ],
+    [
+      "Quelle différence entre CGU et CGV ?",
+      "Les CGU encadrent l'usage du service : compte, règles de conduite, contenus. Les CGV encadrent la vente : prix, commande, paiement, livraison, rétractation. Un site qui vend et accueille des membres a besoin des deux, les CGV prévalant pour tout ce qui touche à l'achat."
+    ],
+    [
+      "Un site peut-il supprimer le compte d'un utilisateur ?",
+      "Oui, si les CGU le prévoient et si la sanction est proportionnée au manquement. La décision doit être motivée et l'utilisateur doit pouvoir la contester. Sauf urgence, une mise en demeure préalable est recommandée."
+    ],
+    [
+      "Faut-il des CGU différentes pour une application mobile ?",
+      "Le contenu est le même pour l'essentiel. Ajoutez les règles propres à l'application : téléchargement depuis les magasins d'applications, mises à jour, autorisations demandées sur le téléphone. Les conditions des magasins d'applications s'ajoutent aux vôtres sans les remplacer."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1119 (opposabilité des conditions générales), 1171 (déséquilibre significatif) et 1190 (interprétation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, articles L. 212-1 et R. 212-1 et suivants (clauses abusives)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code de la propriété intellectuelle, article L. 131-3 (délimitation des droits transmis)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code de procédure civile, article 48 (clauses attributives de compétence)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716"
+    ],
+    [
+      "Règlement (UE) 2022/2065 sur les services numériques (DSA), articles 14 et 16",
+      "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 8 et 13",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "conditions-generales-utilisation"
+  }
+}
