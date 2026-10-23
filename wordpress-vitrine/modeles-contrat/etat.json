@@ -173,7 +173,7 @@
       },
       "statut": "draft",
       "id": 3026,
-      "lien": "{{20261023-194720-publier-statuts-sas.o3.link}}",
+      "lien": "https://www.lumenjuris.com/?page_id=3026",
       "gabarit": "2026-10-23"
     },
     "statuts-sarl": {
@@ -199,7 +199,7 @@
       },
       "statut": "draft",
       "id": 3030,
-      "lien": "{{20261023-194716-publier-statuts-sarl.o3.link}}",
+      "lien": "https://www.lumenjuris.com/?page_id=3030",
       "gabarit": "2026-10-23"
     }
   },
@@ -207,8 +207,5 @@
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": [
-    "20261023-194716-publier-statuts-sarl",
-    "20261023-194720-publier-statuts-sas"
-  ]
+  "ordres_en_attente": []
 }

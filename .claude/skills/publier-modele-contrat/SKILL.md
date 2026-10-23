@@ -25,7 +25,7 @@ Lien de la forme : `https://app.lumenjuris.com/contrat-generation?section=scratc
 Titre (affiché par le thème) → « Mis à jour le … » → fil d'Ariane → chapeau → sommaire → titre « Le modèle de … » → encadré du modèle avec en tête **« Personnaliser » à gauche** et **« Télécharger » à droite** (petit picto, menu Word / PDF) → contenu → « Comment remplir le modèle en 5 étapes » → FAQ → encart auteur → sources → « Modèles associés ».
 - Pas d'encadré « Pour qui / Quand / Format / Prix », pas de bloc « Pas le temps de tout remplir », pas de lien « Voir tous les modèles ».
 - **Au moins un tableau obligatoire** dans `article.html` (l'outil refuse sinon).
-- Encart auteur : **« L'équipe juridique de Lumen Juris »**, icône balance, **ni photo ni nom de personne**. Ne jamais écrire « avocats » (voir `REFERENTIEL-LEGAL.md`).
+- Encart auteur : **« L'équipe juridique de Lumen Juris »**, icône balance, **ni photo ni nom de personne**. Ne jamais écrire « avocats » (voir `REFERENTIEL-LEGAL.md`). Le texte de l'encart n'annonce une relecture que si `relecture.valide` est vrai (commande `valider <slug>`, à lancer seulement quand la juriste a réellement relu) ; sinon il dit seulement que le modèle est rédigé à partir des textes en vigueur (23 oct. 2026 : l'ancien texte « rédigés et relus par notre équipe juridique » était inexact sur les pages non relues).
 - Police 15 px, colonne de lecture centrée de 760 px (titre compris), espace de 72 px avant le pied de page.
 - Page la plus rapide possible : pas d'Elementor, un seul bloc HTML, aucun JavaScript, style compacté dans la page (≈ 1 Ko compressé : plus rapide qu'un fichier séparé).
 - **Utiliser ce que le site fournit déjà, ne rien doubler** : vérifier d'abord si Rank Math, le thème ou WordPress proposent l'élément.
@@ -36,6 +36,8 @@ Image de partage 1200 x 630 générée et posée en « image à la une ».
 Pas d'étoiles d'avis ni de fiche « produit » (interdit ou trompeur pour Google).
 
 ## Méthode pour un nouveau mot-clé
+**Chemin court (recommandé, routine comprise)** : suivre la compétence `routine-modele-contrat` (`preparer` → rédaction → `controler` → `publier` → `terminer`). La méthode détaillée ci-dessous reste valable pour un travail à la main. Dans tous les cas, `publier` refuse une page qui ne passe pas le contrôle qualité (`python outils/modeles_contrat.py controler <slug>`).
+
 1. **Slug** en minuscules sans accents (`conditions-generales-de-vente`). Vérifier qu'il n'existe pas : `python outils/modeles_contrat.py liste`.
 2. **Créer `modeles-contrat/<slug>/`** avec 3 fichiers, sur le modèle du pacte d'associés :
    - `fiche.json` : mêmes champs. `mot_cle` = requête principale (« modèle … »), `titre_seo` ≈ 60 caractères, `meta_description` ≤ 160, 5 étapes, 6 à 8 questions de FAQ réellement posées, sources = articles de loi précis avec lien vers le code entier sur Légifrance (liens `LEGITEXT` ; ne jamais inventer un identifiant d'article). `relecture.valide` = **false** au départ.
@@ -48,7 +50,7 @@ Pas d'étoiles d'avis ni de fiche « produit » (interdit ou trompeur pour Googl
 7. Après une mise en ligne : proposer le test des résultats enrichis de Google (https://search.google.com/test/rich-results) et PageSpeed Insights, et vérifier le fil d'Ariane réel.
 
 ## Routine quotidienne
-Routine cloud quotidienne (branche `claude/modeles-contrat`, que le PC soit allumé ou non ; l'ancienne tâche locale « modele-contrat-quotidien » reste désactivée pour éviter les doublons) : prend la première ligne non cochée de `modeles-contrat/mots-cles.txt`, crée la page et la **met en ligne directement** avec `--en-ligne --sans-relecture` (choix de Geoff, 25 sept 2026 ; les micro-données n'annoncent alors aucune relecture), coche la ligne, écrit dans `modeles-contrat/journal-routine.txt`. Google : la page entre dans le plan du site (`page-sitemap.xml`) suivi par la Search Console ; Rank Math la signale à Bing par IndexNow. Pas d'envoi direct officiel à Google.
+Routine cloud quotidienne (branche `claude/modeles-contrat`, que le PC soit allumé ou non ; l'ancienne tâche locale « modele-contrat-quotidien » reste désactivée pour éviter les doublons) : **suit la compétence `routine-modele-contrat`** (processus court, règles anti-sanction Google, doublons connus de la liste). Elle prend la première ligne non cochée de `modeles-contrat/mots-cles.txt`, crée la page et la **met en ligne directement** avec `--en-ligne --sans-relecture` (choix de Geoff, 25 sept 2026 ; ni la page ni les micro-données n'annoncent alors de relecture), coche la ligne, écrit dans `modeles-contrat/journal-routine.txt`. Une mise en ligne ne régénère que les pages dont les « modèles associés » changent, plus, une fois, les pages dont le gabarit est ancien (constante `GABARIT` de l'outil). Google : la page entre dans le plan du site (`page-sitemap.xml`) suivi par la Search Console ; Rank Math la signale à Bing par IndexNow. Pas d'envoi direct officiel à Google.
 
 ### Publication par le serveur (depuis le 23 oct. 2026)
 Depuis le 16 oct. 2026, la protection anti-robots d'o2switch (Tiger Protect, « Sécurité par défaut d'o2switch ») répond « Security check » (503/307) à tout envoi venant du cloud : API REST, curl, etc. Les lectures passent. Aucun réglage de Tiger Protect ne permet d'exclure `/wp-json/` ; Geoff ne veut pas dépendre du support o2switch.

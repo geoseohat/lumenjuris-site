@@ -1062,12 +1062,14 @@ def jetons(texte):
     return {m for m in qualite_modele.mots(texte) if m not in GENERIQUES}
 
 
-def pages_proches(ligne):
+def pages_proches(ligne, sauf=None):
     """Pages existantes qui visent peut-être la même recherche (risque de doublon pour Google)."""
     import qualite_modele
     cherche, j = " ".join(qualite_modele.mots(ligne)), jetons(ligne)
     res = []
     for s in tous_les_slugs():
+        if s == sauf:
+            continue
         f = fiche(s)
         cibles = [f["nom_court"], f["mot_cle"], *f.get("mots_cles_secondaires", [])]
         exact = any(cherche in " ".join(qualite_modele.mots(c)) for c in cibles)
@@ -1077,13 +1079,32 @@ def pages_proches(ligne):
     return sorted(res, key=lambda x: -x[0])[:3]
 
 
+def doublon_connu(ligne):
+    """Décision déjà prise pour cette ligne dans le tableau « Doublons connus » de la compétence."""
+    import qualite_modele
+    ref = DEPOT / ".claude" / "skills" / "routine-modele-contrat" / "references" / "sources-legifrance.md"
+    if not ref.exists():
+        return None
+    cherche = " ".join(qualite_modele.mots(ligne))
+    for l in ref.read_text(encoding="utf-8").split("## 3.", 1)[-1].splitlines():
+        cases = [c.strip() for c in l.strip().strip("|").split("|")]
+        if len(cases) == 3 and " ".join(qualite_modele.mots(cases[0])) == cherche:
+            return cases[1], cases[2]
+    return None
+
+
 def creer_squelette(ligne, slug):
     """Dossier du modèle prérempli : seuls les « À COMPLÉTER » restent à écrire."""
     d = DOSSIER / slug
     d.mkdir()
     nom_court = re.sub(r"\s*\([^)]*\)", "", ligne).strip()
     aujourd_hui = str(date.today())
-    categories = sorted({fiche(s)["categorie"] for s in tous_les_slugs()})
+    categories = sorted({fiche(s)["categorie"] for s in tous_les_slugs() if s != slug})
+    an = date.today().year
+    titre_seo = next((t for t in (f"Modèle {de(nom_court)} gratuit {an} (Word, PDF) | Lumen Juris",
+                                  f"Modèle {de(nom_court)} gratuit {an} (Word, PDF)",
+                                  f"Modèle {de(nom_court)} gratuit (Word, PDF)") if len(t) <= 65),
+                     f"{A_COMPLETER} : titre de 65 caractères au plus")
     f = {
         "slug": slug,
         "nom": nom_court[:1].upper() + nom_court[1:],
@@ -1092,7 +1113,7 @@ def creer_squelette(ligne, slug):
         "mot_cle": f"modèle {nom_court}",
         "mots_cles_secondaires": [f"{A_COMPLETER} : 3 à 8 recherches proches réellement tapées"],
         "titre_h1": f"Modèle {de(nom_court)} gratuit (Word et PDF)",
-        "titre_seo": f"Modèle {de(nom_court)} gratuit {date.today().year} (Word, PDF) | Lumen Juris",
+        "titre_seo": titre_seo,
         "meta_description": f"{A_COMPLETER} : 120 à 160 caractères, ce que contient le modèle et pour qui",
         "chapo": f"{A_COMPLETER} : 2 phrases, à quoi sert ce document et ce que propose la page",
         "public": f"{A_COMPLETER} : à qui s'adresse le modèle (ex. « Employeurs et salariés »)",
@@ -1207,7 +1228,11 @@ def resume(ligne, slug):
     print(f"\nCONTRAT DU JOUR : {ligne}")
     print(f"  dossier : wordpress-vitrine/modeles-contrat/{slug}/ (fiche.json, article.html, modele.txt)")
     print(f"  adresse prévue : {BIBLIO_URL}{slug}/")
-    proches = pages_proches(ligne)
+    connu = doublon_connu(ligne)
+    if connu:
+        print(f"\nDOUBLON CONNU (compétence, tableau « Doublons connus ») : proche de {connu[0]}")
+        print(f"  décision conseillée : {connu[1]}")
+    proches = pages_proches(ligne, sauf=slug)
     if proches:
         print("\nPAGES EXISTANTES PROCHES : même recherche Google ? (deux pages pour la même intention = doublon)")
         for score, s, f in proches:
@@ -1216,7 +1241,7 @@ def resume(ligne, slug):
         print('    python outils/modeles_contrat.py ecarter "même intention que <slug> : <explication>"')
     else:
         print("\nAucune page existante proche.")
-    print("\nPages en ligne (pour les liens et la cohérence) :")
+    print("\nPages existantes (catégories, cohérence) :")
     etat = lire_etat()
     for s in tous_les_slugs():
         if s != slug:
@@ -1231,6 +1256,8 @@ def terminer(slug, mode):
     c = json.loads(EN_COURS.read_text(encoding="utf-8")) if EN_COURS.exists() else {}
     etat = lire_etat()
     ordre = next((o for o in reversed(etat.get("ordres_en_attente", [])) if o.endswith(f"-{slug}")), None)
+    if not ordre and not etat["modeles"].get(slug, {}).get("id"):
+        sys.exit(f"Rien n'a été publié pour {slug} : lancez « publier » avant « terminer ».")
     test = mode.lower() == "test"
     if c.get("slug") == slug:
         cocher(c["ligne"], f["url"] + (" (brouillon test)" if test else ""))
