@@ -157,6 +157,17 @@ $_SERVER['SERVER_PORT'] = 443;
 $_SERVER['REQUEST_URI'] = '/';
 $_SERVER['REQUEST_METHOD'] = 'GET';
 $_SERVER['REMOTE_ADDR'] = '127.0.0.1';
+// Erreur bloquante : la cause exacte dans le journal (au lieu de la page « erreur critique »
+// de WordPress, qui ne dit rien). Ne concerne que ce script, pas le site.
+define('WP_DISABLE_FATAL_ERROR_HANDLER', true);
+ini_set('display_errors', '0');
+register_shutdown_function(function () {
+    $err = error_get_last();
+    if ($err && in_array($err['type'], [E_ERROR, E_PARSE, E_CORE_ERROR, E_COMPILE_ERROR, E_USER_ERROR], true)) {
+        journal("ERREUR PHP : {$err['message']} (fichier {$err['file']}, ligne {$err['line']})");
+    }
+});
+journal("chargement de WordPress : $wp (PHP " . PHP_VERSION . ')');
 require "$wp/wp-load.php";
 require_once ABSPATH . 'wp-admin/includes/file.php';
 require_once ABSPATH . 'wp-admin/includes/media.php';
