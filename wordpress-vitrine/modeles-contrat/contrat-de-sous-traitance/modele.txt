@@ -1,0 +1,196 @@
+# CONTRAT DE SOUS-TRAITANCE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat (appelé « sous-traité ») organise la sous-traitance d'une partie d'un marché privé conclu entre l'Entrepreneur principal et son client, le Maître de l'ouvrage, au sens de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance. Il convient aux travaux comme aux prestations industrielles ou de services exécutés en France. Il ne convient pas en l'état à la sous-traitance d'un marché public, soumise au code de la commande publique. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], numéro de TVA intracommunautaire [numéro], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après l'« Entrepreneur principal »,
+
+ET :
+
+[Dénomination sociale ou Prénom Nom de l'entrepreneur individuel], [forme sociale ou « entrepreneur individuel »], dont le siège social est situé [adresse], immatriculé(e) [au registre du commerce et des sociétés de (ville) / au registre national des entreprises] sous le numéro [numéro SIREN], numéro de TVA intracommunautaire [numéro], représenté(e) par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Sous-traitant »,
+
+ci-après désignés ensemble les « Parties » et individuellement une « Partie ».
+
+## PRÉAMBULE
+
+L'Entrepreneur principal est titulaire d'un contrat conclu le [date] avec [dénomination et adresse du client final], ci-après le « Maître de l'ouvrage », portant sur [objet du contrat principal : par exemple « la construction d'un bâtiment de bureaux situé (adresse) », « la fabrication de 2 000 pièces usinées »], ci-après le « Marché principal ».
+
+L'Entrepreneur principal souhaite confier au Sous-traitant, sous sa responsabilité, l'exécution d'une partie de ce Marché principal. Le Sous-traitant exerce l'activité de [activité] et déclare disposer des compétences, des moyens humains et matériels et des qualifications nécessaires.
+
+Les Parties ont convenu de ce qui suit.
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de confier au Sous-traitant l'exécution des prestations décrites à l'annexe 1 (les « Prestations »), qui constituent une partie du Marché principal.
+
+Le Sous-traitant exécute les Prestations en toute indépendance, avec son propre personnel, placé sous sa seule autorité hiérarchique et disciplinaire, et avec son propre matériel, sauf mise à disposition prévue à l'annexe 1.
+
+> Note de rédaction : le Sous-traitant doit apporter un savoir-faire propre et rester maître de l'organisation de son personnel. Si ses salariés reçoivent leurs ordres de l'Entrepreneur principal et sont facturés à l'heure sans tâche définie, l'opération risque d'être requalifiée en prêt de main-d'œuvre illicite (articles L. 8241-1 et L. 8231-1 du code du travail).
+
+## ARTICLE 2 – DOCUMENTS CONTRACTUELS
+
+Le contrat est constitué, par ordre de priorité décroissant :
+
+- du présent contrat ;
+- de l'annexe 1 « Description des Prestations, calendrier et lieu d'exécution » ;
+- de l'annexe 2 « Prix et conditions de paiement » ;
+- de l'annexe 3 « Extraits du Marché principal applicables au Sous-traitant » (cahier des charges, plans, normes, pénalités) ;
+- de l'annexe 4 « Garantie de paiement » (acte de caution ou de délégation de paiement).
+
+Les pièces du Marché principal ne s'imposent au Sous-traitant que dans la mesure où elles lui ont été communiquées et figurent à l'annexe 3. Les conditions générales de chacune des Parties sont exclues.
+
+## ARTICLE 3 – ACCEPTATION DU SOUS-TRAITANT PAR LE MAÎTRE DE L'OUVRAGE
+
+L'Entrepreneur principal s'engage à faire accepter le Sous-traitant et agréer ses conditions de paiement par le Maître de l'ouvrage, conformément à l'article 3 de la loi du 31 décembre 1975, avant tout commencement des Prestations.
+
+Il remet au Sous-traitant, dans les [8] jours de sa réception, une copie de l'acceptation écrite et de l'agrément des conditions de paiement signés par le Maître de l'ouvrage.
+
+À défaut d'acceptation et d'agrément, l'Entrepreneur principal reste tenu envers le Sous-traitant de toutes ses obligations, mais ne peut invoquer le présent contrat à son encontre.
+
+> Note de rédaction : en pratique, l'acceptation se fait par un acte signé par le Maître de l'ouvrage qui identifie le Sous-traitant, la nature et le montant des Prestations et les conditions de paiement. Toute modification ultérieure du prix ou des délais de paiement doit être agréée à nouveau.
+
+## ARTICLE 4 – DURÉE ET DÉLAIS D'EXÉCUTION
+
+Le contrat prend effet à sa signature et prend fin à la réception des Prestations et au paiement intégral du prix, sous réserve des garanties prévues à l'article 10.
+
+Les Prestations commencent le [date ou « dans les (nombre) jours de l'ordre de démarrage écrit »] et sont achevées au plus tard le [date], selon le calendrier de l'annexe 1.
+
+Les délais sont prolongés de la durée des retards non imputables au Sous-traitant, notamment en cas de force majeure, d'intempéries reconnues, de retard du Maître de l'ouvrage ou d'un autre intervenant, ou de modification des Prestations demandée par écrit.
+
+## ARTICLE 5 – OBLIGATIONS DU SOUS-TRAITANT
+
+Le Sous-traitant s'engage à :
+
+- exécuter les Prestations conformément à l'annexe 1, aux règles de l'art, aux normes en vigueur et aux extraits du Marché principal figurant à l'annexe 3 ;
+- respecter le calendrier, les consignes de sécurité du site et, le cas échéant, le plan de prévention ou le plan particulier de sécurité et de protection de la santé ;
+- signaler par écrit et sans délai toute erreur, omission ou difficulté qu'il constate dans les documents ou sur le site, ainsi que toute réserve sur les supports qui lui sont remis ;
+- ne pas confier tout ou partie des Prestations à un autre sous-traitant sans l'accord écrit préalable de l'Entrepreneur principal et sans l'acceptation du Maître de l'ouvrage ; il est alors lui-même tenu, envers son propre sous-traitant, des obligations d'un entrepreneur principal ;
+- employer un personnel régulièrement déclaré et en règle au regard du droit du travail ;
+- remettre les documents prévus à l'article 8.
+
+## ARTICLE 6 – OBLIGATIONS DE L'ENTREPRENEUR PRINCIPAL
+
+L'Entrepreneur principal s'engage à :
+
+- communiquer au Sous-traitant, avant le démarrage, tous les documents et informations utiles du Marché principal ;
+- lui donner accès au site ou aux équipements dans des conditions permettant l'exécution normale des Prestations ;
+- coordonner les différents intervenants et informer le Sous-traitant de toute modification du Marché principal qui le concerne ;
+- fournir la garantie de paiement prévue à l'article 9 ;
+- payer le prix dans les conditions de l'annexe 2.
+
+## ARTICLE 7 – PRIX
+
+Le prix des Prestations est de [montant] euros hors taxes, [forfaitaire et non révisable / révisable selon la formule figurant à l'annexe 2 / établi sur la base des prix unitaires de l'annexe 2 appliqués aux quantités réellement exécutées].
+
+Le prix comprend toutes les charges, fournitures et frais nécessaires à l'exécution des Prestations, sauf ceux que l'annexe 2 laisse expressément à la charge de l'Entrepreneur principal.
+
+Les travaux supplémentaires ou modificatifs ne sont exécutés et payés que sur commande écrite de l'Entrepreneur principal précisant leur prix et leur incidence sur les délais.
+
+> Note de rédaction : pour des travaux de construction, la TVA est en principe due par l'Entrepreneur principal selon le mécanisme d'autoliquidation (article 283, 2 nonies du code général des impôts) : la facture du Sous-traitant est alors établie hors taxes avec la mention « Autoliquidation ». Vérifiez si votre situation entre dans ce cas.
+
+## ARTICLE 8 – FACTURATION, PAIEMENT ET DOCUMENTS DE VIGILANCE
+
+Le Sous-traitant établit ses factures [à l'achèvement / mensuellement, selon l'avancement constaté contradictoirement / selon l'échéancier de l'annexe 2].
+
+Les factures sont payées par virement dans un délai de [30] jours à compter de leur date d'émission, sans pouvoir dépasser le délai de soixante jours à compter de cette date fixé par l'article L. 441-10 du code de commerce.
+
+Tout retard de paiement entraîne de plein droit des pénalités calculées au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+> Option : retenue de garantie. Pour des travaux, l'Entrepreneur principal peut retenir au plus 5 % de chaque paiement pendant un an à compter de la réception, pour garantir la levée des réserves. Le Sous-traitant peut la remplacer par une caution bancaire (loi n° 71-584 du 16 juillet 1971).
+
+Lorsque le montant total du contrat atteint au moins 5 000 euros hors taxes, le Sous-traitant remet à la signature, puis tous les six mois jusqu'à la fin de l'exécution, les documents prévus aux articles L. 8222-1 et D. 8222-5 du code du travail, notamment son attestation de vigilance délivrée par l'URSSAF et un extrait d'immatriculation de moins de trois mois.
+
+## ARTICLE 9 – GARANTIE DE PAIEMENT DU SOUS-TRAITANT
+
+Conformément à l'article 14 de la loi du 31 décembre 1975, le paiement de toutes les sommes dues au Sous-traitant au titre du présent contrat est garanti, au choix de l'Entrepreneur principal :
+
+- [soit par une caution personnelle et solidaire délivrée par (nom de l'établissement financier) pour un montant de (montant) euros, dont l'acte est joint en annexe 4 ;]
+- [soit par une délégation de paiement par laquelle le Maître de l'ouvrage s'engage à payer directement le Sous-traitant, à hauteur des Prestations exécutées par celui-ci, dont l'acte signé des trois parties est joint en annexe 4.]
+
+La garantie est remise au Sous-traitant au plus tard à la signature du présent contrat.
+
+> Note de rédaction : cette garantie est obligatoire dans les marchés privés. Sans elle, le Sous-traitant peut demander la nullité du sous-traité. Elle doit couvrir tout le prix, y compris les travaux supplémentaires acceptés.
+
+## ARTICLE 10 – RÉCEPTION ET GARANTIES
+
+À l'achèvement des Prestations, les Parties procèdent contradictoirement à leur réception, avec ou sans réserves, par procès-verbal signé. [Option : la réception des Prestations est prononcée en même temps que la réception du Marché principal par le Maître de l'ouvrage, et au plus tard (nombre) jours après l'achèvement des Prestations.]
+
+Le Sous-traitant lève les réserves dans le délai fixé au procès-verbal.
+
+Le Sous-traitant garantit la conformité des Prestations et répond de ses défauts envers l'Entrepreneur principal. Pour les ouvrages de construction, les actions en responsabilité contre le Sous-traitant se prescrivent dans les délais prévus aux articles 1792-4-2 et 1792-4-3 du code civil.
+
+## ARTICLE 11 – RESPONSABILITÉ ET ASSURANCES
+
+L'Entrepreneur principal reste responsable envers le Maître de l'ouvrage de l'exécution de l'ensemble du Marché principal, y compris des Prestations sous-traitées.
+
+Le Sous-traitant est responsable envers l'Entrepreneur principal des dommages résultant de l'exécution des Prestations.
+
+Chaque Partie déclare être assurée, auprès d'une compagnie notoirement solvable, pour sa responsabilité civile professionnelle et, pour les travaux de construction, pour la responsabilité qu'elle encourt du fait des ouvrages réalisés. Le Sous-traitant remet ses attestations d'assurance à la signature puis à chaque échéance annuelle.
+
+## ARTICLE 12 – PÉNALITÉS DE RETARD
+
+> Option : en cas de retard imputable au Sous-traitant dans l'achèvement des Prestations, une pénalité de [montant] euros par jour calendaire de retard est due, après mise en demeure restée sans effet pendant [8] jours, dans la limite de [5] % du prix hors taxes. Ces pénalités ne peuvent excéder celles que l'Entrepreneur principal supporte au titre du Marché principal du fait de ce retard. Le juge peut les modérer si elles sont manifestement excessives (article 1231-5 du code civil).
+
+## ARTICLE 13 – ACTION DIRECTE DU SOUS-TRAITANT
+
+Si l'Entrepreneur principal ne paie pas, un mois après avoir été mis en demeure, les sommes qui lui sont dues, le Sous-traitant accepté et dont les conditions de paiement ont été agréées peut exercer une action directe contre le Maître de l'ouvrage, conformément à l'article 12 de la loi du 31 décembre 1975. Une copie de la mise en demeure est adressée au Maître de l'ouvrage.
+
+Aucune clause du présent contrat ne peut être interprétée comme une renonciation du Sous-traitant à cette action.
+
+## ARTICLE 14 – CONFIDENTIALITÉ ET NON-SOLLICITATION
+
+Chaque Partie garde confidentielles les informations techniques, financières et commerciales reçues de l'autre Partie ou du Maître de l'ouvrage, pendant la durée du contrat et [deux] ans après sa fin.
+
+> Option : le Sous-traitant s'interdit de proposer directement au Maître de l'ouvrage, pendant [douze] mois après la fin du contrat, des prestations identiques à celles du Marché principal, sauf accord écrit de l'Entrepreneur principal. Une durée plus longue ou une interdiction générale de travailler pour ce client risque d'être jugée excessive.
+
+## ARTICLE 15 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties à ses obligations, non réparé dans les [15] jours d'une mise en demeure adressée par lettre recommandée avec accusé de réception, l'autre Partie peut résilier le contrat de plein droit par une notification écrite, sans préjudice de tous dommages-intérêts.
+
+Si le Marché principal est résilié ou ajourné par le Maître de l'ouvrage, l'Entrepreneur principal en informe sans délai le Sous-traitant. Le contrat est alors [suspendu / résilié] et le Sous-traitant est payé des Prestations exécutées et des frais engagés justifiés qui ne peuvent pas être réemployés.
+
+## ARTICLE 16 – SIGNATURE ÉLECTRONIQUE ET MODIFICATION
+
+Le contrat peut être signé par voie électronique dans les conditions des articles 1366 et 1367 du code civil. Toute modification du contrat fait l'objet d'un avenant écrit signé des deux Parties ; si elle porte sur le prix ou les conditions de paiement, elle est soumise à l'agrément du Maître de l'ouvrage.
+
+## ARTICLE 17 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. Les Parties s'efforcent de résoudre à l'amiable tout différend relatif à son interprétation ou à son exécution. À défaut d'accord dans les [30] jours, le litige est porté devant le tribunal [de commerce / des activités économiques] de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement].
+
+Pour l'Entrepreneur principal
+[Prénom Nom, fonction]
+[signature]
+
+Pour le Sous-traitant
+[Prénom Nom, fonction]
+[signature]
+
+## ANNEXE 1 – DESCRIPTION DES PRESTATIONS, CALENDRIER ET LIEU D'EXÉCUTION
+
+- Prestations confiées : [description précise, lots ou postes concernés]
+- Lieu d'exécution : [adresse du site ou de l'atelier]
+- Calendrier : [date de démarrage, étapes, date d'achèvement]
+- Matériel ou fournitures mis à disposition par l'Entrepreneur principal : [liste ou « aucun »]
+- Interlocuteurs : [noms et coordonnées]
+
+## ANNEXE 2 – PRIX ET CONDITIONS DE PAIEMENT
+
+- Mode de prix : [forfait / prix unitaires / formule de révision]
+- Échéancier : [dates ou étapes de facturation]
+- Délai de paiement : [nombre] jours à compter de la date d'émission de la facture
+- Retenue de garantie : [oui, (taux) % / non]
+
+## ANNEXE 3 – EXTRAITS DU MARCHÉ PRINCIPAL APPLICABLES AU SOUS-TRAITANT
+
+[Liste des pièces du Marché principal communiquées au Sous-traitant]
+
+## ANNEXE 4 – GARANTIE DE PAIEMENT
+
+[Acte de caution personnelle et solidaire ou acte de délégation de paiement signé]
