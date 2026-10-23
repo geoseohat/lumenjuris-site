@@ -210,27 +210,53 @@
     "contrat-de-sous-traitance": {
       "fichiers": {
         "docx": {
-          "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o1.id}}",
-          "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o1.source_url}}",
+          "id": 3034,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-sous-traitance-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "f5b04c7a654e9c6834f0d07e44ebaed6d4135f097127f53598cbc3b291f8983e"
         },
         "pdf": {
-          "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o2.id}}",
-          "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o2.source_url}}",
+          "id": 3035,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-sous-traitance-lumen-juris.pdf",
           "taille": "123 Ko",
           "empreinte": "f5b04c7a654e9c6834f0d07e44ebaed6d4135f097127f53598cbc3b291f8983e"
         }
       },
       "image": {
-        "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o3.id}}",
-        "url": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o3.source_url}}",
+        "id": 3036,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-sous-traitance-lumen-juris.png",
         "taille": "291 Ko",
         "empreinte": "e957407ca3b8abbddb2f4b0bfc761e5303066309ddf78cf2d842d7d95e0cb971"
       },
       "statut": "publish",
-      "id": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o7.id}}",
-      "lien": "{{20261023-201929-publier-en-ligne-contrat-de-sous-traitance.o7.link}}",
+      "id": 3037,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sous-traitance/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-bail-commercial": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o1.id}}",
+          "url": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o1.source_url}}",
+          "taille": "44 Ko",
+          "empreinte": "38e4d64bbde06b1bb103b4f5eb5d3db3621c2fb7ce84254a486d0478238d76b1"
+        },
+        "pdf": {
+          "id": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o2.id}}",
+          "url": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o2.source_url}}",
+          "taille": "141 Ko",
+          "empreinte": "38e4d64bbde06b1bb103b4f5eb5d3db3621c2fb7ce84254a486d0478238d76b1"
+        }
+      },
+      "image": {
+        "id": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o3.id}}",
+        "url": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o3.source_url}}",
+        "taille": "292 Ko",
+        "empreinte": "c97d6dd317f1ccf96046ae4edcd1122d85cbb96cb21d07ac18ca4b00b6751993"
+      },
+      "statut": "publish",
+      "id": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o7.id}}",
+      "lien": "{{20261023-202708-publier-en-ligne-contrat-de-bail-commercial.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -239,6 +265,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261023-201929-publier-en-ligne-contrat-de-sous-traitance"
+    "20261023-202708-publier-en-ligne-contrat-de-bail-commercial"
   ]
 }

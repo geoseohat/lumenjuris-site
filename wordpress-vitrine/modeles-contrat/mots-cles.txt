@@ -16,7 +16,7 @@
 [x] 2026-10-23 statuts SAS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sas/ (brouillon test, page 3026, aperçu : https://www.lumenjuris.com/?page_id=3026&preview=true)
 [x] 2026-10-23 statuts SARL -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sarl/ (brouillon test, page 3030, aperçu : https://www.lumenjuris.com/?page_id=3030&preview=true)
 [x] 2026-10-23 contrat de sous-traitance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sous-traitance/
-contrat de bail commercial
+[x] 2026-10-23 contrat de bail commercial -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-commercial/
 conditions générales d'utilisation
 promesse d'embauche
 avenant au contrat de travail

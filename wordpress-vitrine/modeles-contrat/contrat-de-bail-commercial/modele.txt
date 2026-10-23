@@ -1,0 +1,264 @@
+# CONTRAT DE BAIL COMMERCIAL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne un bail soumis au statut des baux commerciaux (articles L. 145-1 et suivants du Code de commerce), d'une durée de neuf ans. Pour une occupation de trois ans au plus sans droit au renouvellement, utilisez un bail dérogatoire. Pour une activité libérale, utilisez un bail professionnel.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du bailleur], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) à l'effet des présentes,
+
+> Option : si le bailleur est une personne physique, indiquez ses nom, prénoms, date et lieu de naissance, adresse et, le cas échéant, régime matrimonial.
+
+Ci-après dénommé(e) « le Bailleur »,
+
+D'UNE PART,
+
+ET :
+
+[Dénomination sociale du preneur], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro] [ou : immatriculée au registre national des entreprises sous le numéro [numéro] pour une activité artisanale], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) à l'effet des présentes,
+
+Ci-après dénommé(e) « le Preneur »,
+
+D'AUTRE PART,
+
+Ensemble dénommés « les Parties ».
+
+IL A ÉTÉ CONVENU ET ARRÊTÉ CE QUI SUIT :
+
+## ARTICLE 1 – OBJET ET STATUT APPLICABLE
+
+Le Bailleur donne à bail au Preneur, qui accepte, les locaux désignés à l'article 2, pour l'exploitation de l'activité définie à l'article 4.
+
+Le présent bail est soumis aux articles L. 145-1 et suivants et R. 145-1 et suivants du Code de commerce, ainsi qu'aux stipulations du présent contrat qui ne leur sont pas contraires.
+
+Le Preneur déclare être immatriculé, ou s'engage à l'être avant la prise d'effet du bail, au registre du commerce et des sociétés ou au registre national des entreprises pour l'activité exercée dans les locaux. Il est informé que cette immatriculation conditionne son droit au renouvellement.
+
+## ARTICLE 2 – DÉSIGNATION DES LOCAUX
+
+Les locaux loués dépendent d'un immeuble situé [adresse complète], cadastré section [section] numéro [numéro].
+
+Ils comprennent :
+
+- [description précise : boutique en rez-de-chaussée, réserve, bureaux, sanitaires, étage, cave, parking, etc.] ;
+- une surface d'environ [nombre] m², donnée à titre indicatif ;
+- [le cas échéant : les lots de copropriété numéros [numéros] et les quotes-parts de parties communes correspondantes].
+
+Le plan des locaux figure en annexe 1. Le Preneur déclare bien connaître les locaux pour les avoir visités.
+
+> Note de rédaction : une différence de surface ne permet pas, à elle seule, de modifier le loyer, sauf clause contraire. Décrivez les locaux de façon précise, car cette description sert aussi de référence pour le calcul de la valeur locative au renouvellement.
+
+## ARTICLE 3 – DURÉE
+
+### 3.1 Durée initiale
+
+Le bail est consenti pour une durée de neuf années entières et consécutives, qui commence le [date de prise d'effet] et se termine le [date d'expiration].
+
+### 3.2 Faculté de résiliation triennale du Preneur
+
+Le Preneur peut donner congé à l'expiration de chaque période triennale, en respectant un préavis d'au moins six mois, par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice.
+
+> Option (uniquement lorsque la loi l'autorise : bail de plus de neuf ans, locaux construits en vue d'une seule utilisation, locaux à usage exclusif de bureaux ou locaux de stockage) : « Par dérogation, le Preneur renonce à la faculté de résiliation à l'expiration de la [première / deuxième] période triennale. » Cette renonciation est sans effet dans les autres cas.
+
+### 3.3 Faculté de reprise du Bailleur
+
+Le Bailleur ne peut mettre fin au bail à l'expiration d'une période triennale que dans les cas prévus par la loi (construction, reconstruction, surélévation de l'immeuble ou travaux imposés dans le cadre d'une opération de restauration immobilière), par acte de commissaire de justice délivré au moins six mois à l'avance.
+
+### 3.4 Fin du bail et renouvellement
+
+À l'expiration du bail, celui-ci ne prend fin que par l'effet d'un congé donné au moins six mois à l'avance, ou d'une demande de renouvellement, dans les formes prévues par le Code de commerce. À défaut, le bail se prolonge tacitement au-delà du terme fixé.
+
+## ARTICLE 4 – DESTINATION DES LOCAUX
+
+Les locaux sont destinés exclusivement à l'activité suivante : [description précise de l'activité autorisée].
+
+> Option : « ainsi qu'aux activités connexes ou complémentaires suivantes : [liste]. »
+
+Le Preneur ne peut exercer aucune autre activité sans l'accord écrit du Bailleur, sous réserve des procédures de déspécialisation prévues aux articles L. 145-47 et suivants du Code de commerce.
+
+Le Preneur fait son affaire personnelle de l'obtention des autorisations administratives nécessaires à son activité. Le Bailleur déclare que les locaux peuvent, selon le règlement de copropriété ou l'état de l'immeuble qu'il connaît, accueillir l'activité prévue [ou : préciser les restrictions connues].
+
+> Note de rédaction : une destination trop étroite gêne le Preneur et réduit la valeur de son fonds ; une clause « tous commerces » peut justifier un loyer plus élevé au renouvellement. Choisissez une formulation qui correspond à l'activité réelle, avec une marge raisonnable.
+
+## ARTICLE 5 – LOYER
+
+### 5.1 Montant
+
+Le bail est consenti moyennant un loyer annuel de [montant en chiffres] euros ([montant en lettres] euros) hors taxes et hors charges.
+
+> Option : « Le Bailleur ayant opté pour l'assujettissement des loyers à la taxe sur la valeur ajoutée, le loyer est majoré de la TVA au taux en vigueur. »
+
+### 5.2 Paiement
+
+Le loyer est payable [trimestriellement / mensuellement] et d'avance, le [premier] jour de chaque [trimestre civil / mois], par [virement / prélèvement] sur le compte désigné par le Bailleur.
+
+> Option (franchise de loyer) : « En contrepartie des travaux d'aménagement réalisés par le Preneur, le Bailleur consent une franchise de loyer de [nombre] mois à compter de la prise d'effet du bail. Les charges et impôts restent dus pendant cette période. »
+
+### 5.3 Pas-de-porte
+
+> Option : « Le Preneur verse au Bailleur, à la signature, une somme de [montant] euros hors taxes à titre de [supplément de loyer / indemnité compensant les avantages commerciaux procurés par le bail]. » Précisez la nature de cette somme : elle a des conséquences fiscales et sur la fixation du loyer au renouvellement.
+
+## ARTICLE 6 – INDEXATION ET RÉVISION DU LOYER
+
+### 6.1 Indexation annuelle
+
+Le loyer est indexé automatiquement chaque année à la date anniversaire de la prise d'effet du bail, en fonction de la variation de [l'indice des loyers commerciaux (ILC) / l'indice des loyers des activités tertiaires (ILAT)] publié par l'INSEE.
+
+L'indice de référence est celui du [trimestre] [année]. Il est comparé, à chaque indexation, à l'indice du même trimestre de l'année suivante. Si l'indice choisi cesse d'être publié, il est remplacé par l'indice que l'INSEE désigne pour lui succéder.
+
+La variation prise en compte ne peut pas porter sur une période plus longue que celle qui s'est écoulée entre deux révisions. L'indexation joue à la hausse comme à la baisse.
+
+> Note de rédaction : une clause qui ne joue qu'à la hausse, ou qui crée une distorsion entre la période de variation de l'indice et la durée entre deux révisions, peut être réputée non écrite par le juge. Ne la modifiez pas en ce sens.
+
+### 6.2 Révision légale
+
+Indépendamment de la clause d'indexation, chaque Partie peut demander la révision du loyer dans les conditions prévues aux articles L. 145-37 et suivants du Code de commerce. Lorsque la variation du loyer due au jeu de l'indexation dépasse un quart par rapport au loyer fixé contractuellement ou par décision judiciaire précédente, la révision peut être demandée dans les conditions de l'article L. 145-39 du même code.
+
+## ARTICLE 7 – CHARGES, IMPÔTS ET TAXES
+
+### 7.1 Inventaire et répartition
+
+L'inventaire précis et limitatif des catégories de charges, impôts, taxes et redevances liés au bail, avec l'indication de leur répartition entre le Bailleur et le Preneur, figure en annexe 2.
+
+Le Preneur rembourse au Bailleur sa quote-part des charges et impôts mis à sa charge par cette annexe, à hauteur de [quote-part ou clé de répartition, par exemple : tantièmes de copropriété, surface].
+
+### 7.2 Charges qui restent au Bailleur
+
+Restent en tout état de cause à la charge du Bailleur, conformément à l'article R. 145-35 du Code de commerce :
+
+- les dépenses relatives aux grosses réparations mentionnées à l'article 606 du Code civil, ainsi que les honoraires liés à leur réalisation ;
+- les dépenses de travaux ayant pour objet de remédier à la vétusté ou de mettre en conformité les locaux avec la réglementation, lorsqu'ils relèvent de ces grosses réparations ;
+- les impôts, notamment la contribution économique territoriale, taxes et redevances dont le redevable légal est le Bailleur ou le propriétaire, à l'exception de la taxe foncière et des taxes additionnelles, ainsi que des impôts, taxes et redevances liés à l'usage du local ou de l'immeuble ou à un service dont le Preneur bénéficie ;
+- les honoraires du Bailleur liés à la gestion des loyers ;
+- les charges relatives à des locaux vacants ou imputables à d'autres locataires.
+
+### 7.3 Provisions et régularisation
+
+Le Preneur verse avec chaque terme de loyer une provision sur charges et impôts de [montant] euros hors taxes. Le Bailleur adresse au Preneur un état récapitulatif annuel au plus tard le 30 septembre de l'année suivant celle au titre de laquelle il est établi, avec la régularisation correspondante. Le Bailleur tient les justificatifs à la disposition du Preneur.
+
+### 7.4 Travaux prévus
+
+Le Bailleur communique en annexe 3 l'état prévisionnel des travaux qu'il envisage de réaliser dans les trois années suivantes, avec un budget prévisionnel, ainsi que l'état récapitulatif des travaux réalisés au cours des trois années précédentes et leur coût. Il communique ces états au Preneur tous les trois ans.
+
+## ARTICLE 8 – DÉPÔT DE GARANTIE
+
+Le Preneur verse au Bailleur, à la signature du présent bail, la somme de [montant] euros, correspondant à [nombre] mois de loyer hors taxes et hors charges, à titre de dépôt de garantie de l'exécution de ses obligations.
+
+Ce dépôt ne dispense pas le Preneur du paiement des loyers. Il est restitué au Preneur dans un délai de [deux / trois] mois après la remise des clés et l'établissement de l'état des lieux de sortie, déduction faite des sommes dont le Preneur serait justement redevable.
+
+> Note de rédaction : la loi ne plafonne pas le dépôt de garantie dans un bail commercial. En revanche, les sommes versées d'avance qui dépassent l'équivalent de deux termes de loyer produisent des intérêts au profit du Preneur (article L. 145-40 du Code de commerce).
+
+> Option : « Le Preneur remet au Bailleur, à la signature, une garantie à première demande / un cautionnement de [nom du garant] d'un montant de [montant] euros, dont l'acte figure en annexe 6. »
+
+## ARTICLE 9 – ÉTAT DES LIEUX
+
+Un état des lieux est établi contradictoirement et amiablement par les Parties, ou par un tiers mandaté par elles, lors de la remise des clés et lors de leur restitution. Il est annexé au bail (annexe 4).
+
+À défaut d'état des lieux établi amiablement, il est établi par un commissaire de justice à l'initiative de la Partie la plus diligente, les frais étant partagés par moitié entre les Parties.
+
+## ARTICLE 10 – ENTRETIEN, RÉPARATIONS ET TRAVAUX
+
+### 10.1 Obligations du Preneur
+
+Le Preneur maintient les locaux en bon état d'entretien et de réparations locatives pendant toute la durée du bail. Il répond des dégradations survenues de son fait ou du fait des personnes qu'il introduit dans les locaux.
+
+### 10.2 Obligations du Bailleur
+
+Le Bailleur délivre des locaux conformes à leur destination et permettant l'exercice de l'activité prévue. Il assure les grosses réparations mentionnées à l'article 606 du Code civil et les travaux qui lui incombent selon l'annexe 2.
+
+### 10.3 Travaux du Preneur
+
+Le Preneur ne peut réaliser de travaux touchant au gros œuvre, aux structures, aux façades ou modifiant la distribution des locaux sans l'accord préalable et écrit du Bailleur.
+
+À la fin du bail, les aménagements réalisés par le Preneur restent acquis au Bailleur sans indemnité, [à moins que le Bailleur ne demande la remise des lieux en l'état initial pour les travaux réalisés sans son accord].
+
+> Note de rédaction : l'accession des travaux en fin de bail ou en fin de jouissance a des effets sur la valeur locative au renouvellement. Précisez la date d'accession retenue si vous souhaitez éviter une discussion à ce sujet.
+
+### 10.4 Travaux du Bailleur
+
+Le Preneur souffre les travaux que le Bailleur doit réaliser dans les locaux ou dans l'immeuble. Si ces travaux durent plus de vingt et un jours, le loyer est diminué à proportion du temps et de la partie des locaux dont le Preneur a été privé, conformément à l'article 1724 du Code civil.
+
+## ARTICLE 11 – GARNISSEMENT, EXPLOITATION ET ASSURANCES
+
+Le Preneur garnit les locaux de matériel et de marchandises en quantité suffisante, et les exploite conformément à leur destination.
+
+Le Preneur assure, auprès d'une compagnie notoirement solvable, ses biens, les risques locatifs, le recours des voisins et des tiers et sa responsabilité civile d'exploitation. Il justifie de ces assurances à la signature du bail, puis chaque année à la demande du Bailleur.
+
+Le Bailleur assure l'immeuble en qualité de propriétaire.
+
+> Option : « Les Parties et leurs assureurs renoncent réciproquement à tout recours l'une contre l'autre pour les dommages couverts par leurs polices respectives, sauf faute lourde ou intentionnelle. »
+
+## ARTICLE 12 – CESSION ET SOUS-LOCATION
+
+### 12.1 Cession
+
+Le Preneur peut céder son droit au bail à l'acquéreur de son fonds de commerce ou de son entreprise, sans que le Bailleur puisse s'y opposer.
+
+La cession du seul droit au bail, indépendamment du fonds, est [soumise à l'accord préalable et écrit du Bailleur / libre].
+
+Toute cession est réalisée par acte écrit. Le Bailleur est appelé à l'acte [par lettre recommandée avec demande d'avis de réception adressée au moins [nombre] jours à l'avance], et un exemplaire de l'acte lui est remis sans frais.
+
+### 12.2 Garantie du cédant
+
+> Option : « Le cédant reste garant solidaire du cessionnaire pour le paiement des loyers et l'exécution des clauses du bail. » Cette garantie ne peut être invoquée que pendant trois ans à compter de la cession, et le Bailleur doit informer le cédant de tout défaut de paiement du cessionnaire dans le délai d'un mois à compter de la date à laquelle la somme aurait dû être payée.
+
+### 12.3 Sous-location
+
+Toute sous-location, totale ou partielle, est interdite sauf accord exprès et écrit du Bailleur. En cas d'accord, le Bailleur est appelé à concourir à l'acte de sous-location.
+
+## ARTICLE 13 – DROIT DE PRÉFÉRENCE DU PRENEUR
+
+En cas de projet de vente des locaux, le Preneur bénéficie du droit de préférence prévu à l'article L. 145-46-1 du Code de commerce, dans les conditions et sous les exceptions prévues par ce texte. Le Bailleur l'informe par lettre recommandée avec demande d'avis de réception, ou par remise en main propre contre récépissé, en indiquant le prix et les conditions de la vente envisagée. Le Preneur dispose d'un délai d'un mois à compter de la réception de cette offre pour se prononcer.
+
+## ARTICLE 14 – CLAUSE RÉSOLUTOIRE
+
+À défaut de paiement à son échéance d'un seul terme de loyer, de charges ou d'accessoires, ou d'exécution de l'une des clauses du présent bail, le bail sera résilié de plein droit un mois après un commandement de payer ou une sommation d'exécuter demeuré infructueux, délivré par acte de commissaire de justice et mentionnant ce délai.
+
+Le Preneur conserve la faculté de demander au juge des délais de paiement, qui suspendent les effets de la clause résolutoire, conformément à l'article L. 145-41 du Code de commerce.
+
+> Note de rédaction : le commandement qui ne reproduit pas le délai d'un mois est sans effet. Une clause qui prévoit un délai plus court est réputée non écrite.
+
+## ARTICLE 15 – RESTITUTION DES LOCAUX
+
+À la fin du bail, le Preneur restitue les locaux en bon état de réparations locatives, libres de tout occupant et de tout objet lui appartenant, et remet l'ensemble des clés. L'état des lieux de sortie est comparé à l'état des lieux d'entrée, compte tenu de l'usure normale.
+
+> Option (indemnité d'occupation) : « En cas de maintien dans les lieux après la fin du bail, le Preneur sera redevable d'une indemnité d'occupation égale au dernier loyer, augmenté des charges, jusqu'à la libération complète des locaux. »
+
+## ARTICLE 16 – DIAGNOSTICS ET INFORMATIONS ANNEXÉS
+
+Sont annexés au présent bail (annexe 5) :
+
+- le diagnostic de performance énergétique, lorsqu'il est exigé pour les locaux ;
+- l'état des risques relatifs à l'immeuble, établi depuis moins de six mois ;
+- le cas échéant, le dossier technique amiante ou sa fiche récapitulative ;
+- le cas échéant, l'annexe environnementale exigée pour les locaux de plus de 2 000 m² à usage de bureaux ou de commerce ;
+- le cas échéant, le règlement de copropriété ou ses extraits utiles.
+
+## ARTICLE 17 – FRAIS
+
+Les frais de rédaction du présent bail sont supportés [par moitié par chacune des Parties / par le Preneur / par le Bailleur].
+
+## ARTICLE 18 – ÉLECTION DE DOMICILE ET LITIGES
+
+Pour l'exécution des présentes, le Bailleur élit domicile à son siège ou à son adresse indiquée en tête, et le Preneur dans les locaux loués.
+
+Les Parties s'efforcent de régler à l'amiable tout différend lié au présent bail. Les litiges relatifs à la fixation du loyer révisé ou renouvelé relèvent du juge des loyers commerciaux du tribunal judiciaire du lieu de situation de l'immeuble. Les autres litiges relèvent du tribunal judiciaire du lieu de situation de l'immeuble.
+
+> Option : saisine préalable de la commission départementale de conciliation des baux commerciaux pour les litiges portant sur le loyer, les charges ou les travaux.
+
+Fait à [ville], le [date], en [deux] exemplaires originaux, dont un pour chaque Partie.
+
+Le Bailleur
+[nom, qualité du signataire et signature]
+
+Le Preneur
+[nom, qualité du signataire et signature]
+
+## ANNEXES
+
+- Annexe 1 : plan et description des locaux
+- Annexe 2 : inventaire des catégories de charges, impôts, taxes et redevances, et leur répartition
+- Annexe 3 : état prévisionnel et récapitulatif des travaux sur trois ans
+- Annexe 4 : état des lieux d'entrée
+- Annexe 5 : diagnostics et état des risques
+- Annexe 6 : garanties (cautionnement ou garantie à première demande), le cas échéant
