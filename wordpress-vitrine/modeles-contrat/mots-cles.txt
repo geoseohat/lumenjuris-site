@@ -1,0 +1,111 @@
+# Liste des modèles de contrat à publier par la routine quotidienne (1 par jour, 9 h).
+#
+# Une ligne = un contrat, dans l'ordre de publication. Écrivez simplement le nom du contrat.
+# La routine prend la première ligne sans [x], crée la page, la met en ligne,
+# puis coche la ligne : [x] 2026-09-26 conditions générales de vente -> adresse de la page
+#
+# Les lignes qui commencent par # sont ignorées (ce sont des commentaires).
+# Pour mettre un contrat en attente, ajoutez # devant.
+#
+# Suggestions (retirez le # devant celles que vous voulez publier) :
+[x] 2026-09-25 conditions générales de vente -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-de-vente/
+[x] 2026-09-28 contrat de prestation de services -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-prestation-de-services/
+[x] 2026-09-29 contrat de travail CDI -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/
+[x] 2026-09-29 contrat de travail CDD -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/
+[x] 2026-09-30 accord de confidentialité (NDA) -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/
+statuts SAS
+statuts SARL
+contrat de sous-traitance
+contrat de bail commercial
+conditions générales d'utilisation
+promesse d'embauche
+avenant au contrat de travail
+rupture conventionnelle
+contrat de cession de parts sociales
+lettre de mission
+contrat de freelance
+contrat de partenariat commercial
+contrat d'apporteur d'affaires
+contrat d'agent commercial
+contrat de distribution
+contrat de commission
+contrat de mandat
+contrat de vente
+contrat de fourniture
+contrat de maintenance
+contrat de licence
+contrat de licence de logiciel
+contrat SaaS
+contrat de développement logiciel
+contrat de création de site internet
+contrat de référencement SEO
+contrat de community management
+contrat de conseil
+contrat de consulting
+contrat de formation professionnelle
+convention de formation
+contrat de stage
+convention de mise à disposition de personnel
+contrat de travail à temps partiel
+contrat de travail à temps plein
+contrat de travail intermittent
+contrat de travail saisonnier
+contrat d'extra
+contrat de télétravail
+charte de télétravail
+avenant de télétravail
+clause de non-concurrence
+clause de confidentialité
+clause de mobilité
+clause d'exclusivité
+accord transactionnel
+protocole transactionnel
+lettre de licenciement
+lettre de démission
+lettre de rupture de période d'essai
+convocation à entretien préalable
+contrat de cession d'actions
+promesse de cession d'actions
+promesse de cession de parts sociales
+pacte d'associés
+pacte d'actionnaires
+procès-verbal d'assemblée générale
+procès-verbal de nomination du président SAS
+procès-verbal de changement de gérant
+convention de compte courant d'associé
+contrat d'investissement
+contrat de prêt entre entreprises
+contrat de prêt entre particuliers
+reconnaissance de dette
+contrat de location
+contrat de location meublée
+contrat de location non meublée
+contrat de location saisonnière
+contrat de sous-location
+contrat de bail professionnel
+contrat de bail dérogatoire
+convention d'occupation précaire
+contrat de domiciliation
+contrat de dépôt
+contrat de franchise
+contrat de concession
+contrat de distribution exclusive
+contrat de distribution sélective
+contrat d'affiliation
+contrat de sponsoring
+contrat de partenariat influenceur
+contrat d'égérie
+contrat de cession de droits d'auteur
+contrat de licence de marque
+contrat de cession de marque
+contrat de cession de brevet
+contrat de cession de droits à l'image
+autorisation de droit à l'image
+contrat de production audiovisuelle
+contrat de prestation informatique
+contrat de traitement de données personnelles
+accord de sous-traitance RGPD
+politique de confidentialité
+contrat de vente de fonds de commerce
+promesse de vente de fonds de commerce
+contrat de location-gérance

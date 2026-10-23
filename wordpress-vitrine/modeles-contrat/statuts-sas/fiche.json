@@ -1,0 +1,119 @@
+{
+  "slug": "statuts-sas",
+  "nom": "Statuts de SAS",
+  "nom_court": "statuts de SAS",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts SAS",
+  "mots_cles_secondaires": [
+    "statuts SAS",
+    "statuts SAS gratuit",
+    "modèle statuts SASU",
+    "exemple statuts SAS",
+    "rédiger les statuts d'une SAS",
+    "statuts société par actions simplifiée"
+  ],
+  "titre_h1": "Modèle de statuts de SAS gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts de SAS gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de statuts de SAS gratuit en Word ou PDF : capital, Président, décisions des associés, agrément, notes pour SASU. Personnalisable en ligne.",
+  "chapo": "Les statuts sont l'acte de naissance de votre SAS : ils fixent son nom, son activité, son capital, qui la dirige et comment les associés décident. Voici un modèle complet et gratuit pour une SAS à plusieurs associés, avec des notes pour l'adapter à une SASU.",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-sas-lumen-juris",
+  "date_publication": "2026-10-16",
+  "date_mise_a_jour": "2026-10-16",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit des contrats",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez les associés et la société",
+      "Complétez l'identité de chaque associé, la dénomination, le siège, l'objet précis de l'activité et la date de clôture des comptes."
+    ],
+    [
+      "Indiquez les apports et le capital",
+      "Renseignez le montant apporté par chacun, le nombre d'actions et leur répartition en annexe 1. Ajoutez l'article sur les apports en nature seulement si vous apportez un bien."
+    ],
+    [
+      "Choisissez vos règles de fonctionnement",
+      "Nommez le premier Président, puis gardez, adaptez ou supprimez les passages marqués « Option » : directeur général, agrément, inaliénabilité, majorités, limites de pouvoirs."
+    ],
+    [
+      "Signez et immatriculez",
+      "Supprimez les notes de rédaction, déposez les fonds, faites signer tous les associés, puis déclarez la société sur le guichet unique des formalités d'entreprises."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel capital minimum pour créer une SAS ?",
+      "Il n'y a pas de minimum légal : le capital est fixé librement par les statuts, et une SAS peut être créée avec un euro. Un capital trop faible peut toutefois inquiéter une banque ou un fournisseur, et il doit rester cohérent avec les besoins de l'activité."
+    ],
+    [
+      "Faut-il libérer tout le capital dès la création ?",
+      "Non. Les apports en argent doivent être versés pour moitié au moins lors de la souscription. Le reste est appelé par le Président, au plus tard dans les cinq ans qui suivent l'immatriculation."
+    ],
+    [
+      "Ce modèle convient-il pour une SASU ?",
+      "Oui. La SASU est simplement une SAS qui n'a qu'un seul associé. Suivez les notes « SASU » du modèle : l'associé unique prend seul les décisions réservées aux associés, et certaines clauses, comme l'agrément, ne jouent pas tant qu'il est seul."
+    ],
+    [
+      "Peut-on rédiger les statuts d'une SAS soi-même ?",
+      "Oui. Aucune loi n'impose de passer par un professionnel pour rédiger les statuts d'une SAS, mais l'apport d'un bien immobilier exige l'intervention d'un notaire pour les formalités de publicité foncière. Une relecture reste recommandée dès que plusieurs associés n'ont pas le même poids ou qu'un investisseur entre au capital."
+    ],
+    [
+      "Quelles démarches après la signature des statuts ?",
+      "Il faut publier un avis de constitution dans un support d'annonces légales, puis déclarer la société sur le guichet unique des formalités d'entreprises, avec les statuts signés, l'attestation de dépôt des fonds et les justificatifs demandés. La société existe juridiquement à partir de son immatriculation au registre du commerce et des sociétés."
+    ],
+    [
+      "Quelle différence entre les statuts et le pacte d'associés ?",
+      "Les statuts sont obligatoires, déposés au greffe et consultables par tous. Le pacte d'associés est facultatif et confidentiel : il n'engage que ses signataires et sert à régler ce que les associés ne veulent pas rendre public, comme le prix de rachat en cas de départ."
+    ],
+    [
+      "Le Président d'une SAS peut-il être une société ?",
+      "Oui. Le Président peut être une personne physique ou une personne morale. Dans ce cas, les dirigeants de cette personne morale ont les mêmes obligations et responsabilités que s'ils étaient Président en leur nom propre."
+    ],
+    [
+      "Comment modifier les statuts d'une SAS ?",
+      "Par une décision collective des associés prise selon la majorité prévue par les statuts, l'unanimité étant exigée pour certaines clauses comme l'agrément ou l'inaliénabilité. La modification fait ensuite l'objet d'une annonce légale si nécessaire et d'une déclaration sur le guichet unique."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 227-1 à L. 227-20 (règles propres à la société par actions simplifiée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, article L. 210-6 (personnalité morale et reprise des actes accomplis pendant la formation de la société)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 232-10 et L. 232-13 (réserve légale et mise en paiement des dividendes)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1832 à 1844-17 (dispositions communes à toutes les sociétés : statuts écrits, durée, droit de vote, dissolution)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, article 1843-4 (expertise du prix de cession des droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-sas",
+    "titre": "statuts de SAS",
+    "accroche": "Répondez à quelques questions et obtenez des statuts de SAS remplis à votre nom, prêts à signer en ligne."
+  }
+}

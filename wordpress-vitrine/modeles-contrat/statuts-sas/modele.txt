@@ -1,0 +1,337 @@
+# STATUTS DE SOCIÉTÉ PAR ACTIONS SIMPLIFIÉE
+
+> Modèle gratuit Lumen Juris pour une SAS comptant plusieurs associés, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature. Pour une SAS à associé unique (SASU), suivez les notes « SASU ».
+
+[Dénomination sociale]
+Société par actions simplifiée au capital de [montant] euros
+Siège social : [adresse complète]
+
+LES SOUSSIGNÉS :
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète],
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète],
+
+[Dénomination de la société associée], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ont établi ainsi qu'il suit les statuts de la société par actions simplifiée qu'ils sont convenus de constituer entre eux.
+
+## TITRE I – FORME, OBJET, DÉNOMINATION, SIÈGE, DURÉE
+
+## ARTICLE 1 – FORME
+
+Il est formé entre les propriétaires des actions ci-après créées et de celles qui pourraient l'être ultérieurement une société par actions simplifiée (la « Société »), régie par les articles L. 227-1 et suivants du Code de commerce, par les dispositions du même code applicables aux sociétés anonymes lorsqu'elles sont compatibles avec les règles propres à la société par actions simplifiée, et par les présents statuts (les « Statuts »).
+
+La Société peut comporter un ou plusieurs associés. Elle ne peut pas procéder à une offre au public de titres financiers ni à l'admission de ses actions aux négociations sur un marché réglementé, sauf dans les cas et conditions prévus par la loi.
+
+> SASU : écrivez « Il est formé par [Prénom Nom / Dénomination], associé unique, une société par actions simplifiée… ». Tant que la Société n'a qu'un associé, celui-ci exerce seul les pouvoirs dévolus aux associés et ne peut pas les déléguer.
+
+## ARTICLE 2 – OBJET
+
+La Société a pour objet, en France et à l'étranger : [description précise de l'activité].
+
+Et, plus généralement, toutes opérations industrielles, commerciales, financières, mobilières ou immobilières pouvant se rattacher directement ou indirectement à cet objet ou à tout objet similaire ou connexe, de nature à favoriser son développement.
+
+> Note de rédaction : décrivez l'activité réellement exercée. Certaines activités (professions réglementées, transport, immobilier, débit de boissons, etc.) exigent un diplôme, une autorisation ou une carte professionnelle : vérifiez-le avant l'immatriculation.
+
+## ARTICLE 3 – DÉNOMINATION
+
+La dénomination de la Société est : [Dénomination sociale].
+
+Dans tous les actes et documents émanant de la Société et destinés aux tiers, la dénomination est précédée ou suivie immédiatement des mots « société par actions simplifiée » ou des initiales « SAS » et de l'énonciation du montant du capital social.
+
+## ARTICLE 4 – SIÈGE SOCIAL
+
+Le siège social est fixé : [adresse complète].
+
+Il peut être transféré en tout autre lieu en France par décision du Président, qui est alors habilité à modifier les Statuts en conséquence, sous réserve de ratification par la prochaine décision collective des associés. Tout autre transfert relève d'une décision collective extraordinaire.
+
+## ARTICLE 5 – DURÉE
+
+La durée de la Société est de [quatre-vingt-dix-neuf] années à compter de son immatriculation au registre du commerce et des sociétés, sauf dissolution anticipée ou prorogation.
+
+> Note de rédaction : la durée ne peut pas dépasser quatre-vingt-dix-neuf ans.
+
+## ARTICLE 6 – EXERCICE SOCIAL
+
+L'exercice social commence le [1er janvier] et se termine le [31 décembre] de chaque année.
+
+Par exception, le premier exercice commence à la date d'immatriculation de la Société et se termine le [date de clôture du premier exercice].
+
+## TITRE II – APPORTS, CAPITAL, ACTIONS
+
+## ARTICLE 7 – APPORTS
+
+Les associés font les apports suivants à la Société :
+
+### 7.1 Apports en numéraire
+
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+- [Prénom Nom / Dénomination] : la somme de [montant] euros ;
+
+soit au total la somme de [montant] euros, correspondant à [nombre] actions de [valeur nominale] euros chacune, souscrites en totalité et libérées à hauteur de [la totalité / la moitié au moins] de leur montant.
+
+Les fonds correspondants ont été déposés au crédit d'un compte ouvert au nom de la Société en formation auprès de [banque / notaire / Caisse des dépôts et consignations], ainsi qu'il résulte du certificat du dépositaire annexé aux Statuts.
+
+> Note de rédaction : les actions souscrites en numéraire doivent être libérées de la moitié au moins de leur valeur nominale lors de la souscription. Le solde doit être libéré, sur appel du Président, dans un délai de cinq ans à compter de l'immatriculation.
+
+### 7.2 Apports en nature
+
+> Option : supprimez cet article s'il n'y a que des apports d'argent.
+
+[Prénom Nom / Dénomination] apporte à la Société [description précise du bien apporté], évalué à [montant] euros, en rémunération duquel il lui est attribué [nombre] actions.
+
+Cette évaluation résulte du rapport de [Prénom Nom], commissaire aux apports désigné [à l'unanimité des futurs associés / par décision de justice], annexé aux Statuts.
+
+> Note de rédaction : un commissaire aux apports doit en principe évaluer chaque apport en nature. Les associés peuvent l'écarter à l'unanimité seulement dans les cas limités prévus par la loi ; ils restent alors responsables, pendant cinq ans, de la valeur attribuée aux apports.
+
+## ARTICLE 8 – CAPITAL SOCIAL
+
+Le capital social est fixé à la somme de [montant] euros. Il est divisé en [nombre] actions de [valeur nominale] euros chacune, toutes de même catégorie, réparties entre les associés comme indiqué en Annexe 1.
+
+## ARTICLE 9 – MODIFICATION DU CAPITAL
+
+Le capital social peut être augmenté, réduit ou amorti dans les conditions prévues par la loi, par décision collective extraordinaire des associés, qui peut déléguer au Président les pouvoirs nécessaires à sa réalisation.
+
+En cas d'augmentation de capital en numéraire, les associés disposent, proportionnellement au nombre de leurs actions, d'un droit préférentiel de souscription, auquel ils peuvent renoncer individuellement et que la décision collective peut supprimer dans les conditions prévues par la loi.
+
+## ARTICLE 10 – FORME ET DROITS DES ACTIONS
+
+Les actions sont obligatoirement nominatives. Elles sont inscrites en compte au nom de leur titulaire dans les registres tenus par la Société dans les conditions prévues par la loi.
+
+Chaque action donne droit, dans les bénéfices, l'actif social et le boni de liquidation, à une part proportionnelle à la quotité du capital qu'elle représente, et à une voix lors des décisions collectives.
+
+Les associés ne supportent les pertes qu'à concurrence de leurs apports.
+
+La propriété d'une action emporte de plein droit adhésion aux Statuts et aux décisions collectives des associés.
+
+Les actions sont indivisibles à l'égard de la Société. Les copropriétaires indivis sont représentés par l'un d'eux ou par un mandataire unique. En cas de démembrement, le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant l'affectation des bénéfices, où il est réservé à l'usufruitier.
+
+## ARTICLE 11 – TRANSMISSION DES ACTIONS
+
+### 11.1 Principe
+
+La transmission des actions s'opère par un ordre de mouvement signé du cédant ou de son mandataire, inscrit sur le registre des mouvements de titres de la Société.
+
+Les transmissions d'actions entre associés sont libres.
+
+### 11.2 Agrément des tiers
+
+Toute transmission d'actions, à quelque titre que ce soit, au profit d'une personne qui n'est pas associée est soumise à l'agrément préalable de la collectivité des associés statuant à la majorité de [deux tiers] des voix, l'associé cédant prenant part au vote.
+
+La demande d'agrément, indiquant l'identité du bénéficiaire, le nombre d'actions et le prix proposé, est notifiée au Président par lettre recommandée avec avis de réception ou par courrier électronique avec accusé de réception. Le Président consulte les associés dans un délai de [un] mois. La décision est notifiée au cédant dans les mêmes formes. À défaut de réponse dans un délai de [trois] mois à compter de la demande, l'agrément est réputé acquis.
+
+En cas de refus d'agrément, la Société est tenue, dans un délai de [trois] mois à compter de la notification du refus, de faire acquérir les actions par un ou plusieurs associés ou par un tiers agréé, ou, avec le consentement du cédant, de les racheter en vue de réduire son capital, sauf si le cédant renonce à son projet. À défaut d'accord sur le prix, celui-ci est déterminé dans les conditions de l'article 1843-4 du Code civil. Si l'acquisition n'est pas réalisée dans ce délai, l'agrément est réputé donné.
+
+Toute transmission réalisée en violation du présent article est nulle.
+
+> Note de rédaction : la clause d'agrément est facultative en SAS. Elle ne peut être adoptée ou modifiée qu'à l'unanimité des associés. SASU : la clause ne s'applique pas tant qu'il n'y a qu'un associé ; vous pouvez la conserver pour l'avenir.
+
+### 11.3 Inaliénabilité
+
+> Option : supprimez cet article si vous ne souhaitez pas bloquer les actions au démarrage.
+
+Les actions sont inaliénables pendant une durée de [durée, dix ans au plus] à compter de [l'immatriculation de la Société / leur souscription], sauf accord unanime des autres associés.
+
+## TITRE III – DIRECTION DE LA SOCIÉTÉ
+
+## ARTICLE 12 – PRÉSIDENT
+
+### 12.1 Nomination
+
+La Société est représentée à l'égard des tiers par un président (le « Président »), personne physique ou morale, associé ou non.
+
+Le premier Président est désigné à l'article 26 des Statuts. Les Présidents suivants sont nommés par décision collective ordinaire des associés, pour une durée [indéterminée / de [nombre] ans renouvelable].
+
+Lorsque le Président est une personne morale, ses dirigeants sont soumis aux mêmes conditions et obligations et encourent les mêmes responsabilités civile et pénale que s'ils étaient Président en leur nom propre, sans préjudice de la responsabilité solidaire de la personne morale qu'ils dirigent.
+
+### 12.2 Pouvoirs
+
+Le Président est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société, dans la limite de l'objet social et sous réserve des pouvoirs que la loi et les Statuts attribuent expressément aux décisions collectives des associés.
+
+> Option : à titre interne, vous pouvez soumettre certaines opérations (emprunt au-delà de [montant] euros, cession d'un actif important, embauche d'un cadre dirigeant) à l'autorisation préalable des associés. Ces limitations ne sont pas opposables aux tiers.
+
+Dans les rapports avec les tiers, la Société est engagée même par les actes du Président qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances.
+
+### 12.3 Rémunération
+
+La rémunération éventuelle du Président est fixée par décision collective ordinaire des associés. Il a droit au remboursement de ses frais engagés dans l'intérêt de la Société, sur justificatifs.
+
+### 12.4 Fin des fonctions
+
+Les fonctions du Président prennent fin par l'arrivée du terme, la démission, l'incapacité, le décès ou, pour une personne morale, la dissolution, ainsi que par la révocation.
+
+Le Président peut démissionner en prévenant les associés au moins [trois] mois à l'avance, sauf accord des associés sur un délai plus court.
+
+Le Président peut être révoqué à tout moment par décision collective ordinaire des associés. Il est préalablement informé des motifs de la révocation envisagée et mis en mesure de présenter ses observations. Sauf stipulation contraire, la révocation n'ouvre droit à aucune indemnité.
+
+> Note de rédaction : même révocable à tout moment, le Président peut obtenir des dommages et intérêts si sa révocation est faite dans des conditions brutales ou vexatoires. Si vous préférez exiger un « juste motif », indiquez-le ici : la révocation sans juste motif ouvrira alors droit à indemnisation.
+
+## ARTICLE 13 – DIRECTEURS GÉNÉRAUX
+
+> Option : supprimez cet article si la Société n'a qu'un dirigeant.
+
+Sur proposition du Président, la collectivité des associés peut nommer, par décision collective ordinaire, un ou plusieurs directeurs généraux ou directeurs généraux délégués, personnes physiques ou morales, associés ou non. La décision fixe la durée de leurs fonctions et leur rémunération éventuelle.
+
+Les directeurs généraux et directeurs généraux délégués disposent, à l'égard des tiers, des mêmes pouvoirs que le Président. La décision de nomination peut limiter leurs pouvoirs à titre interne. Ils sont révocables dans les conditions prévues pour le Président.
+
+## ARTICLE 14 – CONVENTIONS RÉGLEMENTÉES
+
+Le Président ou, s'il en a été désigné un, le commissaire aux comptes présente aux associés un rapport sur les conventions intervenues, directement ou par personne interposée, entre la Société et son Président, l'un de ses dirigeants, l'un de ses associés disposant d'une fraction des droits de vote supérieure à dix pour cent ou, s'il s'agit d'une société associée, la société la contrôlant.
+
+Les associés statuent sur ce rapport lors de la décision collective qui approuve les comptes de l'exercice. Les conventions non approuvées produisent néanmoins leurs effets, à charge pour la personne intéressée et, le cas échéant, pour le Président et les autres dirigeants d'en supporter les conséquences dommageables pour la Société.
+
+Ces règles ne s'appliquent pas aux conventions portant sur des opérations courantes conclues à des conditions normales.
+
+> SASU : il est seulement fait mention, au registre des décisions, des conventions intervenues directement ou par personne interposée entre la Société et son dirigeant.
+
+Il est interdit au Président et aux autres dirigeants de la Société, ainsi qu'à leurs conjoints, ascendants, descendants et personnes interposées de contracter, sous quelque forme que ce soit, des emprunts auprès de la Société, de se faire consentir par elle un découvert en compte courant ou autrement, ou de lui faire cautionner ou avaliser leurs engagements envers les tiers.
+
+## ARTICLE 15 – COMMISSAIRES AUX COMPTES
+
+La collectivité des associés désigne un ou plusieurs commissaires aux comptes lorsque la loi l'impose, notamment lorsque la Société dépasse les seuils fixés par décret, ou lorsqu'elle le juge utile. Un ou plusieurs associés représentant au moins le dixième du capital peuvent demander en justice la désignation d'un commissaire aux comptes.
+
+## TITRE IV – DÉCISIONS COLLECTIVES DES ASSOCIÉS
+
+## ARTICLE 16 – DOMAINE
+
+Relèvent obligatoirement de la compétence de la collectivité des associés les décisions suivantes :
+
+- approbation des comptes annuels et affectation du résultat ;
+- nomination, renouvellement et révocation du Président, des directeurs généraux et des commissaires aux comptes ;
+- approbation des conventions réglementées ;
+- augmentation, amortissement ou réduction du capital ;
+- fusion, scission, apport partiel d'actif, dissolution, transformation de la Société ;
+- modification des Statuts, sauf transfert du siège social dans les conditions de l'article 4 ;
+- nomination du liquidateur et décisions relatives à la liquidation.
+
+Toutes les autres décisions relèvent de la compétence du Président.
+
+## ARTICLE 17 – MODALITÉS DE CONSULTATION
+
+Les décisions collectives sont prises, à l'initiative du Président ou d'un ou plusieurs associés représentant au moins [le dixième] du capital, au choix de l'auteur de la convocation :
+
+- en assemblée, réunie au siège social ou en tout autre lieu indiqué dans la convocation, y compris par visioconférence ou tout moyen de télécommunication permettant l'identification des associés ;
+- par consultation écrite, y compris par voie électronique ;
+- ou par acte signé de tous les associés.
+
+En cas d'assemblée, la convocation est adressée à chaque associé, par tout moyen écrit y compris électronique, au moins [huit] jours avant la date de la réunion. Elle indique l'ordre du jour. L'assemblée peut se réunir sans délai si tous les associés sont présents ou représentés.
+
+En cas de consultation écrite, le texte des résolutions et les documents nécessaires sont adressés à chaque associé, qui dispose d'un délai de [huit] jours pour faire connaître son vote. L'associé qui n'a pas répondu dans ce délai est considéré comme s'étant abstenu.
+
+Chaque associé peut se faire représenter par un autre associé ou par toute personne de son choix, muni d'un pouvoir écrit.
+
+Les associés reçoivent, avant toute décision, les informations et documents nécessaires pour se prononcer en connaissance de cause.
+
+> Note de rédaction : lorsque la Société dispose d'un comité social et économique, précisez l'organe auprès duquel ses représentants exercent les droits que leur reconnaît le Code du travail (en principe la collectivité des associés).
+
+## ARTICLE 18 – MAJORITÉS
+
+### 18.1 Décisions ordinaires
+
+Sont prises à la majorité [simple] des voix des associés présents, représentés ou ayant voté, les décisions qui ne modifient pas les Statuts, notamment l'approbation des comptes, l'affectation du résultat, la nomination et la révocation des dirigeants et des commissaires aux comptes, et l'approbation des conventions réglementées.
+
+### 18.2 Décisions extraordinaires
+
+Sont prises à la majorité des [deux tiers] des voix des associés présents, représentés ou ayant voté, les décisions qui modifient les Statuts, sous réserve des décisions soumises à l'unanimité.
+
+### 18.3 Décisions à l'unanimité
+
+Sont prises à l'unanimité des associés :
+
+- l'adoption ou la modification des clauses d'inaliénabilité et d'agrément ;
+- toute décision ayant pour effet d'augmenter les engagements des associés ;
+- les autres décisions pour lesquelles la loi exige l'unanimité.
+
+> Note de rédaction : vous pouvez fixer des majorités plus fortes, mais évitez des seuils qui permettraient à un seul associé minoritaire de bloquer toute la vie de la Société.
+
+## ARTICLE 19 – PROCÈS-VERBAUX
+
+Les décisions collectives sont constatées par des procès-verbaux signés par le Président et, en cas d'assemblée, par au moins un associé présent, ou par l'acte signé de tous les associés. Ils sont établis sur un registre spécial ou sur des feuillets mobiles numérotés, tenus au siège social, le cas échéant sous forme électronique dans les conditions prévues par la loi.
+
+## ARTICLE 20 – DROIT D'INFORMATION
+
+Tout associé a le droit d'obtenir communication, au siège social, des Statuts à jour, des comptes annuels et des rapports présentés aux associés pour les trois derniers exercices, ainsi que des procès-verbaux des décisions collectives.
+
+## TITRE V – COMPTES ET RÉSULTATS
+
+## ARTICLE 21 – COMPTES ANNUELS
+
+À la clôture de chaque exercice, le Président établit l'inventaire, les comptes annuels et, lorsque la loi l'exige, un rapport de gestion.
+
+Les comptes annuels sont soumis à l'approbation de la collectivité des associés dans un délai de six mois à compter de la clôture de l'exercice, sauf prolongation de ce délai par décision de justice.
+
+## ARTICLE 22 – AFFECTATION DU RÉSULTAT
+
+Sur le bénéfice de l'exercice, diminué le cas échéant des pertes antérieures, il est prélevé cinq pour cent au moins pour constituer la réserve légale. Ce prélèvement cesse d'être obligatoire lorsque la réserve atteint le dixième du capital social.
+
+Le bénéfice distribuable est constitué par le bénéfice de l'exercice, diminué des pertes antérieures et des sommes portées en réserve en application de la loi ou des Statuts, et augmenté du report bénéficiaire. La collectivité des associés décide de son affectation : distribution de dividendes, mise en réserve ou report à nouveau.
+
+Les dividendes sont mis en paiement dans un délai maximal de neuf mois après la clôture de l'exercice, sauf prolongation par décision de justice.
+
+## ARTICLE 23 – CAPITAUX PROPRES INFÉRIEURS À LA MOITIÉ DU CAPITAL
+
+Si, du fait de pertes constatées dans les documents comptables, les capitaux propres deviennent inférieurs à la moitié du capital social, le Président consulte les associés, dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, afin de décider s'il y a lieu à dissolution anticipée de la Société. La décision fait l'objet des mesures de publicité prévues par la loi. À défaut de dissolution, la situation est régularisée dans les délais et conditions prévus par la loi.
+
+## TITRE VI – TRANSFORMATION, DISSOLUTION, LITIGES
+
+## ARTICLE 24 – DISSOLUTION ET LIQUIDATION
+
+La Société est dissoute à l'arrivée de son terme, sauf prorogation, ou par décision collective extraordinaire des associés, ainsi que dans les autres cas prévus par la loi.
+
+La collectivité des associés nomme un ou plusieurs liquidateurs, dont elle fixe les pouvoirs. Après paiement du passif et remboursement du capital, le boni de liquidation est réparti entre les associés proportionnellement au nombre de leurs actions.
+
+> SASU : lorsque l'associé unique est une personne morale, la dissolution entraîne la transmission universelle du patrimoine de la Société à cet associé, sans liquidation, dans les conditions de l'article 1844-5 du Code civil.
+
+## ARTICLE 25 – CONTESTATIONS
+
+Les contestations relatives aux affaires sociales qui pourraient survenir pendant la durée de la Société ou de sa liquidation, entre les associés ou entre un associé et la Société, sont soumises au tribunal compétent dans le ressort du siège social, après une tentative de règlement amiable d'une durée de [trente] jours.
+
+## TITRE VII – DISPOSITIONS FINALES
+
+## ARTICLE 26 – NOMINATION DU PREMIER PRÉSIDENT
+
+Est nommé premier Président de la Société, pour une durée [indéterminée / de [nombre] ans] : [Prénom Nom], né(e) le [date] à [ville], demeurant [adresse complète] / [Dénomination], représentée par [Prénom Nom].
+
+Il déclare accepter ces fonctions et n'être frappé d'aucune mesure ou incapacité susceptible de lui en interdire l'exercice.
+
+> Option : nommez de la même façon un premier directeur général, ou un premier commissaire aux comptes si la Société en a besoin dès sa création.
+
+## ARTICLE 27 – ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIÉTÉ EN FORMATION
+
+Un état des actes accomplis pour le compte de la Société en formation, avec l'indication pour chacun d'eux de l'engagement qui en résulte pour la Société, est annexé aux Statuts (Annexe 2). La signature des Statuts emporte reprise de ces engagements par la Société lorsqu'elle aura été immatriculée au registre du commerce et des sociétés.
+
+En outre, les soussignés donnent mandat à [Prénom Nom] de prendre, pour le compte de la Société, les engagements suivants avant son immatriculation : [liste précise des actes : signature du bail, ouverture d'un compte, etc.]. L'immatriculation emportera reprise de ces engagements par la Société.
+
+## ARTICLE 28 – JOUISSANCE DE LA PERSONNALITÉ MORALE ET FORMALITÉS
+
+La Société jouit de la personnalité morale à compter de son immatriculation au registre du commerce et des sociétés.
+
+Tous pouvoirs sont donnés au Président, ou au porteur d'un original ou d'une copie des Statuts, pour accomplir les formalités de publicité, de dépôt et d'immatriculation prescrites par la loi.
+
+Fait à [ville], le [date],
+en [nombre] exemplaires originaux, dont un pour le dépôt au greffe et un pour la conservation au siège social.
+
+[Prénom Nom] — signature
+
+[Prénom Nom] — signature
+
+[Dénomination], représentée par [Prénom Nom] — signature
+
+## ANNEXE 1 – RÉPARTITION DES ACTIONS
+
+- [Associé A] : [nombre] actions numérotées de [1] à [__], soit [__] % du capital
+- [Associé B] : [nombre] actions numérotées de [__] à [__], soit [__] % du capital
+- [Associé C] : [nombre] actions numérotées de [__] à [__], soit [__] % du capital
+- Total : [nombre] actions, soit 100 % du capital
+
+## ANNEXE 2 – ÉTAT DES ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIÉTÉ EN FORMATION
+
+- [Date] : [nature de l'acte, par exemple ouverture du compte de dépôt des fonds auprès de [banque]] — engagement pour la Société : [description]
+- [Date] : [nature de l'acte] — engagement pour la Société : [description]
+
+## ANNEXE 3 – PIÈCES JOINTES
+
+- Certificat du dépositaire des fonds
+- [Rapport du commissaire aux apports, le cas échéant]

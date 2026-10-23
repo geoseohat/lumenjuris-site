@@ -1,0 +1,272 @@
+# CONTRAT DE PRESTATION DE SERVICES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat est conçu pour une prestation de services entre professionnels (B2B) exécutée en France. Il ne convient pas en l'état à une prestation fournie à un particulier, ni aux secteurs soumis à une réglementation particulière (travaux de construction, transport, professions réglementées, services financiers). Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], numéro de TVA intracommunautaire [numéro], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après le « Client »,
+
+ET :
+
+[Dénomination sociale ou Prénom Nom de l'entrepreneur individuel], [forme sociale ou « entrepreneur individuel »], dont le siège social est situé [adresse], immatriculé(e) [au registre du commerce et des sociétés de (ville) / au registre national des entreprises] sous le numéro [numéro SIREN], numéro de TVA intracommunautaire [numéro ou « TVA non applicable, article 293 B du CGI »], représenté(e) par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Prestataire »,
+
+ci-après désignés ensemble les « Parties » et individuellement une « Partie ».
+
+## PRÉAMBULE
+
+Le Client souhaite confier à un professionnel indépendant la réalisation de [description courte de la prestation : par exemple « la refonte de son identité visuelle », « l'audit de ses processus comptables »].
+
+Le Prestataire exerce à titre indépendant une activité de [activité du Prestataire] et dispose des compétences et des moyens nécessaires à cette réalisation.
+
+Les Parties se sont rapprochées et ont convenu de ce qui suit.
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Prestataire réalise, pour le compte du Client, les prestations décrites à l'article 3 (les « Prestations »).
+
+## ARTICLE 2 – DOCUMENTS CONTRACTUELS
+
+Le contrat est constitué, par ordre de priorité décroissant :
+
+- du présent contrat ;
+- de l'annexe 1 « Description des Prestations et calendrier » ;
+- de l'annexe 2 « Conditions financières » ;
+- [le cas échéant : de l'annexe 3 « Accord de traitement des données personnelles »] ;
+- [de la proposition commerciale du Prestataire n° (référence) du (date)].
+
+En cas de contradiction entre ces documents, le document de rang supérieur prévaut. Les conditions générales d'achat du Client et les conditions générales de vente du Prestataire ne s'appliquent pas au présent contrat, sauf mention expresse contraire.
+
+## ARTICLE 3 – DESCRIPTION DES PRESTATIONS
+
+Les Prestations, les livrables attendus (les « Livrables ») et le calendrier de réalisation sont décrits en annexe 1.
+
+Toute prestation non décrite en annexe 1 est hors du champ du contrat. Elle ne peut être réalisée qu'après accord écrit des Parties sur son contenu, son prix et son délai, formalisé par un avenant ou un bon de commande complémentaire signé par les deux Parties.
+
+## ARTICLE 4 – DURÉE
+
+### 4.1 Entrée en vigueur
+
+Le contrat entre en vigueur à la date de sa signature par la dernière des Parties [ou : le (date)].
+
+### 4.2 Durée
+
+[Option A – mission ponctuelle] Le contrat est conclu pour la durée nécessaire à la réalisation des Prestations. Il prend fin à la réception définitive des derniers Livrables dans les conditions de l'article 7, sous réserve des stipulations qui, par nature, survivent à son terme (confidentialité, propriété intellectuelle, responsabilité).
+
+[Option B – prestations récurrentes] Le contrat est conclu pour une durée initiale de [douze] mois. Il est ensuite reconduit tacitement par périodes successives de [douze] mois, sauf dénonciation par l'une des Parties notifiée par lettre recommandée avec demande d'avis de réception au moins [trois] mois avant l'échéance en cours.
+
+> Note : en cas de relation commerciale établie depuis plusieurs années, la rupture doit respecter un préavis tenant compte de la durée de la relation, sous peine d'engager la responsabilité de son auteur (article L. 442-1, II du Code de commerce). Prévoyez un préavis qui s'allonge avec l'ancienneté de la relation.
+
+## ARTICLE 5 – OBLIGATIONS DU PRESTATAIRE
+
+Le Prestataire s'engage à :
+
+- réaliser les Prestations avec soin, conformément aux règles de l'art et aux usages de sa profession, et dans le respect du calendrier convenu ;
+- informer le Client, pendant toute la durée du contrat, de toute difficulté de nature à affecter la qualité, le coût ou le délai des Prestations, et le conseiller sur les choix à opérer ;
+- mettre en œuvre les moyens humains et matériels adaptés, dont il garde la maîtrise ;
+- respecter les règles d'hygiène, de sécurité et d'accès applicables dans les locaux du Client lorsqu'il y intervient ;
+- remettre au Client, lors de la conclusion du contrat puis tous les six mois jusqu'à la fin de son exécution, les documents prévus par le Code du travail au titre de l'obligation de vigilance, notamment son extrait d'immatriculation et l'attestation de fourniture des déclarations sociales et de paiement des cotisations délivrée par l'organisme de recouvrement.
+
+> Note : la remise des documents de vigilance est obligatoire lorsque le contrat porte sur un montant d'au moins 5 000 euros hors taxes (article L. 8222-1 du Code du travail et ses textes d'application). Le Client doit vérifier leur authenticité auprès de l'organisme émetteur.
+
+Sauf stipulation contraire en annexe 1, le Prestataire est tenu d'une obligation de moyens.
+
+> Option – obligation de résultat : « Pour les Livrables suivants : (liste), le Prestataire s'engage sur un résultat, à savoir leur conformité aux spécifications décrites en annexe 1. » Ne retenez cette option que pour des livrables précisément décrits et mesurables.
+
+## ARTICLE 6 – OBLIGATIONS DU CLIENT
+
+Le Client s'engage à :
+
+- communiquer au Prestataire, dans les délais convenus, les informations, documents et accès nécessaires à la réalisation des Prestations, et garantir leur exactitude ;
+- désigner un interlocuteur disposant du pouvoir de prendre les décisions utiles au bon déroulement des Prestations ;
+- collaborer activement avec le Prestataire et formuler ses observations dans les délais prévus à l'article 7 ;
+- payer le prix dans les conditions de l'article 8.
+
+Tout retard du Client dans l'exécution de ses obligations reporte d'autant le calendrier de réalisation, sans pénalité pour le Prestataire.
+
+## ARTICLE 7 – LIVRAISON ET RÉCEPTION DES LIVRABLES
+
+Le Prestataire remet chaque Livrable au Client aux dates prévues en annexe 1.
+
+Le Client dispose d'un délai de [dix] jours ouvrés à compter de la remise pour vérifier la conformité du Livrable à l'annexe 1 et, le cas échéant, notifier par écrit des réserves précises et motivées.
+
+- En l'absence de réserve dans ce délai, le Livrable est réputé reçu sans réserve.
+- En cas de réserves fondées, le Prestataire corrige le Livrable dans un délai de [dix] jours ouvrés et le remet au Client, qui dispose d'un nouveau délai de [cinq] jours ouvrés pour le vérifier.
+- Les demandes qui ne portent pas sur une non-conformité à l'annexe 1 mais sur une modification du besoin sont traitées comme des prestations complémentaires (article 3).
+
+L'utilisation d'un Livrable par le Client dans le cadre de son activité vaut réception sans réserve.
+
+## ARTICLE 8 – PRIX ET CONDITIONS DE PAIEMENT
+
+### 8.1 Prix
+
+En contrepartie des Prestations, le Client verse au Prestataire :
+
+[Option A – forfait] un prix forfaitaire et global de [montant] euros hors taxes, soit [montant] euros toutes taxes comprises, détaillé en annexe 2.
+
+[Option B – temps passé] une rémunération calculée sur la base d'un prix de [montant] euros hors taxes par [jour / heure] de travail effectif, dans la limite d'un budget de [nombre] [jours / heures], qui ne peut être dépassé sans l'accord écrit préalable du Client. Le Prestataire remet chaque mois un relevé détaillé du temps passé.
+
+Les frais de déplacement et d'hébergement ne sont remboursés que s'ils ont été préalablement acceptés par écrit par le Client, sur présentation des justificatifs.
+
+> Option – révision annuelle (contrats récurrents) : « Le prix est révisé chaque année à la date anniversaire du contrat selon la variation de l'indice (nom de l'indice), l'indice de référence étant le dernier publié à la date de signature. » L'indice choisi doit être en relation directe avec l'objet du contrat ou l'activité de l'une des Parties (article L. 112-2 du Code monétaire et financier).
+
+### 8.2 Facturation
+
+Le Prestataire émet ses factures [à la réception de chaque Livrable / à la fin de chaque mois / selon l'échéancier de l'annexe 2], dans le respect des mentions obligatoires prévues par le Code de commerce et le Code général des impôts.
+
+> Option – acompte : « Un acompte de (pourcentage) % du prix forfaitaire est facturé à la signature du contrat. Il s'impute sur la première facture. »
+
+### 8.3 Paiement
+
+Les factures sont payables par virement dans un délai de [trente] jours à compter de leur date d'émission. Aucun escompte n'est accordé en cas de paiement anticipé.
+
+> Note : entre professionnels, le délai convenu ne peut pas dépasser 60 jours à compter de la date d'émission de la facture, ou 45 jours fin de mois si les Parties l'ont expressément prévu et que ce délai ne constitue pas un abus manifeste (article L. 441-10 du Code de commerce).
+
+### 8.4 Retard de paiement
+
+Tout retard de paiement entraîne de plein droit, sans rappel préalable :
+
+- l'application de pénalités de retard calculées au taux d'intérêt appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points de pourcentage [ou : au taux de (taux) %, qui ne peut être inférieur à trois fois le taux d'intérêt légal] ;
+- le paiement d'une indemnité forfaitaire pour frais de recouvrement de 40 euros, sans préjudice d'une indemnisation complémentaire sur justificatifs si les frais exposés sont supérieurs.
+
+En cas de défaut de paiement persistant plus de [quinze] jours après une mise en demeure restée sans effet, le Prestataire peut suspendre l'exécution des Prestations jusqu'au complet paiement, après en avoir informé le Client par écrit.
+
+## ARTICLE 9 – INDÉPENDANCE DES PARTIES
+
+Le Prestataire exécute les Prestations en toute indépendance. Il organise librement son travail, choisit ses méthodes, ses horaires et ses outils, et détermine seul les moyens à mettre en œuvre, dans le respect des objectifs et du calendrier convenus.
+
+Aucune stipulation du contrat ne peut être interprétée comme créant entre les Parties un lien de subordination, une société ou une association. Le personnel éventuel du Prestataire demeure sous son autorité exclusive ; le Prestataire assure seul sa rémunération et le paiement des charges sociales et fiscales correspondantes.
+
+Le Prestataire est libre de travailler pour d'autres clients pendant la durée du contrat, sous réserve du respect de l'article 12.
+
+## ARTICLE 10 – SOUS-TRAITANCE
+
+Le Prestataire ne peut sous-traiter tout ou partie des Prestations qu'avec l'accord écrit préalable du Client, qui accepte le sous-traitant et agrée ses conditions de paiement. Le Prestataire demeure seul responsable envers le Client de la bonne exécution des Prestations sous-traitées.
+
+> Note : la sous-traitance d'une prestation relevant d'un contrat d'entreprise est encadrée par la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance.
+
+## ARTICLE 11 – PROPRIÉTÉ INTELLECTUELLE
+
+### 11.1 Éléments préexistants
+
+Chaque Partie reste propriétaire des éléments, savoir-faire, méthodes, outils et contenus dont elle disposait avant la conclusion du contrat ou qu'elle développe indépendamment de celui-ci. Le Prestataire concède au Client, pour les seuls éléments préexistants intégrés dans les Livrables, un droit d'utilisation non exclusif, pour la durée des droits et pour le monde entier, limité à ce qui est nécessaire à l'utilisation des Livrables.
+
+### 11.2 Droits sur les Livrables
+
+Sous réserve du paiement intégral du prix, le Prestataire cède au Client, à titre exclusif, les droits patrimoniaux d'auteur sur les Livrables créés spécifiquement dans le cadre du contrat, à savoir :
+
+- le droit de reproduction, sur tout support papier, numérique ou électronique, connu à ce jour ;
+- le droit de représentation, par tout moyen de communication au public, notamment par internet, réseaux sociaux, présentation publique et publication imprimée ;
+- le droit d'adaptation, de modification, de traduction et d'intégration dans d'autres œuvres ;
+- [le droit d'exploitation commerciale des Livrables et de leurs reproductions].
+
+Cette cession est consentie pour [le monde entier / la France], pour [la durée légale de protection des droits d'auteur / une durée de (nombre) ans], et pour les usages suivants : [destination : par exemple « la communication interne et externe du Client »]. Son prix est compris dans le prix des Prestations.
+
+Jusqu'au paiement intégral, le Client bénéficie d'un simple droit d'utilisation des Livrables pour les besoins de la vérification prévue à l'article 7.
+
+> Note : la cession de droits d'auteur n'est valable que si chaque droit cédé est mentionné distinctement et si son étendue, sa destination, le lieu et la durée d'exploitation sont délimités (article L. 131-3 du Code de la propriété intellectuelle). Une cession globale des œuvres futures est nulle (article L. 131-1). Adaptez la liste ci-dessus aux Livrables réels : textes, images, logiciels, vidéos.
+
+### 11.3 Garantie
+
+Le Prestataire garantit que les Livrables créés par lui sont originaux et ne portent pas atteinte aux droits de tiers. Il garantit le Client contre toute réclamation d'un tiers fondée sur une atteinte à ses droits de propriété intellectuelle du fait des Livrables, sauf si l'atteinte résulte d'éléments fournis par le Client ou d'une modification réalisée par celui-ci.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Chaque Partie s'engage à garder strictement confidentielles les informations de toute nature communiquées par l'autre Partie ou dont elle a connaissance à l'occasion du contrat, à ne les utiliser que pour son exécution et à ne les communiquer qu'aux membres de son personnel ou à ses conseils qui ont besoin de les connaître et sont tenus à la même obligation.
+
+Cette obligation ne s'applique pas aux informations tombées dans le domaine public sans faute de la Partie qui les a reçues, déjà connues d'elle de façon licite, ou dont la communication est exigée par la loi ou une autorité judiciaire ou administrative.
+
+Elle s'applique pendant toute la durée du contrat et pendant [trois] ans après sa fin. À la fin du contrat, chaque Partie restitue ou détruit, au choix de l'autre, les documents confidentiels qu'elle détient, sauf obligation légale de conservation.
+
+## ARTICLE 13 – DONNÉES PERSONNELLES
+
+Chaque Partie traite les données personnelles des interlocuteurs de l'autre Partie (nom, fonction, coordonnées professionnelles) pour la seule gestion du contrat, conformément au règlement (UE) 2016/679 du 27 avril 2016 (RGPD) et à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Si les Prestations conduisent le Prestataire à traiter des données personnelles pour le compte du Client, le Prestataire agit en qualité de sous-traitant au sens du RGPD. Les Parties concluent alors l'accord prévu à l'article 28 du RGPD, joint en annexe 3.
+
+## ARTICLE 14 – RESPONSABILITÉ ET ASSURANCE
+
+### 14.1 Responsabilité
+
+Chaque Partie est responsable envers l'autre des dommages directs et prévisibles résultant de l'inexécution de ses obligations, dans les conditions du droit commun.
+
+Sauf faute lourde ou dolosive, et sauf dommage corporel, la responsabilité totale du Prestataire au titre du contrat, toutes causes confondues, est limitée au montant [total du prix hors taxes du contrat / des sommes hors taxes perçues au cours des douze mois précédant le fait générateur]. Le Prestataire n'est pas responsable des dommages indirects, tels que la perte de chiffre d'affaires ou de clientèle.
+
+> Note : un plafond de responsabilité est en principe valable entre professionnels, à condition de ne pas priver de sa substance l'obligation essentielle du Prestataire (article 1170 du Code civil) ni de créer un déséquilibre significatif (article L. 442-1 du Code de commerce). Un plafond dérisoire au regard des enjeux risque d'être écarté par le juge.
+
+### 14.2 Assurance
+
+Le Prestataire déclare être titulaire d'une assurance de responsabilité civile professionnelle couvrant les conséquences de son activité, souscrite auprès d'une compagnie notoirement solvable, et s'engage à la maintenir pendant toute la durée du contrat. Il en remet l'attestation au Client sur simple demande.
+
+## ARTICLE 15 – FORCE MAJEURE
+
+Aucune Partie n'est responsable de l'inexécution de ses obligations lorsqu'elle résulte d'un cas de force majeure au sens de l'article 1218 du Code civil, c'est-à-dire d'un événement échappant à son contrôle, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées.
+
+La Partie empêchée en informe l'autre par écrit sans délai. Les obligations concernées sont suspendues pendant la durée de l'empêchement. Si l'empêchement dure plus de [trente] jours, chaque Partie peut résilier le contrat par lettre recommandée avec demande d'avis de réception, sans indemnité ; les Prestations réalisées jusque-là restent dues.
+
+L'obligation de payer une somme d'argent n'est pas suspendue par la force majeure, sauf impossibilité matérielle de procéder au paiement.
+
+## ARTICLE 16 – RÉSILIATION
+
+### 16.1 Résiliation pour manquement
+
+En cas de manquement grave de l'une des Parties à ses obligations, non réparé dans un délai de [trente] jours à compter d'une mise en demeure adressée par lettre recommandée avec demande d'avis de réception mentionnant la présente clause, l'autre Partie peut résilier le contrat de plein droit, par lettre recommandée avec demande d'avis de réception, sans préjudice des dommages et intérêts auxquels elle peut prétendre.
+
+### 16.2 Résiliation sans motif
+
+[Option] Chaque Partie peut résilier le contrat à tout moment, sans avoir à justifier d'un motif, en respectant un préavis de [un] mois notifié par lettre recommandée avec demande d'avis de réception.
+
+### 16.3 Conséquences de la fin du contrat
+
+Quelle que soit la cause de la fin du contrat, le Client paie les Prestations réalisées jusqu'à la date de fin effective, ainsi que les frais engagés avec son accord et non remboursables. Le Prestataire remet au Client les Livrables, même inachevés, correspondant aux Prestations payées, ainsi que les documents appartenant au Client.
+
+## ARTICLE 17 – NON-SOLLICITATION DU PERSONNEL
+
+[Option] Pendant la durée du contrat et pendant [douze] mois après sa fin, le Client s'interdit de solliciter, directement ou indirectement, en vue de l'embaucher, tout membre du personnel du Prestataire ayant participé à l'exécution des Prestations, sauf accord écrit préalable du Prestataire. En cas de manquement, le Client verse au Prestataire une indemnité égale à [six] mois de la dernière rémunération brute du salarié concerné.
+
+> Note : cette clause doit rester limitée dans le temps et proportionnée aux intérêts légitimes du Prestataire. Le juge peut modérer une indemnité manifestement excessive (article 1231-5 du Code civil). Elle ne doit pas être utilisée lorsque le Prestataire est seul, sans salarié.
+
+## ARTICLE 18 – DISPOSITIONS GÉNÉRALES
+
+- Intégralité : le contrat exprime l'intégralité de l'accord des Parties sur son objet et remplace tout accord antérieur portant sur le même objet.
+- Modification : toute modification du contrat fait l'objet d'un avenant écrit signé par les deux Parties.
+- Cession : aucune Partie ne peut céder le contrat à un tiers sans l'accord écrit préalable de l'autre Partie.
+- Tolérance : le fait pour une Partie de ne pas se prévaloir d'un manquement de l'autre Partie ne vaut pas renonciation à s'en prévaloir ultérieurement.
+- Nullité partielle : si une stipulation du contrat est déclarée nulle, les autres stipulations conservent leur plein effet.
+- Notifications : les notifications sont faites aux adresses indiquées en tête du contrat, ou à toute autre adresse notifiée par écrit.
+- Référence commerciale : [Option] le Prestataire peut citer le nom du Client comme référence commerciale, sauf opposition écrite de celui-ci.
+
+## ARTICLE 19 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français.
+
+En cas de différend relatif à sa formation, son exécution ou sa fin, les Parties recherchent d'abord une solution amiable. À défaut d'accord dans un délai de [trente] jours à compter de la notification du différend par l'une des Parties, le litige est porté devant [la juridiction compétente / la juridiction compétente en matière commerciale dans le ressort de (ville)].
+
+> Note : une clause désignant un tribunal n'est valable qu'entre personnes ayant toutes contracté en qualité de commerçant, et doit être spécifiée de façon très apparente (article 48 du Code de procédure civile). Si l'une des Parties n'est pas commerçante (profession libérale, artisan, association), laissez « la juridiction compétente ».
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement].
+
+Le Client — représenté par [Prénom Nom], [fonction], signature précédée de la mention « Bon pour accord »
+
+Le Prestataire — représenté par [Prénom Nom], [fonction], signature précédée de la mention « Bon pour accord »
+
+## ANNEXE 1 – DESCRIPTION DES PRESTATIONS ET CALENDRIER
+
+- Contexte et objectifs du Client : [à compléter]
+- Prestations à réaliser : [liste détaillée]
+- Livrables attendus et spécifications : [liste, format, critères de conformité]
+- Lieu d'exécution : [locaux du Prestataire / à distance / locaux du Client pour les réunions]
+- Calendrier : [date de démarrage, jalons, date de remise de chaque Livrable]
+- Interlocuteurs : pour le Client, [Prénom Nom, e-mail] ; pour le Prestataire, [Prénom Nom, e-mail]
+- Éléments à fournir par le Client : [informations, accès, contenus, avec leurs dates]
+
+## ANNEXE 2 – CONDITIONS FINANCIÈRES
+
+- Mode de rémunération : [forfait / temps passé]
+- Montant : [montant] euros hors taxes, TVA au taux de [taux] % [ou mention d'exonération]
+- Échéancier de facturation : [par exemple : 30 % à la signature, 40 % à la remise du Livrable 1, 30 % à la réception définitive]
+- Délai de paiement : [trente] jours à compter de la date d'émission de la facture
+- Frais remboursables : [nature et plafond, ou « aucun »]

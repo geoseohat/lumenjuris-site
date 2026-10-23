@@ -1,0 +1,138 @@
+{
+  "id": 2930,
+  "date": "2026-09-25T11:55:32",
+  "date_gmt": "2026-09-25T11:55:32",
+  "guid": {
+    "rendered": "https://www.lumenjuris.com/?page_id=2930",
+    "raw": "https://www.lumenjuris.com/?page_id=2930"
+  },
+  "modified": "2026-09-25T11:55:32",
+  "modified_gmt": "2026-09-25T11:55:32",
+  "password": "",
+  "slug": "modele-contrat",
+  "status": "draft",
+  "type": "page",
+  "link": "https://www.lumenjuris.com/?page_id=2930",
+  "title": {
+    "raw": "Modèles juridiques gratuits",
+    "rendered": "Modèles juridiques gratuits"
+  },
+  "content": {
+    "raw": "<!-- wp:html -->\n<style>.lj-ariane{font-size:13px;margin:0 0 1.2em}.lj-ariane p{margin:0}.lj-ariane .separator{margin:0 6px;color:#838181}.lj-ariane a{color:#354F99;text-decoration:none}.lj-ariane a:hover{text-decoration:underline}.lj-ariane ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:4px}.lj-ariane li+li::before{content:\"›\";margin:0 6px;color:#838181}.lj-ariane a{color:#354F99;text-decoration:none}.lj-ariane a:hover{text-decoration:underline}.lj-ariane [aria-current]{color:#555}.lj-mc{--lj-bleu:#354F99;--lj-vif:#3E89F7;--lj-nuit:#0A2540;--lj-pale:#EEF3FF;--lj-trait:#E5E7EB;color:#1f2937;line-height:1.7;font-size:15px;max-width:760px;margin:0 auto 72px}.page-header .entry-title{max-width:760px;margin-left:auto;margin-right:auto}.lj-mc h2{color:var(--lj-nuit);font-size:1.45em;line-height:1.3;margin:2.2em 0 .6em}.lj-mc a{color:var(--lj-bleu)}.lj-chapo{font-size:1.08em;margin:0 0 1.2em}.lj-maj{font-size:13px;color:#6b7280;margin:-.4em 0 .3em}.lj-btns{display:flex;flex-wrap:wrap;gap:10px}.lj-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:10px;font-weight:700;font-size:16px;text-decoration:none!important;line-height:1.2;border:2px solid var(--lj-bleu)}.lj-btn-plein{background:var(--lj-bleu);color:#fff!important}.lj-btn-plein:hover{background:var(--lj-nuit);border-color:var(--lj-nuit)}.lj-btn-vide{background:#fff;color:var(--lj-bleu)!important}.lj-btn-vide:hover{background:var(--lj-pale)}.lj-btn-ia{background:linear-gradient(135deg,#3E89F7,#354F99);color:#fff!important;border-color:transparent}.lj-modele{border:1px solid #A4BFDF;border-radius:16px;margin:.6em 0 1.6em;background:#fff;box-shadow:0 10px 30px rgba(10,37,64,.08);overflow:hidden}.lj-modele-tete{background:var(--lj-nuit);color:#fff;padding:16px 22px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px}.lj-modele-tete .lj-btn{padding:9px 16px;font-size:14px}.lj-ico{width:18px;height:18px;flex:0 0 18px}.lj-dl{position:relative}.lj-dl summary{list-style:none;cursor:pointer}.lj-dl summary::-webkit-details-marker{display:none}.lj-dl-menu{position:absolute;right:0;top:calc(100% + 6px);z-index:5;background:#fff;border:1px solid var(--lj-trait);border-radius:10px;box-shadow:0 10px 30px rgba(10,37,64,.15);min-width:210px;padding:6px}.lj-dl-menu a{display:flex;justify-content:space-between;gap:12px;padding:10px 12px;border-radius:8px;color:var(--lj-nuit)!important;text-decoration:none;font-weight:600;font-size:14px}.lj-dl-menu a:hover{background:var(--lj-pale)}.lj-dl-menu small{color:#6b7280;font-weight:400}.lj-modele-texte{max-height:620px;overflow:auto;padding:26px 30px;font-family:Georgia,'Times New Roman',serif;font-size:14px;line-height:1.65;background:#fcfcfd}.lj-modele-texte:focus-visible{outline:3px solid var(--lj-vif);outline-offset:-3px}.lj-modele-texte h3{font-family:inherit;font-size:1.05em;color:var(--lj-nuit);margin:1.5em 0 .4em;text-transform:none}.lj-modele-texte h4{font-family:inherit;font-size:1em;color:var(--lj-nuit);margin:1em 0 .3em}.lj-modele-texte p{margin:0 0 .7em;text-align:justify}.lj-c-titre{text-align:center!important;font-size:1.35em;font-weight:700;letter-spacing:.04em;color:var(--lj-nuit)}.lj-c-note{font-style:italic;color:#4b5563;border-left:3px solid var(--lj-vif);padding:4px 0 4px 12px;background:var(--lj-pale);text-align:left!important}.lj-champ{background:#FFF3A3;color:inherit;padding:0 2px;border-radius:3px}.lj-modele-pied{border-top:1px solid var(--lj-trait);padding:12px 22px;background:#fff}.lj-modele-pied p{margin:0;font-size:13px;color:#4b5563}.lj-sommaire{border-left:3px solid var(--lj-vif);padding:4px 0 4px 16px;margin:0 0 1.6em;font-size:15px}.lj-sommaire p{margin:0 0 4px;font-weight:700;color:var(--lj-nuit)}.lj-sommaire ol{margin:0;padding-left:20px}.lj-table-wrap{overflow-x:auto}.lj-table{border-collapse:collapse;width:100%;font-size:15px}.lj-table th,.lj-table td{border:1px solid var(--lj-trait);padding:10px 12px;text-align:left;vertical-align:top}.lj-table thead th{background:var(--lj-nuit);color:#fff}.lj-table tbody th{background:var(--lj-pale)}.lj-clauses li{margin-bottom:8px}.lj-etapes{counter-reset:etape;list-style:none;padding:0}.lj-etapes li{counter-increment:etape;position:relative;padding:0 0 14px 52px}.lj-etapes li::before{content:counter(etape);position:absolute;left:0;top:0;width:36px;height:36px;border-radius:50%;background:var(--lj-bleu);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}.lj-etapes strong{display:block;color:var(--lj-nuit)}.lj-faq details{border:1px solid var(--lj-trait);border-radius:12px;background:#fff;margin:0 0 10px}.lj-faq details[open]{border-color:#A4BFDF}.lj-faq summary{cursor:pointer;padding:14px 18px;font-weight:600;color:var(--lj-nuit)}.lj-faq details>div{padding:0 18px 14px}.lj-auteur{display:flex;gap:18px;align-items:flex-start;border:1px solid var(--lj-trait);border-radius:16px;padding:20px 22px;margin:2.4em 0}.lj-auteur h2{font-size:1.1em!important;margin:0 0 2px!important}.lj-avatar{flex:0 0 56px;height:56px;border-radius:50%;background:var(--lj-bleu);color:#fff;font-weight:700;font-size:20px;display:flex;align-items:center;justify-content:center}.lj-auteur p{margin:0 0 6px;font-size:14px}.lj-auteur .lj-role{color:#6b7280}.lj-sources{font-size:14px;color:#4b5563}.lj-sources ul{padding-left:20px}.lj-cartes{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;padding:0;list-style:none}.lj-cartes li{border:1px solid var(--lj-trait);border-radius:12px;padding:16px 18px;background:#fff}.lj-cartes a{font-weight:700;text-decoration:none}.lj-cartes p{margin:6px 0 0;font-size:14px;color:#4b5563}@media (max-width:640px){.lj-mc{font-size:16px}.lj-modele-texte{padding:18px;max-height:480px}.lj-modele-tete .lj-btn{padding:8px 12px}.lj-auteur{flex-direction:column}}</style>\n<div class=\"lj-mc\">\n<div class=\"lj-ariane\">[rank_math_breadcrumb]</div>\n<p class=\"lj-chapo\">Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions.</p>\n<h2>Création et vie des sociétés</h2><ul class=\"lj-cartes\"><li><a href=\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/pacte-d-associes/\">Modèle de pacte d&#x27;associés</a><p>Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, good/bad leaver, non-co…</p></li></ul>\n</div>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#bibliotheque\",\"url\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/\",\"name\":\"Modèles juridiques gratuits\",\"inLanguage\":\"fr-FR\",\"isPartOf\":{\"@id\":\"https://www.lumenjuris.com/#website\"},\"publisher\":{\"@id\":\"https://www.lumenjuris.com/#organization\"},\"mainEntity\":{\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#liste\"},\"breadcrumb\":{\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#breadcrumb\"}},{\"@type\":\"ItemList\",\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#liste\",\"numberOfItems\":1,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"url\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/pacte-d-associes/\",\"name\":\"Modèle de pacte d'associés\"}]}]}</script>\n<!-- /wp:html -->",
+    "rendered": "\n<style>.lj-ariane{font-size:13px;margin:0 0 1.2em}.lj-ariane p{margin:0}.lj-ariane .separator{margin:0 6px;color:#838181}.lj-ariane a{color:#354F99;text-decoration:none}.lj-ariane a:hover{text-decoration:underline}.lj-ariane ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:4px}.lj-ariane li+li::before{content:\"›\";margin:0 6px;color:#838181}.lj-ariane a{color:#354F99;text-decoration:none}.lj-ariane a:hover{text-decoration:underline}.lj-ariane [aria-current]{color:#555}.lj-mc{--lj-bleu:#354F99;--lj-vif:#3E89F7;--lj-nuit:#0A2540;--lj-pale:#EEF3FF;--lj-trait:#E5E7EB;color:#1f2937;line-height:1.7;font-size:15px;max-width:760px;margin:0 auto 72px}.page-header .entry-title{max-width:760px;margin-left:auto;margin-right:auto}.lj-mc h2{color:var(--lj-nuit);font-size:1.45em;line-height:1.3;margin:2.2em 0 .6em}.lj-mc a{color:var(--lj-bleu)}.lj-chapo{font-size:1.08em;margin:0 0 1.2em}.lj-maj{font-size:13px;color:#6b7280;margin:-.4em 0 .3em}.lj-btns{display:flex;flex-wrap:wrap;gap:10px}.lj-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:10px;font-weight:700;font-size:16px;text-decoration:none!important;line-height:1.2;border:2px solid var(--lj-bleu)}.lj-btn-plein{background:var(--lj-bleu);color:#fff!important}.lj-btn-plein:hover{background:var(--lj-nuit);border-color:var(--lj-nuit)}.lj-btn-vide{background:#fff;color:var(--lj-bleu)!important}.lj-btn-vide:hover{background:var(--lj-pale)}.lj-btn-ia{background:linear-gradient(135deg,#3E89F7,#354F99);color:#fff!important;border-color:transparent}.lj-modele{border:1px solid #A4BFDF;border-radius:16px;margin:.6em 0 1.6em;background:#fff;box-shadow:0 10px 30px rgba(10,37,64,.08);overflow:hidden}.lj-modele-tete{background:var(--lj-nuit);color:#fff;padding:16px 22px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px}.lj-modele-tete .lj-btn{padding:9px 16px;font-size:14px}.lj-ico{width:18px;height:18px;flex:0 0 18px}.lj-dl{position:relative}.lj-dl summary{list-style:none;cursor:pointer}.lj-dl summary::-webkit-details-marker{display:none}.lj-dl-menu{position:absolute;right:0;top:calc(100% + 6px);z-index:5;background:#fff;border:1px solid var(--lj-trait);border-radius:10px;box-shadow:0 10px 30px rgba(10,37,64,.15);min-width:210px;padding:6px}.lj-dl-menu a{display:flex;justify-content:space-between;gap:12px;padding:10px 12px;border-radius:8px;color:var(--lj-nuit)!important;text-decoration:none;font-weight:600;font-size:14px}.lj-dl-menu a:hover{background:var(--lj-pale)}.lj-dl-menu small{color:#6b7280;font-weight:400}.lj-modele-texte{max-height:620px;overflow:auto;padding:26px 30px;font-family:Georgia,'Times New Roman',serif;font-size:14px;line-height:1.65;background:#fcfcfd}.lj-modele-texte:focus-visible{outline:3px solid var(--lj-vif);outline-offset:-3px}.lj-modele-texte h3{font-family:inherit;font-size:1.05em;color:var(--lj-nuit);margin:1.5em 0 .4em;text-transform:none}.lj-modele-texte h4{font-family:inherit;font-size:1em;color:var(--lj-nuit);margin:1em 0 .3em}.lj-modele-texte p{margin:0 0 .7em;text-align:justify}.lj-c-titre{text-align:center!important;font-size:1.35em;font-weight:700;letter-spacing:.04em;color:var(--lj-nuit)}.lj-c-note{font-style:italic;color:#4b5563;border-left:3px solid var(--lj-vif);padding:4px 0 4px 12px;background:var(--lj-pale);text-align:left!important}.lj-champ{background:#FFF3A3;color:inherit;padding:0 2px;border-radius:3px}.lj-modele-pied{border-top:1px solid var(--lj-trait);padding:12px 22px;background:#fff}.lj-modele-pied p{margin:0;font-size:13px;color:#4b5563}.lj-sommaire{border-left:3px solid var(--lj-vif);padding:4px 0 4px 16px;margin:0 0 1.6em;font-size:15px}.lj-sommaire p{margin:0 0 4px;font-weight:700;color:var(--lj-nuit)}.lj-sommaire ol{margin:0;padding-left:20px}.lj-table-wrap{overflow-x:auto}.lj-table{border-collapse:collapse;width:100%;font-size:15px}.lj-table th,.lj-table td{border:1px solid var(--lj-trait);padding:10px 12px;text-align:left;vertical-align:top}.lj-table thead th{background:var(--lj-nuit);color:#fff}.lj-table tbody th{background:var(--lj-pale)}.lj-clauses li{margin-bottom:8px}.lj-etapes{counter-reset:etape;list-style:none;padding:0}.lj-etapes li{counter-increment:etape;position:relative;padding:0 0 14px 52px}.lj-etapes li::before{content:counter(etape);position:absolute;left:0;top:0;width:36px;height:36px;border-radius:50%;background:var(--lj-bleu);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}.lj-etapes strong{display:block;color:var(--lj-nuit)}.lj-faq details{border:1px solid var(--lj-trait);border-radius:12px;background:#fff;margin:0 0 10px}.lj-faq details[open]{border-color:#A4BFDF}.lj-faq summary{cursor:pointer;padding:14px 18px;font-weight:600;color:var(--lj-nuit)}.lj-faq details>div{padding:0 18px 14px}.lj-auteur{display:flex;gap:18px;align-items:flex-start;border:1px solid var(--lj-trait);border-radius:16px;padding:20px 22px;margin:2.4em 0}.lj-auteur h2{font-size:1.1em!important;margin:0 0 2px!important}.lj-avatar{flex:0 0 56px;height:56px;border-radius:50%;background:var(--lj-bleu);color:#fff;font-weight:700;font-size:20px;display:flex;align-items:center;justify-content:center}.lj-auteur p{margin:0 0 6px;font-size:14px}.lj-auteur .lj-role{color:#6b7280}.lj-sources{font-size:14px;color:#4b5563}.lj-sources ul{padding-left:20px}.lj-cartes{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;padding:0;list-style:none}.lj-cartes li{border:1px solid var(--lj-trait);border-radius:12px;padding:16px 18px;background:#fff}.lj-cartes a{font-weight:700;text-decoration:none}.lj-cartes p{margin:6px 0 0;font-size:14px;color:#4b5563}@media (max-width:640px){.lj-mc{font-size:16px}.lj-modele-texte{padding:18px;max-height:480px}.lj-modele-tete .lj-btn{padding:8px 12px}.lj-auteur{flex-direction:column}}</style>\n<div class=\"lj-mc\">\n<div class=\"lj-ariane\"><nav aria-label=\"breadcrumbs\" class=\"rank-math-breadcrumb\"><p></p></nav></div>\n<p class=\"lj-chapo\">Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions.</p>\n<h2>Création et vie des sociétés</h2><ul class=\"lj-cartes\"><li><a href=\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/pacte-d-associes/\">Modèle de pacte d&#x27;associés</a><p>Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, good/bad leaver, non-co…</p></li></ul>\n</div>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#bibliotheque\",\"url\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/\",\"name\":\"Modèles juridiques gratuits\",\"inLanguage\":\"fr-FR\",\"isPartOf\":{\"@id\":\"https://www.lumenjuris.com/#website\"},\"publisher\":{\"@id\":\"https://www.lumenjuris.com/#organization\"},\"mainEntity\":{\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#liste\"},\"breadcrumb\":{\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#breadcrumb\"}},{\"@type\":\"ItemList\",\"@id\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/#liste\",\"numberOfItems\":1,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"url\":\"https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/pacte-d-associes/\",\"name\":\"Modèle de pacte d'associés\"}]}]}</script>\n",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions. Création et vie des sociétés Modèle de pacte d&#x27;associés Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 2630,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "inline_featured_image": false,
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "",
+    "_elementor_data": "",
+    "_elementor_page_settings": null
+  },
+  "permalink_template": "https://www.lumenjuris.com/outil-generation-contrat-ia/%pagename%/",
+  "generated_slug": "modeles-juridiques-gratuits",
+  "class_list": [
+    "post-2930",
+    "page",
+    "type-page",
+    "status-draft",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/comments?post=2930"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2955,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930/revisions/2955"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2630"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/media?parent=2930"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

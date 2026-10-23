@@ -1,0 +1,118 @@
+{
+  "slug": "contrat-de-travail-cdd",
+  "nom": "Contrat de travail CDD",
+  "nom_court": "contrat de travail CDD",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de travail CDD",
+  "mots_cles_secondaires": [
+    "contrat de travail CDD",
+    "modèle contrat CDD",
+    "contrat à durée déterminée",
+    "exemple contrat de travail CDD",
+    "contrat CDD gratuit",
+    "contrat de travail à durée déterminée"
+  ],
+  "titre_h1": "Modèle de contrat de travail CDD gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de travail CDD gratuit 2026 (Word, PDF)",
+  "meta_description": "Téléchargez gratuitement notre modèle de contrat de travail CDD en Word ou PDF : motif, terme, renouvellement, période d'essai, indemnité de fin de contrat. Personnalisable en ligne.",
+  "chapo": "Le CDD permet d'embaucher un salarié pour une durée limitée, mais seulement dans les cas prévus par la loi et avec un contrat écrit comportant des mentions obligatoires. Voici un modèle complet et gratuit pour un CDD à temps plein : motif, terme, renouvellement, période d'essai, rémunération et fin du contrat.",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-travail-cdd-lumen-juris",
+  "date_publication": "2026-09-29",
+  "date_mise_a_jour": "2026-09-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit du travail",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez que le CDD est possible",
+      "Assurez-vous que votre besoin correspond à l'un des cas de recours prévus par la loi (remplacement d'un salarié absent, accroissement temporaire d'activité, emploi saisonnier…) et qu'aucune interdiction ne s'applique."
+    ],
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Rédigez le motif et la durée",
+      "Décrivez le motif de façon précise et concrète, choisissez un terme précis (date de fin) ou imprécis (avec une durée minimale), et prévoyez si besoin la possibilité de renouvellement."
+    ],
+    [
+      "Complétez le poste, l'essai et la rémunération",
+      "Indiquez le poste, la convention collective, la durée de la période d'essai calculée selon la durée du contrat, le salaire et les caisses de retraite complémentaire et de prévoyance."
+    ],
+    [
+      "Faites signer à temps",
+      "Faites la déclaration préalable à l'embauche avant l'arrivée du salarié, puis remettez-lui le contrat signé au plus tard dans les deux jours ouvrables suivant l'embauche."
+    ]
+  ],
+  "faq": [
+    [
+      "Dans quels cas peut-on conclure un CDD ?",
+      "Uniquement pour une tâche précise et temporaire, dans les cas prévus par le Code du travail (articles L. 1242-2 et L. 1242-3) : remplacement d'un salarié absent, accroissement temporaire de l'activité, emplois saisonniers, emplois pour lesquels il est d'usage de ne pas recourir au CDI dans certains secteurs, ou contrats liés à la politique de l'emploi. Un CDD ne peut jamais servir à pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise."
+    ],
+    [
+      "Quelle est la durée maximale d'un CDD ?",
+      "En principe 18 mois, renouvellements compris, lorsque le contrat a un terme précis. Cette durée est ramenée à 9 mois ou portée à 24 mois dans certains cas prévus par la loi, et un accord de branche étendu peut fixer d'autres durées. Un CDD à terme imprécis, par exemple pour remplacer un salarié malade, prend fin au retour de la personne remplacée."
+    ],
+    [
+      "Combien de fois peut-on renouveler un CDD ?",
+      "À défaut de règle fixée par un accord de branche étendu, un CDD à terme précis peut être renouvelé deux fois, sans dépasser la durée maximale. Les conditions du renouvellement doivent figurer dans le contrat ou dans un avenant signé avant la date de fin initiale."
+    ],
+    [
+      "Quelle est la durée de la période d'essai en CDD ?",
+      "Sauf usage ou accord prévoyant moins, elle est d'un jour par semaine de contrat, dans la limite de deux semaines pour un contrat de six mois au plus et d'un mois pour un contrat plus long (article L. 1242-10). Pour un contrat sans date de fin précise, elle se calcule sur la durée minimale prévue."
+    ],
+    [
+      "Le salarié en CDD a-t-il droit à une prime de précarité ?",
+      "En principe oui : à la fin du contrat, il perçoit une indemnité égale à 10 % de la rémunération brute totale versée, ou 6 % si un accord collectif le prévoit en contrepartie d'un accès à la formation. Elle n'est pas due notamment pour les emplois saisonniers et d'usage, si le salarié refuse un CDI pour un emploi similaire avec une rémunération au moins équivalente, si le contrat se poursuit en CDI, en cas de rupture anticipée à l'initiative du salarié ou pour faute grave."
+    ],
+    [
+      "Peut-on rompre un CDD avant son terme ?",
+      "Seulement dans des cas limités : accord des deux parties, faute grave, force majeure, inaptitude constatée par le médecin du travail, ou à l'initiative du salarié qui justifie d'une embauche en CDI, avec un préavis. En dehors de ces cas, la partie qui rompt doit indemniser l'autre."
+    ],
+    [
+      "Que se passe-t-il si le contrat n'est pas écrit ou si le motif est mal rédigé ?",
+      "Un CDD sans écrit ou sans définition précise de son motif est réputé conclu pour une durée indéterminée (article L. 1242-12). Le salarié peut demander au conseil de prud'hommes la requalification en CDI et obtenir une indemnité d'au moins un mois de salaire."
+    ],
+    [
+      "Peut-on enchaîner deux CDD sur le même poste ?",
+      "En principe, un délai de carence doit être respecté entre deux CDD sur le même poste : un tiers de la durée du contrat précédent si elle atteint 14 jours, la moitié si elle est plus courte. La loi et les accords de branche prévoient des exceptions, notamment pour un nouveau remplacement d'un salarié absent ou pour les emplois saisonniers."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1242-1 à L. 1242-3 (cas de recours au CDD) et L. 1242-5 à L. 1242-6 (interdictions)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1242-7, L. 1242-8 et L. 1242-8-1 (terme et durée maximale) et L. 1243-13 (renouvellement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1242-10 (période d'essai), L. 1242-12 et L. 1242-13 (écrit, mentions obligatoires et transmission)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1243-1 et L. 1243-2 (rupture anticipée) et L. 1243-8 à L. 1243-10 (indemnité de fin de contrat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1244-3 et L. 1244-4 (délai de carence) et L. 1245-1 et L. 1245-2 (requalification en CDI)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-travail-cdd",
+    "accroche": "Répondez à quelques questions et obtenez un contrat de travail CDD rempli à votre nom, prêt à signer en ligne."
+  }
+}

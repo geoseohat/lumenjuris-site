@@ -1,0 +1,158 @@
+{
+  "modeles": {
+    "pacte-d-associes": {
+      "fichiers": {
+        "docx": {
+          "id": 2953,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-pacte-d-associes-lumen-juris-2.docx",
+          "taille": "43 Ko",
+          "empreinte": "a4c60fa0c8443b9b0d05ad0a42c05aae204f874f78f73c0663ff915d82062183"
+        },
+        "pdf": {
+          "id": 2954,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-pacte-d-associes-lumen-juris-2.pdf",
+          "taille": "58 Ko",
+          "empreinte": "a4c60fa0c8443b9b0d05ad0a42c05aae204f874f78f73c0663ff915d82062183"
+        }
+      },
+      "statut": "draft",
+      "id": 2931,
+      "lien": "https://www.lumenjuris.com/?page_id=2931",
+      "image": {
+        "id": 2936,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-pacte-d-associes-lumen-juris.png",
+        "taille": "284 Ko",
+        "empreinte": "30f0215b5aa93df06c41118a071a5858a402c39eeb704b3b8558edb07700836f"
+      }
+    },
+    "conditions-generales-de-vente": {
+      "fichiers": {
+        "docx": {
+          "id": 2958,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-conditions-generales-de-vente-lumen-juris.docx",
+          "taille": "43 Ko",
+          "empreinte": "b27b2bc9b6345b8c064b3723f4bc04993ab2f25b31d4d5640b8a8ffe77071bca"
+        },
+        "pdf": {
+          "id": 2959,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-conditions-generales-de-vente-lumen-juris.pdf",
+          "taille": "58 Ko",
+          "empreinte": "b27b2bc9b6345b8c064b3723f4bc04993ab2f25b31d4d5640b8a8ffe77071bca"
+        }
+      },
+      "image": {
+        "id": 2960,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-conditions-generales-de-vente-lumen-juris.png",
+        "taille": "293 Ko",
+        "empreinte": "33b55ebd956697f954398d765815a348eb01f6859ed986eb0f499c6d74a37b48"
+      },
+      "statut": "publish",
+      "id": 2962,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-de-vente/"
+    },
+    "contrat-de-prestation-de-services": {
+      "fichiers": {
+        "docx": {
+          "id": 2967,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-prestation-de-services-lumen-juris.docx",
+          "taille": "45 Ko",
+          "empreinte": "8910db5dfd5f9b5585cb0665c8f3cacc1aa4aabc2745cb7d69cf8ef541e16974"
+        },
+        "pdf": {
+          "id": 2968,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-prestation-de-services-lumen-juris.pdf",
+          "taille": "190 Ko",
+          "empreinte": "8910db5dfd5f9b5585cb0665c8f3cacc1aa4aabc2745cb7d69cf8ef541e16974"
+        }
+      },
+      "image": {
+        "id": 2969,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-prestation-de-services-lumen-juris.png",
+        "taille": "294 Ko",
+        "empreinte": "f1b29de433ef9a5f5f18ee9ed31f5b46a341852e74168edbd53c02835c58664d"
+      },
+      "statut": "publish",
+      "id": 2970,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-prestation-de-services/"
+    },
+    "contrat-de-travail-cdi": {
+      "fichiers": {
+        "docx": {
+          "id": 2973,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdi-lumen-juris.docx",
+          "taille": "42 Ko",
+          "empreinte": "0b75f715c249718583dd1106115c9de65a5a852632c7481c3bc467155b809a59"
+        },
+        "pdf": {
+          "id": 2974,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdi-lumen-juris.pdf",
+          "taille": "127 Ko",
+          "empreinte": "0b75f715c249718583dd1106115c9de65a5a852632c7481c3bc467155b809a59"
+        }
+      },
+      "image": {
+        "id": 2975,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdi-lumen-juris.png",
+        "taille": "285 Ko",
+        "empreinte": "96465f2ad0d1f16ef1a6bdf23501790b1a1cb7d07dfb65184122ce6a08fa865d"
+      },
+      "statut": "publish",
+      "id": 2976,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/"
+    },
+    "contrat-de-travail-cdd": {
+      "fichiers": {
+        "docx": {
+          "id": 2989,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdd-lumen-juris.docx",
+          "taille": "42 Ko",
+          "empreinte": "c18bda14f5a2c72e9005eab0d3e0681d0fb362cf0adc4ee57201cbfba573b09b"
+        },
+        "pdf": {
+          "id": 2990,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdd-lumen-juris.pdf",
+          "taille": "126 Ko",
+          "empreinte": "c18bda14f5a2c72e9005eab0d3e0681d0fb362cf0adc4ee57201cbfba573b09b"
+        }
+      },
+      "image": {
+        "id": 2991,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-contrat-de-travail-cdd-lumen-juris.png",
+        "taille": "286 Ko",
+        "empreinte": "2ae18a34f10877926b5a84f9719a51a55f751e5e69850e66c34beeb5633480ad"
+      },
+      "statut": "publish",
+      "id": 2992,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/"
+    },
+    "accord-de-confidentialite": {
+      "fichiers": {
+        "docx": {
+          "id": 2997,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-accord-de-confidentialite-lumen-juris.docx",
+          "taille": "41 Ko",
+          "empreinte": "6038cc7be8ec314686b36c0159303addf8116c4a248b1033365bd6795fbf302c"
+        },
+        "pdf": {
+          "id": 2998,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-accord-de-confidentialite-lumen-juris.pdf",
+          "taille": "123 Ko",
+          "empreinte": "6038cc7be8ec314686b36c0159303addf8116c4a248b1033365bd6795fbf302c"
+        }
+      },
+      "image": {
+        "id": 2999,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/09/modele-accord-de-confidentialite-lumen-juris.png",
+        "taille": "294 Ko",
+        "empreinte": "496998b040dc1a537a6c7e680b5b1b79d6b7e6e8f9562d781eefee8e3b2f02e4"
+      },
+      "statut": "publish",
+      "id": 3000,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-de-confidentialite/"
+    }
+  },
+  "bibliotheque": {
+    "id": 2930,
+    "statut": "publish"
+  }
+}

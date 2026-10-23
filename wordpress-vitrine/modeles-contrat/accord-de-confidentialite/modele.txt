@@ -1,0 +1,145 @@
+# ACCORD DE CONFIDENTIALITÉ
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature. Ce modèle est prévu pour deux entreprises qui échangent des informations dans les deux sens (accord réciproque).
+
+ENTRE LES SOUSSIGNÉES :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après « [Partie A] »,
+
+ET :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après « [Partie B] »,
+
+ci-après désignées ensemble les « Parties » et individuellement une « Partie ».
+
+## PRÉAMBULE
+
+Les Parties souhaitent [décrire précisément le projet : étudier l'opportunité d'un partenariat commercial portant sur … / évaluer une prise de participation dans … / examiner la faisabilité du développement de …] (le « Projet »).
+
+À cette occasion, chacune des Parties est amenée à communiquer à l'autre des informations qu'elle considère comme confidentielles. Les Parties ont donc décidé de fixer les conditions dans lesquelles ces informations sont communiquées, utilisées et protégées.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – DÉFINITIONS
+
+Dans le présent accord (l'« Accord »), les termes suivants ont la signification ci-dessous :
+
+- « Informations Confidentielles » : toutes les informations, de quelque nature qu'elles soient (techniques, commerciales, financières, juridiques, stratégiques, savoir-faire, méthodes, données, codes sources, prototypes, échantillons, listes de clients ou de fournisseurs), communiquées par une Partie à l'autre dans le cadre du Projet, par écrit, oralement, par voie électronique ou par tout autre moyen, qu'elles soient ou non identifiées comme confidentielles, dès lors que leur caractère confidentiel résulte de leur nature ou des circonstances de leur communication. L'existence et le contenu des discussions entre les Parties sont également des Informations Confidentielles.
+- « Partie Émettrice » : la Partie qui communique des Informations Confidentielles.
+- « Partie Destinataire » : la Partie qui reçoit des Informations Confidentielles.
+- « Personnes Autorisées » : les dirigeants, salariés, sociétés affiliées et conseils de la Partie Destinataire (experts-comptables, conseils juridiques, établissements financiers) qui ont besoin de connaître les Informations Confidentielles pour les besoins du Projet.
+
+> Option : pour limiter les contestations, vous pouvez exiger que les informations communiquées oralement soient confirmées par écrit comme confidentielles dans un délai de [quinze] jours. C'est plus sûr pour la preuve, mais plus lourd à suivre au quotidien.
+
+## ARTICLE 2 – OBJET
+
+L'Accord a pour objet de définir les conditions dans lesquelles chaque Partie s'engage à garder confidentielles les Informations Confidentielles de l'autre Partie et à ne les utiliser que pour les besoins du Projet.
+
+> Note de rédaction : pour un accord à sens unique (une seule Partie communique des informations), indiquez ici que [Partie A] est seule Partie Émettrice et [Partie B] seule Partie Destinataire. Le reste du texte s'applique sans autre changement.
+
+## ARTICLE 3 – OBLIGATIONS DE LA PARTIE DESTINATAIRE
+
+La Partie Destinataire s'engage à :
+
+- garder strictement confidentielles les Informations Confidentielles et ne les divulguer à aucun tiers sans l'accord écrit préalable de la Partie Émettrice ;
+- n'utiliser les Informations Confidentielles que pour les besoins du Projet, à l'exclusion de tout autre usage, notamment pour son propre compte ou celui d'un tiers ;
+- protéger les Informations Confidentielles avec le même soin que celui qu'elle apporte à ses propres informations confidentielles, et en tout état de cause avec un soin raisonnable ;
+- ne reproduire les Informations Confidentielles que dans la mesure nécessaire au Projet ;
+- ne pas décompiler, désassembler ni analyser par ingénierie inverse les logiciels, prototypes ou échantillons remis, sauf dans les cas où la loi l'autorise expressément ;
+- informer sans délai la Partie Émettrice de toute divulgation ou utilisation non autorisée dont elle a connaissance, et l'aider à en limiter les conséquences.
+
+## ARTICLE 4 – PERSONNES AUTORISÉES
+
+La Partie Destinataire ne peut communiquer les Informations Confidentielles qu'à ses Personnes Autorisées, et seulement dans la mesure nécessaire au Projet.
+
+Elle les informe au préalable du caractère confidentiel de ces informations et veille à ce qu'elles soient tenues par des obligations de confidentialité au moins équivalentes à celles de l'Accord, par contrat ou en raison de leurs règles professionnelles.
+
+La Partie Destinataire répond envers la Partie Émettrice du respect de l'Accord par ses Personnes Autorisées.
+
+## ARTICLE 5 – EXCEPTIONS
+
+Les obligations de l'Accord ne s'appliquent pas aux informations dont la Partie Destinataire peut démontrer :
+
+- qu'elles étaient accessibles au public au moment de leur communication, ou qu'elles le sont devenues par la suite sans violation de l'Accord ;
+- qu'elle les connaissait déjà, sans obligation de confidentialité, avant leur communication par la Partie Émettrice ;
+- qu'elle les a reçues d'un tiers qui était en droit de les divulguer ;
+- qu'elle les a développées de façon indépendante, sans utiliser les Informations Confidentielles ;
+- que leur divulgation a été autorisée par écrit par la Partie Émettrice.
+
+## ARTICLE 6 – DIVULGATION IMPOSÉE PAR LA LOI
+
+Si la Partie Destinataire est tenue de divulguer des Informations Confidentielles en application d'une loi, d'un règlement ou d'une décision d'une juridiction ou d'une autorité administrative, elle en informe la Partie Émettrice au préalable et dans les meilleurs délais, lorsque la loi le permet, afin que celle-ci puisse faire valoir ses droits. Elle limite la divulgation à ce qui est strictement exigé.
+
+Aucune stipulation de l'Accord ne fait obstacle à l'exercice des droits reconnus par la loi, en particulier au signalement ou à la divulgation réalisés par un lanceur d'alerte dans les conditions prévues par la loi, ni aux cas dans lesquels le secret des affaires n'est pas opposable en application des articles L. 151-7 à L. 151-9 du Code de commerce.
+
+## ARTICLE 7 – PROPRIÉTÉ DES INFORMATIONS
+
+Les Informations Confidentielles restent la propriété de la Partie Émettrice.
+
+Leur communication ne confère à la Partie Destinataire aucun droit, licence ou option sur ces informations ni sur les droits de propriété intellectuelle qui s'y rattachent (brevets, marques, dessins et modèles, droits d'auteur, savoir-faire), en dehors du droit de les utiliser pour les besoins du Projet.
+
+## ARTICLE 8 – ABSENCE D'ENGAGEMENT ET DE GARANTIE
+
+L'Accord n'oblige aucune des Parties à communiquer une information déterminée, à poursuivre les discussions ni à conclure un contrat relatif au Projet. Chaque Partie reste libre de mettre fin aux discussions, dans le respect de la bonne foi.
+
+Les Informations Confidentielles sont communiquées en l'état. Sauf stipulation contraire d'un contrat ultérieur, la Partie Émettrice ne donne aucune garantie sur leur exactitude ou leur caractère complet.
+
+L'Accord ne crée entre les Parties ni société, ni mandat, ni exclusivité.
+
+## ARTICLE 9 – DONNÉES PERSONNELLES
+
+Les Parties évitent, dans la mesure du possible, de se communiquer des données à caractère personnel dans le cadre du Projet. Si une telle communication est nécessaire, elles s'engagent à respecter la réglementation applicable à la protection des données personnelles et à conclure, si besoin, un accord spécifique.
+
+## ARTICLE 10 – RESTITUTION ET DESTRUCTION
+
+À la fin de l'Accord, ou à tout moment sur demande écrite de la Partie Émettrice, la Partie Destinataire restitue ou détruit, au choix de la Partie Émettrice, dans un délai de [quinze] jours, l'ensemble des supports contenant des Informations Confidentielles ainsi que leurs copies, et en atteste par écrit si la Partie Émettrice le demande.
+
+La Partie Destinataire peut toutefois conserver les copies qu'une obligation légale ou réglementaire lui impose de garder, ainsi que celles réalisées par ses systèmes de sauvegarde informatique automatique. Ces copies restent soumises à l'Accord tant qu'elles sont conservées.
+
+## ARTICLE 11 – DURÉE
+
+L'Accord entre en vigueur à la date de sa signature et s'applique aux Informations Confidentielles communiquées pendant une durée de [douze] mois.
+
+> Option : si des informations ont déjà été échangées, ajoutez : « Il s'applique également aux Informations Confidentielles communiquées depuis le [date]. »
+
+Chaque Partie peut mettre fin aux échanges à tout moment, par notification écrite à l'autre Partie.
+
+Les obligations de confidentialité et de restriction d'usage continuent de s'appliquer pendant [cinq] ans à compter de la fin de l'Accord, quelle qu'en soit la cause.
+
+> Note de rédaction : prévoyez toujours une durée chiffrée. Un engagement sans limite de temps est fragile, car le droit français interdit les engagements perpétuels. Adaptez la durée à la sensibilité réelle des informations.
+
+## ARTICLE 12 – MANQUEMENT
+
+La Partie Destinataire reconnaît qu'une divulgation ou une utilisation non autorisée des Informations Confidentielles peut causer à la Partie Émettrice un préjudice important.
+
+En cas de manquement, la Partie Émettrice peut demander réparation de l'intégralité de son préjudice et saisir le juge compétent, y compris en référé, pour faire cesser ou prévenir toute divulgation ou utilisation non autorisée.
+
+> Option (pénalité forfaitaire) : « Tout manquement de la Partie Destinataire à ses obligations de confidentialité donne lieu au paiement d'une pénalité forfaitaire de [montant] euros, sans préjudice du droit pour la Partie Émettrice de demander la réparation de son préjudice au-delà de ce montant. » Choisissez un montant en rapport avec l'enjeu : le juge peut réduire une pénalité manifestement excessive (article 1231-5 du Code civil).
+
+## ARTICLE 13 – DISPOSITIONS DIVERSES
+
+- Notifications : toute notification est faite par lettre recommandée avec accusé de réception ou par courrier électronique avec accusé de réception, aux adresses indiquées en tête des présentes ou à l'adresse suivante : [adresses électroniques des Parties].
+- Cession : aucune Partie ne peut céder l'Accord à un tiers sans l'accord écrit préalable de l'autre Partie.
+- Nullité partielle : si une stipulation de l'Accord est déclarée nulle, les autres stipulations demeurent applicables.
+- Intégralité : l'Accord exprime l'intégralité de l'accord des Parties sur son objet. Il ne peut être modifié que par un écrit signé des deux Parties.
+- Tolérance : le fait pour une Partie de ne pas se prévaloir d'un manquement ne vaut pas renonciation à s'en prévaloir par la suite.
+- Signature électronique : les Parties conviennent que l'Accord peut être signé par voie électronique, conformément aux articles 1366 et 1367 du Code civil.
+
+## ARTICLE 14 – DROIT APPLICABLE ET LITIGES
+
+L'Accord est soumis au droit français.
+
+Tout différend relatif à sa validité, son interprétation ou son exécution fait l'objet d'une tentative de règlement amiable. À défaut d'accord dans un délai de [trente] jours à compter de la notification du différend par une Partie, il est porté devant le tribunal compétent de [ville], sans que ce délai fasse obstacle à la saisine du juge des référés en cas d'urgence.
+
+> Note de rédaction : le choix d'un tribunal d'une ville déterminée n'est valable qu'entre commerçants (sociétés commerciales notamment). Si l'une des Parties n'est pas commerçante (association, profession libérale, particulier), remplacez la fin de la phrase par « devant le tribunal compétent selon les règles de droit commun ».
+
+Fait à [ville], le [date],
+en deux exemplaires originaux, un pour chaque Partie.
+
+[Partie A] — représentée par [Prénom Nom], [fonction] — signature
+
+[Partie B] — représentée par [Prénom Nom], [fonction] — signature

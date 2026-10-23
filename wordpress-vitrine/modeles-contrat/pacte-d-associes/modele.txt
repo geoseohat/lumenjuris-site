@@ -1,0 +1,240 @@
+# PACTE D'ASSOCIÉS
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], titulaire de [nombre] [actions / parts sociales] de la Société,
+
+ci-après « [Associé A] »,
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], titulaire de [nombre] [actions / parts sociales] de la Société,
+
+ci-après « [Associé B] »,
+
+[Dénomination de la société associée], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e), titulaire de [nombre] [actions / parts sociales] de la Société,
+
+ci-après « [Associé C] »,
+
+ci-après désignés ensemble les « Associés » et individuellement un « Associé »,
+
+EN PRÉSENCE DE :
+
+[Dénomination sociale], [société par actions simplifiée / société à responsabilité limitée] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [Président / Gérant],
+
+ci-après la « Société ».
+
+## PRÉAMBULE
+
+La Société a pour activité [description de l'activité]. À la date des présentes, son capital social s'élève à [montant] euros, divisé en [nombre] [actions / parts sociales] de [valeur nominale] euros chacune, réparties comme indiqué en Annexe 1.
+
+Les Associés souhaitent organiser leurs relations au sein de la Société, fixer les règles de sa gouvernance et encadrer l'évolution de son capital, afin d'assurer la stabilité de l'actionnariat et le développement de la Société dans l'intérêt commun.
+
+Le présent pacte (le « Pacte ») complète les statuts de la Société (les « Statuts »). Il a une valeur contractuelle et n'est opposable qu'aux personnes qui l'ont signé ou qui y ont adhéré.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – DÉFINITIONS
+
+Dans le Pacte, les termes suivants ont la signification ci-dessous :
+
+- « Titres » : les [actions / parts sociales] de la Société, ainsi que toute valeur mobilière ou tout droit donnant accès, immédiatement ou à terme, à une quotité du capital ou des droits de vote de la Société.
+- « Transfert » : toute opération, à titre onéreux ou gratuit, entraînant le transfert de la propriété, de la nue-propriété ou de l'usufruit de Titres, notamment une cession, un apport, un échange, une donation, une fusion ou un nantissement suivi de réalisation.
+- « Cédant » : l'Associé qui envisage un Transfert.
+- « Tiers » : toute personne qui n'est pas partie au Pacte.
+- « Jour ouvré » : tout jour autre qu'un samedi, un dimanche ou un jour férié en France.
+- « Majorité Qualifiée » : les Associés détenant ensemble au moins [66,67] % des Titres.
+
+## ARTICLE 2 – OBJET
+
+Le Pacte a pour objet d'organiser :
+
+- la gouvernance de la Société et les décisions nécessitant l'accord préalable des Associés ;
+- l'information des Associés ;
+- les conditions dans lesquelles les Titres peuvent être transférés ;
+- les engagements personnels des Associés envers la Société.
+
+## ARTICLE 3 – GOUVERNANCE
+
+### 3.1 Direction
+
+La Société est dirigée par [Prénom Nom], en qualité de [Président / Gérant], dans les conditions prévues par les Statuts. Les Associés s'engagent à voter en faveur du maintien de cette organisation pendant la durée du Pacte, sauf faute grave du dirigeant ou décision prise à la Majorité Qualifiée.
+
+### 3.2 Comité stratégique
+
+> Option : supprimez cet article si la Société compte peu d'associés et que toutes les décisions se prennent directement entre eux.
+
+Il est institué un comité stratégique composé de [nombre] membres : [un représentant désigné par chaque Associé / liste des membres]. Il se réunit au moins [une fois par trimestre], sur convocation du [Président / Gérant] adressée par tout moyen écrit au moins [cinq] Jours ouvrés à l'avance. Il donne un avis préalable sur les orientations stratégiques, le budget annuel et les Décisions Importantes.
+
+### 3.3 Décisions importantes
+
+Les décisions suivantes (les « Décisions Importantes ») ne peuvent être prises par le dirigeant sans l'accord préalable des Associés statuant à la Majorité Qualifiée :
+
+- l'adoption et la modification du budget annuel ;
+- tout investissement, emprunt ou engagement hors budget d'un montant supérieur à [montant] euros ;
+- l'acquisition, la cession ou le nantissement d'un fonds de commerce, d'une participation ou d'un actif significatif ;
+- la création de filiales ou de succursales ;
+- l'embauche ou le licenciement d'un salarié dont la rémunération annuelle brute dépasse [montant] euros ;
+- la conclusion de toute convention entre la Société et l'un de ses Associés ou dirigeants ;
+- toute émission de Titres et toute modification des Statuts ;
+- l'engagement de tout litige d'un montant supérieur à [montant] euros.
+
+Les Associés s'engagent à exercer leurs droits de vote conformément au présent article.
+
+## ARTICLE 4 – INFORMATION DES ASSOCIÉS
+
+En complément des droits prévus par la loi et les Statuts, le [Président / Gérant] communique à chaque Associé :
+
+- dans les [quarante-cinq] jours suivant la fin de chaque trimestre, une situation comptable et un état de la trésorerie ;
+- dans les [trois] mois suivant la clôture de l'exercice, les comptes annuels ;
+- avant le début de chaque exercice, le projet de budget annuel ;
+- sans délai, toute information susceptible d'avoir un effet significatif sur l'activité ou la situation financière de la Société.
+
+## ARTICLE 5 – INALIÉNABILITÉ TEMPORAIRE
+
+> Option : cette clause est facultative. Sa durée doit rester raisonnable et être justifiée par l'intérêt de la Société.
+
+Chaque Associé s'engage à ne pas transférer ses Titres pendant une durée de [vingt-quatre] mois à compter de la signature du Pacte, sauf accord écrit préalable des autres Associés statuant à la Majorité Qualifiée, et sauf Transferts Libres définis à l'article 6.
+
+## ARTICLE 6 – TRANSFERTS LIBRES
+
+Sont libres, sous réserve que le bénéficiaire adhère préalablement au Pacte :
+
+- les Transferts entre Associés, sous réserve du droit de préemption prévu à l'article 7 ;
+- les Transferts par un Associé personne morale à une société qu'il contrôle ou qui le contrôle, au sens de l'article L. 233-3 du Code de commerce, à la condition que le Titre soit retransféré à l'Associé d'origine si ce lien de contrôle disparaît.
+
+## ARTICLE 7 – DROIT DE PRÉEMPTION
+
+### 7.1 Principe
+
+Tout Transfert de Titres par un Associé, y compris au profit d'un autre Associé, est soumis à un droit de préemption au profit des autres Associés, proportionnellement au nombre de Titres qu'ils détiennent.
+
+### 7.2 Notification
+
+Le Cédant notifie son projet aux autres Associés et à la Société par lettre recommandée avec accusé de réception ou par courrier électronique avec accusé de réception. La notification indique l'identité du cessionnaire envisagé, le nombre de Titres concernés, le prix et les conditions du Transfert, et est accompagnée de l'offre ferme du cessionnaire.
+
+### 7.3 Exercice
+
+Chaque Associé dispose d'un délai de [trente] jours à compter de la notification pour exercer son droit de préemption, au prix et aux conditions notifiés, par lettre recommandée avec accusé de réception. Les Titres non préemptés sont répartis entre les Associés ayant demandé à préempter au-delà de leur part, proportionnellement à leur participation.
+
+Le droit de préemption ne peut être exercé que sur la totalité des Titres proposés. À défaut, le Cédant est libre de réaliser le Transfert au profit du cessionnaire notifié, aux prix et conditions notifiés, dans un délai de [soixante] jours, sous réserve de la procédure d'agrément prévue par les Statuts et de l'article 8.
+
+### 7.4 Désaccord sur le prix
+
+Lorsque le Transfert n'est pas une vente en numéraire, ou en cas de contestation du prix, celui-ci est fixé par un expert désigné d'un commun accord ou, à défaut, dans les conditions prévues à l'article 1843-4 du Code civil.
+
+## ARTICLE 8 – DROIT DE SORTIE CONJOINTE
+
+Si un ou plusieurs Associés envisagent de transférer à un Tiers des Titres ayant pour effet de lui conférer le contrôle de la Société, chacun des autres Associés peut exiger que le cessionnaire acquière [la totalité / une quote-part proportionnelle] de ses propres Titres, au même prix et aux mêmes conditions.
+
+Ce droit s'exerce dans le délai prévu à l'article 7.3. Si le cessionnaire refuse d'acquérir ces Titres, le Cédant ne peut réaliser le Transfert envisagé, sauf à acquérir lui-même les Titres des Associés ayant exercé leur droit de sortie conjointe, aux mêmes prix et conditions.
+
+## ARTICLE 9 – OBLIGATION DE SORTIE CONJOINTE
+
+> Option : clause utile pour permettre une cession de 100 % de la Société à un acquéreur. Adaptez le seuil à la répartition de votre capital.
+
+Si des Associés détenant ensemble au moins [80] % des Titres acceptent une offre de bonne foi d'un Tiers portant sur 100 % des Titres, les autres Associés s'engagent irrévocablement à céder leurs Titres à ce Tiers, au même prix et aux mêmes conditions. Chaque Associé consent à cette fin, par les présentes, une promesse unilatérale de vente de ses Titres au profit des Associés majoritaires, avec faculté de substitution au profit du Tiers acquéreur.
+
+## ARTICLE 10 – DÉPART D'UN ASSOCIÉ DIRIGEANT OU SALARIÉ
+
+> Option : clause à réserver aux Associés qui exercent une fonction de direction ou un emploi dans la Société. Faites-la relire : ses conditions de prix sont souvent contestées.
+
+### 10.1 Promesse de vente
+
+Chaque Associé exerçant une fonction de dirigeant ou un emploi salarié dans la Société (un « Associé Opérationnel ») consent aux autres Associés une promesse unilatérale de vente portant sur la totalité de ses Titres, exerçable pendant [six] mois suivant la cessation de ses fonctions, pour quelque cause que ce soit.
+
+### 10.2 Prix
+
+Le prix des Titres est égal à :
+
+- leur valeur de marché, en cas de départ à la suite d'un décès, d'une invalidité, d'une révocation ou d'un licenciement sans faute grave (« Good Leaver ») ;
+- [la plus faible des deux valeurs entre leur valeur nominale et leur valeur de marché / leur valeur de marché diminuée de [__] %], en cas de démission dans les [trente-six] mois suivant la signature du Pacte, de révocation pour juste motif ou de licenciement pour faute grave ou lourde (« Bad Leaver »).
+
+À défaut d'accord, la valeur de marché est fixée par un expert dans les conditions de l'article 1843-4 du Code civil.
+
+## ARTICLE 11 – MAINTIEN DE LA PARTICIPATION
+
+En cas d'émission de nouveaux Titres, chaque Associé a le droit de souscrire, en priorité, une quote-part de l'émission égale à sa participation au capital, afin de maintenir celle-ci. Les Associés s'engagent à voter les résolutions nécessaires à l'exercice de ce droit.
+
+## ARTICLE 12 – ENGAGEMENTS PERSONNELS DES ASSOCIÉS
+
+### 12.1 Exclusivité
+
+Chaque Associé Opérationnel consacre [l'essentiel de son temps professionnel / au moins [__] jours par semaine] au développement de la Société.
+
+### 12.2 Non-concurrence
+
+Pendant la durée de sa présence au capital et pendant [douze] mois suivant le Transfert de la totalité de ses Titres, chaque Associé s'interdit d'exercer, directement ou indirectement, une activité concurrente de celle de la Société sur le territoire [de la France métropolitaine / des départements suivants : ...].
+
+> Note de rédaction : l'interdiction doit être limitée dans le temps et dans l'espace, proportionnée aux intérêts de la Société et, pour un Associé également salarié, assortie d'une contrepartie financière. À défaut, elle risque d'être annulée.
+
+### 12.3 Non-sollicitation
+
+Pendant la même durée, chaque Associé s'interdit de solliciter ou d'embaucher, directement ou indirectement, un salarié ou un client de la Société.
+
+### 12.4 Confidentialité
+
+Les Associés s'engagent à garder confidentiels le contenu du Pacte ainsi que toute information relative à la Société dont ils ont connaissance, pendant la durée du Pacte et [cinq] ans après la fin de celui-ci, sauf obligation légale ou décision de justice.
+
+## ARTICLE 13 – POLITIQUE DE DISTRIBUTION
+
+> Option : précisez la règle voulue ou supprimez cet article.
+
+Les Associés s'engagent à voter [la mise en réserve de la totalité des bénéfices pendant les [__] premiers exercices / la distribution d'au moins [__] % du bénéfice distribuable lorsque la trésorerie le permet].
+
+## ARTICLE 14 – ADHÉSION DE NOUVEAUX ASSOCIÉS
+
+Tout Transfert ou toute émission de Titres au profit d'une personne qui n'est pas partie au Pacte est subordonné à son adhésion préalable et sans réserve au Pacte, par la signature d'un acte d'adhésion conforme au modèle figurant en Annexe 2.
+
+## ARTICLE 15 – SANCTIONS
+
+Tout Transfert réalisé en violation du Pacte est inopposable aux autres Associés et à la Société, dans la mesure permise par la loi. L'Associé défaillant est tenu de réparer l'intégralité du préjudice subi par les autres Associés et par la Société.
+
+> Note de rédaction : les règles de préemption et d'agrément inscrites dans les Statuts offrent une protection plus forte, car leur violation peut entraîner la nullité du Transfert. Pensez à les reprendre dans les Statuts.
+
+## ARTICLE 16 – DURÉE
+
+Le Pacte entre en vigueur à la date de sa signature pour une durée de [dix] ans. Il est ensuite renouvelé par périodes successives de [cinq] ans, sauf opposition d'un Associé notifiée au moins [six] mois avant l'échéance.
+
+Le Pacte cesse de s'appliquer à tout Associé qui ne détient plus aucun Titre, sans préjudice des engagements qui lui survivent en vertu de l'article 12.
+
+## ARTICLE 17 – RAPPORT AVEC LES STATUTS
+
+En cas de contradiction entre le Pacte et les Statuts, les Associés s'engagent, dans leurs rapports entre eux, à faire prévaloir le Pacte et à voter toute modification des Statuts nécessaire pour les mettre en conformité.
+
+## ARTICLE 18 – DISPOSITIONS DIVERSES
+
+- Notifications : toute notification est faite par lettre recommandée avec accusé de réception ou par courrier électronique avec accusé de réception, aux adresses indiquées en tête des présentes.
+- Nullité partielle : si une stipulation du Pacte est déclarée nulle, les autres stipulations demeurent applicables et les Associés négocient de bonne foi une stipulation de remplacement d'effet équivalent.
+- Intégralité : le Pacte exprime l'intégralité de l'accord des Associés sur son objet. Il ne peut être modifié que par un écrit signé de tous les Associés.
+- Signature électronique : les Associés conviennent que le Pacte peut être signé par voie électronique, conformément aux articles 1366 et 1367 du Code civil.
+
+## ARTICLE 19 – DROIT APPLICABLE ET LITIGES
+
+Le Pacte est soumis au droit français.
+
+Tout différend relatif à sa validité, son interprétation ou son exécution fait l'objet d'une tentative de règlement amiable, puis, à défaut d'accord dans un délai de [trente] jours, d'une médiation. À défaut de résolution, il est porté devant le tribunal compétent dans le ressort du siège social de la Société.
+
+Fait à [ville], le [date],
+en [nombre d'Associés + 1] exemplaires originaux, dont un pour la Société.
+
+[Associé A] — signature précédée de la mention « Bon pour accord »
+
+[Associé B] — signature précédée de la mention « Bon pour accord »
+
+[Associé C] — représenté par [Prénom Nom], signature précédée de la mention « Bon pour accord »
+
+La Société — représentée par [Prénom Nom], [Président / Gérant]
+
+## ANNEXE 1 – RÉPARTITION DU CAPITAL
+
+- [Associé A] : [nombre] [actions / parts sociales], soit [__] % du capital et des droits de vote
+- [Associé B] : [nombre] [actions / parts sociales], soit [__] % du capital et des droits de vote
+- [Associé C] : [nombre] [actions / parts sociales], soit [__] % du capital et des droits de vote
+- Total : [nombre] [actions / parts sociales], soit 100 %
+
+## ANNEXE 2 – MODÈLE D'ACTE D'ADHÉSION
+
+Je soussigné(e) [Prénom Nom / Dénomination], demeurant / dont le siège est situé [adresse], déclare avoir pris connaissance du pacte d'associés de la société [Dénomination sociale] conclu le [date], et y adhérer sans réserve, à compter de la date à laquelle je deviens titulaire de Titres de la Société.
+
+Fait à [ville], le [date]. Signature : [ ]

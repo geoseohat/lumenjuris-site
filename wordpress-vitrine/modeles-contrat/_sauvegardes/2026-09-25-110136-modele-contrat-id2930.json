@@ -1,0 +1,132 @@
+{
+  "id": 2930,
+  "date": "2026-09-25T09:00:31",
+  "date_gmt": "2026-09-25T09:00:31",
+  "guid": {
+    "rendered": "https://www.lumenjuris.com/?page_id=2930",
+    "raw": "https://www.lumenjuris.com/?page_id=2930"
+  },
+  "modified": "2026-09-25T09:00:31",
+  "modified_gmt": "2026-09-25T09:00:31",
+  "password": "",
+  "slug": "modele-contrat",
+  "status": "draft",
+  "type": "page",
+  "link": "https://www.lumenjuris.com/?page_id=2930",
+  "title": {
+    "raw": "Modèles de contrat gratuits",
+    "rendered": "Modèles de contrat gratuits"
+  },
+  "content": {
+    "raw": "<!-- wp:html -->\n<style>.lj-ariane{\u0001font-size:\u000113px;\u0001margin:\u00010 0 1.2em}\u0001.lj-ariane p{\u0001margin:\u00010}\u0001.lj-ariane .separator{\u0001margin:\u00010 6px;\u0001color:\u0001#838181}\u0001.lj-ariane a{\u0001color:\u0001#354F99;\u0001text-decoration:\u0001none}\u0001.lj-ariane a:\u0001hover{\u0001text-decoration:\u0001underline}\u0001.lj-ariane ol{\u0001list-style:\u0001none;\u0001margin:\u00010;\u0001padding:\u00010;\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001gap:\u00014px}\u0001.lj-ariane li+li:\u0001:\u0001before{\u0001content:\u0001\"›\";\u0001margin:\u00010 6px;\u0001color:\u0001#838181}\u0001.lj-ariane a{\u0001color:\u0001#354F99;\u0001text-decoration:\u0001none}\u0001.lj-ariane a:\u0001hover{\u0001text-decoration:\u0001underline}\u0001.lj-ariane [aria-current]{\u0001color:\u0001#555}\u0001.lj-mc{\u0001--lj-bleu:\u0001#354F99;\u0001--lj-vif:\u0001#3E89F7;\u0001--lj-nuit:\u0001#0A2540;\u0001--lj-pale:\u0001#EEF3FF;\u0001--lj-trait:\u0001#E5E7EB;\u0001color:\u0001#1f2937;\u0001line-height:\u00011.7;\u0001font-size:\u000115px;\u0001margin:\u00010 0 72px}\u0001.lj-mc h2{\u0001color:\u0001var(--lj-nuit);\u0001font-size:\u00011.45em;\u0001line-height:\u00011.3;\u0001margin:\u00012.2em 0 .6em}\u0001.lj-mc a{\u0001color:\u0001var(--lj-bleu)}\u0001.lj-chapo{\u0001font-size:\u00011.08em;\u0001margin:\u00010 0 1.2em}\u0001.lj-maj{\u0001font-size:\u000113px;\u0001color:\u0001#6b7280;\u0001margin:\u0001-.4em 0 .3em}\u0001.lj-btns{\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001gap:\u000110px}\u0001.lj-btn{\u0001display:\u0001inline-flex;\u0001align-items:\u0001center;\u0001gap:\u00018px;\u0001padding:\u000112px 20px;\u0001border-radius:\u000110px;\u0001font-weight:\u0001700;\u0001font-size:\u000116px;\u0001text-decoration:\u0001none!important;\u0001line-height:\u00011.2;\u0001border:\u00012px solid var(--lj-bleu)}\u0001.lj-btn-plein{\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff!important}\u0001.lj-btn-plein:\u0001hover{\u0001background:\u0001var(--lj-nuit);\u0001border-color:\u0001var(--lj-nuit)}\u0001.lj-btn-vide{\u0001background:\u0001#fff;\u0001color:\u0001var(--lj-bleu)!important}\u0001.lj-btn-vide:\u0001hover{\u0001background:\u0001var(--lj-pale)}\u0001.lj-btn-ia{\u0001background:\u0001linear-gradient(135deg,\u0001#3E89F7,\u0001#354F99);\u0001color:\u0001#fff!important;\u0001border-color:\u0001transparent}\u0001.lj-modele{\u0001border:\u00011px solid #A4BFDF;\u0001border-radius:\u000116px;\u0001margin:\u0001.6em 0 1.6em;\u0001background:\u0001#fff;\u0001box-shadow:\u00010 10px 30px rgba(10,\u000137,\u000164,\u0001.08);\u0001overflow:\u0001hidden}\u0001.lj-modele-tete{\u0001background:\u0001var(--lj-nuit);\u0001color:\u0001#fff;\u0001padding:\u000116px 22px;\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001justify-content:\u0001space-between;\u0001align-items:\u0001center;\u0001gap:\u000112px}\u0001.lj-modele-tete .lj-btn{\u0001padding:\u00019px 16px;\u0001font-size:\u000114px}\u0001.lj-ico{\u0001width:\u000118px;\u0001height:\u000118px;\u0001flex:\u00010 0 18px}\u0001.lj-dl{\u0001position:\u0001relative}\u0001.lj-dl summary{\u0001list-style:\u0001none;\u0001cursor:\u0001pointer}\u0001.lj-dl summary:\u0001:\u0001-webkit-details-marker{\u0001display:\u0001none}\u0001.lj-dl-menu{\u0001position:\u0001absolute;\u0001right:\u00010;\u0001top:\u0001calc(100% + 6px);\u0001z-index:\u00015;\u0001background:\u0001#fff;\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000110px;\u0001box-shadow:\u00010 10px 30px rgba(10,\u000137,\u000164,\u0001.15);\u0001min-width:\u0001210px;\u0001padding:\u00016px}\u0001.lj-dl-menu a{\u0001display:\u0001flex;\u0001justify-content:\u0001space-between;\u0001gap:\u000112px;\u0001padding:\u000110px 12px;\u0001border-radius:\u00018px;\u0001color:\u0001var(--lj-nuit)!important;\u0001text-decoration:\u0001none;\u0001font-weight:\u0001600;\u0001font-size:\u000114px}\u0001.lj-dl-menu a:\u0001hover{\u0001background:\u0001var(--lj-pale)}\u0001.lj-dl-menu small{\u0001color:\u0001#6b7280;\u0001font-weight:\u0001400}\u0001.lj-modele-texte{\u0001max-height:\u0001620px;\u0001overflow:\u0001auto;\u0001padding:\u000126px 30px;\u0001font-family:\u0001Georgia,\u0001'Times New Roman',\u0001serif;\u0001font-size:\u000114px;\u0001line-height:\u00011.65;\u0001background:\u0001#fcfcfd}\u0001.lj-modele-texte:\u0001focus-visible{\u0001outline:\u00013px solid var(--lj-vif);\u0001outline-offset:\u0001-3px}\u0001.lj-modele-texte h3{\u0001font-family:\u0001inherit;\u0001font-size:\u00011.05em;\u0001color:\u0001var(--lj-nuit);\u0001margin:\u00011.5em 0 .4em;\u0001text-transform:\u0001none}\u0001.lj-modele-texte h4{\u0001font-family:\u0001inherit;\u0001font-size:\u00011em;\u0001color:\u0001var(--lj-nuit);\u0001margin:\u00011em 0 .3em}\u0001.lj-modele-texte p{\u0001margin:\u00010 0 .7em;\u0001text-align:\u0001justify}\u0001.lj-c-titre{\u0001text-align:\u0001center!important;\u0001font-size:\u00011.35em;\u0001font-weight:\u0001700;\u0001letter-spacing:\u0001.04em;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-c-note{\u0001font-style:\u0001italic;\u0001color:\u0001#4b5563;\u0001border-left:\u00013px solid var(--lj-vif);\u0001padding:\u00014px 0 4px 12px;\u0001background:\u0001var(--lj-pale);\u0001text-align:\u0001left!important}\u0001.lj-champ{\u0001background:\u0001#FFF3A3;\u0001color:\u0001inherit;\u0001padding:\u00010 2px;\u0001border-radius:\u00013px}\u0001.lj-modele-pied{\u0001border-top:\u00011px solid var(--lj-trait);\u0001padding:\u000112px 22px;\u0001background:\u0001#fff}\u0001.lj-modele-pied p{\u0001margin:\u00010;\u0001font-size:\u000113px;\u0001color:\u0001#4b5563}\u0001.lj-sommaire{\u0001border-left:\u00013px solid var(--lj-vif);\u0001padding:\u00014px 0 4px 16px;\u0001margin:\u00010 0 1.6em;\u0001font-size:\u000115px}\u0001.lj-sommaire p{\u0001margin:\u00010 0 4px;\u0001font-weight:\u0001700;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-sommaire ol{\u0001margin:\u00010;\u0001padding-left:\u000120px}\u0001.lj-table-wrap{\u0001overflow-x:\u0001auto}\u0001.lj-table{\u0001border-collapse:\u0001collapse;\u0001width:\u0001100%;\u0001font-size:\u000115px}\u0001.lj-table th,\u0001.lj-table td{\u0001border:\u00011px solid var(--lj-trait);\u0001padding:\u000110px 12px;\u0001text-align:\u0001left;\u0001vertical-align:\u0001top}\u0001.lj-table thead th{\u0001background:\u0001var(--lj-nuit);\u0001color:\u0001#fff}\u0001.lj-table tbody th{\u0001background:\u0001var(--lj-pale)}\u0001.lj-clauses li{\u0001margin-bottom:\u00018px}\u0001.lj-etapes{\u0001counter-reset:\u0001etape;\u0001list-style:\u0001none;\u0001padding:\u00010}\u0001.lj-etapes li{\u0001counter-increment:\u0001etape;\u0001position:\u0001relative;\u0001padding:\u00010 0 14px 52px}\u0001.lj-etapes li:\u0001:\u0001before{\u0001content:\u0001counter(etape);\u0001position:\u0001absolute;\u0001left:\u00010;\u0001top:\u00010;\u0001width:\u000136px;\u0001height:\u000136px;\u0001border-radius:\u000150%;\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff;\u0001font-weight:\u0001700;\u0001display:\u0001flex;\u0001align-items:\u0001center;\u0001justify-content:\u0001center}\u0001.lj-etapes strong{\u0001display:\u0001block;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-faq details{\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000112px;\u0001background:\u0001#fff;\u0001margin:\u00010 0 10px}\u0001.lj-faq details[open]{\u0001border-color:\u0001#A4BFDF}\u0001.lj-faq summary{\u0001cursor:\u0001pointer;\u0001padding:\u000114px 18px;\u0001font-weight:\u0001600;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-faq details>\u0001div{\u0001padding:\u00010 18px 14px}\u0001.lj-auteur{\u0001display:\u0001flex;\u0001gap:\u000118px;\u0001align-items:\u0001flex-start;\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000116px;\u0001padding:\u000120px 22px;\u0001margin:\u00012.4em 0}\u0001.lj-photo{\u0001flex:\u00010 0 72px;\u0001width:\u000172px;\u0001height:\u000172px;\u0001border-radius:\u000150%;\u0001object-fit:\u0001cover}\u0001.lj-auteur h2{\u0001font-size:\u00011.1em!important;\u0001margin:\u00010 0 2px!important}\u0001.lj-avatar{\u0001flex:\u00010 0 56px;\u0001height:\u000156px;\u0001border-radius:\u000150%;\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff;\u0001font-weight:\u0001700;\u0001font-size:\u000120px;\u0001display:\u0001flex;\u0001align-items:\u0001center;\u0001justify-content:\u0001center}\u0001.lj-auteur p{\u0001margin:\u00010 0 6px;\u0001font-size:\u000114px}\u0001.lj-auteur .lj-role{\u0001color:\u0001#6b7280}\u0001.lj-sources{\u0001font-size:\u000114px;\u0001color:\u0001#4b5563}\u0001.lj-sources ul{\u0001padding-left:\u000120px}\u0001.lj-cartes{\u0001display:\u0001grid;\u0001grid-template-columns:\u0001repeat(auto-fill,\u0001minmax(230px,\u00011fr));\u0001gap:\u000114px;\u0001padding:\u00010;\u0001list-style:\u0001none}\u0001.lj-cartes li{\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000112px;\u0001padding:\u000116px 18px;\u0001background:\u0001#fff}\u0001.lj-cartes a{\u0001font-weight:\u0001700;\u0001text-decoration:\u0001none}\u0001.lj-cartes p{\u0001margin:\u00016px 0 0;\u0001font-size:\u000114px;\u0001color:\u0001#4b5563}\u0001@media (max-width:\u0001640px){\u0001.lj-mc{\u0001font-size:\u000116px}\u0001.lj-modele-texte{\u0001padding:\u000118px;\u0001max-height:\u0001480px}\u0001.lj-modele-tete .lj-btn{\u0001padding:\u00018px 12px}\u0001.lj-auteur{\u0001flex-direction:\u0001column}\u0001}\u0001</style>\n<div class=\"lj-mc\">\n<div class=\"lj-ariane\">[rank_math_breadcrumb]</div>\n<p class=\"lj-chapo\">Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions.</p>\n<h2>Création et vie des sociétés</h2><ul class=\"lj-cartes\"><li><a href=\"https://www.lumenjuris.com/modele-contrat/pacte-d-associes/\">Modèle de pacte d&#x27;associés</a><p>Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, good/bad leaver, non-co…</p></li></ul>\n</div>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.lumenjuris.com/modele-contrat/#bibliotheque\",\"url\":\"https://www.lumenjuris.com/modele-contrat/\",\"name\":\"Modèles de contrat gratuits\",\"inLanguage\":\"fr-FR\",\"isPartOf\":{\"@id\":\"https://www.lumenjuris.com/#website\"},\"publisher\":{\"@id\":\"https://www.lumenjuris.com/#organization\"},\"mainEntity\":{\"@id\":\"https://www.lumenjuris.com/modele-contrat/#liste\"},\"breadcrumb\":{\"@id\":\"https://www.lumenjuris.com/modele-contrat/#breadcrumb\"}},{\"@type\":\"ItemList\",\"@id\":\"https://www.lumenjuris.com/modele-contrat/#liste\",\"numberOfItems\":1,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"url\":\"https://www.lumenjuris.com/modele-contrat/pacte-d-associes/\",\"name\":\"Modèle de pacte d'associés\"}]}]}</script>\n<!-- /wp:html -->",
+    "rendered": "\n<style>.lj-ariane{\u0001font-size:\u000113px;\u0001margin:\u00010 0 1.2em}\u0001.lj-ariane p{\u0001margin:\u00010}\u0001.lj-ariane .separator{\u0001margin:\u00010 6px;\u0001color:\u0001#838181}\u0001.lj-ariane a{\u0001color:\u0001#354F99;\u0001text-decoration:\u0001none}\u0001.lj-ariane a:\u0001hover{\u0001text-decoration:\u0001underline}\u0001.lj-ariane ol{\u0001list-style:\u0001none;\u0001margin:\u00010;\u0001padding:\u00010;\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001gap:\u00014px}\u0001.lj-ariane li+li:\u0001:\u0001before{\u0001content:\u0001\"›\";\u0001margin:\u00010 6px;\u0001color:\u0001#838181}\u0001.lj-ariane a{\u0001color:\u0001#354F99;\u0001text-decoration:\u0001none}\u0001.lj-ariane a:\u0001hover{\u0001text-decoration:\u0001underline}\u0001.lj-ariane [aria-current]{\u0001color:\u0001#555}\u0001.lj-mc{\u0001--lj-bleu:\u0001#354F99;\u0001--lj-vif:\u0001#3E89F7;\u0001--lj-nuit:\u0001#0A2540;\u0001--lj-pale:\u0001#EEF3FF;\u0001--lj-trait:\u0001#E5E7EB;\u0001color:\u0001#1f2937;\u0001line-height:\u00011.7;\u0001font-size:\u000115px;\u0001margin:\u00010 0 72px}\u0001.lj-mc h2{\u0001color:\u0001var(--lj-nuit);\u0001font-size:\u00011.45em;\u0001line-height:\u00011.3;\u0001margin:\u00012.2em 0 .6em}\u0001.lj-mc a{\u0001color:\u0001var(--lj-bleu)}\u0001.lj-chapo{\u0001font-size:\u00011.08em;\u0001margin:\u00010 0 1.2em}\u0001.lj-maj{\u0001font-size:\u000113px;\u0001color:\u0001#6b7280;\u0001margin:\u0001-.4em 0 .3em}\u0001.lj-btns{\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001gap:\u000110px}\u0001.lj-btn{\u0001display:\u0001inline-flex;\u0001align-items:\u0001center;\u0001gap:\u00018px;\u0001padding:\u000112px 20px;\u0001border-radius:\u000110px;\u0001font-weight:\u0001700;\u0001font-size:\u000116px;\u0001text-decoration:\u0001none!important;\u0001line-height:\u00011.2;\u0001border:\u00012px solid var(--lj-bleu)}\u0001.lj-btn-plein{\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff!important}\u0001.lj-btn-plein:\u0001hover{\u0001background:\u0001var(--lj-nuit);\u0001border-color:\u0001var(--lj-nuit)}\u0001.lj-btn-vide{\u0001background:\u0001#fff;\u0001color:\u0001var(--lj-bleu)!important}\u0001.lj-btn-vide:\u0001hover{\u0001background:\u0001var(--lj-pale)}\u0001.lj-btn-ia{\u0001background:\u0001linear-gradient(135deg,\u0001#3E89F7,\u0001#354F99);\u0001color:\u0001#fff!important;\u0001border-color:\u0001transparent}\u0001.lj-modele{\u0001border:\u00011px solid #A4BFDF;\u0001border-radius:\u000116px;\u0001margin:\u0001.6em 0 1.6em;\u0001background:\u0001#fff;\u0001box-shadow:\u00010 10px 30px rgba(10,\u000137,\u000164,\u0001.08);\u0001overflow:\u0001hidden}\u0001.lj-modele-tete{\u0001background:\u0001var(--lj-nuit);\u0001color:\u0001#fff;\u0001padding:\u000116px 22px;\u0001display:\u0001flex;\u0001flex-wrap:\u0001wrap;\u0001justify-content:\u0001space-between;\u0001align-items:\u0001center;\u0001gap:\u000112px}\u0001.lj-modele-tete .lj-btn{\u0001padding:\u00019px 16px;\u0001font-size:\u000114px}\u0001.lj-ico{\u0001width:\u000118px;\u0001height:\u000118px;\u0001flex:\u00010 0 18px}\u0001.lj-dl{\u0001position:\u0001relative}\u0001.lj-dl summary{\u0001list-style:\u0001none;\u0001cursor:\u0001pointer}\u0001.lj-dl summary:\u0001:\u0001-webkit-details-marker{\u0001display:\u0001none}\u0001.lj-dl-menu{\u0001position:\u0001absolute;\u0001right:\u00010;\u0001top:\u0001calc(100% + 6px);\u0001z-index:\u00015;\u0001background:\u0001#fff;\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000110px;\u0001box-shadow:\u00010 10px 30px rgba(10,\u000137,\u000164,\u0001.15);\u0001min-width:\u0001210px;\u0001padding:\u00016px}\u0001.lj-dl-menu a{\u0001display:\u0001flex;\u0001justify-content:\u0001space-between;\u0001gap:\u000112px;\u0001padding:\u000110px 12px;\u0001border-radius:\u00018px;\u0001color:\u0001var(--lj-nuit)!important;\u0001text-decoration:\u0001none;\u0001font-weight:\u0001600;\u0001font-size:\u000114px}\u0001.lj-dl-menu a:\u0001hover{\u0001background:\u0001var(--lj-pale)}\u0001.lj-dl-menu small{\u0001color:\u0001#6b7280;\u0001font-weight:\u0001400}\u0001.lj-modele-texte{\u0001max-height:\u0001620px;\u0001overflow:\u0001auto;\u0001padding:\u000126px 30px;\u0001font-family:\u0001Georgia,\u0001'Times New Roman',\u0001serif;\u0001font-size:\u000114px;\u0001line-height:\u00011.65;\u0001background:\u0001#fcfcfd}\u0001.lj-modele-texte:\u0001focus-visible{\u0001outline:\u00013px solid var(--lj-vif);\u0001outline-offset:\u0001-3px}\u0001.lj-modele-texte h3{\u0001font-family:\u0001inherit;\u0001font-size:\u00011.05em;\u0001color:\u0001var(--lj-nuit);\u0001margin:\u00011.5em 0 .4em;\u0001text-transform:\u0001none}\u0001.lj-modele-texte h4{\u0001font-family:\u0001inherit;\u0001font-size:\u00011em;\u0001color:\u0001var(--lj-nuit);\u0001margin:\u00011em 0 .3em}\u0001.lj-modele-texte p{\u0001margin:\u00010 0 .7em;\u0001text-align:\u0001justify}\u0001.lj-c-titre{\u0001text-align:\u0001center!important;\u0001font-size:\u00011.35em;\u0001font-weight:\u0001700;\u0001letter-spacing:\u0001.04em;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-c-note{\u0001font-style:\u0001italic;\u0001color:\u0001#4b5563;\u0001border-left:\u00013px solid var(--lj-vif);\u0001padding:\u00014px 0 4px 12px;\u0001background:\u0001var(--lj-pale);\u0001text-align:\u0001left!important}\u0001.lj-champ{\u0001background:\u0001#FFF3A3;\u0001color:\u0001inherit;\u0001padding:\u00010 2px;\u0001border-radius:\u00013px}\u0001.lj-modele-pied{\u0001border-top:\u00011px solid var(--lj-trait);\u0001padding:\u000112px 22px;\u0001background:\u0001#fff}\u0001.lj-modele-pied p{\u0001margin:\u00010;\u0001font-size:\u000113px;\u0001color:\u0001#4b5563}\u0001.lj-sommaire{\u0001border-left:\u00013px solid var(--lj-vif);\u0001padding:\u00014px 0 4px 16px;\u0001margin:\u00010 0 1.6em;\u0001font-size:\u000115px}\u0001.lj-sommaire p{\u0001margin:\u00010 0 4px;\u0001font-weight:\u0001700;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-sommaire ol{\u0001margin:\u00010;\u0001padding-left:\u000120px}\u0001.lj-table-wrap{\u0001overflow-x:\u0001auto}\u0001.lj-table{\u0001border-collapse:\u0001collapse;\u0001width:\u0001100%;\u0001font-size:\u000115px}\u0001.lj-table th,\u0001.lj-table td{\u0001border:\u00011px solid var(--lj-trait);\u0001padding:\u000110px 12px;\u0001text-align:\u0001left;\u0001vertical-align:\u0001top}\u0001.lj-table thead th{\u0001background:\u0001var(--lj-nuit);\u0001color:\u0001#fff}\u0001.lj-table tbody th{\u0001background:\u0001var(--lj-pale)}\u0001.lj-clauses li{\u0001margin-bottom:\u00018px}\u0001.lj-etapes{\u0001counter-reset:\u0001etape;\u0001list-style:\u0001none;\u0001padding:\u00010}\u0001.lj-etapes li{\u0001counter-increment:\u0001etape;\u0001position:\u0001relative;\u0001padding:\u00010 0 14px 52px}\u0001.lj-etapes li:\u0001:\u0001before{\u0001content:\u0001counter(etape);\u0001position:\u0001absolute;\u0001left:\u00010;\u0001top:\u00010;\u0001width:\u000136px;\u0001height:\u000136px;\u0001border-radius:\u000150%;\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff;\u0001font-weight:\u0001700;\u0001display:\u0001flex;\u0001align-items:\u0001center;\u0001justify-content:\u0001center}\u0001.lj-etapes strong{\u0001display:\u0001block;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-faq details{\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000112px;\u0001background:\u0001#fff;\u0001margin:\u00010 0 10px}\u0001.lj-faq details[open]{\u0001border-color:\u0001#A4BFDF}\u0001.lj-faq summary{\u0001cursor:\u0001pointer;\u0001padding:\u000114px 18px;\u0001font-weight:\u0001600;\u0001color:\u0001var(--lj-nuit)}\u0001.lj-faq details>\u0001div{\u0001padding:\u00010 18px 14px}\u0001.lj-auteur{\u0001display:\u0001flex;\u0001gap:\u000118px;\u0001align-items:\u0001flex-start;\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000116px;\u0001padding:\u000120px 22px;\u0001margin:\u00012.4em 0}\u0001.lj-photo{\u0001flex:\u00010 0 72px;\u0001width:\u000172px;\u0001height:\u000172px;\u0001border-radius:\u000150%;\u0001object-fit:\u0001cover}\u0001.lj-auteur h2{\u0001font-size:\u00011.1em!important;\u0001margin:\u00010 0 2px!important}\u0001.lj-avatar{\u0001flex:\u00010 0 56px;\u0001height:\u000156px;\u0001border-radius:\u000150%;\u0001background:\u0001var(--lj-bleu);\u0001color:\u0001#fff;\u0001font-weight:\u0001700;\u0001font-size:\u000120px;\u0001display:\u0001flex;\u0001align-items:\u0001center;\u0001justify-content:\u0001center}\u0001.lj-auteur p{\u0001margin:\u00010 0 6px;\u0001font-size:\u000114px}\u0001.lj-auteur .lj-role{\u0001color:\u0001#6b7280}\u0001.lj-sources{\u0001font-size:\u000114px;\u0001color:\u0001#4b5563}\u0001.lj-sources ul{\u0001padding-left:\u000120px}\u0001.lj-cartes{\u0001display:\u0001grid;\u0001grid-template-columns:\u0001repeat(auto-fill,\u0001minmax(230px,\u00011fr));\u0001gap:\u000114px;\u0001padding:\u00010;\u0001list-style:\u0001none}\u0001.lj-cartes li{\u0001border:\u00011px solid var(--lj-trait);\u0001border-radius:\u000112px;\u0001padding:\u000116px 18px;\u0001background:\u0001#fff}\u0001.lj-cartes a{\u0001font-weight:\u0001700;\u0001text-decoration:\u0001none}\u0001.lj-cartes p{\u0001margin:\u00016px 0 0;\u0001font-size:\u000114px;\u0001color:\u0001#4b5563}\u0001@media (max-width:\u0001640px){\u0001.lj-mc{\u0001font-size:\u000116px}\u0001.lj-modele-texte{\u0001padding:\u000118px;\u0001max-height:\u0001480px}\u0001.lj-modele-tete .lj-btn{\u0001padding:\u00018px 12px}\u0001.lj-auteur{\u0001flex-direction:\u0001column}\u0001}\u0001</style>\n<div class=\"lj-mc\">\n<div class=\"lj-ariane\"><nav aria-label=\"breadcrumbs\" class=\"rank-math-breadcrumb\"><p><span class=\"last\">Logiciel Analyse contrat</span></p></nav></div>\n<p class=\"lj-chapo\">Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions.</p>\n<h2>Création et vie des sociétés</h2><ul class=\"lj-cartes\"><li><a href=\"https://www.lumenjuris.com/modele-contrat/pacte-d-associes/\">Modèle de pacte d&#x27;associés</a><p>Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, good/bad leaver, non-co…</p></li></ul>\n</div>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.lumenjuris.com/modele-contrat/#bibliotheque\",\"url\":\"https://www.lumenjuris.com/modele-contrat/\",\"name\":\"Modèles de contrat gratuits\",\"inLanguage\":\"fr-FR\",\"isPartOf\":{\"@id\":\"https://www.lumenjuris.com/#website\"},\"publisher\":{\"@id\":\"https://www.lumenjuris.com/#organization\"},\"mainEntity\":{\"@id\":\"https://www.lumenjuris.com/modele-contrat/#liste\"},\"breadcrumb\":{\"@id\":\"https://www.lumenjuris.com/modele-contrat/#breadcrumb\"}},{\"@type\":\"ItemList\",\"@id\":\"https://www.lumenjuris.com/modele-contrat/#liste\",\"numberOfItems\":1,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"url\":\"https://www.lumenjuris.com/modele-contrat/pacte-d-associes/\",\"name\":\"Modèle de pacte d'associés\"}]}]}</script>\n",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Des modèles de contrat gratuits, rédigés en français clair et relus par une juriste. Téléchargez-les en Word ou en PDF, ou personnalisez-les en ligne en répondant à quelques questions. Création et vie des sociétés Modèle de pacte d&#x27;associés Téléchargez gratuitement notre modèle de pacte d&#x27;associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "inline_featured_image": false,
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "",
+    "_elementor_data": "",
+    "_elementor_page_settings": null
+  },
+  "permalink_template": "https://www.lumenjuris.com/%pagename%/",
+  "generated_slug": "modeles-de-contrat-gratuits",
+  "class_list": [
+    "post-2930",
+    "page",
+    "type-page",
+    "status-draft",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/comments?post=2930"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2941,
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930/revisions/2941"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/media?parent=2930"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.lumenjuris.com/wp-json/wp/v2/pages/2930"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

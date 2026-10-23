@@ -1,0 +1,118 @@
+{
+  "slug": "contrat-de-travail-cdi",
+  "nom": "Contrat de travail CDI",
+  "nom_court": "contrat de travail CDI",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de travail CDI",
+  "mots_cles_secondaires": [
+    "contrat de travail CDI",
+    "modèle contrat CDI",
+    "contrat à durée indéterminée",
+    "exemple contrat de travail CDI",
+    "contrat CDI gratuit",
+    "contrat de travail à durée indéterminée"
+  ],
+  "titre_h1": "Modèle de contrat de travail CDI gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de travail CDI gratuit 2026 (Word, PDF)",
+  "meta_description": "Téléchargez gratuitement notre modèle de contrat de travail CDI en Word ou PDF : période d'essai, durée du travail, rémunération, confidentialité, préavis. Personnalisable en ligne.",
+  "chapo": "Le CDI est la forme normale du contrat de travail en France. Voici un modèle complet, gratuit et prêt à adapter pour embaucher un salarié à temps plein : période d'essai, durée du travail, rémunération, congés, confidentialité et fin du contrat.",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-travail-cdi-lumen-juris",
+  "date_publication": "2026-09-29",
+  "date_mise_a_jour": "2026-09-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit du travail",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez les parties et le poste",
+      "Complétez l'identité de l'employeur et du salarié, l'intitulé du poste, le statut, le lieu de travail et la convention collective applicable."
+    ],
+    [
+      "Fixez la période d'essai et la rémunération",
+      "Vérifiez la durée maximale prévue par votre convention collective, puis indiquez le salaire, les primes éventuelles et la durée du travail."
+    ],
+    [
+      "Choisissez vos clauses",
+      "Gardez, adaptez ou supprimez les clauses marquées « Option » : mobilité, non-concurrence, propriété intellectuelle, télétravail."
+    ],
+    [
+      "Faites signer",
+      "Supprimez les notes de rédaction, faites relire si besoin, signez en deux exemplaires ou par signature électronique et effectuez la déclaration préalable à l'embauche avant l'arrivée du salarié."
+    ]
+  ],
+  "faq": [
+    [
+      "Un CDI doit-il obligatoirement être écrit ?",
+      "Pour un CDI à temps plein, la loi n'impose pas d'écrit, mais l'employeur doit remettre au salarié un document écrit reprenant les informations essentielles de la relation de travail (article L. 1221-5-1 du Code du travail). Rédiger un contrat complet est le moyen le plus simple de le faire et de prévenir les litiges. L'écrit est en revanche obligatoire pour un temps partiel, et certaines conventions collectives l'exigent."
+    ],
+    [
+      "Quelle est la durée maximale de la période d'essai en CDI ?",
+      "Deux mois pour les ouvriers et employés, trois mois pour les agents de maîtrise et techniciens, quatre mois pour les cadres. Elle peut être renouvelée une fois, seulement si un accord de branche étendu le permet et si le contrat le prévoit expressément. Une convention collective peut aussi prévoir des durées plus courtes, qui priment alors sur le modèle."
+    ],
+    [
+      "Peut-on rompre librement un CDI pendant la période d'essai ?",
+      "Oui, sans procédure de licenciement ni indemnité, mais en respectant un délai de prévenance fixé par la loi lorsque c'est l'employeur qui rompt, et sans motif discriminatoire ni abus. Le délai dépend du temps de présence du salarié, de 24 heures à un mois."
+    ],
+    [
+      "Quelle différence entre un CDI et un CDD ?",
+      "Le CDI n'a pas de date de fin, alors que le CDD est conclu pour une durée limitée et pour un motif précis prévu par la loi. Le CDI est la forme normale du contrat de travail : le CDD ne peut pas avoir pour objet de pourvoir durablement un emploi lié à l'activité normale de l'entreprise."
+    ],
+    [
+      "Une clause de non-concurrence est-elle valable dans tous les CDI ?",
+      "Non. Selon la jurisprudence, elle n'est valable que si elle est indispensable à la protection des intérêts légitimes de l'entreprise, limitée dans le temps et dans l'espace, tient compte des spécificités de l'emploi et prévoit une contrepartie financière. À défaut, elle est nulle. Beaucoup de conventions collectives l'encadrent aussi."
+    ],
+    [
+      "Quel préavis en cas de démission ou de licenciement ?",
+      "En cas de démission, l'existence et la durée du préavis résultent de la loi, de la convention collective ou, à défaut, des usages (article L. 1237-1). En cas de licenciement hors faute grave ou lourde, la loi prévoit au minimum un mois après six mois d'ancienneté et deux mois après deux ans, sauf dispositions plus favorables (article L. 1234-1)."
+    ],
+    [
+      "Peut-on modifier le contrat de travail en cours de CDI ?",
+      "Un simple changement des conditions de travail relève du pouvoir de direction de l'employeur, mais la modification d'un élément essentiel du contrat (rémunération, durée du travail, lieu de travail au-delà de la zone prévue) exige l'accord du salarié, formalisé par un avenant. Le refus du salarié n'est pas en soi une faute."
+    ],
+    [
+      "Faut-il déclarer l'embauche avant l'arrivée du salarié ?",
+      "Oui. La déclaration préalable à l'embauche doit être effectuée auprès de l'Urssaf avant la prise de poste (article L. 1221-10 du Code du travail). Son omission expose l'employeur à des sanctions, notamment pour travail dissimulé."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1221-2 (le CDI, forme normale du contrat de travail), L. 1221-5-1 (information écrite du salarié) et L. 1221-10 (déclaration préalable à l'embauche)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1221-19 à L. 1221-26 (période d'essai)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1234-1 (préavis de licenciement) et L. 1237-1 (préavis de démission)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 3121-27 (durée légale du travail) et L. 3141-3 (congés payés)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de la propriété intellectuelle, article L. 113-9 (logiciels créés par un salarié)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-travail-cdi",
+    "accroche": "Répondez à quelques questions et obtenez un contrat de travail CDI rempli à votre nom, prêt à signer en ligne."
+  }
+}

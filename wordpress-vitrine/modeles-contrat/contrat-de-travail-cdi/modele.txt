@@ -1,0 +1,153 @@
+# CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE (CDI)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat est conçu pour l'embauche d'un salarié à temps plein, en France, dans une entreprise de droit privé. Il ne convient pas en l'état à un temps partiel, à un salarié protégé, à un travail à l'étranger, ni à une convention de forfait en jours (qui exige un accord collectif et des mentions spécifiques). Vérifiez toujours les dispositions de votre convention collective : elles priment sur le modèle lorsqu'elles sont plus favorables au salarié. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], code APE [code], numéro d'employeur Urssaf [numéro], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après l'« Employeur »,
+
+ET :
+
+[Madame / Monsieur] [Prénom Nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], numéro de sécurité sociale [numéro],
+
+ci-après le « Salarié ».
+
+> Si le Salarié est de nationalité étrangère hors Union européenne, l'Employeur doit s'assurer qu'il est autorisé à travailler en France (titre de séjour ou autorisation de travail) avant l'embauche.
+
+Il a été convenu ce qui suit.
+
+## ARTICLE 1 – ENGAGEMENT ET CONVENTION COLLECTIVE
+
+Le Salarié est engagé par l'Employeur à compter du [date de début] dans le cadre d'un contrat de travail à durée indéterminée à temps plein, sous réserve des résultats de la visite d'information et de prévention et des formalités d'embauche.
+
+Les relations de travail sont régies par le présent contrat, par le Code du travail et par la convention collective [intitulé complet et numéro d'identification de la convention collective (IDCC)], dont le Salarié reconnaît avoir été informé de l'existence et des modalités de consultation. [À défaut de convention collective applicable : « L'Employeur n'est pas soumis à une convention collective. »]
+
+Le règlement intérieur [le cas échéant] et les accords d'entreprise applicables sont tenus à la disposition du Salarié [lieu ou intranet].
+
+## ARTICLE 2 – FONCTIONS ET CLASSIFICATION
+
+Le Salarié est engagé en qualité de [intitulé du poste], statut [ouvrier / employé / agent de maîtrise / technicien / cadre], [niveau, échelon ou coefficient] de la classification de la convention collective.
+
+Il exerce notamment les missions suivantes : [description des missions principales].
+
+Il est placé sous l'autorité de [fonction du responsable hiérarchique] et s'engage à respecter les instructions de l'Employeur dans le cadre de ses fonctions.
+
+Cette description n'est pas limitative. L'Employeur peut faire évoluer les tâches du Salarié en cohérence avec sa qualification, sans que cela constitue une modification du contrat de travail.
+
+## ARTICLE 3 – LIEU DE TRAVAIL
+
+Le Salarié exerce ses fonctions à [adresse du lieu de travail habituel].
+
+> Option – Clause de mobilité : « Le Salarié accepte que son lieu de travail puisse être modifié dans la zone géographique suivante : [département(s), région ou communes précisément désignés]. En cas de changement de lieu de travail dans cette zone, l'Employeur respecte un délai de prévenance de [un] mois, sauf urgence. Tout changement en dehors de cette zone suppose l'accord du Salarié. » La zone doit être définie précisément : une clause qui permettrait à l'Employeur d'en fixer seul l'étendue est inopposable au Salarié.
+
+> Option – Télétravail : « Les modalités du télétravail sont définies par [l'accord collectif / la charte / l'avenant] du [date] ; à défaut, elles font l'objet d'un avenant au présent contrat. »
+
+## ARTICLE 4 – PÉRIODE D'ESSAI
+
+Le présent contrat est conclu sous réserve d'une période d'essai de [durée : deux mois pour un ouvrier ou employé, trois mois pour un agent de maîtrise ou technicien, quatre mois pour un cadre, ou durée inférieure prévue par la convention collective], qui commence à la date d'embauche.
+
+> Option – Renouvellement : « La période d'essai peut être renouvelée une fois pour une durée de [durée] au plus, avec l'accord exprès et écrit du Salarié, en application de [l'accord de branche étendu / la convention collective, à citer]. » Le renouvellement n'est valable que si un accord de branche étendu le permet et si le contrat le prévoit. La durée totale, renouvellement compris, ne peut excéder quatre mois pour les ouvriers et employés, six mois pour les agents de maîtrise et techniciens, huit mois pour les cadres.
+
+Pendant la période d'essai, chaque partie peut mettre fin au contrat sans indemnité, en respectant les délais de prévenance prévus par le Code du travail. Lorsque l'Employeur y met fin, le délai est de vingt-quatre heures en deçà de huit jours de présence, quarante-huit heures entre huit jours et un mois de présence, deux semaines après un mois de présence et un mois après trois mois de présence. Lorsque le Salarié y met fin, le délai est de quarante-huit heures, ramené à vingt-quatre heures si sa présence dans l'entreprise est inférieure à huit jours.
+
+Toute période de suspension du contrat prolonge d'autant la période d'essai [si la convention collective le prévoit].
+
+## ARTICLE 5 – DURÉE ET ORGANISATION DU TRAVAIL
+
+Le Salarié est employé à temps plein, pour une durée hebdomadaire de [trente-cinq] heures, répartie selon l'horaire collectif applicable dans l'entreprise : [jours et horaires].
+
+Le Salarié respecte les durées maximales de travail prévues par la loi et la convention collective.
+
+Les heures supplémentaires sont effectuées à la demande de l'Employeur ou avec son accord préalable. Elles sont payées ou récupérées avec les majorations prévues par la loi et la convention collective.
+
+> Option – Autre durée : si le Salarié est soumis à une durée collective supérieure à 35 heures avec heures supplémentaires structurelles, ou à une convention de forfait en heures ou en jours, ce régime doit reposer sur un accord collectif et être décrit précisément dans le contrat.
+
+## ARTICLE 6 – RÉMUNÉRATION
+
+Le Salarié perçoit une rémunération mensuelle brute de [montant] euros pour [trente-cinq] heures de travail hebdomadaire, versée [treize / douze] fois par an, à la fin de chaque mois par virement.
+
+Cette rémunération ne peut être inférieure au salaire minimum de croissance ni au minimum conventionnel correspondant à la classification du Salarié.
+
+> Option – Part variable : « Le Salarié perçoit en outre une part variable dont les objectifs, le calcul et les modalités de versement sont fixés à l'annexe [numéro]. » Les objectifs doivent être réalisables, portés à la connaissance du Salarié et ne pas conduire à une rémunération inférieure au minimum légal ou conventionnel.
+
+L'Employeur assure l'égalité de rémunération entre les femmes et les hommes pour un même travail ou un travail de valeur égale.
+
+Les frais professionnels engagés par le Salarié dans l'intérêt de l'entreprise et sur justificatifs lui sont remboursés selon [la procédure en vigueur / la politique de frais de l'entreprise].
+
+Le Salarié est affilié aux régimes de retraite complémentaire et de prévoyance et, le cas échéant, au régime de complémentaire santé collective de l'entreprise : [organismes et références]. Il est informé que l'affiliation à la complémentaire santé collective est obligatoire, sauf dispenses prévues par la loi.
+
+## ARTICLE 7 – CONGÉS PAYÉS ET ABSENCES
+
+Le Salarié a droit à des congés payés à raison de deux jours et demi ouvrables par mois de travail effectif, soit trente jours ouvrables par an, ou aux droits plus favorables de la convention collective. Les dates de congés sont fixées par l'Employeur après consultation du Salarié, dans le respect de l'ordre des départs applicable.
+
+En cas d'absence, notamment pour maladie, le Salarié en informe l'Employeur sans délai et lui adresse un justificatif dans [quarante-huit heures] ou dans le délai prévu par la convention collective.
+
+## ARTICLE 8 – OBLIGATIONS DU SALARIÉ : LOYAUTÉ ET EXCLUSIVITÉ
+
+Le Salarié exécute le contrat de bonne foi et consacre son activité professionnelle à l'Employeur. Il s'interdit toute activité concurrente de celle de l'Employeur pendant la durée du contrat.
+
+> Option – Exclusivité : une clause interdisant toute autre activité n'est valable que si elle est indispensable à la protection des intérêts légitimes de l'entreprise, justifiée par la nature de la tâche et proportionnée au but recherché. À défaut, limitez-vous à l'obligation de loyauté ci-dessus.
+
+Le Salarié respecte le règlement intérieur, les consignes de santé et de sécurité et les procédures internes. Il informe l'Employeur de tout conflit d'intérêts.
+
+## ARTICLE 9 – CONFIDENTIALITÉ
+
+Le Salarié s'engage, pendant l'exécution du contrat et après sa rupture, à ne divulguer à aucun tiers les informations confidentielles dont il a connaissance dans l'exercice de ses fonctions (informations financières, commerciales, techniques, fichiers clients, savoir-faire, projets), sauf autorisation écrite de l'Employeur ou obligation légale.
+
+Cette obligation ne s'applique pas aux informations déjà publiques sans faute du Salarié ni à l'exercice des droits reconnus au Salarié par la loi, notamment celui de signaler une alerte dans les conditions légales et de s'exprimer en tant que représentant du personnel.
+
+À la fin du contrat, le Salarié restitue tous les documents, données et matériels appartenant à l'Employeur.
+
+## ARTICLE 10 – PROPRIÉTÉ INTELLECTUELLE
+
+> Option – À conserver si les fonctions du Salarié l'amènent à créer des œuvres, des logiciels ou des inventions.
+
+Les logiciels et leur documentation créés par le Salarié dans l'exercice de ses fonctions ou d'après les instructions de l'Employeur appartiennent à l'Employeur, dans les conditions prévues par l'article L. 113-9 du Code de la propriété intellectuelle.
+
+Pour les autres œuvres créées par le Salarié dans le cadre de ses fonctions, le Salarié cède à l'Employeur, à titre exclusif et pour la durée légale de protection, les droits patrimoniaux strictement nécessaires à l'exploitation par l'Employeur de ces œuvres pour les besoins de son activité, sur le territoire [du monde entier / de la France], sur les supports [liste]. Cette cession est incluse dans la rémunération, sauf disposition conventionnelle contraire. Les droits moraux du Salarié demeurent réservés.
+
+Le régime des inventions du Salarié est déterminé par le Code de la propriété intellectuelle et, le cas échéant, la convention collective.
+
+## ARTICLE 11 – PROTECTION DES DONNÉES PERSONNELLES
+
+L'Employeur traite les données personnelles du Salarié pour la gestion du contrat de travail, de la paie et de ses obligations légales, sur les bases légales correspondantes. Elles sont conservées pour les durées requises par la loi. Le Salarié dispose des droits d'accès, de rectification, d'effacement, d'opposition, de limitation et de portabilité, qu'il peut exercer auprès de [contact]. Il peut saisir la CNIL d'une réclamation.
+
+Dans l'exercice de ses fonctions, le Salarié respecte la réglementation sur la protection des données personnelles et les procédures de sécurité de l'Employeur.
+
+## ARTICLE 12 – CLAUSE DE NON-CONCURRENCE
+
+> Option – À n'utiliser que pour un poste réellement sensible. Une clause de non-concurrence n'est valable que si elle est indispensable à la protection des intérêts légitimes de l'entreprise, limitée dans le temps et dans l'espace, adaptée aux spécificités de l'emploi et assortie d'une contrepartie financière. Vérifiez aussi ce que prévoit votre convention collective. À défaut, supprimez cet article.
+
+Après la rupture du contrat, quelle qu'en soit la cause, le Salarié s'interdit, pendant [durée, par exemple douze mois], d'exercer [nature précise de l'activité interdite] sur le territoire suivant : [zone géographique précise], pour son compte ou pour celui d'une entreprise concurrente.
+
+En contrepartie, le Salarié perçoit chaque mois pendant toute la durée de l'interdiction une indemnité brute égale à [pourcentage ou montant] de sa rémunération mensuelle moyenne brute des [douze] derniers mois. Cette indemnité cesse d'être due en cas de violation de la clause.
+
+L'Employeur peut renoncer à la clause [dans les délais et conditions suivants : à préciser, notamment dans les [quinze] jours suivant la notification de la rupture], auquel cas l'indemnité n'est pas due.
+
+## ARTICLE 13 – DURÉE ET FIN DU CONTRAT
+
+Le contrat est conclu pour une durée indéterminée.
+
+Chacune des parties peut y mettre fin dans les conditions prévues par la loi et la convention collective : démission, licenciement, rupture conventionnelle homologuée, mise ou départ à la retraite.
+
+Sauf faute grave ou lourde, un préavis est dû dans les conditions fixées par la loi, la convention collective ou, à défaut, les usages : [durée du préavis de démission et de licenciement, à vérifier dans la convention collective].
+
+À la fin du contrat, l'Employeur remet au Salarié un certificat de travail, une attestation destinée à France Travail et le solde de tout compte.
+
+## ARTICLE 14 – MODIFICATION DU CONTRAT
+
+Toute modification d'un élément essentiel du contrat (rémunération, qualification, durée du travail, lieu de travail au-delà de la zone éventuellement prévue) requiert l'accord du Salarié, formalisé par un avenant écrit.
+
+## ARTICLE 15 – DISPOSITIONS DIVERSES
+
+Le présent contrat annule et remplace tout engagement antérieur entre les parties ayant le même objet. Toute clause du contrat qui serait contraire à une disposition légale ou conventionnelle plus favorable au Salarié est réputée non écrite, le reste du contrat demeurant applicable.
+
+Le contrat est soumis au droit français. Les litiges relèvent du conseil de prud'hommes territorialement compétent.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un remis au Salarié.
+
+Pour l'Employeur — [Prénom Nom], [fonction], signature précédée de la mention « Bon pour accord »
+
+Le Salarié — [Prénom Nom], signature précédée de la mention « Lu et approuvé »

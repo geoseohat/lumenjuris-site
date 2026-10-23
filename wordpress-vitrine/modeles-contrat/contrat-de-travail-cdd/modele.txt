@@ -1,0 +1,135 @@
+# CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE (CDD)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat est conçu pour l'embauche d'un salarié à temps plein, en France, dans une entreprise de droit privé, pour un remplacement ou un accroissement temporaire d'activité (options pour l'emploi saisonnier). Il ne convient pas en l'état aux CDD « d'usage », aux contrats aidés ou en alternance, au CDD à objet défini, au temps partiel, ni au travail temporaire (intérim). Un CDD sans écrit ou sans motif précis est réputé conclu pour une durée indéterminée : complétez avec soin toutes les mentions. Vérifiez toujours les dispositions de votre convention collective et des accords de branche. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], code APE [code], numéro d'employeur Urssaf [numéro], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après l'« Employeur »,
+
+ET :
+
+[Madame / Monsieur] [Prénom Nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], numéro de sécurité sociale [numéro],
+
+ci-après le « Salarié ».
+
+> Si le Salarié est de nationalité étrangère hors Union européenne, l'Employeur doit s'assurer qu'il est autorisé à travailler en France (titre de séjour ou autorisation de travail) avant l'embauche.
+
+Il a été convenu ce qui suit.
+
+## ARTICLE 1 – ENGAGEMENT ET CONVENTION COLLECTIVE
+
+Le Salarié est engagé par l'Employeur dans le cadre d'un contrat de travail à durée déterminée à temps plein, régi par les articles L. 1241-1 et suivants du Code du travail, sous réserve des résultats de la visite d'information et de prévention et des formalités d'embauche.
+
+Les relations de travail sont régies par le présent contrat, par le Code du travail et par la convention collective [intitulé complet et numéro d'identification de la convention collective (IDCC)], dont le Salarié reconnaît avoir été informé de l'existence et des modalités de consultation. [À défaut de convention collective applicable : « L'Employeur n'est pas soumis à une convention collective. »]
+
+## ARTICLE 2 – MOTIF DU RECOURS AU CONTRAT À DURÉE DÉTERMINÉE
+
+Le présent contrat est conclu pour le motif suivant :
+
+> Choisissez un seul motif et supprimez les autres. Le motif doit être réel, précis et vérifiable : une formule vague ou générale expose à la requalification du contrat en CDI. Un CDD ne peut pas avoir pour objet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise.
+
+- Option A – Remplacement d'un salarié absent : remplacement de [Madame / Monsieur] [Prénom Nom], [intitulé du poste et qualification], absent(e) pour [motif de l'absence : congé maladie, congé maternité, congé parental, etc.].
+- Option B – Accroissement temporaire de l'activité : [description précise et concrète du surcroît d'activité, par exemple commande exceptionnelle de tel client, lancement de tel produit, pic d'activité lié à tel événement, avec sa période].
+- Option C – Emploi à caractère saisonnier : [description des travaux appelés à se répéter chaque année à des dates à peu près fixes, en fonction du rythme des saisons ou des modes de vie collectifs].
+
+> Interdictions : un CDD ne peut pas être conclu pour remplacer un salarié gréviste, ni pour effectuer certains travaux particulièrement dangereux figurant sur une liste réglementaire. Dans les six mois suivant un licenciement pour motif économique, un CDD pour accroissement temporaire d'activité est en principe interdit sur les postes concernés par ce licenciement, sauf exceptions prévues par la loi (article L. 1242-5 du Code du travail).
+
+## ARTICLE 3 – DURÉE DU CONTRAT
+
+> Choisissez l'option A (terme précis) ou l'option B (terme imprécis) et supprimez l'autre. Le terme imprécis n'est possible que pour certains motifs, notamment le remplacement d'un salarié absent et l'emploi saisonnier.
+
+Option A – Terme précis : le présent contrat prend effet le [date de début] et prend fin le [date de fin], soit une durée de [durée].
+
+> Durée maximale : en principe 18 mois, renouvellement compris, sauf durée différente fixée par un accord de branche étendu ou cas particuliers prévus par la loi (9 ou 24 mois selon les situations). Vérifiez la règle applicable à votre secteur.
+
+Option A bis – Renouvellement : « Le présent contrat pourra être renouvelé [une / deux] fois, pour une durée qui, ajoutée à celle du contrat initial, ne pourra excéder la durée maximale applicable. Le renouvellement fera l'objet d'un avenant soumis au Salarié avant le terme initialement prévu. » Le nombre de renouvellements est fixé par l'accord de branche étendu ; à défaut, deux renouvellements au plus sont possibles.
+
+Option B – Terme imprécis : le présent contrat prend effet le [date de début] pour une durée minimale de [durée minimale]. Il prendra fin [au retour de [Prénom Nom], salarié(e) remplacé(e) / à la fin de la saison [désignation]], et au plus tard [le cas échéant : événement ou date limite].
+
+## ARTICLE 4 – FONCTIONS, CLASSIFICATION ET LIEU DE TRAVAIL
+
+Le Salarié est engagé en qualité de [intitulé du poste], statut [ouvrier / employé / agent de maîtrise / technicien / cadre], [niveau, échelon ou coefficient] de la classification de la convention collective.
+
+Il exerce notamment les missions suivantes : [description des missions principales].
+
+Il est placé sous l'autorité de [fonction du responsable hiérarchique].
+
+Le Salarié exerce ses fonctions à [adresse du lieu de travail].
+
+> Si le poste figure sur la liste des postes présentant des risques particuliers pour la santé ou la sécurité, le Salarié bénéficie d'une formation renforcée à la sécurité ainsi que d'un accueil et d'une information adaptés.
+
+## ARTICLE 5 – PÉRIODE D'ESSAI
+
+Le présent contrat est conclu sous réserve d'une période d'essai de [durée], qui commence à la date d'embauche.
+
+> Sauf usages ou accord collectif prévoyant une durée moindre, la période d'essai ne peut excéder un jour par semaine de contrat, dans la limite de deux semaines lorsque la durée initialement prévue est au plus égale à six mois et d'un mois dans les autres cas. Pour un contrat à terme imprécis, elle se calcule sur la durée minimale prévue à l'article 3. Si vous ne souhaitez pas de période d'essai, supprimez cet article.
+
+Pendant la période d'essai, chaque partie peut mettre fin au contrat sans indemnité. Lorsque l'Employeur y met fin, il respecte le délai de prévenance prévu par l'article L. 1221-25 du Code du travail pour les contrats stipulant une période d'essai d'au moins une semaine. Lorsque le Salarié y met fin, il respecte un délai de prévenance de quarante-huit heures, ramené à vingt-quatre heures si sa présence dans l'entreprise est inférieure à huit jours.
+
+## ARTICLE 6 – DURÉE ET ORGANISATION DU TRAVAIL
+
+Le Salarié est employé à temps plein, pour une durée hebdomadaire de [trente-cinq] heures, répartie selon l'horaire collectif applicable dans l'entreprise : [jours et horaires].
+
+Le Salarié respecte les durées maximales de travail prévues par la loi et la convention collective.
+
+Les heures supplémentaires sont effectuées à la demande de l'Employeur ou avec son accord préalable. Elles sont payées ou récupérées avec les majorations prévues par la loi et la convention collective.
+
+## ARTICLE 7 – RÉMUNÉRATION ET PROTECTION SOCIALE
+
+Le Salarié perçoit une rémunération mensuelle brute de [montant] euros pour [trente-cinq] heures de travail hebdomadaire, versée à la fin de chaque mois par virement.
+
+Cette rémunération ne peut être inférieure au salaire minimum de croissance, au minimum conventionnel correspondant à la classification du Salarié, ni à la rémunération que percevrait, après la période d'essai, un salarié de l'entreprise sous contrat à durée indéterminée de qualification équivalente et occupant les mêmes fonctions.
+
+Les frais professionnels engagés par le Salarié dans l'intérêt de l'entreprise et sur justificatifs lui sont remboursés selon [la procédure en vigueur].
+
+Le Salarié est affilié à la caisse de retraite complémentaire [nom et adresse de l'organisme] et à l'organisme de prévoyance [nom et adresse de l'organisme], ainsi que, le cas échéant, au régime de complémentaire santé collective de l'entreprise, sauf dispenses prévues par la loi.
+
+## ARTICLE 8 – CONGÉS PAYÉS ET ABSENCES
+
+Le Salarié acquiert des congés payés à raison de deux jours et demi ouvrables par mois de travail effectif, ou selon les droits plus favorables de la convention collective. Les congés qui n'auront pas pu être pris avant la fin du contrat donneront lieu au versement d'une indemnité compensatrice de congés payés.
+
+En cas d'absence, notamment pour maladie, le Salarié en informe l'Employeur sans délai et lui adresse un justificatif dans [quarante-huit heures] ou dans le délai prévu par la convention collective.
+
+## ARTICLE 9 – OBLIGATIONS DU SALARIÉ ET CONFIDENTIALITÉ
+
+Le Salarié exécute le contrat de bonne foi. Il respecte le règlement intérieur, les consignes de santé et de sécurité et les procédures internes, et s'interdit toute activité concurrente de celle de l'Employeur pendant la durée du contrat.
+
+Le Salarié s'engage, pendant l'exécution du contrat et après son terme, à ne divulguer à aucun tiers les informations confidentielles dont il a connaissance dans l'exercice de ses fonctions, sauf autorisation écrite de l'Employeur ou obligation légale. Cette obligation ne s'applique pas aux informations déjà publiques sans faute du Salarié ni à l'exercice des droits reconnus par la loi, notamment celui de signaler une alerte dans les conditions légales.
+
+À la fin du contrat, le Salarié restitue tous les documents, données et matériels appartenant à l'Employeur.
+
+> Option – Propriété intellectuelle : si les fonctions du Salarié l'amènent à créer des logiciels ou des œuvres, reprenez la clause correspondante de notre modèle de contrat de travail CDI. Une clause de non-concurrence est déconseillée en CDD : si vous l'envisagez, elle doit répondre aux mêmes conditions strictes de validité qu'en CDI, dont une contrepartie financière.
+
+## ARTICLE 10 – PROTECTION DES DONNÉES PERSONNELLES
+
+L'Employeur traite les données personnelles du Salarié pour la gestion du contrat de travail, de la paie et de ses obligations légales, sur les bases légales correspondantes. Elles sont conservées pour les durées requises par la loi. Le Salarié dispose des droits d'accès, de rectification, d'effacement, d'opposition, de limitation et de portabilité, qu'il peut exercer auprès de [contact]. Il peut saisir la CNIL d'une réclamation.
+
+## ARTICLE 11 – FIN DU CONTRAT
+
+Le contrat prend fin de plein droit à l'échéance du terme prévu à l'article 3.
+
+Avant son terme, il ne peut être rompu qu'en cas d'accord des parties, de faute grave, de force majeure ou d'inaptitude constatée par le médecin du travail. Le Salarié peut également le rompre avant son terme s'il justifie d'une embauche pour une durée indéterminée, en respectant un préavis d'un jour par semaine de contrat, renouvellement compris, ou par semaine de la durée effectuée pour un contrat à terme imprécis, dans la limite de deux semaines.
+
+À l'issue du contrat, le Salarié perçoit une indemnité de fin de contrat égale à [10 %] de la rémunération totale brute qui lui a été versée, sauf dans les cas où la loi prévoit qu'elle n'est pas due, notamment si le contrat se poursuit par un contrat à durée indéterminée, si le Salarié refuse un contrat à durée indéterminée pour occuper le même emploi ou un emploi similaire assorti d'une rémunération au moins équivalente, en cas de rupture anticipée à l'initiative du Salarié, de faute grave ou de force majeure. [Option C (saisonnier) : cette indemnité n'est pas due pour un emploi à caractère saisonnier, sauf disposition conventionnelle plus favorable.]
+
+> Le taux peut être limité à 6 % si une convention ou un accord collectif le prévoit en contrepartie d'un accès privilégié du salarié à la formation professionnelle. Vérifiez votre accord de branche.
+
+Si la relation de travail se poursuit après l'échéance du terme sans nouveau contrat, le contrat devient un contrat à durée indéterminée.
+
+À la fin du contrat, l'Employeur remet au Salarié un certificat de travail, une attestation destinée à France Travail et le solde de tout compte.
+
+## ARTICLE 12 – DISPOSITIONS DIVERSES
+
+Le présent contrat est remis au Salarié au plus tard dans les deux jours ouvrables suivant l'embauche. Toute modification d'un élément essentiel du contrat requiert l'accord du Salarié, formalisé par un avenant écrit.
+
+Toute clause du contrat qui serait contraire à une disposition légale ou conventionnelle plus favorable au Salarié est réputée non écrite, le reste du contrat demeurant applicable.
+
+Le contrat est soumis au droit français. Les litiges relèvent du conseil de prud'hommes territorialement compétent.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un remis au Salarié.
+
+Pour l'Employeur — [Prénom Nom], [fonction], signature précédée de la mention « Bon pour accord »
+
+Le Salarié — [Prénom Nom], signature précédée de la mention « Lu et approuvé »

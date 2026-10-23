@@ -1,0 +1,114 @@
+{
+  "slug": "pacte-d-associes",
+  "nom": "Pacte d'associés",
+  "nom_court": "pacte d'associés",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle pacte d'associés",
+  "mots_cles_secondaires": [
+    "pacte d'associés",
+    "pacte d'associés SAS",
+    "pacte d'associés SARL",
+    "pacte d'actionnaires",
+    "exemple pacte d'associés",
+    "pacte d'associés gratuit"
+  ],
+  "titre_h1": "Modèle de pacte d'associés gratuit (Word et PDF)",
+  "titre_seo": "Modèle de pacte d'associés gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Téléchargez gratuitement notre modèle de pacte d'associés (SAS, SARL) en Word ou PDF : préemption, sortie conjointe, good/bad leaver, non-concurrence. Rédigé par une juriste, personnalisable en ligne.",
+  "chapo": "Un pacte d'associés fixe les règles du jeu entre associés : qui décide, comment on entre et sort du capital, et ce qui se passe si l'un d'eux part. Voici un modèle complet, gratuit et prêt à adapter, pour une SAS comme pour une SARL.",
+  "gratuit": true,
+  "fichier_base": "modele-pacte-d-associes-lumen-juris",
+  "date_publication": "2026-09-25",
+  "date_mise_a_jour": "2026-09-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit des sociétés",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez les parties",
+      "Complétez l'identité de chaque associé et de la société, puis la répartition du capital en annexe 1."
+    ],
+    [
+      "Choisissez vos clauses",
+      "Gardez, adaptez ou supprimez les clauses marquées « Option » selon votre projet : comité stratégique, inaliénabilité, obligation de sortie, départ d'un associé."
+    ],
+    [
+      "Fixez les seuils et délais",
+      "Remplacez chaque passage entre crochets : majorité qualifiée, délais de préemption, durée de non-concurrence, durée du pacte."
+    ],
+    [
+      "Faites signer",
+      "Supprimez les notes de rédaction, faites relire si besoin, puis signez à la main ou par signature électronique."
+    ]
+  ],
+  "faq": [
+    [
+      "Le pacte d'associés est-il obligatoire ?",
+      "Non. Aucune loi n'impose de rédiger un pacte d'associés. Il est toutefois fortement recommandé dès qu'une société compte au moins deux associés, car les statuts ne règlent pas tout : départ d'un associé, prix de rachat, décisions importantes, non-concurrence."
+    ],
+    [
+      "Quelle différence entre les statuts et le pacte d'associés ?",
+      "Les statuts sont obligatoires, déposés au greffe et donc publics ; ils s'imposent à tous, y compris aux tiers. Le pacte est facultatif, confidentiel et n'engage que ses signataires. On y place les règles que les associés ne souhaitent pas rendre publiques."
+    ],
+    [
+      "Un pacte d'associés peut-il être signé en SARL ?",
+      "Oui. Le pacte d'associés est possible dans toutes les sociétés. En SARL, il s'articule avec les règles légales d'agrément des cessions de parts sociales à des tiers, que le pacte ne peut pas écarter."
+    ],
+    [
+      "Faut-il enregistrer ou déposer le pacte d'associés ?",
+      "Non. Le pacte n'a pas à être déposé au greffe ni publié. Il est conservé par les associés et la société, ce qui garantit sa confidentialité."
+    ],
+    [
+      "Que se passe-t-il si un associé ne respecte pas le pacte ?",
+      "L'associé fautif engage sa responsabilité et peut être condamné à des dommages et intérêts. L'annulation d'une cession faite en violation d'un droit de préemption n'est possible que si l'acquéreur connaissait le pacte et l'intention du bénéficiaire de s'en prévaloir. C'est pourquoi les clauses essentielles sont souvent reprises aussi dans les statuts."
+    ],
+    [
+      "Quelle durée prévoir pour un pacte d'associés ?",
+      "Il est conseillé de prévoir une durée déterminée, souvent entre 8 et 15 ans, avec renouvellement. Un pacte conclu sans durée peut en effet être résilié à tout moment par chaque signataire, moyennant un préavis raisonnable."
+    ],
+    [
+      "Un pacte d'associés peut-il être modifié ?",
+      "Oui, à condition que tous les signataires l'acceptent par écrit, sauf si le pacte prévoit lui-même une autre règle de modification. Un nouvel associé doit y adhérer pour être lié."
+    ],
+    [
+      "Puis-je utiliser ce modèle sans avocat ?",
+      "Oui, le modèle est conçu pour être complété directement. Pour une levée de fonds, une répartition du capital déséquilibrée ou des clauses de départ à prix réduit, une relecture par un professionnel du droit reste recommandée."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1103, 1123, 1124, 1199 et 1211 (force obligatoire, pacte de préférence, promesse unilatérale, effet relatif, contrats à durée indéterminée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, article 1843-4 (expertise du prix de cession des droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 227-13 à L. 227-17 (clauses statutaires des SAS)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, article L. 223-14 (agrément des cessions de parts de SARL)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "pacte-associes",
+    "accroche": "Répondez à quelques questions et obtenez un pacte d'associés rempli à votre nom, prêt à signer en ligne."
+  }
+}

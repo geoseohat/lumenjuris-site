@@ -1,0 +1,118 @@
+{
+  "slug": "accord-de-confidentialite",
+  "nom": "Accord de confidentialité (NDA)",
+  "nom_court": "accord de confidentialité",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle accord de confidentialité",
+  "mots_cles_secondaires": [
+    "accord de confidentialité",
+    "modèle NDA",
+    "NDA français",
+    "accord de non-divulgation",
+    "exemple accord de confidentialité",
+    "accord de confidentialité gratuit"
+  ],
+  "titre_h1": "Modèle d'accord de confidentialité (NDA) gratuit (Word et PDF)",
+  "titre_seo": "Modèle d'accord de confidentialité (NDA) gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle d'accord de confidentialité (NDA) gratuit en Word ou PDF : réciproque ou unilatéral, durée, exceptions, sanctions. Personnalisable en ligne.",
+  "chapo": "Avant de présenter un projet, d'ouvrir vos comptes à un repreneur ou de discuter d'un partenariat, l'accord de confidentialité (ou NDA) fixe ce que chacun a le droit de faire des informations reçues. Voici un modèle complet et gratuit entre deux entreprises, réciproque par défaut et facile à transformer en engagement à sens unique.",
+  "gratuit": true,
+  "fichier_base": "modele-accord-de-confidentialite-lumen-juris",
+  "date_publication": "2026-09-30",
+  "date_mise_a_jour": "2026-09-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez les parties et le projet",
+      "Complétez l'identité des deux entreprises et décrivez précisément le projet : les informations ne pourront être utilisées que pour lui."
+    ],
+    [
+      "Choisissez réciproque ou unilatéral",
+      "Gardez la version réciproque si les deux parties échangent des informations ; suivez la note de rédaction de l'article 2 si une seule partie en communique."
+    ],
+    [
+      "Fixez les durées et les options",
+      "Remplacez chaque passage entre crochets : durée des échanges, durée de la confidentialité après la fin de l'accord, délai de restitution, et pénalité forfaitaire si vous gardez cette option."
+    ],
+    [
+      "Signez avant tout échange",
+      "Supprimez les notes de rédaction, puis faites signer l'accord, à la main ou par signature électronique, avant de transmettre la première information sensible."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la différence entre un NDA et un accord de confidentialité ?",
+      "Aucune. NDA est l'abréviation de l'anglais « non-disclosure agreement ». En France, on parle d'accord de confidentialité, d'accord de non-divulgation ou d'engagement de confidentialité : c'est le même contrat."
+    ],
+    [
+      "L'accord de confidentialité est-il obligatoire ?",
+      "Non. La loi protège déjà en partie les informations échangées : celui qui utilise ou divulgue sans autorisation une information confidentielle obtenue pendant des négociations engage sa responsabilité (article 1112-2 du Code civil). Mais l'accord écrit précise quelles informations sont couvertes, pour combien de temps et ce qui se passe en cas de violation, ce qui facilite beaucoup la preuve."
+    ],
+    [
+      "Quelle durée prévoir pour un accord de confidentialité ?",
+      "Il faut prévoir une durée déterminée : le droit français interdit les engagements perpétuels, et un engagement sans durée peut être résilié à tout moment moyennant un préavis raisonnable. En pratique, on distingue la durée des échanges et la durée pendant laquelle la confidentialité continue de s'appliquer après leur fin, souvent quelques années selon la sensibilité des informations."
+    ],
+    [
+      "Que risque celui qui ne respecte pas l'accord ?",
+      "Il engage sa responsabilité contractuelle et doit réparer le préjudice causé. Si l'accord prévoit une pénalité forfaitaire, elle est due sans avoir à prouver le montant du préjudice, mais le juge peut la réduire ou l'augmenter si elle est manifestement excessive ou dérisoire. La victime peut aussi demander au juge de faire cesser la divulgation ou l'utilisation, y compris en urgence."
+    ],
+    [
+      "Toutes les informations peuvent-elles être couvertes ?",
+      "Non. Ne peuvent pas être traitées comme confidentielles les informations déjà publiques, déjà connues de celui qui les reçoit, obtenues légitimement auprès d'un tiers ou développées de façon indépendante. L'accord ne peut pas non plus empêcher une divulgation imposée par la loi ou par un juge, ni un signalement fait dans les conditions légales par un lanceur d'alerte."
+    ],
+    [
+      "Faut-il un accord de confidentialité avec un salarié ?",
+      "Ce modèle est conçu pour deux entreprises. Un salarié est déjà tenu à une obligation de loyauté et de discrétion envers son employeur, que l'on peut renforcer par une clause de confidentialité dans le contrat de travail. C'est un document différent."
+    ],
+    [
+      "Peut-on signer un accord de confidentialité par voie électronique ?",
+      "Oui. L'écrit électronique a la même valeur que l'écrit sur papier, à condition que la personne dont il émane puisse être identifiée et que l'intégrité du document soit garantie (articles 1366 et 1367 du Code civil)."
+    ],
+    [
+      "Un accord de confidentialité protège-t-il une idée ?",
+      "Il ne crée pas de droit de propriété sur une idée : il interdit seulement à celui qui a signé de la divulguer ou de l'utiliser en dehors du projet. Pour une invention, une marque ou un dessin, l'accord permet d'en parler sans rendre l'information publique, mais il ne remplace pas un dépôt."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1112 et 1112-2 (négociations et confidentialité des informations échangées)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1103, 1104, 1210 et 1211 (force obligatoire, bonne foi, prohibition des engagements perpétuels, contrats à durée indéterminée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1231-1 et 1231-5 (dommages et intérêts, clause pénale) et 1366 et 1367 (écrit et signature électroniques)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 151-1 à L. 151-9 (définition et limites de la protection du secret des affaires)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 152-1 et suivants (actions en cas d'atteinte au secret des affaires)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "accord-confidentialite",
+    "accroche": "Répondez à quelques questions et obtenez un accord de confidentialité rempli à votre nom, prêt à signer en ligne."
+  }
+}

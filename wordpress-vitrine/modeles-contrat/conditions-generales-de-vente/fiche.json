@@ -1,0 +1,126 @@
+{
+  "slug": "conditions-generales-de-vente",
+  "nom": "Conditions générales de vente",
+  "nom_court": "conditions générales de vente",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle conditions générales de vente",
+  "mots_cles_secondaires": [
+    "conditions générales de vente",
+    "CGV",
+    "modèle CGV",
+    "CGV B2B",
+    "exemple conditions générales de vente",
+    "CGV gratuit"
+  ],
+  "titre_h1": "Modèle de conditions générales de vente gratuit (Word et PDF)",
+  "titre_seo": "Modèle de CGV gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Téléchargez gratuitement notre modèle de conditions générales de vente entre professionnels, en Word ou PDF : paiement, pénalités, livraison, réserve de propriété.",
+  "chapo": "Les conditions générales de vente fixent les règles de toutes vos ventes : prix, paiement, livraison, garanties. Voici un modèle complet et gratuit de CGV entre professionnels, conforme au droit français et prêt à adapter à votre activité.",
+  "gratuit": true,
+  "fichier_base": "modele-conditions-generales-de-vente-lumen-juris",
+  "date_publication": "2026-09-25",
+  "date_mise_a_jour": "2026-09-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Protection des données personnelles"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Téléchargez le modèle",
+      "Choisissez le format Word pour pouvoir modifier le texte, ou lisez-le directement sur cette page."
+    ],
+    [
+      "Identifiez votre entreprise",
+      "Complétez la dénomination, la forme sociale, le siège, le numéro SIREN et le numéro de TVA de votre société en tête du document."
+    ],
+    [
+      "Fixez vos conditions commerciales",
+      "Remplacez chaque passage entre crochets : lieu de livraison, validité des devis, délai de paiement, taux des pénalités de retard."
+    ],
+    [
+      "Choisissez vos options",
+      "Gardez, adaptez ou supprimez les clauses marquées « Option » : acompte, escompte, garantie commerciale, produits sur mesure."
+    ],
+    [
+      "Diffusez et faites accepter vos CGV",
+      "Supprimez les notes de rédaction, datez le document, joignez-le à vos devis et faites-le accepter par vos clients lors de chaque commande."
+    ]
+  ],
+  "faq": [
+    [
+      "Les conditions générales de vente sont-elles obligatoires ?",
+      "Entre professionnels, la loi n'impose pas de rédiger des CGV, mais lorsqu'une entreprise en établit, elle doit les communiquer à tout acheteur professionnel qui les demande. En pratique, elles sont indispensables pour fixer les conditions de paiement, dont les mentions sur les pénalités de retard sont obligatoires. Avec des consommateurs, c'est l'information précontractuelle qui est obligatoire, et les CGV sont le moyen le plus simple de la fournir."
+    ],
+    [
+      "Ce modèle de CGV convient-il pour vendre à des particuliers ?",
+      "Non, pas en l'état. Il est rédigé pour les ventes entre professionnels. Pour vendre à des consommateurs, notamment en ligne, il faut ajouter les informations précontractuelles, le droit de rétractation, les garanties légales de conformité et les coordonnées d'un médiateur de la consommation, et retirer certaines clauses interdites comme le choix du tribunal."
+    ],
+    [
+      "Quel délai de paiement puis-je prévoir entre professionnels ?",
+      "Le délai convenu ne peut pas dépasser 60 jours à compter de la date d'émission de la facture, ou 45 jours fin de mois s'il est expressément prévu et ne constitue pas un abus manifeste. Sans accord, le délai est de 30 jours après la réception des marchandises. Des délais plus courts existent dans certains secteurs."
+    ],
+    [
+      "Que doit contenir la clause sur les retards de paiement ?",
+      "Elle doit indiquer le taux des pénalités de retard, qui ne peut pas être inférieur à trois fois le taux d'intérêt légal, et l'indemnité forfaitaire de 40 euros pour frais de recouvrement. Ces sommes sont dues de plein droit, sans rappel."
+    ],
+    [
+      "Mes CGV s'appliquent-elles si le client a ses propres conditions d'achat ?",
+      "Si les conditions générales du vendeur et celles de l'acheteur se contredisent, les clauses incompatibles sont sans effet, selon l'article 1119 du Code civil. Pour éviter ce conflit, faites accepter vos CGV par écrit ou négociez des conditions particulières signées par les deux parties."
+    ],
+    [
+      "À quoi sert la clause de réserve de propriété ?",
+      "Elle permet au vendeur de rester propriétaire des marchandises jusqu'au paiement complet du prix. En cas d'impayé, ou si le client fait l'objet d'une procédure collective, le vendeur peut récupérer les marchandises encore présentes chez le client. Elle doit avoir été convenue par écrit au plus tard au moment de la livraison."
+    ],
+    [
+      "Puis-je modifier mes CGV ?",
+      "Oui, à tout moment. Les nouvelles conditions ne s'appliquent qu'aux commandes passées après leur communication au client. Datez chaque version et informez vos clients réguliers suffisamment à l'avance."
+    ],
+    [
+      "Puis-je utiliser ce modèle sans avocat ?",
+      "Oui, le modèle est conçu pour être complété directement. Pour une activité à l'international, des ventes en ligne à des particuliers ou un secteur réglementé, une relecture par un professionnel du droit reste recommandée."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 441-1, L. 441-9 et L. 441-10 (conditions générales de vente, facturation, délais de paiement et pénalités de retard)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, article D. 441-5 (indemnité forfaitaire pour frais de recouvrement de 40 euros)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 133-3 (réserves au transporteur), L. 442-1 (déséquilibre significatif) et L. 624-16 (revendication des biens vendus avec réserve de propriété)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1119, 1170, 1196, 1218 et 1225 (conditions générales, obligation essentielle, transfert des risques, force majeure, clause résolutoire)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1641 à 1648 (garantie des vices cachés) et 2367 (réserve de propriété)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de procédure civile, article 48 (clause attributive de juridiction entre commerçants)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716"
+    ],
+    [
+      "Code de la consommation, articles L. 111-1, L. 217-3 et L. 221-18 (information précontractuelle, garantie légale de conformité, droit de rétractation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "conditions-generales-vente",
+    "accroche": "Répondez à quelques questions et obtenez des conditions générales de vente remplies au nom de votre entreprise, prêtes à diffuser."
+  }
+}

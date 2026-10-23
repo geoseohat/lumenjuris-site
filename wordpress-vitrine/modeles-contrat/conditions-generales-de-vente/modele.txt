@@ -1,0 +1,194 @@
+# CONDITIONS GÉNÉRALES DE VENTE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ces conditions générales de vente sont conçues pour la vente de produits entre professionnels (B2B). Pour vendre à des consommateurs, des mentions supplémentaires sont obligatoires (droit de rétractation, garanties légales de conformité, médiation de la consommation) : ce modèle ne suffit pas en l'état. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant diffusion.
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], numéro de TVA intracommunautaire [numéro], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Vendeur ».
+
+Adresse électronique : [adresse e-mail] – Téléphone : [numéro]
+
+## ARTICLE 1 – DÉFINITIONS
+
+Dans les présentes conditions générales de vente, les termes suivants ont la signification ci-dessous :
+
+- « CGV » : les présentes conditions générales de vente.
+- « Client » : tout professionnel, personne physique ou morale, agissant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, qui commande des Produits au Vendeur.
+- « Produits » : les biens proposés à la vente par le Vendeur, tels que décrits dans son catalogue, ses tarifs ou ses devis.
+- « Commande » : toute demande d'achat de Produits émise par le Client et acceptée par le Vendeur dans les conditions de l'article 4.
+- « Jour ouvré » : tout jour autre qu'un samedi, un dimanche ou un jour férié en France.
+
+## ARTICLE 2 – CHAMP D'APPLICATION ET OPPOSABILITÉ
+
+Les CGV s'appliquent à toutes les ventes de Produits conclues entre le Vendeur et ses Clients professionnels. Elles constituent le socle unique de la négociation commerciale, conformément à l'article L. 441-1 du Code de commerce.
+
+Elles sont communiquées à tout Client qui en fait la demande et sont jointes à chaque devis ou accessibles à l'adresse suivante : [adresse du site internet]. Toute Commande implique l'acceptation des CGV par le Client.
+
+Les CGV prévalent sur les conditions générales d'achat du Client, sauf accord particulier écrit et signé par le Vendeur. Conformément à l'article 1119 du Code civil, en cas de discordance entre les conditions générales de chacune des parties, les clauses incompatibles sont sans effet.
+
+Des conditions particulières, consignées par écrit et acceptées par les deux parties, peuvent compléter ou modifier les CGV pour une Commande ou un Client déterminé. Elles prévalent alors sur les CGV.
+
+> Option : si vous pratiquez des conditions différentes selon les catégories de clients (grossistes, détaillants, par exemple), vous pouvez établir des conditions catégorielles, en appliquant les mêmes conditions à tous les clients d'une même catégorie.
+
+## ARTICLE 3 – PRODUITS
+
+Les Produits sont décrits avec la plus grande exactitude possible dans les documents commerciaux du Vendeur. Les photographies et illustrations n'ont pas de valeur contractuelle lorsqu'elles ne permettent pas d'identifier les caractéristiques essentielles du Produit.
+
+Le Vendeur se réserve le droit de modifier ses Produits sans que ces modifications n'affectent les caractéristiques essentielles des Produits déjà commandés.
+
+## ARTICLE 4 – COMMANDES
+
+### 4.1 Passation
+
+Les Commandes sont passées par écrit, par [bon de commande signé / courrier électronique / espace client en ligne], et précisent au minimum la référence et la quantité des Produits, le prix convenu, l'adresse et la date de livraison souhaitées.
+
+### 4.2 Acceptation
+
+Une Commande n'engage le Vendeur qu'après son acceptation écrite, par l'envoi d'un accusé de réception de commande. Le contrat de vente est formé à la date de cet accusé de réception.
+
+Le Vendeur peut refuser toute Commande anormale ou passée de mauvaise foi, ou émanant d'un Client avec lequel existe un litige de paiement non réglé.
+
+### 4.3 Modification et annulation
+
+Toute modification ou annulation d'une Commande acceptée par le Vendeur nécessite son accord écrit. En cas d'annulation acceptée, le Vendeur peut conserver l'acompte versé ou facturer les frais déjà engagés, dans la limite de [__] % du montant de la Commande.
+
+> Option : pour les Produits fabriqués sur mesure ou selon les spécifications du Client, prévoyez que la Commande ne peut plus être annulée après le lancement de la fabrication.
+
+## ARTICLE 5 – PRIX
+
+### 5.1 Tarifs
+
+Les Produits sont vendus au prix du tarif du Vendeur en vigueur au jour de l'acceptation de la Commande, ou au prix indiqué dans le devis accepté. Les prix sont exprimés en euros hors taxes ; la TVA et, le cas échéant, les autres taxes applicables sont ajoutées au taux en vigueur à la date de facturation.
+
+Les prix s'entendent [départ usine / départ entrepôt du Vendeur, emballage standard compris] ; les frais de transport, d'assurance et de conditionnement particulier sont facturés en supplément, sauf mention contraire sur le devis.
+
+Le Vendeur peut modifier ses tarifs à tout moment. Les nouveaux tarifs sont communiqués au Client au moins [trente] jours avant leur entrée en vigueur et ne s'appliquent qu'aux Commandes acceptées après cette date.
+
+### 5.2 Réductions de prix
+
+Le Client peut bénéficier des réductions de prix figurant au barème du Vendeur, en fonction des quantités commandées ou de la régularité des Commandes, dans les conditions précisées par ce barème.
+
+### 5.3 Devis
+
+Les devis établis par le Vendeur sont valables [trente] jours à compter de leur date d'émission, sauf durée différente qui y serait indiquée.
+
+## ARTICLE 6 – CONDITIONS DE PAIEMENT
+
+### 6.1 Délai de paiement
+
+Sauf délai différent convenu par écrit, le prix est payable à [trente] jours à compter de la date d'émission de la facture, par [virement bancaire / prélèvement / chèque].
+
+Le délai convenu ne peut en aucun cas dépasser soixante jours à compter de la date d'émission de la facture, ou, s'il est expressément stipulé et ne constitue pas un abus manifeste à l'égard du Vendeur, quarante-cinq jours fin de mois à compter de cette date, conformément à l'article L. 441-10 du Code de commerce.
+
+> Option : le Vendeur peut exiger un acompte de [__] % du prix à la Commande, notamment pour une première Commande, une Commande sur mesure ou d'un montant supérieur à [montant] euros HT.
+
+### 6.2 Escompte
+
+Aucun escompte n'est accordé en cas de paiement anticipé.
+
+> Option : si vous accordez un escompte, remplacez la phrase ci-dessus par ses conditions, par exemple « Un escompte de [__] % est accordé en cas de paiement dans un délai de [__] jours à compter de la date d'émission de la facture ».
+
+### 6.3 Retard de paiement
+
+Tout retard de paiement entraîne de plein droit, sans qu'un rappel soit nécessaire, l'exigibilité le jour suivant la date de règlement figurant sur la facture :
+
+- de pénalités de retard calculées au taux de [trois fois le taux d'intérêt légal / taux d'intérêt appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de 10 points de pourcentage], appliqué au montant TTC restant dû ;
+- d'une indemnité forfaitaire pour frais de recouvrement de 40 euros, prévue aux articles L. 441-10 et D. 441-5 du Code de commerce. Lorsque les frais de recouvrement exposés sont supérieurs à ce montant, le Vendeur peut demander une indemnisation complémentaire sur justification.
+
+> Note : le taux des pénalités ne peut pas être inférieur à trois fois le taux d'intérêt légal. À défaut de taux choisi, c'est le taux de la Banque centrale européenne majoré de 10 points qui s'applique.
+
+En outre, après mise en demeure restée sans effet pendant [huit] jours, le Vendeur peut suspendre l'exécution des Commandes en cours jusqu'au complet paiement, sans préjudice de ses autres recours.
+
+## ARTICLE 7 – LIVRAISON
+
+### 7.1 Modalités
+
+La livraison est réputée effectuée par [la remise des Produits au Client dans les locaux du Vendeur / la remise des Produits au premier transporteur / la remise des Produits à l'adresse indiquée par le Client], conformément aux conditions indiquées dans l'accusé de réception de commande.
+
+### 7.2 Délais
+
+Les délais de livraison sont indiqués dans l'accusé de réception de commande. Sauf délai impératif expressément accepté par écrit par le Vendeur, ils sont donnés à titre indicatif.
+
+Le Vendeur informe le Client sans délai de tout retard prévisible. Si le retard excède [trente] jours après la date indiquée, et sauf cas de force majeure, le Client peut, après mise en demeure restée sans effet pendant [huit] jours, annuler la Commande concernée par écrit et obtenir la restitution des sommes déjà versées pour cette Commande.
+
+### 7.3 Réception et réserves
+
+Il appartient au Client de vérifier l'état et la quantité des Produits lors de la livraison.
+
+En cas d'avarie ou de manquant constaté à l'arrivée d'un transport, le Client doit porter des réserves précises sur le document de transport et les confirmer au transporteur par acte extrajudiciaire ou par lettre recommandée dans les trois jours, non compris les jours fériés, qui suivent la réception, conformément à l'article L. 133-3 du Code de commerce. Il en informe le Vendeur dans le même délai.
+
+Toute réclamation relative à un défaut de conformité apparent des Produits livrés (référence ou quantité erronée, par exemple) doit être notifiée par écrit au Vendeur dans un délai de [cinq] Jours ouvrés à compter de la livraison, avec toutes les justifications utiles.
+
+Les Produits reconnus non conformes par le Vendeur sont, à son choix, remplacés ou remboursés. Aucun retour de Produits ne peut être effectué sans l'accord préalable écrit du Vendeur.
+
+## ARTICLE 8 – TRANSFERT DE PROPRIÉTÉ ET DES RISQUES
+
+### 8.1 Réserve de propriété
+
+LE VENDEUR CONSERVE LA PROPRIÉTÉ DES PRODUITS VENDUS JUSQU'AU PAIEMENT INTÉGRAL DE LEUR PRIX EN PRINCIPAL ET ACCESSOIRES, conformément aux articles 2367 et suivants du Code civil. La remise d'un titre créant une obligation de payer, tel qu'une lettre de change, ne constitue pas un paiement au sens de la présente clause.
+
+En cas de défaut de paiement à l'échéance, le Vendeur peut, après mise en demeure restée sans effet, revendiquer les Produits. Le Client s'engage à individualiser les Produits non payés dans ses stocks et à ne pas les donner en garantie. Il est autorisé à les revendre dans le cadre normal de son activité ; la créance née de cette revente est alors reportée sur le prix dû au Vendeur, dans les conditions prévues par la loi.
+
+### 8.2 Transfert des risques
+
+Par dérogation à l'article 1196 du Code civil, les risques de perte et de détérioration des Produits sont transférés au Client dès la livraison telle que définie à l'article 7.1, nonobstant la réserve de propriété. Le Client s'engage à assurer les Produits contre ces risques jusqu'au complet paiement.
+
+## ARTICLE 9 – GARANTIES
+
+Les Produits bénéficient de la garantie légale contre les vices cachés prévue aux articles 1641 et suivants du Code civil. L'action doit être engagée dans un délai de deux ans à compter de la découverte du vice, conformément à l'article 1648 du Code civil.
+
+Le Client doit informer le Vendeur par écrit de tout vice dans les meilleurs délais après sa découverte et permettre au Vendeur de procéder à toute constatation utile.
+
+La garantie ne couvre pas les dommages résultant d'une usure normale, d'une utilisation non conforme à la destination ou aux notices du Vendeur, d'un défaut d'entretien, ou d'une modification des Produits réalisée sans l'accord du Vendeur.
+
+> Option : si vous accordez une garantie commerciale en plus de la garantie légale (par exemple une garantie pièces et main-d'œuvre de [__] mois), décrivez ici sa durée, son contenu et ses modalités de mise en œuvre.
+
+## ARTICLE 10 – RESPONSABILITÉ
+
+La responsabilité du Vendeur est limitée aux dommages directs et prévisibles subis par le Client, à l'exclusion des dommages indirects tels que la perte d'exploitation, de chiffre d'affaires, de clientèle ou d'image.
+
+Sauf en cas de faute lourde ou dolosive, et sauf dommage corporel, le montant total des dommages et intérêts dus par le Vendeur au titre d'une Commande est limité au prix hors taxes payé par le Client pour cette Commande.
+
+> Note : une limitation de responsabilité qui viderait de sa substance l'obligation essentielle du Vendeur serait réputée non écrite (article 1170 du Code civil). Gardez un plafond cohérent avec la valeur des Produits.
+
+## ARTICLE 11 – FORCE MAJEURE
+
+Aucune des parties n'est responsable de l'inexécution de ses obligations lorsque celle-ci résulte d'un cas de force majeure au sens de l'article 1218 du Code civil, c'est-à-dire d'un événement échappant à son contrôle, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées.
+
+La partie empêchée informe l'autre par écrit dans les meilleurs délais. Si l'empêchement est temporaire, l'exécution est suspendue, à moins que le retard qui en résulte ne justifie la résolution de la Commande. Si l'empêchement est définitif ou dure plus de [soixante] jours, chaque partie peut résoudre la Commande concernée par écrit, sans indemnité ; les sommes versées pour des Produits non livrés sont alors restituées.
+
+L'obligation de payer une somme d'argent due pour des Produits déjà livrés n'est pas suspendue par un cas de force majeure.
+
+## ARTICLE 12 – RÉSOLUTION
+
+En cas de manquement grave de l'une des parties à ses obligations, notamment en cas de défaut de paiement, l'autre partie peut résoudre la Commande concernée de plein droit, quinze jours après l'envoi d'une mise en demeure par lettre recommandée avec accusé de réception restée sans effet, rappelant expressément la présente clause, sans préjudice des dommages et intérêts auxquels elle pourrait prétendre.
+
+## ARTICLE 13 – PROPRIÉTÉ INTELLECTUELLE
+
+Le Vendeur conserve l'ensemble des droits de propriété intellectuelle sur ses marques, catalogues, documents techniques, plans, études et photographies. Le Client s'interdit de les reproduire ou de les communiquer à des tiers sans l'accord écrit du Vendeur.
+
+La vente des Produits n'emporte aucune cession de droits de propriété intellectuelle au profit du Client.
+
+## ARTICLE 14 – DONNÉES PERSONNELLES
+
+Le Vendeur traite les données personnelles des interlocuteurs du Client (nom, fonction, coordonnées professionnelles) pour la gestion des Commandes, la facturation, le suivi de la relation commerciale et le respect de ses obligations légales, conformément au règlement (UE) 2016/679 du 27 avril 2016 (RGPD) et à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Ces données sont conservées pendant la durée de la relation commerciale, puis archivées pendant la durée des prescriptions légales. Les personnes concernées disposent d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité, qu'elles peuvent exercer à l'adresse suivante : [adresse e-mail]. Elles peuvent également introduire une réclamation auprès de la CNIL.
+
+## ARTICLE 15 – CONFIDENTIALITÉ
+
+Chaque partie s'engage à garder confidentielles les informations de l'autre partie dont elle a connaissance à l'occasion de leurs relations commerciales, notamment les conditions particulières de prix, pendant toute la durée de ces relations et pendant [deux] ans après leur fin.
+
+## ARTICLE 16 – MODIFICATION DES CGV
+
+Le Vendeur peut modifier les CGV à tout moment. Les CGV applicables sont celles en vigueur à la date d'acceptation de la Commande. Les nouvelles CGV sont communiquées aux Clients réguliers au moins [trente] jours avant leur entrée en vigueur.
+
+## ARTICLE 17 – DROIT APPLICABLE ET LITIGES
+
+Les CGV et les ventes qu'elles régissent sont soumises au droit français. La convention des Nations unies sur les contrats de vente internationale de marchandises (Vienne, 11 avril 1980) est exclue.
+
+En cas de différend, les parties recherchent d'abord une solution amiable. À défaut d'accord dans un délai de [trente] jours à compter de la notification du différend par l'une des parties, celui-ci est porté devant la juridiction compétente en matière commerciale dans le ressort de [ville].
+
+> Note : une clause désignant un tribunal n'est valable qu'entre personnes ayant toutes contracté en qualité de commerçant, et doit être spécifiée de façon très apparente (article 48 du Code de procédure civile). Si certains de vos clients ne sont pas commerçants (professions libérales, associations, agriculteurs), les règles ordinaires de compétence s'appliquent à leur égard.
+
+CGV en vigueur à compter du [date].
