@@ -120,12 +120,12 @@ foreach ((array) $liste as $f) {
     if (($f['type'] ?? '') !== 'file' || substr($f['name'], -5) !== '.json') {
         continue;
     }
-    $id = substr($f['name'], 0, -5);
-    $e = $etat['ordres'][$id] ?? [];
+    $id_ordre = substr($f['name'], 0, -5);
+    $e = $etat['ordres'][$id_ordre] ?? [];
     if (($e['statut'] ?? '') === 'fait' || ($e['essais'] ?? 0) >= $REGLAGES['essais_max']) {
         continue;
     }
-    $a_faire[$id] = $f['path'];
+    $a_faire[$id_ordre] = $f['path'];
 }
 ksort($a_faire);  // les noms commencent par la date : ordre chronologique
 file_put_contents("$DIR/dernier-passage.txt", date('Y-m-d H:i:s') . ' OK : GitHub lisible, '
@@ -135,19 +135,19 @@ if (!$a_faire) {
 }
 
 // --- Chargement de WordPress
-$wp = $REGLAGES['wordpress'];
-if ($wp === '') {
+$dossier_wp = $REGLAGES['wordpress'];
+if ($dossier_wp === '') {
     $maison = dirname($DIR);
     // Dossier du domaine d'abord : public_html peut contenir un autre site.
     foreach (["$maison/" . preg_replace('/^www\./', '', $REGLAGES['site']), "$maison/" . $REGLAGES['site'],
               "$maison/public_html", "$maison/www"] as $d) {
         if (is_file("$d/wp-load.php")) {
-            $wp = $d;
+            $dossier_wp = $d;
             break;
         }
     }
 }
-if ($wp === '' || !is_file("$wp/wp-load.php")) {
+if ($dossier_wp === '' || !is_file("$dossier_wp/wp-load.php")) {
     journal("ERREUR : wp-load.php introuvable. Indiquez le dossier de WordPress dans reglages.php ('wordpress').");
     exit(1);
 }
@@ -167,8 +167,8 @@ register_shutdown_function(function () {
         journal("ERREUR PHP : {$err['message']} (fichier {$err['file']}, ligne {$err['line']})");
     }
 });
-journal("chargement de WordPress : $wp (PHP " . PHP_VERSION . ')');
-require "$wp/wp-load.php";
+journal("chargement de WordPress : $dossier_wp (PHP " . PHP_VERSION . ')');
+require "$dossier_wp/wp-load.php";
 require_once ABSPATH . 'wp-admin/includes/file.php';
 require_once ABSPATH . 'wp-admin/includes/media.php';
 require_once ABSPATH . 'wp-admin/includes/image.php';
@@ -176,11 +176,11 @@ require_once ABSPATH . 'wp-admin/includes/image.php';
 // Sécurité : ne jamais écrire dans un autre site que celui prévu.
 $hote = parse_url(home_url(), PHP_URL_HOST);
 if (preg_replace('/^www\./', '', (string) $hote) !== preg_replace('/^www\./', '', $REGLAGES['site'])) {
-    journal("ERREUR : le WordPress trouvé ($wp) est celui de $hote, pas de {$REGLAGES['site']}. "
+    journal("ERREUR : le WordPress trouvé ($dossier_wp) est celui de $hote, pas de {$REGLAGES['site']}. "
         . "Indiquez le bon dossier dans reglages.php ('wordpress').");
     exit(1);
 }
-journal("WordPress de $hote ($wp)");
+journal("WordPress de $hote ($dossier_wp)");
 
 if ($REGLAGES['utilisateur_wp'] !== '') {
     $utilisateur = get_user_by('login', $REGLAGES['utilisateur_wp']);
@@ -291,8 +291,8 @@ function operation($op)
 }
 
 // --- Exécution, ordre par ordre, opération par opération (reprise possible après une erreur)
-foreach ($a_faire as $id => $chemin) {
-    $e = &$etat['ordres'][$id];
+foreach ($a_faire as $id_ordre => $chemin) {
+    $e = &$etat['ordres'][$id_ordre];
     $e = ($e ?? []) + ['statut' => 'en cours', 'essais' => 0, 'operations' => []];
     $e['essais']++;
     try {
@@ -300,7 +300,7 @@ foreach ($a_faire as $id => $chemin) {
         if (!is_array($ordre) || !isset($ordre['operations'])) {
             throw new RuntimeException("ordre illisible : $chemin");
         }
-        journal("ordre $id : {$ordre['description']} (" . count($ordre['operations']) . ' opérations)');
+        journal("ordre $id_ordre : {$ordre['description']} (" . count($ordre['operations']) . ' opérations)');
         foreach ($ordre['operations'] as $op) {
             if (isset($e['operations'][$op['ref']])) {
                 continue;  // déjà faite lors d'un passage précédent
@@ -319,11 +319,11 @@ foreach ($a_faire as $id => $chemin) {
         $e['statut'] = 'fait';
         $e['date'] = date('Y-m-d H:i:s');
         $e['message'] = '';
-        journal("ordre $id : terminé");
+        journal("ordre $id_ordre : terminé");
     } catch (Exception $ex) {
         $e['statut'] = 'erreur';
         $e['message'] = $ex->getMessage();
-        journal("ERREUR ordre $id (essai {$e['essais']}/{$REGLAGES['essais_max']}) : " . $ex->getMessage());
+        journal("ERREUR ordre $id_ordre (essai {$e['essais']}/{$REGLAGES['essais_max']}) : " . $ex->getMessage());
         enregistrer_etat();
         break;  // les ordres suivants peuvent dépendre de celui-ci
     }
