@@ -138,8 +138,9 @@ if (!$a_faire) {
 $wp = $REGLAGES['wordpress'];
 if ($wp === '') {
     $maison = dirname($DIR);
-    foreach (["$maison/public_html", "$maison/www", "$maison/" . $REGLAGES['site'],
-              "$maison/" . preg_replace('/^www\./', '', $REGLAGES['site'])] as $d) {
+    // Dossier du domaine d'abord : public_html peut contenir un autre site.
+    foreach (["$maison/" . preg_replace('/^www\./', '', $REGLAGES['site']), "$maison/" . $REGLAGES['site'],
+              "$maison/public_html", "$maison/www"] as $d) {
         if (is_file("$d/wp-load.php")) {
             $wp = $d;
             break;
@@ -160,6 +161,15 @@ require "$wp/wp-load.php";
 require_once ABSPATH . 'wp-admin/includes/file.php';
 require_once ABSPATH . 'wp-admin/includes/media.php';
 require_once ABSPATH . 'wp-admin/includes/image.php';
+
+// Sécurité : ne jamais écrire dans un autre site que celui prévu.
+$hote = parse_url(home_url(), PHP_URL_HOST);
+if (preg_replace('/^www\./', '', (string) $hote) !== preg_replace('/^www\./', '', $REGLAGES['site'])) {
+    journal("ERREUR : le WordPress trouvé ($wp) est celui de $hote, pas de {$REGLAGES['site']}. "
+        . "Indiquez le bon dossier dans reglages.php ('wordpress').");
+    exit(1);
+}
+journal("WordPress de $hote ($wp)");
 
 if ($REGLAGES['utilisateur_wp'] !== '') {
     $utilisateur = get_user_by('login', $REGLAGES['utilisateur_wp']);
