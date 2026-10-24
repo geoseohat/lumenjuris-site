@@ -9,7 +9,7 @@ Les pages juridiques sont classées par Google parmi les sujets « Your Money or
 coûter cher au lecteur. Google y regarde de plus près la fiabilité de la page et de son auteur (critères
 « E-E-A-T » : expérience, expertise, autorité, fiabilité).
 
-Publier un modèle par jour, préparé avec l'aide d'une IA, n'est pas interdit en soi. Google sanctionne ce qui est
+Publier plusieurs modèles par jour, préparés avec l'aide d'une IA, n'est pas interdit en soi. Google sanctionne ce qui est
 produit en série surtout pour se classer, quel que soit l'outil :
 - **Scaled content abuse** : beaucoup de pages qui n'apportent rien de propre (texte générique, paragraphes
   repris d'une page à l'autre en changeant le nom du contrat).

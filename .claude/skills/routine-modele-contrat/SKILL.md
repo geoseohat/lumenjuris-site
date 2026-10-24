@@ -1,6 +1,6 @@
 ---
 name: routine-modele-contrat
-description: Produire le « modèle de contrat du jour » pour www.lumenjuris.com par le chemin le plus court (preparer → rédiger → controler → relire → publier → terminer), avec les règles qui évitent les sanctions Google (contenu dupliqué, deux pages pour la même recherche, affirmations trompeuses) et les règles juridiques maison. À utiliser pour la routine quotidienne, pour traiter la prochaine ligne de modeles-contrat/mots-cles.txt, ou dès qu'il faut rédiger un nouveau modèle de contrat pour le site vitrine, même si la demande ne cite pas la routine. Pour retirer, corriger ou republier une page existante, voir publier-modele-contrat.
+description: Produire les modèles de contrat du jour (4 par passage par défaut) pour www.lumenjuris.com par le chemin le plus court (preparer → rédiger → controler → relire → publier → terminer), avec les règles qui évitent les sanctions Google (contenu dupliqué, deux pages pour la même recherche, affirmations trompeuses) et les règles juridiques maison. À utiliser pour la routine quotidienne, pour traiter la prochaine ligne de modeles-contrat/mots-cles.txt, ou dès qu'il faut rédiger un nouveau modèle de contrat pour le site vitrine, même si la demande ne cite pas la routine. Pour retirer, corriger ou republier une page existante, voir publier-modele-contrat.
 ---
 
 # Modèle de contrat du jour
@@ -14,6 +14,22 @@ Ouvrez les deux références seulement en cas de doute :
 
 Travaillez depuis `wordpress-vitrine/`, sur la branche `claude/modeles-contrat`.
 
+## Combien de modèles par passage
+
+**4 modèles par passage**, sauf si les instructions de la routine fixent un autre nombre (ligne `NOMBRE : n`).
+Traitez-les l'un après l'autre : faites les étapes 1 à 8 en entier pour un contrat (jusqu'au `git push`),
+puis recommencez à l'étape 1 pour le suivant. Ne préparez jamais plusieurs dossiers à la fois : l'outil ne suit
+qu'un contrat en cours. Chaque modèle doit garder la même qualité que s'il était le seul du jour : ne raccourcissez
+ni la rédaction ni la relecture pour tenir le nombre. Mieux vaut publier 3 bons modèles que 4 dont un bâclé.
+
+Arrêtez la série avant le nombre prévu si :
+- `preparer` répond « Liste de mots-clés vide » ;
+- un contrat reste bloqué (erreur du contrôle impossible à corriger, navigateur introuvable) : laissez-le tel quel,
+  il sera repris au passage suivant, et ne commencez pas d'autre contrat ;
+- `preparer` affiche « ordre … en ERREUR » pour un ordre de ce passage.
+
+Un `ecarter` ne compte pas comme un modèle publié : passez au contrat suivant de la liste.
+
 ## Les étapes
 
 1. **Préparer** : `python outils/modeles_contrat.py preparer`.
@@ -26,8 +42,8 @@ Travaillez depuis `wordpress-vitrine/`, sur la branche `claude/modeles-contrat`.
    Sinon, regardez les « pages existantes proches » (voir « Une page par recherche » plus bas). Si le document et
    l'usage sont les mêmes qu'une page existante :
    `python outils/modeles_contrat.py ecarter "même intention que <slug> : <explication courte>"`, puis revenez à l'étape 1.
-   Faites de même si le contrat est trop risqué pour un modèle générique, en l'expliquant. Un seul contrat publié
-   par passage : après un `ecarter`, le contrat suivant devient celui du jour.
+   Faites de même si le contrat est trop risqué pour un modèle générique, en l'expliquant. Après un `ecarter`, le
+   contrat suivant de la liste prend sa place (il ne compte pas dans le nombre du passage).
 
 3. **Rédiger** les trois fichiers du dossier en remplaçant chaque « À COMPLÉTER » (voir « Rédaction »).
 
@@ -52,7 +68,8 @@ Travaillez depuis `wordpress-vitrine/`, sur la branche `claude/modeles-contrat`.
    `git add wordpress-vitrine/modeles-contrat && git commit -m "Modèle du jour : <nom>" && git push origin claude/modeles-contrat`
    (en cas d'erreur réseau, réessayez jusqu'à 4 fois en attendant 2, 4, 8 puis 16 s). Le serveur publie dans les
    5 minutes qui suivent l'envoi. Les vérifications en ligne (page accessible, micro-données, plan du site) sont
-   faites par l'étape 1 du passage suivant, qui les affiche : reportez-les dans le rapport du jour.
+   faites par l'étape 1 suivante, qui les affiche : reportez-les dans le rapport du jour. Puis reprenez à l'étape 1
+   pour le modèle suivant, tant que le nombre du passage n'est pas atteint (voir « Combien de modèles par passage »).
 
 ## Une page par recherche
 
@@ -129,9 +146,10 @@ et expliquez pourquoi dans le rapport.
 
 ## Rapport final
 
-Court, en français simple, pour Geoff (il n'est pas développeur) :
-- le contrat et son adresse, en précisant qu'elle sera active dans les 5 minutes, ou le lien d'aperçu en mode TEST ;
-- ce qu'il peut relire en priorité (les deux ou trois passages juridiques les plus délicats) ;
+Court, en français simple, pour Geoff (il n'est pas développeur), un seul rapport pour tout le passage :
+- le nombre de modèles publiés sur le nombre prévu, et la raison s'il en manque ;
+- pour chaque contrat, son adresse, en précisant qu'elle sera active dans les 5 minutes, ou le lien d'aperçu en mode TEST ;
+- pour chaque contrat, ce qu'il peut relire en priorité (les deux ou trois passages juridiques les plus délicats) ;
 - les vérifications du passage précédent, affichées par `preparer` ;
 - tout problème rencontré, et ce qui dépend de lui ;
 - pour retirer la page : `python outils/modeles_contrat.py retirer <slug>` (depuis `wordpress-vitrine`).
