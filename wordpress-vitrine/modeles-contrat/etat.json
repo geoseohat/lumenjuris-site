@@ -262,27 +262,53 @@
     "conditions-generales-d-utilisation": {
       "fichiers": {
         "docx": {
-          "id": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o1.id}}",
-          "url": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o1.source_url}}",
+          "id": 3056,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-conditions-generales-d-utilisation-lumen-juris.docx",
           "taille": "43 Ko",
           "empreinte": "7b1c7d23d64e71c72c0858943d43e0ec59483b8c2b7e2a90052c250d02188baa"
         },
         "pdf": {
-          "id": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o2.id}}",
-          "url": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o2.source_url}}",
+          "id": 3057,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-conditions-generales-d-utilisation-lumen-juris.pdf",
           "taille": "137 Ko",
           "empreinte": "7b1c7d23d64e71c72c0858943d43e0ec59483b8c2b7e2a90052c250d02188baa"
         }
       },
       "image": {
-        "id": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o3.id}}",
-        "url": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o3.source_url}}",
+        "id": 3058,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-conditions-generales-d-utilisation-lumen-juris.png",
         "taille": "298 Ko",
         "empreinte": "efe51bcabf7692ab38cada877f91578bdb3b8e5051bf3f5f66f0b510efa50f13"
       },
       "statut": "publish",
-      "id": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o7.id}}",
-      "lien": "{{20261023-210741-publier-en-ligne-conditions-generales-d-utilisation.o7.link}}",
+      "id": 3059,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-d-utilisation/",
+      "gabarit": "2026-10-23"
+    },
+    "promesse-d-embauche": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o1.id}}",
+          "url": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "6ae88af250887c757e1d0508aaf8ba707ca5653143fde13109465c4be3561144"
+        },
+        "pdf": {
+          "id": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o2.id}}",
+          "url": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o2.source_url}}",
+          "taille": "92 Ko",
+          "empreinte": "6ae88af250887c757e1d0508aaf8ba707ca5653143fde13109465c4be3561144"
+        }
+      },
+      "image": {
+        "id": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o3.id}}",
+        "url": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o3.source_url}}",
+        "taille": "289 Ko",
+        "empreinte": "c817afc2b77c54c17d92e661c0d808267e8ef8b1c5ff9a559d9c6296c82906e6"
+      },
+      "statut": "publish",
+      "id": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o7.id}}",
+      "lien": "{{20261024-092432-publier-en-ligne-promesse-d-embauche.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -291,6 +317,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261023-210741-publier-en-ligne-conditions-generales-d-utilisation"
+    "20261024-092432-publier-en-ligne-promesse-d-embauche"
   ]
 }

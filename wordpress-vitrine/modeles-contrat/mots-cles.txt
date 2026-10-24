@@ -18,7 +18,7 @@
 [x] 2026-10-23 contrat de sous-traitance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sous-traitance/
 [x] 2026-10-23 contrat de bail commercial -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-commercial/
 [x] 2026-10-23 conditions générales d'utilisation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/conditions-generales-d-utilisation/
-promesse d'embauche
+[x] 2026-10-24 promesse d'embauche -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-d-embauche/
 avenant au contrat de travail
 rupture conventionnelle
 contrat de cession de parts sociales

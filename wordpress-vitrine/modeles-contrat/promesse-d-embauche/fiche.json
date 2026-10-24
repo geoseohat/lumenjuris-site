@@ -1,0 +1,102 @@
+{
+  "slug": "promesse-d-embauche",
+  "nom": "Promesse d'embauche",
+  "nom_court": "promesse d'embauche",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle promesse d'embauche",
+  "mots_cles_secondaires": [
+    "promesse d'embauche",
+    "lettre de promesse d'embauche",
+    "promesse d'embauche CDI",
+    "promesse d'embauche CDD",
+    "offre de contrat de travail",
+    "promesse unilatérale de contrat de travail",
+    "rupture promesse d'embauche"
+  ],
+  "titre_h1": "Modèle de promesse d'embauche gratuit (Word et PDF)",
+  "titre_seo": "Modèle de promesse d'embauche gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de promesse d'embauche gratuit (Word, PDF) : mentions obligatoires, délai de réponse, période d'essai, différence avec une offre d'emploi.",
+  "chapo": "La promesse d'embauche permet à un employeur de s'engager par écrit à recruter un candidat avant la signature du contrat de travail. Cette page fournit un modèle de promesse unilatérale prêt à compléter et explique ce qu'elle engage, pour l'entreprise comme pour le candidat.",
+  "public": "Employeurs, recruteurs et candidats",
+  "gratuit": true,
+  "fichier_base": "modele-promesse-d-embauche-lumen-juris",
+  "date_publication": "2026-10-24",
+  "date_mise_a_jour": "2026-10-24",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir entre offre et promesse",
+      "Décidez si l'entreprise veut s'engager fermement (promesse unilatérale, ce modèle) ou garder la possibilité de retirer sa proposition (offre d'emploi avec délai de réponse)."
+    ],
+    [
+      "Fixer les trois éléments essentiels",
+      "Renseignez le poste et sa classification, la rémunération brute et la date d'entrée en fonction, en tenant compte du préavis que le candidat doit à son employeur actuel."
+    ],
+    [
+      "Prévoir la période d'essai et le type de contrat",
+      "Indiquez CDI ou CDD (avec son motif), temps plein ou partiel, et la durée de la période d'essai, qui ne peut pas être imposée si elle n'est pas écrite."
+    ],
+    [
+      "Dater le délai d'option",
+      "Fixez une date et une heure limites d'acceptation et le mode de réponse (courriel, remise en main propre, recommandé), puis ajoutez si besoin une condition suspensive objective."
+    ],
+    [
+      "Préparer l'embauche après acceptation",
+      "Une fois l'acceptation reçue, rédigez le contrat de travail aux mêmes conditions, effectuez la déclaration préalable à l'embauche et réunissez les documents du salarié."
+    ]
+  ],
+  "faq": [
+    [
+      "Une promesse d'embauche envoyée par courriel est-elle valable ?",
+      "Oui. La loi n'impose aucune forme particulière : un courriel qui précise l'emploi, la rémunération et la date d'entrée en fonction peut valoir offre ou promesse. Conservez le message et la réponse du candidat, car c'est la preuve de l'engagement."
+    ],
+    [
+      "L'employeur peut-il retirer une promesse d'embauche ?",
+      "Tout dépend de l'acte signé. Une offre peut être retirée tant que le candidat ne l'a pas reçue ; retirée pendant le délai de réponse, elle peut coûter des dommages-intérêts. Une promesse unilatérale ne peut pas être retirée utilement pendant le délai d'option : si le candidat accepte à temps, le contrat de travail est formé."
+    ],
+    [
+      "Quelles indemnités en cas de rupture d'une promesse d'embauche acceptée ?",
+      "Le contrat de travail étant formé, la rupture sans motif est en principe traitée comme un licenciement sans cause réelle et sérieuse. Le salarié peut obtenir des dommages-intérêts, éventuellement une indemnité de préavis selon sa convention collective, et réparation d'un préjudice distinct. Le montant dépend surtout de l'ancienneté et de la taille de l'entreprise."
+    ],
+    [
+      "Le candidat peut-il refuser après avoir accepté la promesse ?",
+      "Il le peut, mais il rompt alors un contrat de travail déjà conclu, ce qui s'analyse en principe comme une démission. L'employeur ne peut obtenir réparation que s'il prouve un préjudice et un comportement fautif. Une pénalité fixée à l'avance dans la promesse ne serait pas valable."
+    ],
+    [
+      "Faut-il signer un contrat de travail en plus de la promesse ?",
+      "Oui, c'est recommandé dans tous les cas et obligatoire pour un CDD ou un temps partiel, qui exigent un écrit avec des mentions précises. Le contrat doit reprendre les conditions promises. Il est en général signé au plus tard le premier jour de travail."
+    ],
+    [
+      "Peut-on prévoir une période d'essai dans une promesse d'embauche ?",
+      "Oui, et c'est conseillé. Le Code du travail prévoit que la période d'essai ne se présume pas : elle doit être écrite dans la lettre d'engagement ou le contrat. Sa durée maximale dépend de la catégorie du salarié et de la convention collective."
+    ],
+    [
+      "Quel délai de réponse laisser au candidat ?",
+      "La loi ne fixe pas de durée. Un délai de quelques jours à deux semaines est courant. Indiquez une date et une heure précises : sans délai écrit, le juge appréciera après coup ce qu'était un délai raisonnable."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1113 à 1122 (offre et acceptation) et 1124 (promesse unilatérale), article 1304-2 (condition potestative)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code du travail, articles L. 1221-1 et suivants (formation du contrat, déclaration préalable à l'embauche), L. 1221-19 et suivants (période d'essai), L. 1132-1 (non-discrimination)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "promesse-embauche"
+  }
+}
