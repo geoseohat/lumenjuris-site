@@ -1,0 +1,45 @@
+# Guides de revue contractuelle : un sujet par ligne, traité dans l'ordre (routine-revue-contrat).
+# Le texte de la ligne devient le nom du guide et son adresse : écrivez-le comme une vraie recherche Google.
+# Ne mettez pas « analyse de contrat », « revue de contrat » ou « relecture de contrat » seuls :
+# c'est la recherche visée par la page /revision-contractuelle-ia/ elle-même.
+# Les lignes traitées sont cochées automatiquement : [x] date sujet -> adresse ou raison.
+clause limitative de responsabilité
+clause pénale
+clause résolutoire
+clause de non-concurrence
+clause abusive entre professionnels
+clause de force majeure
+clause d'imprévision
+clause de reconduction tacite
+clause de résiliation anticipée
+clause d'exclusivité
+clause de réserve de propriété
+clause attributive de juridiction
+clause de confidentialité
+clause de dédit-formation
+clause de mobilité
+clause d'indexation
+clause de garantie d'actif et de passif
+clause de propriété intellectuelle
+clause de non-sollicitation
+clause d'agrément
+vérifier un bail commercial avant de signer
+vérifier un contrat de travail avant de signer
+relire des conditions générales de vente
+vérifier un contrat de prestation de services
+vérifier un contrat de sous-traitance
+relire un pacte d'associés
+vérifier un bail d'habitation
+vérifier un contrat de franchise
+relire un accord de confidentialité
+vérifier un contrat de distribution
+vérifier une promesse de vente immobilière
+relire des conditions générales d'utilisation
+vérifier un contrat de licence de logiciel
+vérifier un contrat d'agent commercial
+vérifier un contrat de location-gérance
+relire une rupture conventionnelle
+vérifier un contrat de cession de parts sociales
+vérifier un devis avant de le signer
+déséquilibre significatif
+pénalités de retard entre professionnels

@@ -59,6 +59,8 @@ INTERDITS = [
     (r"100 ?% (conforme|legal|valable|securise|fiable)|conforme a 100|sans aucun risque|zero risque",
      "promesse absolue de conformité (interdite)"),
     (r"(garanti|garantie|garantis) (conforme|valable|sans risque|juridiquement)", "garantie juridique (interdite)"),
+    (r"(detecte|repere|identifie|trouve)n?t? (toutes|tous) les (clauses|risques|erreurs|pieges|problemes|anomalies)",
+     "promesse absolue sur l'analyse (aucun outil ne repère tout)"),
 ]
 A_SURVEILLER = [
     (r"\b(le|la|les) meilleure?s?\b|\bleader\b", "superlatif : vérifiez qu'il ne s'agit pas d'une promesse commerciale"),
@@ -123,24 +125,27 @@ def chiffres(s):
     return sorted({m.group(0).strip() for m in re.finditer(motif, s)})
 
 
-def controler(dossier, autres_dossiers):
-    """Renvoie (erreurs, avertissements, a_relire)."""
+def controler(dossier, autres_dossiers, genre="modele"):
+    """Renvoie (erreurs, avertissements, a_relire).
+    genre « revue » : guide de revue contractuelle (grille.txt, bouton « Analyser »)."""
     err, av, relire = [], [], []
+    revue = genre == "revue"
+    nom_texte = "grille.txt" if revue else "modele.txt"
     f, propre = corpus(dossier)
     article = (dossier / "article.html").read_text(encoding="utf-8")
-    modele = (dossier / "modele.txt").read_text(encoding="utf-8")
+    modele = (dossier / nom_texte).read_text(encoding="utf-8")
     fiche_txt = (dossier / "fiche.json").read_text(encoding="utf-8")
     valide = bool(f.get("relecture", {}).get("valide"))
 
     # Restes du gabarit
-    for nom, contenu in (("fiche.json", fiche_txt), ("article.html", article), ("modele.txt", modele)):
+    for nom, contenu in (("fiche.json", fiche_txt), ("article.html", article), (nom_texte, modele)):
         if A_COMPLETER in contenu or "TODO" in contenu:
             err.append(f"{nom} : il reste des « {A_COMPLETER} » ou « TODO »")
 
     # Fiche : champs, longueurs SEO
     for cle in ("slug", "nom", "nom_court", "categorie", "mot_cle", "mots_cles_secondaires", "titre_h1",
                 "titre_seo", "meta_description", "chapo", "fichier_base", "date_publication",
-                "date_mise_a_jour", "relecture", "etapes", "faq", "sources", "personnaliser"):
+                "date_mise_a_jour", "relecture", "etapes", "faq", "sources", "analyser" if revue else "personnaliser"):
         if cle not in f:
             err.append(f"fiche.json : champ « {cle} » manquant")
     ts, md = f.get("titre_seo", ""), f.get("meta_description", "")
@@ -154,7 +159,7 @@ def controler(dossier, autres_dossiers):
         av.append(f"meta_description courte ({len(md)} caractères, 120 à 160 conseillés)")
     if not 120 <= len(f.get("chapo", "")) <= 450:
         av.append(f"chapô : {len(f.get('chapo', ''))} caractères (120 à 450 conseillés)")
-    if not f.get("mot_cle", "").lower().startswith("modèle"):
+    if not revue and not f.get("mot_cle", "").lower().startswith("modèle"):
         av.append("mot_cle : commence normalement par « modèle … »")
     annees = re.findall(r"\b20\d\d\b", ts)
     if annees and annees[0] != f.get("date_mise_a_jour", "")[:4]:
@@ -222,19 +227,29 @@ def controler(dossier, autres_dossiers):
         if densite > 12:
             av.append(f"« {f.get('nom_court')} » répété {densite:.0f} fois pour 1000 mots : variez (bourrage de mots-clés)")
 
-    # Modèle de contrat
+    # Modèle de contrat (ou grille de revue)
     lignes = [l for l in modele.splitlines() if l.strip()]
-    if not lignes or not lignes[0].startswith("# "):
-        err.append("modele.txt : la première ligne doit être le titre (« # … »)")
-    if sum(1 for l in lignes if l.startswith("## ")) < 6:
-        err.append("modele.txt : moins de 6 articles (« ## … »)")
-    if not any(l.startswith("> ") for l in lignes):
-        av.append("modele.txt : aucune note de rédaction (« > … »)")
+    if revue:
+        if not lignes or not lignes[0].startswith("# "):
+            err.append("grille.txt : la première ligne doit être le titre (« # … »)")
+        if sum(1 for l in lignes if l.startswith("## ")) < 5:
+            err.append("grille.txt : moins de 5 rubriques (« ## … »)")
+        if sum(1 for l in lignes if l.startswith("- ")) < 20:
+            err.append("grille.txt : moins de 20 points de contrôle (« - … »)")
+        if not any(l.startswith("> ") for l in lignes):
+            av.append("grille.txt : aucune note (« > … »)")
+    else:
+        if not lignes or not lignes[0].startswith("# "):
+            err.append("modele.txt : la première ligne doit être le titre (« # … »)")
+        if sum(1 for l in lignes if l.startswith("## ")) < 6:
+            err.append("modele.txt : moins de 6 articles (« ## … »)")
+        if not any(l.startswith("> ") for l in lignes):
+            av.append("modele.txt : aucune note de rédaction (« > … »)")
+        if "signature" not in modele.lower():
+            av.append("modele.txt : pas de bloc de signature")
     for l in lignes:
         if l.count("[") != l.count("]"):
-            av.append(f"modele.txt : crochets déséquilibrés : « {l[:70]} »")
-    if "signature" not in modele.lower():
-        av.append("modele.txt : pas de bloc de signature")
+            av.append(f"{nom_texte} : crochets déséquilibrés : « {l[:70]} »")
 
     # Mots et affirmations interdits
     partout = sans_accents(f"{fiche_txt} {texte(article)} {modele}")

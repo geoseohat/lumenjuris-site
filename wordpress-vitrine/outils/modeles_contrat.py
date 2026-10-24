@@ -127,6 +127,8 @@ def ecrire_etat(etat):
 # Bouton « Personnaliser » : formulaire de génération de l'application, pré-réglé sur le
 # modèle. `doc` = nom du contrat sans article ni préposition (ex. « pacte-associes »).
 APP_GENERATION = "https://app.lumenjuris.com/contrat-generation?section=scratch&titre={}&de=hub"
+# Fichier texte du document téléchargeable (revues_contrat.py le remplace par grille.txt).
+TEXTE = "modele.txt"
 MOTS_VIDES = {"de", "d", "du", "des", "la", "le", "les", "l", "a", "au", "aux", "et", "en", "pour", "sur", "un", "une"}
 
 
@@ -160,7 +162,7 @@ def blocs_modele(slug):
             blocs.append(("p", " ".join(para)))
             para.clear()
 
-    for ligne in (DOSSIER / slug / "modele.txt").read_text(encoding="utf-8").splitlines():
+    for ligne in (DOSSIER / slug / TEXTE).read_text(encoding="utf-8").splitlines():
         l = ligne.strip()
         if not l:
             fin_para()
@@ -222,7 +224,7 @@ def construire_docx(f, blocs, chemin):
         s.left_margin = s.right_margin = Cm(2.3)
         s.top_margin = s.bottom_margin = Cm(2)
         pied = s.footer.paragraphs[0]
-        pied.text = f"Modèle Lumen Juris – {f['url']}"
+        pied.text = f"{f.get('pied_document', 'Modèle Lumen Juris')} – {f['url']}"
         pied.runs[0].font.size = Pt(8)
         pied.runs[0].font.color.rgb = RGBColor(0x83, 0x81, 0x81)
     style = doc.styles["Normal"]
@@ -257,14 +259,14 @@ def construire_docx(f, blocs, chemin):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             remplir(p, txt)
-    doc.core_properties.title = f"Modèle {de(f['nom_court'])}"
+    doc.core_properties.title = f.get("titre_document") or f"Modèle {de(f['nom_court'])}"
     doc.core_properties.author = "Lumen Juris"
     doc.save(chemin)
 
 
 def construire_pdf(f, blocs, chemin):
     page = f"""<!doctype html><html lang="fr"><meta charset="utf-8">
-<title>Modèle {e(de(f['nom_court']))} – Lumen Juris</title>
+<title>{e(f.get("titre_document") or "Modèle " + de(f['nom_court']))} – Lumen Juris</title>
 <style>
 @page {{ size: A4; margin: 20mm 22mm; }}
 body {{ font: 10.5pt/1.55 Calibri, Arial, sans-serif; color: #111; }}
@@ -277,7 +279,7 @@ mark {{ background: #FFF3A3; }}
 .pied {{ margin-top: 24pt; font-size: 8pt; color: #838181; }}
 </style>
 {modele_html(blocs)}
-<p class="pied">Modèle Lumen Juris – {e(f['url'])}</p></html>"""
+<p class="pied">{e(f.get('pied_document', 'Modèle Lumen Juris'))} – {e(f['url'])}</p></html>"""
     source = chemin.with_suffix(".imprimer.html")
     source.write_text(page, encoding="utf-8")
     # Profil séparé : sinon Edge, s'il est déjà ouvert, confie la tâche à la
@@ -637,8 +639,8 @@ h1{{font-size:58px;line-height:1.1;margin:0 0 26px}}
 .f i{{display:block;height:10px;border-radius:5px;background:#E5E7EB;margin:0 0 13px}}
 .f i.j{{background:#FFF3A3;width:55%}}.f i.c{{width:80%}}.f b{{display:block;height:12px;width:45%;background:#354F99;
  border-radius:6px;margin:22px 0 14px;opacity:.8}}
-</style><body><div class="g"><p class="m">Modèle de contrat gratuit</p><h1>{e(f['nom'])}</h1>
-<div class="b"><span>Word</span><span>PDF</span><span>Personnalisable</span></div></div>
+</style><body><div class="g"><p class="m">{e(f.get('image_surtitre', 'Modèle de contrat gratuit'))}</p><h1>{e(f['nom'])}</h1>
+<div class="b">{"".join(f"<span>{e(b)}</span>" for b in f.get('image_badges', ['Word', 'PDF', 'Personnalisable']))}</div></div>
 <div class="f"><p>{e(f['nom'].upper())}</p><i></i><i class="j"></i><i class="c"></i><i></i><b></b><i></i><i class="c"></i>
 <i class="j"></i><i></i><b></b><i></i><i class="c"></i><i></i></div>
 <div class="l">Lumen Juris</div></body></html>"""
@@ -847,7 +849,7 @@ def publier(slug, en_ligne=False, sans_relecture=False, forcer=False):
         chemin = sortie / f"{f['fichier_base']}.{k}"
         # Empreinte du texte source : Word et PDF changent à chaque construction
         # (date interne) même quand le contrat est identique.
-        empreinte = hashlib.sha256((DOSSIER / slug / "modele.txt").read_bytes()
+        empreinte = hashlib.sha256((DOSSIER / slug / TEXTE).read_bytes()
                                    + f["url"].encode()).hexdigest()
         if fich.get(k, {}).get("empreinte") != empreinte:
             fich[k] = envoyer_media(chemin)
@@ -858,7 +860,7 @@ def publier(slug, en_ligne=False, sans_relecture=False, forcer=False):
     if em.get("image", {}).get("empreinte") != empreinte:
         em["image"] = envoyer_media(image)
         em["image"]["empreinte"] = empreinte
-        api(f"wp/v2/media/{em['image']['id']}", {"alt_text": f"Modèle {de(f['nom_court'])} gratuit – Lumen Juris"}, "POST")
+        api(f"wp/v2/media/{em['image']['id']}", {"alt_text": f.get("alt_image") or f"Modèle {de(f['nom_court'])} gratuit – Lumen Juris"}, "POST")
         print(f"  image envoyée : {em['image']['url']}")
     ecrire_etat(etat)
 
