@@ -314,27 +314,53 @@
     "avenant-au-contrat-de-travail": {
       "fichiers": {
         "docx": {
-          "id": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o1.id}}",
-          "url": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o1.source_url}}",
+          "id": 3079,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-avenant-au-contrat-de-travail-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "fefc264aebd608481aa4948743508a0b80d6f739c7158fdf84b94fd950b1cb74"
         },
         "pdf": {
-          "id": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o2.id}}",
-          "url": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o2.source_url}}",
+          "id": 3080,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-avenant-au-contrat-de-travail-lumen-juris.pdf",
           "taille": "105 Ko",
           "empreinte": "fefc264aebd608481aa4948743508a0b80d6f739c7158fdf84b94fd950b1cb74"
         }
       },
       "image": {
-        "id": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o3.id}}",
-        "url": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o3.source_url}}",
+        "id": 3081,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-avenant-au-contrat-de-travail-lumen-juris.png",
         "taille": "293 Ko",
         "empreinte": "0edbe99b6c766e17c96f2af1995f395aecfdabf020120c23b257cc54e97e1230"
       },
       "statut": "publish",
-      "id": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o7.id}}",
-      "lien": "{{20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail.o7.link}}",
+      "id": 3082,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/avenant-au-contrat-de-travail/",
+      "gabarit": "2026-10-23"
+    },
+    "rupture-conventionnelle": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o1.id}}",
+          "url": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "a0cb8e41cd7385ddea285b783c7b7d37a3c27251a212a1b7534518bbc6eb831f"
+        },
+        "pdf": {
+          "id": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o2.id}}",
+          "url": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o2.source_url}}",
+          "taille": "104 Ko",
+          "empreinte": "a0cb8e41cd7385ddea285b783c7b7d37a3c27251a212a1b7534518bbc6eb831f"
+        }
+      },
+      "image": {
+        "id": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o3.id}}",
+        "url": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o3.source_url}}",
+        "taille": "289 Ko",
+        "empreinte": "831187835f1c79b17da3139ebfc2a15b9f36cffcd28ab227739d57fe2250f1a7"
+      },
+      "statut": "publish",
+      "id": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o7.id}}",
+      "lien": "{{20261025-081149-publier-en-ligne-rupture-conventionnelle.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -343,6 +369,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261025-080919-publier-en-ligne-avenant-au-contrat-de-travail"
+    "20261025-081149-publier-en-ligne-rupture-conventionnelle"
   ]
 }
