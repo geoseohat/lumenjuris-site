@@ -38,6 +38,7 @@ JOURNAL = DOSSIER / "journal.txt"
 CLE = Path(os.environ.get("GOOGLE_INDEXING_CLE")
            or r"C:\Users\geoff\secrets\google-indexing-lumenjuris.json")
 API = "https://indexing.googleapis.com/v3/urlNotifications:publish"
+METADONNEES = "https://indexing.googleapis.com/v3/urlNotifications/metadata"
 # Google accepte 200 envois par jour pour ce projet.
 QUOTA_JOUR = 200
 # La protection o2switch refuse les robots sans nom de navigateur.
@@ -73,6 +74,17 @@ def noter(ligne):
     print(ligne)
 
 
+def ouvrir_session():
+    scopes = ["https://www.googleapis.com/auth/indexing"]
+    if os.environ.get("GOOGLE_INDEXING_CLE_B64"):
+        # Routine cloud : la clé est rangée dans les variables de l'environnement.
+        info = json.loads(base64.b64decode(os.environ["GOOGLE_INDEXING_CLE_B64"]))
+        cred = service_account.Credentials.from_service_account_info(info, scopes=scopes)
+    else:
+        cred = service_account.Credentials.from_service_account_file(str(CLE), scopes=scopes)
+    return AuthorizedSession(cred)
+
+
 def main():
     essai = "--essai" in sys.argv
     tout = "--tout" in sys.argv
@@ -84,18 +96,15 @@ def main():
         for u in a_envoyer:
             print("  ", u)
         return
+    session = ouvrir_session()
     if not a_envoyer:
-        noter(f"rien à envoyer ({len(pages)} pages, toutes déjà envoyées)")
-        return
+        # Lecture de la fiche Google de l'accueil : prouve que la clé et l'accès
+        # marchent, sans consommer le quota d'envois.
+        r = session.get(METADONNEES, params={"url": f"{SITE}/"}, timeout=30)
+        acces = "accès Google OK" if r.status_code in (200, 404) else f"accès Google en ERREUR {r.status_code}"
+        noter(f"rien à envoyer ({len(pages)} pages, toutes déjà envoyées) ; {acces}")
+        sys.exit(0 if r.status_code in (200, 404) else 1)
 
-    scopes = ["https://www.googleapis.com/auth/indexing"]
-    if os.environ.get("GOOGLE_INDEXING_CLE_B64"):
-        # Routine cloud : la clé est rangée dans les variables de l'environnement.
-        info = json.loads(base64.b64decode(os.environ["GOOGLE_INDEXING_CLE_B64"]))
-        cred = service_account.Credentials.from_service_account_info(info, scopes=scopes)
-    else:
-        cred = service_account.Credentials.from_service_account_file(str(CLE), scopes=scopes)
-    session = AuthorizedSession(cred)
     ok, erreurs = [], []
     for u in a_envoyer[:QUOTA_JOUR]:
         r = session.post(API, json={"url": u, "type": "URL_UPDATED"}, timeout=30)
