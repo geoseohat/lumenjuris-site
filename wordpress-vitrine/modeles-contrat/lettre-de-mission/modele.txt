@@ -1,0 +1,158 @@
+# LETTRE DE MISSION
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. La lettre de mission est rédigée par le professionnel (expert-comptable, consultant, conseil en gestion, en ressources humaines ou en organisation) et adressée au client, qui l'accepte en la signant. Elle se compose d'une lettre, qui décrit la mission et le prix, et de conditions générales, qui fixent les règles de la relation. Pour les professions réglementées, vérifiez les clauses imposées par votre ordre ou votre organisation professionnelle (modèles ordinaux, obligations de vigilance contre le blanchiment, assurance). Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant envoi.
+
+[Nom ou dénomination du professionnel], [forme sociale le cas échéant], [adresse], SIREN [numéro], [le cas échéant : inscrit(e) au tableau de l'ordre de [région] sous le numéro [numéro] / membre de [organisation professionnelle]], représenté(e) par [Prénom Nom], [fonction],
+
+ci-après le « Professionnel »,
+
+À l'attention de :
+
+[Dénomination sociale ou Prénom Nom du client], [forme sociale], [adresse], SIREN [numéro], représenté(e) par [Prénom Nom], [fonction],
+
+ci-après le « Client ».
+
+[Ville], le [date]
+
+Objet : lettre de mission – [intitulé court de la mission]
+
+[Madame / Monsieur],
+
+Vous avez bien voulu nous confier la mission décrite ci-dessous. La présente lettre, avec les conditions générales jointes, en précise l'objet, les conditions et nos engagements réciproques. Nous vous remercions de nous la retourner signée si elle vous convient.
+
+## ARTICLE 1 – CONTEXTE ET BESOINS EXPRIMÉS
+
+Lors de notre entretien du [date], vous nous avez indiqué les éléments suivants : [activité du Client, taille, situation particulière, objectif poursuivi, contraintes de calendrier].
+
+La mission proposée repose sur ces informations. Si elles se révèlent inexactes ou incomplètes, ou si votre situation change, nous vous proposerons d'adapter la mission par avenant.
+
+## ARTICLE 2 – NATURE ET CONTENU DE LA MISSION
+
+Le Professionnel s'engage à réaliser la mission suivante : [nature de la mission, par exemple tenue et présentation des comptes annuels, audit d'organisation, accompagnement d'un recrutement, élaboration d'un plan de financement].
+
+La mission comprend :
+- [tâche 1] ;
+- [tâche 2] ;
+- [tâche 3].
+
+Elle donnera lieu à la remise des documents suivants : [livrables : rapport, comptes annuels, déclarations, tableau de bord, présentation orale], au plus tard le [date ou périodicité].
+
+> Option : missions complémentaires. À votre demande, le Professionnel peut réaliser les missions suivantes, qui feront l'objet d'une proposition et d'un accord écrit distincts : [liste].
+
+## ARTICLE 3 – CE QUE LA MISSION NE COMPREND PAS
+
+Ne font pas partie de la mission, sauf accord écrit complémentaire :
+- [par exemple : la tenue des comptes au jour le jour, le contrôle exhaustif des pièces, la recherche de fraudes, l'établissement des bulletins de paie, la représentation devant l'administration, toute mission de conseil juridique] ;
+- [autre exclusion].
+
+> Note de rédaction : cette liste est essentielle. En cas de litige, le juge regarde d'abord ce que la lettre de mission inclut et exclut pour mesurer l'étendue du devoir de conseil du Professionnel. Une exclusion n'efface pas l'obligation d'alerter le Client sur une anomalie évidente découverte pendant la mission.
+
+## ARTICLE 4 – ENGAGEMENTS DU CLIENT
+
+Le Client s'engage à :
+- communiquer au Professionnel, dans les délais suivants : [calendrier], les documents et informations nécessaires à la mission, à savoir : [liste] ;
+- porter à sa connaissance tout fait important ou exceptionnel, ainsi que les engagements susceptibles d'affecter la mission ;
+- désigner un interlocuteur : [Prénom Nom, fonction, coordonnées] ;
+- confirmer par écrit, si le Professionnel le demande, que les documents et informations transmis sont complets.
+
+Le Professionnel n'est pas responsable des retards ou erreurs résultant d'une information tardive, incomplète ou inexacte du Client.
+
+## ARTICLE 5 – INTERVENANTS ET CALENDRIER
+
+La mission est réalisée par [Prénom Nom, qualité], [avec l'assistance de [Prénom Nom, qualité]]. Le Professionnel peut faire appel à d'autres collaborateurs de son cabinet, sous sa responsabilité.
+
+> Option : le Professionnel peut sous-traiter une partie de la mission, à savoir [partie], à [nom ou catégorie de sous-traitant], après en avoir informé le Client par écrit.
+
+La mission commence le [date] et se déroule selon le calendrier suivant : [étapes et dates].
+
+## ARTICLE 6 – DURÉE
+
+> Option : mission ponctuelle. La mission prend fin à la remise des livrables prévus à l'article 2 et au paiement des honoraires correspondants.
+
+> Option : mission récurrente. La mission est conclue pour [un exercice comptable / une durée de [durée]], du [date] au [date]. Elle est ensuite renouvelée chaque année par tacite reconduction, sauf dénonciation par l'une des parties par lettre recommandée avec avis de réception au moins [trois] mois avant son échéance.
+
+> Note de rédaction : si le Client est un consommateur, le Professionnel doit l'informer par écrit, au plus tôt trois mois et au plus tard un mois avant l'échéance, de sa possibilité de ne pas reconduire la mission (article L. 215-1 du Code de la consommation). À défaut, le Client peut y mettre fin gratuitement à tout moment après la reconduction.
+
+## ARTICLE 7 – HONORAIRES ET FRAIS
+
+> Option : forfait. Les honoraires sont fixés forfaitairement à [montant] euros hors taxes, soit [montant] euros toutes taxes comprises, pour l'ensemble de la mission décrite à l'article 2.
+
+> Option : temps passé. Les honoraires sont calculés selon le temps passé, aux taux horaires suivants : [qualité de l'intervenant : taux] euros hors taxes. Le temps nécessaire est estimé à [nombre] heures, soit un budget de [montant] euros hors taxes. Le Client sera averti par écrit avant tout dépassement de ce budget de plus de [pourcentage] %, et le dépassement ne sera facturé qu'avec son accord.
+
+> Option : abonnement. Les honoraires sont fixés à [montant] euros hors taxes par [mois / trimestre], payables d'avance.
+
+Les frais de déplacement et débours exposés pour la mission sont [inclus / refacturés au coût réel sur justificatifs, après accord préalable du Client au-delà de [montant] euros].
+
+Les honoraires sont révisables chaque année au [date], [selon l'indice [nom de l'indice] / sur proposition écrite du Professionnel adressée au moins [deux] mois avant, que le Client peut refuser en mettant fin à la mission à l'échéance].
+
+Un acompte de [montant ou pourcentage] est demandé à la signature. Le solde est facturé [à la remise des livrables / selon l'échéancier suivant : [échéancier]].
+
+## ARTICLE 8 – ACCEPTATION
+
+Si les termes de la présente lettre et des conditions générales jointes vous conviennent, nous vous remercions de nous en retourner un exemplaire daté et signé. La mission ne commencera qu'à réception de cet exemplaire [et de l'acompte].
+
+Nous vous prions d'agréer, [Madame / Monsieur], l'expression de nos salutations distinguées.
+
+Pour le Professionnel — [Prénom Nom], [fonction], signature
+
+Bon pour accord sur la mission et les conditions générales jointes, le Client — [Prénom Nom], [fonction], date et signature
+
+# CONDITIONS GÉNÉRALES DE LA LETTRE DE MISSION
+
+## ARTICLE 9 – CHAMP D'APPLICATION
+
+Les présentes conditions générales s'appliquent à la mission décrite dans la lettre de mission à laquelle elles sont jointes. En cas de contradiction, la lettre de mission prévaut.
+
+## ARTICLE 10 – OBLIGATIONS DU PROFESSIONNEL
+
+Le Professionnel exécute la mission avec diligence, conformément aux règles de sa profession. Il est tenu d'une obligation de moyens. Il informe le Client de toute difficulté rencontrée et l'alerte sur les irrégularités ou risques qu'il constate dans le cadre de sa mission.
+
+Le Professionnel ne s'immisce pas dans la gestion du Client. Les décisions prises sur la base de ses travaux et recommandations relèvent du Client.
+
+> Option : vigilance. Le Professionnel, soumis aux obligations de lutte contre le blanchiment des capitaux et le financement du terrorisme, identifie le Client et ses bénéficiaires effectifs avant le début de la mission. Le Client s'engage à lui remettre à cette fin [pièce d'identité du dirigeant, extrait d'immatriculation, liste des bénéficiaires effectifs].
+
+## ARTICLE 11 – PAIEMENT ET RETARD
+
+Les factures sont payables à [trente] jours à compter de leur date d'émission, par [virement / prélèvement].
+
+Entre professionnels, tout retard de paiement entraîne de plein droit des pénalités calculées au taux d'intérêt appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+En cas de non-paiement à l'échéance, et après une mise en demeure restée sans effet pendant quinze jours, le Professionnel peut suspendre l'exécution de la mission jusqu'au paiement, en informant le Client des conséquences de cette suspension.
+
+> Note de rédaction : si le Client est un consommateur, supprimez l'indemnité forfaitaire de 40 euros, réservée aux professionnels, et prévoyez seulement des intérêts de retard au taux légal.
+
+## ARTICLE 12 – RESPONSABILITÉ ET ASSURANCE
+
+La responsabilité du Professionnel ne peut être engagée qu'en cas de faute prouvée dans l'exécution de la mission.
+
+> Option : entre professionnels, la responsabilité du Professionnel est limitée, sauf faute lourde ou dolosive, au montant [des honoraires perçus au titre de la mission / de [montant] euros]. Cette limitation ne peut pas priver de sa substance l'obligation essentielle du Professionnel.
+
+Le Professionnel déclare être titulaire d'une assurance de responsabilité civile professionnelle auprès de [assureur], contrat n° [numéro], couvrant [zone et activités].
+
+Toute réclamation du Client doit être adressée au Professionnel par écrit dans un délai de [durée] à compter de la découverte du fait qui la motive.
+
+## ARTICLE 13 – CONFIDENTIALITÉ ET DONNÉES PERSONNELLES
+
+Le Professionnel garde confidentielles les informations reçues du Client, sous réserve des obligations légales de déclaration ou de communication qui s'imposent à lui.
+
+Lorsque la mission implique le traitement de données personnelles pour le compte du Client (données de salariés ou de clients, par exemple), le Professionnel agit en qualité de sous-traitant au sens de l'article 28 du règlement (UE) 2016/679. Il ne traite ces données que sur instruction du Client, en assure la sécurité et la confidentialité, et les restitue ou les supprime en fin de mission. [Une annexe précise l'objet, la durée, la nature des données et les catégories de personnes concernées.]
+
+## ARTICLE 14 – DOCUMENTS ET TRAVAUX
+
+Les documents remis par le Client lui sont restitués à la fin de la mission, sur sa demande. Le Professionnel peut conserver une copie de ses dossiers de travail pour justifier des diligences accomplies.
+
+Les livrables, une fois payés, peuvent être librement utilisés par le Client pour ses besoins propres. Les méthodes, outils et savoir-faire du Professionnel restent sa propriété.
+
+## ARTICLE 15 – FIN ANTICIPÉE DE LA MISSION
+
+Chaque partie peut mettre fin à la mission avant son terme par lettre recommandée avec avis de réception, moyennant un préavis de [durée], et sans préavis en cas de manquement grave de l'autre partie resté sans remède quinze jours après une mise en demeure.
+
+En cas de fin anticipée, les travaux réalisés jusqu'à la date de fin effective sont facturés au prorata. Le Professionnel remet au Client les éléments utiles à la poursuite de la mission par un autre intervenant, et coopère de bonne foi à la transition.
+
+## ARTICLE 16 – RÉCLAMATIONS ET LITIGES
+
+En cas de différend, les parties cherchent d'abord une solution amiable. [Le cas échéant : le Client peut saisir l'instance de conciliation de l'organisation professionnelle dont relève le Professionnel, à savoir [instance].]
+
+> Option : si le Client est un consommateur, il peut recourir gratuitement au médiateur de la consommation suivant : [nom, adresse, site internet], conformément à l'article L. 612-1 du Code de la consommation.
+
+La lettre de mission est soumise au droit français. À défaut d'accord amiable, le litige est porté devant les juridictions compétentes [du lieu du siège du Professionnel, si les deux parties sont commerçantes].

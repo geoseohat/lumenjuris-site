@@ -1,0 +1,106 @@
+{
+  "slug": "lettre-de-mission",
+  "nom": "Lettre de mission",
+  "nom_court": "lettre de mission",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle lettre de mission",
+  "mots_cles_secondaires": [
+    "lettre de mission expert-comptable",
+    "lettre de mission consultant",
+    "exemple de lettre de mission",
+    "lettre de mission conseil",
+    "lettre de mission client",
+    "lettre de mission honoraires"
+  ],
+  "titre_h1": "Modèle de lettre de mission gratuit (Word et PDF)",
+  "titre_seo": "Modèle de lettre de mission gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de lettre de mission gratuit (Word, PDF) pour expert-comptable, consultant ou conseil : périmètre, exclusions, honoraires et conditions générales.",
+  "chapo": "La lettre de mission permet à un professionnel du conseil ou du chiffre de décrire à son client la mission, ses limites et ses honoraires, et de la faire accepter par signature. Cette page fournit une lettre complète avec ses conditions générales et explique comment délimiter la mission et fixer les honoraires.",
+  "public": "Experts-comptables, consultants, professionnels du conseil et leurs clients",
+  "gratuit": true,
+  "fichier_base": "modele-lettre-de-mission-lumen-juris",
+  "date_publication": "2026-10-25",
+  "date_mise_a_jour": "2026-10-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Droit de la consommation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Faire le point avec le client",
+      "Notez lors d'un entretien sa situation, ses objectifs et ses contraintes : ces éléments forment le contexte de la lettre."
+    ],
+    [
+      "Délimiter la mission",
+      "Listez précisément les tâches et les livrables, puis ce que la mission ne comprend pas, afin de borner votre devoir de conseil."
+    ],
+    [
+      "Choisir le mode d'honoraires",
+      "Retenez un forfait, un temps passé avec budget estimé ou un abonnement, et précisez frais, acompte et révision annuelle."
+    ],
+    [
+      "Vérifier les règles de votre profession",
+      "Ajoutez les mentions imposées par votre ordre ou votre organisation, l'assurance de responsabilité civile et, si besoin, l'identification du client."
+    ],
+    [
+      "Faire signer avant de commencer",
+      "Envoyez la lettre et les conditions générales, et attendez l'exemplaire signé, ainsi que l'acompte, avant de démarrer les travaux."
+    ]
+  ],
+  "faq": [
+    [
+      "La lettre de mission est-elle obligatoire ?",
+      "Elle l'est pour les experts-comptables, dont le code de déontologie impose un contrat écrit définissant la mission. Pour les autres professionnels du conseil, aucun texte ne l'exige, mais un écrit reste le seul moyen sûr de prouver l'étendue de la mission et le prix convenu."
+    ],
+    [
+      "Quelle différence entre une lettre de mission et un devis ?",
+      "Le devis liste des tâches et un prix. La lettre de mission va plus loin : elle décrit le contexte, les limites de la mission, les engagements du client et les règles de la relation dans des conditions générales. Elle est mieux adaptée aux prestations de conseil, où le contenu exact du travail est souvent discuté après coup."
+    ],
+    [
+      "Une lettre de mission signée par courriel est-elle valable ?",
+      "Oui. Une acceptation par courriel ou une signature électronique peut suffire, pourvu qu'on puisse identifier le client et prouver qu'il a accepté le document dans sa version finale. Conservez le courriel d'acceptation et le fichier joint."
+    ],
+    [
+      "Faut-il refaire une lettre de mission chaque année ?",
+      "Non, si la mission est prévue avec tacite reconduction et qu'elle ne change pas. En revanche, dès que le contenu, le volume ou les honoraires évoluent, signez un avenant ou une nouvelle lettre, faute de quoi la lettre initiale ne reflète plus la mission réelle."
+    ],
+    [
+      "Le professionnel peut-il arrêter la mission si le client ne paie pas ?",
+      "Oui, si la lettre le prévoit, après une mise en demeure restée sans effet. Il doit prévenir le client des conséquences de l'arrêt, par exemple une déclaration à déposer, et éviter de le laisser sans solution à la veille d'une échéance."
+    ],
+    [
+      "Le client peut-il changer de prestataire en cours de mission ?",
+      "Oui, en respectant le préavis prévu par la lettre de mission. Les travaux déjà réalisés restent dus au prorata, et le professionnel sortant doit remettre les éléments nécessaires à la poursuite du dossier par son successeur."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1101 et suivants (formation du contrat), 1112-1 (devoir d'information), 1170 (clause privant de sa substance l'obligation essentielle), 1231-3 (dommages prévisibles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais de paiement, pénalités de retard et indemnité forfaitaire de recouvrement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, articles L. 111-1 (information précontractuelle), L. 215-1 (reconduction tacite), L. 221-18 (rétractation), L. 612-1 (médiation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "lettre-mission"
+  }
+}
