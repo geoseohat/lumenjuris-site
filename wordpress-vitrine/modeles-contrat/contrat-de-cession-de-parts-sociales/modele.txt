@@ -1,0 +1,138 @@
+# ACTE DE CESSION DE PARTS SOCIALES DE SOCIÉTÉ À RESPONSABILITÉ LIMITÉE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Cet acte constate la vente définitive de parts sociales d'une SARL (ou d'une EURL) par un associé à un acquéreur. Il ne convient pas aux actions de SAS ou de SA, qui se transmettent par ordre de mouvement. Pour une SCI ou une SNC, les règles d'agrément sont différentes (accord de tous les associés, sauf clause contraire des statuts pour la SCI) : adaptez l'article 5. Si les parties ne sont pas encore prêtes à signer la vente définitive (financement, audit en cours), signez d'abord une promesse de cession. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Madame / Monsieur] [Prénom Nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], [situation matrimoniale : célibataire / marié(e) sous le régime de [régime] avec [Prénom Nom] / lié(e) par un pacte civil de solidarité],
+
+[ou, si le cédant est une société : [dénomination sociale], [forme], au capital de [montant] euros, siège [adresse], RCS [ville] [numéro SIREN], représentée par [Prénom Nom], [fonction], dûment habilité(e)],
+
+ci-après le « Cédant »,
+
+ET :
+
+[Madame / Monsieur] [Prénom Nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], [situation matrimoniale],
+
+[ou : [dénomination sociale], [forme], au capital de [montant] euros, siège [adresse], RCS [ville] [numéro SIREN], représentée par [Prénom Nom], [fonction], dûment habilité(e)],
+
+ci-après le « Cessionnaire »,
+
+EN PRÉSENCE DE :
+
+[Dénomination sociale], société à responsabilité limitée au capital de [montant] euros, divisé en [nombre] parts sociales de [valeur nominale] euros chacune, entièrement libérées, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de gérant(e),
+
+ci-après la « Société ».
+
+## ARTICLE 1 – OBJET DE LA CESSION
+
+Le Cédant cède au Cessionnaire, qui accepte, [nombre] parts sociales, numérotées de [numéro] à [numéro], qu'il détient dans le capital de la Société, ci-après les « Parts cédées ». Les Parts cédées représentent [pourcentage] % du capital et des droits de vote de la Société.
+
+Avant la cession, le capital de la Société est réparti comme suit : [nom de chaque associé : nombre de parts].
+
+Après la cession, il sera réparti comme suit : [nom de chaque associé : nombre de parts].
+
+## ARTICLE 2 – ORIGINE DE PROPRIÉTÉ
+
+Le Cédant est propriétaire des Parts cédées pour les avoir [souscrites lors de la constitution de la Société le [date] / acquises de [Prénom Nom] suivant acte du [date], enregistré le [date] au service de l'enregistrement de [ville] / reçues par [succession, donation] le [date]].
+
+## ARTICLE 3 – PRIX ET PAIEMENT
+
+### 3.1 Prix
+
+La cession est consentie et acceptée moyennant le prix de [montant en chiffres] euros ([montant en lettres] euros), soit [montant] euros par part sociale.
+
+> Option : ajustement du prix. Le prix ci-dessus est un prix provisoire, établi sur la base [des comptes arrêtés au [date] / d'une situation comptable au [date]]. Il sera ajusté, à la hausse ou à la baisse, de la différence entre les capitaux propres de la Société au [date de référence] et la somme de [montant] euros, selon les comptes établis par [l'expert-comptable de la Société] au plus tard le [date]. L'éventuel complément ou remboursement sera payé dans les [nombre] jours suivant la remise de ces comptes.
+
+### 3.2 Paiement
+
+> Option : paiement comptant. Le prix est payé ce jour par [virement bancaire / chèque de banque], ce dont le Cédant donne quittance, sous réserve de l'encaissement effectif.
+
+> Option : paiement échelonné. Le Cessionnaire paie ce jour la somme de [montant] euros. Le solde, soit [montant] euros, sera payé en [nombre] échéances de [montant] euros les [dates], [avec / sans] intérêts au taux de [taux] % par an. À défaut de paiement d'une échéance quinze jours après une mise en demeure restée sans effet, le solde du prix deviendra immédiatement exigible.
+
+> Note de rédaction : en cas de paiement échelonné, le Cédant peut demander une garantie (caution bancaire ou personnelle, nantissement des Parts cédées). Sans garantie, il prend le risque de ne jamais être payé.
+
+### 3.3 Compte courant d'associé
+
+> Option : le Cédant est titulaire, dans les livres de la Société, d'un compte courant d'associé créditeur de [montant] euros au [date]. [Ce compte lui sera remboursé par la Société le [date] / Il est cédé au Cessionnaire, qui l'accepte, au prix de [montant] euros, payé dans les conditions de l'article 3.2.]
+
+## ARTICLE 4 – TRANSFERT DE PROPRIÉTÉ ET JOUISSANCE
+
+Le Cessionnaire devient propriétaire des Parts cédées à compter de ce jour, sous réserve de la réalisation de l'agrément prévu à l'article 5 s'il est requis.
+
+Il a droit aux bénéfices [de l'exercice en cours et des exercices suivants / mis en distribution à compter de ce jour]. Les dividendes décidés avant ce jour restent acquis au Cédant.
+
+## ARTICLE 5 – AGRÉMENT DU CESSIONNAIRE
+
+> Option : le Cessionnaire est déjà associé de la Société (ou conjoint, ascendant ou descendant du Cédant), et les statuts ne prévoient pas d'agrément pour ce type de cession. La cession est donc libre.
+
+> Option : le Cessionnaire est un tiers étranger à la Société. Le projet de cession a été notifié à la Société et à chacun des associés le [date] par [lettre recommandée avec avis de réception / acte de commissaire de justice]. Par décision du [date], la collectivité des associés a agréé le Cessionnaire à la majorité des associés représentant au moins la moitié des parts sociales [ou la majorité plus forte prévue par les statuts]. Une copie du procès-verbal est annexée au présent acte.
+
+> Note de rédaction : la Société dispose de trois mois à compter de la dernière notification pour se prononcer ; sans réponse dans ce délai, l'agrément est réputé acquis. En cas de refus, les associés doivent, dans les trois mois du refus, acquérir ou faire acquérir les parts à un prix fixé, à défaut d'accord, par un expert désigné dans les conditions de l'article 1843-4 du Code civil. Vérifiez toujours les statuts, qui peuvent prévoir une majorité plus forte ou un agrément pour les cessions entre associés.
+
+## ARTICLE 6 – CONSENTEMENT DU CONJOINT
+
+> Option : [Prénom Nom], conjoint(e) du Cédant, marié(e) sous un régime de communauté, intervient au présent acte pour donner son consentement à la cession des Parts cédées, qui dépendent de la communauté.
+
+> Option : le Cédant déclare que les Parts cédées sont des biens qui lui sont propres, ou qu'il n'est pas marié sous un régime de communauté.
+
+> Note de rédaction : un époux commun en biens ne peut pas céder seul des parts sociales dépendant de la communauté (article 1424 du Code civil). Sans le consentement du conjoint, la cession peut être annulée à sa demande.
+
+## ARTICLE 7 – DÉCLARATIONS DU CÉDANT
+
+Le Cédant déclare :
+- qu'il a la pleine capacité de céder les Parts cédées et qu'il n'est soumis à aucune procédure collective ;
+- que les Parts cédées sont entièrement libérées et libres de tout nantissement, saisie ou autre droit au profit d'un tiers ;
+- que la Société n'est soumise à aucune procédure de prévention ou collective ;
+- que les comptes du dernier exercice clos, remis au Cessionnaire, sont réguliers et sincères et donnent une image fidèle de la situation de la Société ;
+- qu'il a communiqué au Cessionnaire les informations dont il a connaissance et dont l'importance est déterminante pour le consentement de celui-ci, notamment : [litiges en cours, contrôles fiscaux ou sociaux, contrats importants, dettes].
+
+Le Cessionnaire déclare avoir reçu, avant la signature, les statuts à jour, les comptes des trois derniers exercices [et la situation comptable au [date]], et avoir pu poser toutes questions utiles.
+
+## ARTICLE 8 – GARANTIE D'ACTIF ET DE PASSIF
+
+> Option : le Cédant consent au Cessionnaire une garantie d'actif et de passif, dont les conditions figurent dans une convention signée ce jour et annexée au présent acte.
+
+> Option : les parties conviennent qu'aucune garantie d'actif et de passif n'est consentie. Le Cessionnaire déclare acquérir les Parts cédées en connaissance de la situation de la Société, sous réserve des garanties légales et des déclarations de l'article 7.
+
+> Note de rédaction : sans convention de garantie, le Cessionnaire ne peut, en principe, se retourner contre le Cédant pour une dette de la Société révélée après la cession que s'il prouve un dol ou une fausse déclaration. Pour une cession majoritaire ou de montant important, une garantie d'actif et de passif, plafonnée et limitée dans le temps, est vivement conseillée.
+
+## ARTICLE 9 – GÉRANCE
+
+> Option : le Cédant, gérant de la Société, a présenté sa démission de ses fonctions, avec effet au [date]. [Prénom Nom] a été nommé(e) gérant(e) par décision des associés du [date].
+
+> Option : la cession n'entraîne aucun changement dans la gérance de la Société.
+
+## ARTICLE 10 – NON-CONCURRENCE DU CÉDANT
+
+> Option : pendant une durée de [nombre, en général deux à cinq] ans à compter de ce jour, et dans la zone suivante : [zone précise], le Cédant s'interdit d'exercer, directement ou par personne interposée, une activité concurrente de celle de la Société, à savoir [activité précise], et de démarcher sa clientèle. Cet engagement est justifié par la protection de la valeur des Parts cédées, dont il est une condition du prix.
+
+> Note de rédaction : l'interdiction doit rester limitée dans le temps, dans l'espace et quant à l'activité visée, et proportionnée aux intérêts de la Société. Si le Cédant est aussi salarié de la Société, une clause de non-concurrence liée à son contrat de travail doit en outre prévoir une contrepartie financière.
+
+## ARTICLE 11 – FORMALITÉS ET FRAIS
+
+La présente cession sera rendue opposable à la Société par la remise d'un original du présent acte au siège social, contre remise par le gérant d'une attestation de ce dépôt, ou par signification par commissaire de justice. La Société, partie au présent acte, en prend acte dès sa signature.
+
+Le gérant procédera à la modification de l'article des statuts relatif à la répartition du capital et au dépôt de l'acte et des statuts mis à jour au registre du commerce et des sociétés, par le guichet unique des formalités des entreprises, pour rendre la cession opposable aux tiers.
+
+Le présent acte sera présenté à l'enregistrement auprès du service compétent dans le mois de sa date. Les droits d'enregistrement et les frais du présent acte sont à la charge du [Cessionnaire], sauf accord contraire.
+
+Le Cédant fera son affaire personnelle de la déclaration et de l'imposition de la plus-value éventuellement réalisée.
+
+## ARTICLE 12 – LITIGES
+
+Le présent acte est soumis au droit français. En cas de différend sur son interprétation ou son exécution, les parties rechercheront une solution amiable pendant trente jours avant toute action. À défaut, le litige sera porté devant le tribunal [de commerce ou des activités économiques / judiciaire] du lieu du siège de la Société.
+
+> Note de rédaction : choisissez le tribunal des activités économiques ou de commerce si toutes les parties sont commerçants ou sociétés commerciales ; si le Cédant ou le Cessionnaire est une personne physique non commerçante, une clause attribuant compétence à un tribunal autre que celui prévu par la loi ne lui est pas opposable.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux : un pour chaque partie, un pour le dépôt au siège, un pour l'enregistrement et un pour le registre du commerce et des sociétés.
+
+Le Cédant — [Prénom Nom], signature précédée de la mention « Bon pour cession de [nombre] parts sociales »
+
+Le Cessionnaire — [Prénom Nom], signature précédée de la mention « Bon pour acceptation de la cession de [nombre] parts sociales »
+
+Le conjoint du Cédant, le cas échéant — [Prénom Nom], signature précédée de la mention « Bon pour consentement à la cession »
+
+Pour la Société — [Prénom Nom], gérant(e), signature précédée de la mention « Bon pour acceptation de la signification de la cession »
+
+ANNEXES : procès-verbal d'agrément (le cas échéant) ; statuts à jour ; derniers comptes annuels ; convention de garantie d'actif et de passif (le cas échéant) ; état des nantissements et inscriptions (le cas échéant).

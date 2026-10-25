@@ -1,0 +1,107 @@
+{
+  "slug": "contrat-de-cession-de-parts-sociales",
+  "nom": "Contrat de cession de parts sociales",
+  "nom_court": "contrat de cession de parts sociales",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de cession de parts sociales",
+  "mots_cles_secondaires": [
+    "acte de cession de parts sociales",
+    "cession de parts sociales SARL",
+    "cession de parts sociales EURL",
+    "contrat de vente de parts sociales",
+    "agrément cession de parts sociales",
+    "droits d'enregistrement cession de parts sociales",
+    "formalités cession de parts sociales"
+  ],
+  "titre_h1": "Modèle de contrat de cession de parts sociales gratuit (Word et PDF)",
+  "titre_seo": "Modèle de cession de parts sociales gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle d'acte de cession de parts sociales de SARL gratuit (Word, PDF) : agrément, prix, garantie, droits d'enregistrement et formalités après signature.",
+  "chapo": "L'acte de cession de parts sociales constate la vente des parts d'un associé de SARL ou d'EURL à un nouvel associé ou à un associé existant. Cette page fournit un acte complet à options et explique l'agrément, le calcul des droits d'enregistrement et les formalités qui rendent la vente opposable.",
+  "public": "Associés de SARL et d'EURL, acquéreurs de parts",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-cession-de-parts-sociales-lumen-juris",
+  "date_publication": "2026-10-25",
+  "date_mise_a_jour": "2026-10-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit fiscal",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Lire les statuts",
+      "Repérez les clauses d'agrément, de préemption ou d'inaliénabilité, qui peuvent viser aussi les cessions entre associés ou au profit de la famille."
+    ],
+    [
+      "Obtenir l'agrément si besoin",
+      "Si l'acquéreur est extérieur, notifiez le projet à la société et à chaque associé, puis faites voter l'agrément à la majorité requise."
+    ],
+    [
+      "Fixer le prix et ses garanties",
+      "Arrêtez le prix sur des comptes récents, prévoyez un ajustement si besoin, et décidez du sort du compte courant et d'une garantie d'actif et de passif."
+    ],
+    [
+      "Signer avec le conjoint et la société",
+      "Faites intervenir le conjoint commun en biens et le gérant pour la société, et préparez un original par formalité."
+    ],
+    [
+      "Enregistrer et déposer",
+      "Dans le mois, faites enregistrer l'acte, puis mettez à jour les statuts et déposez l'ensemble au registre du commerce par le guichet unique."
+    ]
+  ],
+  "faq": [
+    [
+      "Faut-il passer devant un notaire pour céder des parts sociales ?",
+      "Non. Un acte sous signature privée suffit, à condition qu'il soit écrit et signé par les parties. Le recours à un notaire peut être utile si la société détient des immeubles ou si les parties veulent un acte authentique, mais ce n'est pas obligatoire."
+    ],
+    [
+      "Qui paie les droits d'enregistrement d'une cession de parts ?",
+      "La loi met les droits à la charge de l'acquéreur, sauf accord contraire des parties. Pour des parts de SARL, ils sont de 3 % du prix, après un abattement de 23 000 euros réparti entre toutes les parts de la société."
+    ],
+    [
+      "Peut-on céder des parts sociales pour un euro symbolique ?",
+      "C'est possible si la société a une valeur nulle ou négative, par exemple en cas de pertes importantes, et que ce prix correspond à la réalité. Si les parts ont une vraie valeur, un prix symbolique peut être requalifié en donation par l'administration fiscale."
+    ],
+    [
+      "Combien de temps prend une cession de parts sociales de SARL ?",
+      "Entre associés et sans agrément, quelques jours suffisent pour signer et enregistrer. Avec un acquéreur extérieur, il faut compter jusqu'à trois mois pour la réponse de la société, plus les délais de formalités au registre du commerce."
+    ],
+    [
+      "Le cédant reste-t-il responsable des dettes de la SARL après la vente ?",
+      "En principe non : les dettes appartiennent à la société, pas aux associés. Le cédant reste tenu de ses engagements personnels, comme une caution donnée à la banque de la société, et de la garantie d'actif et de passif s'il en a consenti une. Pensez à négocier la levée de vos cautions."
+    ],
+    [
+      "Le gérant peut-il céder ses parts et rester gérant ?",
+      "Oui, la qualité d'associé et la fonction de gérant sont distinctes dans une SARL. Le gérant qui vend toutes ses parts peut rester en fonction si les associés le souhaitent, ou démissionner, ce que l'acte peut prévoir."
+    ],
+    [
+      "Que se passe-t-il si les associés refusent l'agrément ?",
+      "Ils doivent, dans les trois mois du refus, acheter ou faire acheter les parts, ou faire racheter les parts par la société avec réduction du capital. Le prix est fixé à l'amiable ou, à défaut, par un expert. Si rien n'est fait dans le délai, le vendeur peut en principe conclure la vente initiale."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 221-14 (écrit et opposabilité de la cession), L. 223-13 à L. 223-17 (cession de parts sociales de SARL et agrément)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1424 (consentement du conjoint), 1690 (signification de la cession), 1843-4 (prix fixé par expert), 1861 (cession de parts de société civile)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, articles 635 (délai d'enregistrement) et 726 (droits sur les cessions de droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-cession-parts-sociales"
+  }
+}
