@@ -1,0 +1,102 @@
+{
+  "slug": "avenant-au-contrat-de-travail",
+  "nom": "Avenant au contrat de travail",
+  "nom_court": "avenant au contrat de travail",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle avenant au contrat de travail",
+  "mots_cles_secondaires": [
+    "avenant contrat de travail",
+    "avenant au contrat de travail temps partiel",
+    "avenant contrat de travail augmentation de salaire",
+    "avenant changement de poste",
+    "avenant modification du contrat de travail",
+    "refus avenant contrat de travail",
+    "avenant complément d'heures"
+  ],
+  "titre_h1": "Modèle d'avenant au contrat de travail gratuit (Word et PDF)",
+  "titre_seo": "Modèle d'avenant au contrat de travail gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle d'avenant au contrat de travail gratuit (Word, PDF) : promotion, salaire, temps partiel, lieu, télétravail. Règles d'accord du salarié et pièges.",
+  "chapo": "L'avenant au contrat de travail permet de modifier une clause du contrat en cours, comme le poste, le salaire, la durée du travail ou le lieu d'exercice, avec l'accord écrit du salarié. Cette page fournit un modèle à options et explique quand l'avenant est obligatoire et comment le faire accepter dans les règles.",
+  "public": "Employeurs et salariés",
+  "gratuit": true,
+  "fichier_base": "modele-avenant-au-contrat-de-travail-lumen-juris",
+  "date_publication": "2026-10-25",
+  "date_mise_a_jour": "2026-10-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Qualifier le changement",
+      "Vérifiez s'il s'agit d'une modification du contrat (salaire, durée, fonctions, lieu hors secteur) qui exige l'accord du salarié, ou d'un simple changement des conditions de travail."
+    ],
+    [
+      "Vérifier le motif",
+      "Si la modification est proposée pour une raison économique, envoyez d'abord la proposition par lettre recommandée et laissez au salarié un mois pour refuser."
+    ],
+    [
+      "Choisir les options",
+      "Conservez uniquement les clauses modifiées (emploi, rémunération, temps de travail, lieu, télétravail) et supprimez les autres options du modèle."
+    ],
+    [
+      "Contrôler la convention collective",
+      "Regardez si votre convention ou un accord d'entreprise impose des règles plus favorables : classification, temps partiel, forfait jours, mobilité, frais."
+    ],
+    [
+      "Laisser un délai de réflexion",
+      "Remettez le projet au salarié, laissez-lui le temps de le lire, puis signez en deux exemplaires avec la mention « bon pour accord »."
+    ]
+  ],
+  "faq": [
+    [
+      "Un salarié peut-il refuser de signer un avenant ?",
+      "Oui. Le salarié est libre de refuser une modification de son contrat, et ce refus n'est pas une faute. L'employeur doit alors maintenir les conditions initiales ou, s'il ne le peut pas, engager une procédure de licenciement dont le motif ne peut pas être le refus lui-même."
+    ],
+    [
+      "Faut-il un avenant pour une augmentation de salaire ?",
+      "La loi ne l'impose pas pour une simple hausse du salaire de base, qui figure sur le bulletin de paie. Un avenant reste conseillé dès que l'augmentation s'accompagne d'un changement de poste, de classification ou de mode de calcul de la rémunération variable."
+    ],
+    [
+      "Le silence du salarié vaut-il acceptation de l'avenant ?",
+      "Non, sauf dans la procédure de modification pour motif économique : le salarié qui ne répond pas dans le délai d'un mois est alors réputé avoir accepté. Dans tous les autres cas, continuer à travailler aux nouvelles conditions ne prouve pas l'accord."
+    ],
+    [
+      "Peut-on prévoir une période d'essai dans un avenant ?",
+      "Non, un salarié déjà en poste ne peut pas être soumis à une nouvelle période d'essai. En cas de promotion, l'avenant peut prévoir une période probatoire : si elle n'est pas concluante, le salarié retrouve son ancien poste et son ancien salaire."
+    ],
+    [
+      "Combien d'avenants de complément d'heures par an pour un temps partiel ?",
+      "Huit avenants au plus par an et par salarié, et seulement si la convention ou l'accord de branche étendu le prévoit. Les avenants conclus pour remplacer un salarié absent nommément désigné ne sont pas comptés dans cette limite."
+    ],
+    [
+      "Un avenant peut-il être temporaire ?",
+      "Oui. Il suffit de prévoir une date de fin, à laquelle les anciennes clauses s'appliquent de nouveau automatiquement. C'est courant pour un temps partiel pendant une période familiale ou une mission ponctuelle dans un autre établissement."
+    ],
+    [
+      "L'avenant peut-il être signé électroniquement ?",
+      "Oui, une signature électronique fiable a la même valeur qu'une signature manuscrite. L'employeur doit pouvoir prouver l'identité du salarié et l'intégrité du document signé, et lui en remettre une copie."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1221-1 (règles du contrat de travail), L. 1222-6 (modification pour motif économique), L. 1222-9 et suivants (télétravail), L. 2254-2 (accord de performance collective), L. 3121-53 et suivants (forfaits), L. 3123-1 et suivants (temps partiel, dont L. 3123-22 pour le complément d'heures)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, articles 1103 et 1193 (force obligatoire du contrat et modification par consentement mutuel), 1366 et 1367 (écrit et signature électroniques)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "avenant-contrat-travail"
+  }
+}

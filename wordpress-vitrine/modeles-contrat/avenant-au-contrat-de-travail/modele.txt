@@ -1,0 +1,107 @@
+# AVENANT AU CONTRAT DE TRAVAIL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Cet avenant modifie un ou plusieurs éléments du contrat de travail en cours. Il n'est valable que si le salarié l'accepte librement et le signe : une modification du contrat ne peut jamais lui être imposée. Si le changement relève du simple pouvoir de direction de l'employeur (nouvelles tâches de même qualification, horaires dans la même journée, lieu de travail dans le même secteur géographique), un avenant n'est pas nécessaire, mais il peut servir de preuve. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e),
+
+ci-après l'« Employeur »,
+
+ET :
+
+[Madame / Monsieur] [Prénom Nom], né(e) le [date] à [lieu], demeurant [adresse], numéro de sécurité sociale [numéro],
+
+ci-après le « Salarié ».
+
+## ARTICLE 1 – CONTRAT MODIFIÉ ET CONTEXTE
+
+Le Salarié est employé par l'Employeur depuis le [date d'embauche] en vertu d'un contrat de travail à durée [indéterminée / déterminée] signé le [date], en qualité de [emploi actuel], [statut : ouvrier / employé / agent de maîtrise / cadre], [position, niveau ou coefficient] de la convention collective [intitulé et numéro IDCC], ci-après le « Contrat ».
+
+[Le cas échéant : ce Contrat a déjà été modifié par avenant(s) du [date(s)].]
+
+Le présent avenant est conclu à l'initiative de [l'Employeur / du Salarié], pour la raison suivante : [promotion, demande de passage à temps partiel, changement d'établissement, mise en place du télétravail, autre motif].
+
+> Note de rédaction : si la modification est proposée pour un motif économique (difficultés économiques, mutations technologiques, réorganisation nécessaire à la sauvegarde de la compétitivité, cessation d'activité), l'Employeur doit d'abord adresser la proposition au Salarié par lettre recommandée avec avis de réception, en lui indiquant qu'il dispose d'un mois pour refuser (quinze jours en cas de redressement ou de liquidation judiciaire), conformément à l'article L. 1222-6 du Code du travail. Ne faites signer l'avenant qu'après cette étape, ou après acceptation expresse.
+
+## ARTICLE 2 – OBJET DE L'AVENANT
+
+Le présent avenant a pour objet de modifier les clauses du Contrat énumérées ci-dessous. Seules les options retenues s'appliquent ; les autres sont à supprimer.
+
+### 2.1 Emploi et qualification
+
+> Option : à compter du [date], le Salarié occupe l'emploi de [nouvel emploi], [statut], [position, niveau ou coefficient] de la convention collective. Ses principales missions sont : [liste des missions]. Il est rattaché à [fonction du supérieur hiérarchique].
+
+> Option : période probatoire. Le Salarié exerce ses nouvelles fonctions pendant une période probatoire de [durée] à compter du [date]. Si l'une ou l'autre des parties met fin à cette période probatoire, le Salarié retrouve son emploi précédent, ou un emploi équivalent, aux conditions de rémunération antérieures, sans que le Contrat soit rompu.
+
+> Note de rédaction : une nouvelle période d'essai ne peut pas être imposée à un salarié déjà en poste. En cas de changement de fonctions, seule une période probatoire, acceptée par écrit, est possible, et son échec ramène le salarié à son poste d'origine.
+
+### 2.2 Rémunération
+
+> Option : à compter du [date], la rémunération mensuelle brute de base du Salarié est portée de [ancien montant] euros à [nouveau montant] euros pour [durée du travail]. [Le cas échéant : la part variable est fixée selon les modalités de l'annexe 1, avec des objectifs réalisables communiqués au Salarié en début de période.]
+
+### 2.3 Durée et horaires de travail
+
+> Option : passage à temps partiel. À compter du [date], la durée du travail du Salarié est fixée à [nombre] heures par [semaine / mois], réparties comme suit : [jours et horaires, ou répartition entre les semaines du mois]. Cette répartition peut être modifiée dans les cas suivants : [cas précis], moyennant un délai de prévenance d'au moins [nombre, sept jours ouvrés sauf accord collectif] jours. Les heures complémentaires sont limitées à [un dixième / jusqu'à un tiers si un accord collectif le permet] de la durée prévue et ne peuvent porter la durée du travail au niveau de la durée légale. La rémunération est fixée à [montant] euros bruts par mois.
+
+> Note de rédaction : sauf dérogation prévue par un accord collectif, la durée d'un temps partiel ne peut être inférieure à 24 heures par semaine, sauf demande écrite et motivée du Salarié (contraintes personnelles ou cumul d'activités). Joignez cette demande à l'avenant si vous fixez une durée inférieure.
+
+> Option : complément d'heures temporaire. Pour la période du [date] au [date], et pour le motif suivant : [remplacement d'un salarié absent nommément désigné, surcroît d'activité], la durée du travail du Salarié à temps partiel est portée à [nombre] heures par semaine, réparties comme suit : [répartition]. À l'issue de cette période, la durée prévue au Contrat s'applique de nouveau.
+
+> Note de rédaction : le complément d'heures par avenant n'est possible que si la convention ou l'accord de branche étendu applicable le prévoit, dans la limite de huit avenants par an et par salarié hors remplacement d'un salarié absent nommément désigné (article L. 3123-22 du Code du travail).
+
+> Option : passage à temps plein. À compter du [date], le Salarié travaille à temps complet, soit [35 heures hebdomadaires / durée applicable], selon l'horaire collectif en vigueur dans l'établissement. Sa rémunération mensuelle brute est portée à [montant] euros.
+
+> Option : convention de forfait annuel en jours. À compter du [date], la durée du travail du Salarié, qui dispose d'une autonomie réelle dans l'organisation de son emploi du temps, est décomptée en jours, dans la limite de [nombre, 218 jours au plus sauf accord collectif] jours travaillés par an, en application de l'accord collectif [intitulé et date]. L'Employeur s'assure régulièrement que la charge de travail est raisonnable et organise chaque année un entretien sur la charge de travail, l'articulation entre activité professionnelle et vie personnelle et la rémunération. Le Salarié bénéficie du droit à la déconnexion selon les modalités suivantes : [modalités].
+
+> Note de rédaction : un forfait en jours n'est valable que si un accord collectif l'autorise et organise le suivi de la charge de travail. Sans cet accord, ou si le suivi n'est pas réalisé, le forfait peut être privé d'effet et les heures supplémentaires réclamées.
+
+### 2.4 Lieu de travail
+
+> Option : à compter du [date], le Salarié exerce ses fonctions au sein de l'établissement situé [adresse]. [Le cas échéant : l'Employeur prend en charge les frais suivants liés à ce changement : [frais de déménagement, indemnité, période d'adaptation].]
+
+> Option : clause de mobilité. Le Salarié accepte que son lieu de travail puisse être modifié, dans la zone géographique suivante : [zone précise, par exemple liste des départements ou des établissements], moyennant un délai de prévenance d'au moins [durée] et la prise en charge des frais suivants : [frais].
+
+> Note de rédaction : la zone d'une clause de mobilité doit être définie de façon précise dès la signature. L'Employeur ne peut pas l'étendre seul par la suite, et sa mise en œuvre doit tenir compte de la situation personnelle et familiale du Salarié.
+
+### 2.5 Télétravail
+
+> Option : à compter du [date], le Salarié exerce ses fonctions en télétravail [nombre] jour(s) par semaine, les [jours], depuis [son domicile / autre lieu déclaré]. Il est joignable pendant les plages horaires suivantes : [plages]. L'Employeur fournit [matériel] et prend en charge [frais, allocation forfaitaire]. Chaque partie peut mettre fin au télétravail moyennant un délai de prévenance de [durée] ; le Salarié reprend alors son activité dans les locaux de l'Employeur. Le télétravailleur a les mêmes droits que les salariés travaillant dans les locaux de l'entreprise. [Le cas échéant : ces modalités complètent l'accord collectif ou la charte de l'entreprise relatifs au télétravail.]
+
+### 2.6 Autre modification
+
+> Option : [rédiger ici, de façon précise, toute autre clause modifiée, en reproduisant l'ancienne rédaction puis la nouvelle].
+
+## ARTICLE 3 – DATE D'EFFET ET DURÉE
+
+Le présent avenant prend effet le [date].
+
+> Option : il est conclu pour une durée indéterminée.
+
+> Option : il est conclu pour la période du [date] au [date]. À son terme, les clauses du Contrat dans leur rédaction antérieure s'appliquent de nouveau de plein droit, sans formalité.
+
+## ARTICLE 4 – CLAUSES NON MODIFIÉES
+
+Toutes les clauses du Contrat qui ne sont pas modifiées par le présent avenant restent applicables. L'ancienneté acquise par le Salarié depuis le [date d'embauche] est intégralement conservée.
+
+En cas de contradiction entre le Contrat et le présent avenant, l'avenant prévaut pour les points qu'il traite.
+
+## ARTICLE 5 – CONSENTEMENT DU SALARIÉ
+
+Le Salarié déclare avoir reçu le projet d'avenant le [date] et avoir disposé d'un délai de réflexion de [durée] avant de le signer. Il reconnaît avoir été informé qu'il pouvait refuser la modification proposée.
+
+> Note de rédaction : le refus du Salarié d'accepter une modification de son contrat n'est pas une faute. L'Employeur qui ne peut maintenir le contrat aux conditions initiales doit soit y renoncer, soit engager une procédure de licenciement, dont le motif ne peut être le refus lui-même. Un salarié protégé (représentant du personnel) ne peut se voir imposer ni une modification de son contrat ni même un simple changement de ses conditions de travail.
+
+## ARTICLE 6 – EXEMPLAIRES
+
+Le présent avenant est établi en deux exemplaires originaux, dont un est remis au Salarié. Il est annexé au Contrat et conservé avec lui.
+
+Fait à [ville], le [date].
+
+Pour l'Employeur — [Prénom Nom], [fonction], signature
+
+Le Salarié — [Prénom Nom], signature précédée de la mention manuscrite « Lu et approuvé, bon pour accord »
+
+ANNEXE 1 (le cas échéant) : modalités de la rémunération variable [objectifs, période de référence, mode de calcul, date de versement].
+
+ANNEXE 2 (le cas échéant) : demande écrite et motivée du Salarié [passage à temps partiel, durée inférieure à 24 heures, télétravail].
