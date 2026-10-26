@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-distribution",
+  "nom": "Contrat de distribution",
+  "nom_court": "contrat de distribution",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de distribution",
+  "mots_cles_secondaires": [
+    "contrat de distribution gratuit",
+    "contrat de distributeur",
+    "contrat fournisseur distributeur",
+    "contrat de revendeur",
+    "contrat de distribution non exclusif",
+    "exemple contrat de distribution"
+  ],
+  "titre_h1": "Modèle de contrat de distribution gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de distribution 2026 gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de distribution fournisseur-distributeur : territoire, exclusivité, prix de revente libre, stocks, préavis et règles de concurrence.",
+  "chapo": "Le contrat de distribution fixe le cadre dans lequel un distributeur achète les produits d'un fournisseur pour les revendre sur un territoire. Cette page fournit un modèle, avec ou sans exclusivité, et explique les clauses que le droit de la concurrence interdit.",
+  "public": "Fournisseurs, fabricants, importateurs et revendeurs",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-distribution-lumen-juris",
+  "date_publication": "2026-10-26",
+  "date_mise_a_jour": "2026-10-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la distribution",
+      "Droit de la concurrence",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir la formule",
+      "Décidez entre distribution simple et exclusivité territoriale, et vérifiez qu'il ne s'agit pas plutôt d'une franchise ou d'un réseau sélectif."
+    ],
+    [
+      "Vérifier l'information précontractuelle",
+      "Si vous mettez votre marque à disposition en exigeant une exclusivité, remettez le document d'information au moins 20 jours avant la signature."
+    ],
+    [
+      "Définir produits et territoire",
+      "Complétez les Annexes 1 et 2 : gammes concernées, zone du distributeur et territoires confiés en exclusivité à d'autres."
+    ],
+    [
+      "Fixer les conditions commerciales",
+      "Joignez vos conditions générales de vente et le barème de remises, et laissez le prix de revente libre."
+    ],
+    [
+      "Organiser la sortie",
+      "Choisissez la durée, un préavis proportionné à l'ancienneté et les règles d'écoulement ou de rachat du stock."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle différence entre un distributeur et un agent commercial ?",
+      "Le distributeur achète les produits et les revend en son nom : il se rémunère sur sa marge et supporte le risque d'invendus. L'agent commercial vend au nom du fournisseur sans acheter les produits, contre une commission. Seul l'agent bénéficie d'une indemnité légale de fin de contrat."
+    ],
+    [
+      "Un fournisseur peut-il imposer un prix de revente à son distributeur ?",
+      "Non. Imposer un prix de revente minimum est puni d'une amende et interdit par le droit de la concurrence. Le fournisseur peut seulement communiquer un prix conseillé ou fixer un prix maximum, à condition de ne pas exercer de pression pour qu'il soit appliqué."
+    ],
+    [
+      "Peut-on interdire à un distributeur de vendre sur internet ?",
+      "Non, une interdiction générale de vente en ligne est une restriction caractérisée au regard du règlement européen sur les accords verticaux. Le fournisseur peut en revanche imposer des exigences de qualité pour la présentation des produits sur le site du distributeur."
+    ],
+    [
+      "Combien de temps peut durer une exclusivité ?",
+      "Une clause d'exclusivité d'achat ne peut pas dépasser dix ans en droit français. Une interdiction de vendre des produits concurrents pendant le contrat ne bénéficie de l'exemption européenne que pour cinq ans au plus, sauf renouvellement exprès."
+    ],
+    [
+      "Quel préavis pour mettre fin à un contrat de distribution ?",
+      "La loi ne fixe pas de durée précise, mais le préavis doit tenir compte de la durée de la relation, et souvent de la dépendance du distributeur. Un préavis trop court expose à des dommages et intérêts pour rupture brutale. Un délai de dix-huit mois met l'auteur de la rupture à l'abri d'une critique sur la durée."
+    ],
+    [
+      "Que deviennent les stocks à la fin du contrat ?",
+      "Le contrat doit le prévoir, car la loi ne règle pas ce point. Le modèle laisse au distributeur un délai pour écouler son stock, puis prévoit un rachat par le fournisseur, obligatoire ou facultatif selon l'option retenue."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 330-1 et L. 330-3 (exclusivité et information précontractuelle), L. 441-3 et L. 441-10 (convention écrite, délais de paiement), L. 442-1 et L. 442-6 (rupture brutale, prix de revente imposé)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1112-1 (information précontractuelle) et 1218 (force majeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, garantie légale de conformité (articles L. 217-1 et suivants)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Règlement (UE) 2022/720 du 10 mai 2022 (accords verticaux)",
+      "https://eur-lex.europa.eu/eli/reg/2022/720/oj"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-distribution"
+  }
+}

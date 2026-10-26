@@ -1,0 +1,223 @@
+# CONTRAT DE DISTRIBUTION
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat organise la revente, par un distributeur indépendant qui achète les produits en son nom et pour son compte, des produits d'un fournisseur sur un territoire donné. Il propose une distribution simple ou avec exclusivité territoriale. Il ne convient pas à la franchise (transmission d'un savoir-faire et d'une enseigne), à la distribution sélective (réseau fermé de revendeurs agréés sur critères qualitatifs) ni à l'agence commerciale (vente au nom du fournisseur, contre commission). Les règles de concurrence sur les accords verticaux s'appliquent à ce contrat : voir les notes de rédaction. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Fournisseur »,
+
+ET :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Distributeur »,
+
+ci-après ensemble les « Parties ».
+
+## PRÉAMBULE
+
+Le Fournisseur [fabrique / importe / commercialise] les produits décrits en Annexe 1 (ci-après les « Produits »).
+
+Le Distributeur exerce une activité de revente de [type de produits] auprès de [clientèle : professionnels, particuliers, les deux] et dispose des moyens commerciaux et logistiques nécessaires.
+
+Les Parties ont échangé, avant la signature, les informations dont l'importance était déterminante pour leur consentement, conformément à l'article 1112-1 du code civil.
+
+> Note de rédaction : si le Fournisseur met à la disposition du Distributeur son nom commercial, sa marque ou son enseigne et exige de lui un engagement d'exclusivité ou de quasi-exclusivité, il doit lui remettre, au moins vingt jours avant la signature, un document d'information précontractuelle prévu par l'article L. 330-3 du code de commerce. Vérifiez si c'est votre cas.
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Fournisseur vend les Produits au Distributeur, et dans lesquelles le Distributeur les revend, en son nom et pour son compte, sur le territoire défini à l'article 2.
+
+Le Distributeur agit en commerçant indépendant. Il n'est ni le mandataire, ni l'agent, ni le représentant du Fournisseur, et ne peut l'engager à l'égard des tiers.
+
+## ARTICLE 2 – TERRITOIRE ET EXCLUSIVITÉ
+
+### 2.1 Territoire
+
+Le Distributeur exerce son activité sur le territoire suivant : [départements, régions ou pays] (ci-après le « Territoire »).
+
+### 2.2 Exclusivité
+
+> Option 1 (distribution simple) : Le contrat n'est pas exclusif. Le Fournisseur reste libre de vendre les Produits sur le Territoire, directement ou par d'autres distributeurs.
+
+> Option 2 (exclusivité territoriale) : Le Fournisseur s'interdit de désigner un autre distributeur sur le Territoire [et de vendre lui-même les Produits à la clientèle du Territoire, à l'exception des clients suivants : [liste]]. Il s'engage à interdire à ses autres distributeurs de prospecter activement la clientèle du Territoire.
+
+### 2.3 Ventes hors du Territoire
+
+> Option (avec exclusivité accordée à d'autres distributeurs) : Le Distributeur s'abstient de toute prospection active (démarchage, publicité ciblée) auprès de la clientèle des territoires que le Fournisseur a concédés en exclusivité à d'autres distributeurs, dont la liste figure en Annexe 2. Il reste libre de répondre aux demandes spontanées de clients situés hors du Territoire (ventes passives).
+
+Le Distributeur est libre de vendre les Produits en ligne, notamment sur son propre site internet. Le Fournisseur peut fixer, en Annexe 3, des exigences de qualité pour la présentation en ligne des Produits, à condition qu'elles ne reviennent pas à interdire la vente en ligne.
+
+> Note de rédaction : selon le règlement (UE) 2022/720 sur les accords verticaux, interdire au distributeur les ventes passives hors de son territoire ou la vente en ligne constitue une restriction caractérisée, qui fait perdre au contrat le bénéfice de l'exemption. L'exemption suppose aussi que la part de marché de chaque Partie ne dépasse pas 30 % sur le marché concerné.
+
+## ARTICLE 3 – COMMANDES ET VENTES
+
+### 3.1 Commandes
+
+Le Distributeur adresse ses commandes par écrit [par courriel / sur le portail du Fournisseur]. Chaque commande précise les références, les quantités, le prix et la date de livraison souhaitée. Elle devient ferme après acceptation écrite du Fournisseur dans un délai de [cinq] jours ouvrés. Le Fournisseur ne peut refuser une commande que pour un motif légitime (rupture de stock, retard de paiement, quantités anormales).
+
+### 3.2 Conditions applicables
+
+Les ventes sont soumises aux conditions générales de vente du Fournisseur en vigueur à la date de la commande, jointes en Annexe 4, sauf dérogations prévues au présent contrat. En cas de contradiction, le présent contrat prévaut.
+
+> Note de rédaction : lorsque le Distributeur revend les Produits, la loi impose aussi une convention écrite, en principe annuelle, récapitulant le résultat de la négociation commerciale (prix, réductions, services de coopération commerciale), dans les conditions et délais de l'article L. 441-3 du code de commerce. Le présent contrat-cadre peut servir de base à cette convention, complétée chaque année par un contrat d'application.
+
+### 3.3 Livraison et transfert des risques
+
+Les Produits sont livrés [départ usine / franco de port à partir de [montant] euros hors taxes] à l'adresse indiquée par le Distributeur. Les risques sont transférés au Distributeur à la [livraison / remise au transporteur].
+
+### 3.4 Réserve de propriété
+
+Le Fournisseur reste propriétaire des Produits jusqu'au paiement complet de leur prix. Le Distributeur est autorisé à les revendre dans le cours normal de son activité ; en cas de revente avant paiement complet, la créance du Fournisseur est reportée sur le prix de revente, dans les limites prévues par la loi.
+
+## ARTICLE 4 – PRIX ET PAIEMENT
+
+### 4.1 Prix d'achat
+
+Les Produits sont vendus au Distributeur au tarif du Fournisseur en vigueur à la date de la commande, diminué des remises prévues en Annexe 5. Le Fournisseur informe le Distributeur de toute modification de tarif au moins [deux] mois à l'avance.
+
+### 4.2 Prix de revente
+
+Le Distributeur fixe librement ses prix de revente. Le Fournisseur peut lui communiquer des prix de revente conseillés ou un prix maximum, sans pouvoir lui imposer un prix minimum ni une marge minimum, directement ou indirectement.
+
+> Note de rédaction : imposer un prix de revente minimum est puni d'une amende par l'article L. 442-6 du code de commerce et constitue une restriction caractérisée au regard du droit de la concurrence.
+
+### 4.3 Paiement
+
+Les factures sont payables à [trente] jours à compter de leur date d'émission. Le délai ne peut dépasser soixante jours à compter de la date d'émission de la facture, ou quarante-cinq jours fin de mois si ce mode de calcul est expressément convenu (article L. 441-10 du code de commerce).
+
+Toute somme non payée à l'échéance porte intérêt, de plein droit, au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente majoré de dix points de pourcentage. Une indemnité forfaitaire pour frais de recouvrement de quarante euros est également due.
+
+## ARTICLE 5 – OBLIGATIONS DU DISTRIBUTEUR
+
+Le Distributeur s'engage à :
+- promouvoir la vente des Produits sur le Territoire avec diligence ;
+- présenter les Produits de manière conforme à leur image et à la documentation du Fournisseur ;
+- [détenir en permanence un stock minimum correspondant à [nombre de semaines] de ventes, selon l'Annexe 5] ;
+- assurer auprès de ses clients l'information et le service après-vente de premier niveau décrits en Annexe 3 ;
+- informer le Fournisseur des réclamations des clients et de tout défaut constaté sur les Produits ;
+- respecter la réglementation applicable à la revente des Produits, notamment en matière d'étiquetage, d'information des consommateurs et de garanties légales.
+
+### 5.1 Objectifs
+
+> Option : Les Parties fixent chaque année, d'un commun accord, un objectif d'achats indicatif figurant en Annexe 5. Si l'objectif n'est pas atteint pendant [deux] années consécutives pour des raisons imputables au Distributeur, le Fournisseur peut [retirer l'exclusivité territoriale / résilier le contrat moyennant le préavis de l'article 10.2].
+
+### 5.2 Produits concurrents
+
+> Option 1 : Le Distributeur est libre de commercialiser des produits concurrents des Produits.
+
+> Option 2 : Pendant la durée du contrat, dans la limite de cinq ans à compter de sa signature, le Distributeur s'interdit de commercialiser sur le Territoire des produits directement concurrents des Produits figurant en Annexe 1. Au-delà, cette interdiction ne peut être renouvelée que par un accord exprès des Parties.
+
+> Note de rédaction : une obligation de non-concurrence pendant le contrat ne bénéficie de l'exemption du règlement (UE) 2022/720 que si sa durée ne dépasse pas cinq ans. Par ailleurs, une clause d'exclusivité d'achat ne peut pas excéder dix ans (article L. 330-1 du code de commerce).
+
+## ARTICLE 6 – OBLIGATIONS DU FOURNISSEUR
+
+Le Fournisseur s'engage à :
+- livrer les Produits commandés et acceptés dans les délais convenus ;
+- remettre gratuitement au Distributeur la documentation commerciale et technique, ainsi que la formation initiale nécessaire à la présentation des Produits ;
+- informer le Distributeur, au moins [trois] mois à l'avance, de l'arrêt de fabrication d'un Produit ou du lancement d'un nouveau produit destiné à le remplacer ;
+- respecter l'exclusivité éventuellement accordée à l'article 2.2 ;
+- garantir que les Produits sont conformes à la réglementation applicable en France.
+
+## ARTICLE 7 – GARANTIE DES PRODUITS
+
+Le Fournisseur garantit le Distributeur contre les défauts de conformité et les vices cachés des Produits, dans les conditions du droit commun. Lorsque le Distributeur a dû mettre en œuvre la garantie légale de conformité au profit d'un consommateur, il peut se retourner contre le Fournisseur dans les conditions prévues par le code de la consommation.
+
+Le Distributeur signale au Fournisseur tout défaut apparent dans les [huit] jours de la livraison. Le Fournisseur remplace ou rembourse les Produits défectueux et prend en charge les frais de retour.
+
+## ARTICLE 8 – MARQUES ET SIGNES DISTINCTIFS
+
+Le Fournisseur autorise le Distributeur, pour la durée du contrat et sur le Territoire, à utiliser ses marques et logos pour la promotion et la revente des Produits, dans le respect de la charte fournie en Annexe 3. Le Distributeur ne peut déposer aucune marque, dénomination ou nom de domaine reprenant ou imitant les signes du Fournisseur. Il se présente comme « distributeur [agréé / indépendant] » des Produits et non comme le Fournisseur.
+
+Le Distributeur informe le Fournisseur de toute contrefaçon dont il a connaissance.
+
+## ARTICLE 9 – CONFIDENTIALITÉ ET DONNÉES
+
+Chaque Partie garde confidentielles les informations reçues de l'autre (tarifs, conditions commerciales, volumes, projets) pendant la durée du contrat et [trois] ans après sa fin.
+
+Les Parties n'échangent que les informations strictement nécessaires à l'exécution du contrat. Lorsqu'elles sont concurrentes sur certains produits, elles s'interdisent tout échange d'informations sur leurs prix de vente futurs ou leurs stratégies commerciales.
+
+Chaque Partie traite les données personnelles de ses propres clients en qualité de responsable de traitement, conformément au règlement (UE) 2016/679 (RGPD).
+
+## ARTICLE 10 – DURÉE ET FIN DU CONTRAT
+
+### 10.1 Durée
+
+> Option 1 : Le contrat prend effet le [date] pour une durée de [trois] ans. Il se renouvelle ensuite par tacite reconduction pour des périodes d'un an, sauf dénonciation par l'une des Parties par lettre recommandée avec accusé de réception au moins [six] mois avant l'échéance.
+
+> Option 2 : Le contrat prend effet le [date] pour une durée indéterminée.
+
+### 10.2 Préavis
+
+Chaque Partie peut mettre fin au contrat à durée indéterminée, ou s'opposer à son renouvellement, par lettre recommandée avec accusé de réception moyennant un préavis de [six] mois, augmenté d'[un] mois par année d'ancienneté de la relation au-delà de la troisième, dans la limite de dix-huit mois.
+
+> Note de rédaction : la rupture d'une relation commerciale établie sans préavis écrit suffisant au regard de sa durée engage la responsabilité de son auteur (article L. 442-1, II du code de commerce). Un préavis de dix-huit mois ne peut pas être jugé insuffisant. Tenez aussi compte de la dépendance économique du Distributeur et des investissements réalisés pour les Produits.
+
+### 10.3 Résiliation pour manquement
+
+En cas de manquement grave d'une Partie, l'autre peut la mettre en demeure d'y remédier par lettre recommandée avec accusé de réception. Si le manquement persiste trente jours après réception, le contrat peut être résilié de plein droit par une nouvelle lettre recommandée, sans préjudice de dommages et intérêts.
+
+### 10.4 Stocks en fin de contrat
+
+À la fin du contrat, le Distributeur peut écouler son stock de Produits pendant [trois] mois. À l'issue de ce délai, [le Fournisseur rachète / le Fournisseur a la faculté de racheter] les Produits restants, en bon état et dans leur emballage d'origine, au prix d'achat facturé au Distributeur [diminué de [pourcentage] %].
+
+### 10.5 Après la fin du contrat
+
+Le Distributeur cesse d'utiliser les marques du Fournisseur, sauf pour l'écoulement du stock, et de se présenter comme son distributeur. Les Parties règlent les sommes restant dues dans les trente jours.
+
+> Option : Pendant un an au plus après la fin du contrat, le Distributeur s'interdit de vendre des produits concurrents des Produits à partir du point de vente utilisé pendant le contrat, dans la mesure où cette interdiction est indispensable pour protéger un savoir-faire transmis par le Fournisseur.
+
+## ARTICLE 11 – FORCE MAJEURE
+
+Aucune Partie n'est responsable d'un manquement causé par un événement de force majeure au sens de l'article 1218 du code civil. Si l'empêchement dure plus de [trois] mois, chaque Partie peut résilier le contrat par lettre recommandée, sans indemnité.
+
+## ARTICLE 12 – LOI APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la demande écrite de l'une d'elles. À défaut, le litige est porté devant le tribunal [de commerce / des activités économiques] de [ville].
+
+> Note de rédaction : les litiges relatifs à la rupture brutale d'une relation commerciale établie ou au déséquilibre significatif relèvent de juridictions spécialement désignées par la loi.
+
+## ARTICLE 13 – DISPOSITIONS DIVERSES
+
+Le contrat et ses annexes expriment l'intégralité de l'accord des Parties. Toute modification fait l'objet d'un avenant écrit. Le contrat est conclu en considération de la personne du Distributeur : il ne peut être cédé sans l'accord écrit du Fournisseur. Si une clause est déclarée nulle, les autres restent applicables.
+
+## SIGNATURES
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement par chacune des Parties].
+
+Pour le Fournisseur
+[Prénom Nom, fonction]
+Signature :
+
+Pour le Distributeur
+[Prénom Nom, fonction]
+Signature :
+
+## ANNEXE 1 – PRODUITS
+
+- Gammes et références concernées : [liste]
+- Produits exclus : [liste]
+
+## ANNEXE 2 – TERRITOIRES CONCÉDÉS EN EXCLUSIVITÉ À D'AUTRES DISTRIBUTEURS
+
+- [Territoire] : [distributeur]
+
+## ANNEXE 3 – PRÉSENTATION DES PRODUITS, SERVICE CLIENT ET CHARTE DE MARQUE
+
+- Exigences de présentation en magasin : [description]
+- Exigences de présentation en ligne : [description]
+- Service après-vente assuré par le Distributeur : [description]
+- Charte graphique : [document joint]
+
+## ANNEXE 4 – CONDITIONS GÉNÉRALES DE VENTE DU FOURNISSEUR
+
+[Joindre le document]
+
+## ANNEXE 5 – CONDITIONS COMMERCIALES
+
+- Remises : [barème]
+- Minimum de commande : [montant]
+- Stock minimum, le cas échéant : [quantité ou durée]
+- Objectif d'achats indicatif pour l'année [année] : [montant]
