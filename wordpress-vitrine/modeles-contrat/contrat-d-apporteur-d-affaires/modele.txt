@@ -1,0 +1,213 @@
+# CONTRAT D'APPORTEUR D'AFFAIRES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat permet à une entreprise (le « Bénéficiaire ») de rémunérer une personne ou une société (l'« Apporteur ») qui lui présente des clients potentiels, sans négocier ni conclure les contrats à sa place. Si l'Apporteur doit négocier en permanence au nom du Bénéficiaire, utilisez plutôt un contrat d'agent commercial. Certaines activités interdisent ou encadrent strictement la rémunération d'un intermédiaire (opérations de banque et d'assurance, transactions immobilières, professions réglementées) : vérifiez les règles de votre secteur avant d'utiliser ce modèle. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Bénéficiaire »,
+
+ET :
+
+> Option 1 (société) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+> Option 2 (entrepreneur individuel) : [Prénom Nom], entrepreneur individuel, demeurant [adresse], immatriculé(e) sous le numéro SIREN [numéro],
+
+ci-après l'« Apporteur »,
+
+ci-après ensemble les « Parties ».
+
+## PRÉAMBULE
+
+Le Bénéficiaire exerce une activité de [description de l'activité et des produits ou services proposés].
+
+L'Apporteur dispose d'un réseau de relations dans le secteur de [secteur] et souhaite mettre en relation le Bénéficiaire avec des clients potentiels, contre rémunération.
+
+Les Parties ont convenu que l'Apporteur intervient comme simple intermédiaire chargé de présenter des clients, sans pouvoir de représentation ni de négociation.
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles l'Apporteur présente au Bénéficiaire des personnes susceptibles de conclure avec lui un contrat portant sur [produits ou services concernés] (ci-après les « Prospects »), et les conditions de sa rémunération.
+
+## ARTICLE 2 – MISSION DE L'APPORTEUR
+
+### 2.1 Contenu de la mission
+
+L'Apporteur :
+- identifie des Prospects correspondant à la clientèle visée en Annexe 1 ;
+- les informe de l'existence et des caractéristiques générales de l'offre du Bénéficiaire, à partir de la documentation que celui-ci lui remet ;
+- organise une mise en relation directe entre le Prospect et le Bénéficiaire.
+
+### 2.2 Limites de la mission
+
+L'Apporteur n'a aucun pouvoir pour négocier les prix ou les conditions des contrats, pour conclure un contrat ni pour engager le Bénéficiaire de quelque façon que ce soit. Il ne perçoit aucune somme pour le compte du Bénéficiaire. Il ne se présente pas comme son représentant, son agent ou son salarié.
+
+Le Bénéficiaire reste seul libre d'accepter ou de refuser de contracter avec un Prospect présenté, et de fixer les conditions de ce contrat.
+
+### 2.3 Informations communiquées aux Prospects
+
+L'Apporteur ne fournit aux Prospects que les informations figurant dans la documentation remise par le Bénéficiaire. Il s'interdit toute déclaration inexacte ou tout engagement sur les prix, délais, résultats ou garanties.
+
+## ARTICLE 3 – PRÉSENTATION DES PROSPECTS
+
+### 3.1 Fiche de présentation
+
+Pour chaque Prospect, l'Apporteur adresse au Bénéficiaire, avant ou au moment de la mise en relation, une fiche de présentation écrite (courriel ou formulaire de l'Annexe 2) indiquant au minimum :
+- l'identité et les coordonnées du Prospect ;
+- le besoin identifié ;
+- la date et les circonstances de la mise en relation.
+
+### 3.2 Enregistrement
+
+Le Bénéficiaire accuse réception de la fiche dans un délai de [huit] jours ouvrés et indique :
+- soit qu'il enregistre le Prospect au nom de l'Apporteur ;
+- soit que ce Prospect est déjà son client, ou qu'il est déjà en relation avec lui depuis moins de [douze] mois, en joignant tout élément le justifiant (échanges écrits, devis, contrat).
+
+À défaut de réponse dans ce délai, le Prospect est réputé enregistré au nom de l'Apporteur.
+
+### 3.3 Prospects présentés par plusieurs apporteurs
+
+Lorsqu'un même Prospect est présenté par plusieurs apporteurs, la rémunération revient à celui dont la fiche a été reçue la première.
+
+## ARTICLE 4 – RÉMUNÉRATION
+
+### 4.1 Fait générateur
+
+L'Apporteur a droit à une commission pour chaque contrat conclu entre le Bénéficiaire et un Prospect enregistré à son nom (ci-après une « Affaire »), lorsque ce contrat est signé pendant la durée du présent contrat ou dans le délai de suite prévu à l'article 4.4.
+
+La commission n'est acquise qu'après l'encaissement effectif, par le Bénéficiaire, des sommes dues par le client. Elle est due au prorata des sommes encaissées.
+
+### 4.2 Montant
+
+> Option 1 (pourcentage) : La commission est égale à [pourcentage] % du montant hors taxes encaissé par le Bénéficiaire au titre de chaque Affaire [pendant les [douze / vingt-quatre] premiers mois du contrat conclu avec le client].
+
+> Option 2 (forfait) : La commission est fixée forfaitairement à [montant] euros hors taxes par Affaire.
+
+> Option 3 (barème) : La commission est calculée selon le barème figurant en Annexe 1.
+
+La commission est forfaitaire et comprend l'ensemble des frais engagés par l'Apporteur, qui ne peut demander aucun remboursement supplémentaire, sauf accord écrit préalable du Bénéficiaire.
+
+### 4.3 Relevé, facturation et paiement
+
+Le Bénéficiaire adresse à l'Apporteur, au plus tard le [15] de chaque [mois / trimestre], un relevé des sommes encaissées au titre des Affaires au cours de la période précédente. L'Apporteur émet sa facture au vu de ce relevé, en y ajoutant la TVA s'il y est assujetti. Les factures sont payables à [30] jours à compter de leur date d'émission.
+
+Toute somme non payée à l'échéance porte intérêt, de plein droit, au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente majoré de dix points de pourcentage. Une indemnité forfaitaire pour frais de recouvrement de quarante euros est également due.
+
+L'Apporteur peut demander, une fois par an, la communication des factures émises et des encaissements relatifs aux Affaires, afin de vérifier le calcul de sa commission.
+
+### 4.4 Affaires conclues après la fin du contrat
+
+L'Apporteur conserve son droit à commission pour les Affaires conclues avec un Prospect enregistré à son nom dans les [six] mois suivant la fin du présent contrat, quelle qu'en soit la cause, sauf résiliation pour faute grave de l'Apporteur.
+
+### 4.5 Remboursement et annulation
+
+Si une Affaire est annulée, résolue ou fait l'objet d'un avoir, la commission correspondant aux sommes remboursées au client n'est pas due. Si elle a déjà été payée, elle est déduite des commissions suivantes ou remboursée dans les trente jours.
+
+> Note de rédaction : le Bénéficiaire qui verse à un même Apporteur plus de 2 400 euros de commissions dans l'année doit les déclarer à l'administration fiscale (article 240 du code général des impôts).
+
+## ARTICLE 5 – OBLIGATIONS DU BÉNÉFICIAIRE
+
+Le Bénéficiaire s'engage à :
+- remettre à l'Apporteur une documentation commerciale à jour et l'informer de toute modification importante de son offre ;
+- traiter avec diligence les Prospects présentés et informer l'Apporteur, sur demande, de l'état d'avancement des discussions ;
+- ne pas contourner l'Apporteur, notamment en retardant volontairement la signature d'une Affaire jusqu'après le délai prévu à l'article 4.4 ;
+- payer les commissions dans les délais convenus.
+
+## ARTICLE 6 – OBLIGATIONS DE L'APPORTEUR
+
+L'Apporteur s'engage à :
+- exercer sa mission avec loyauté et selon les usages honnêtes du commerce ;
+- respecter l'image et les marques du Bénéficiaire, et n'utiliser ses logos que dans les conditions qu'il autorise par écrit ;
+- présenter des Prospects de bonne foi, dont il a des raisons sérieuses de penser qu'ils sont intéressés par l'offre ;
+- respecter la réglementation applicable à la prospection commerciale, notamment en matière de démarchage téléphonique et de courriers électroniques commerciaux.
+
+## ARTICLE 7 – INDÉPENDANCE ET STATUT DE L'APPORTEUR
+
+L'Apporteur exerce sa mission en toute indépendance. Il organise librement son temps, ses méthodes et ses déplacements, et n'est soumis à aucun objectif minimum ni à aucun compte rendu d'activité autre que la fiche de présentation. Il n'existe entre les Parties aucun lien de subordination.
+
+L'Apporteur déclare être régulièrement immatriculé et à jour de ses obligations fiscales et sociales. Il remet au Bénéficiaire, à la signature puis tous les six mois si le montant total des commissions atteint au moins 5 000 euros hors taxes, les justificatifs prévus par le code du travail (extrait d'immatriculation et attestation de vigilance de l'URSSAF).
+
+## ARTICLE 8 – INTÉGRITÉ ET CONFLITS D'INTÉRÊTS
+
+L'Apporteur déclare qu'il n'est ni salarié, ni dirigeant, ni en mesure d'influencer les décisions d'achat d'un Prospect qu'il présente. Il s'interdit d'offrir ou de promettre à un Prospect, à ses salariés ou à ses dirigeants un avantage quelconque pour obtenir une Affaire, et de reverser tout ou partie de sa commission à l'un d'eux.
+
+S'il se trouve dans une situation de conflit d'intérêts à l'égard d'un Prospect, il en informe le Bénéficiaire par écrit avant toute présentation.
+
+> Note de rédaction : le fait de rémunérer, directement ou par un intermédiaire, une personne qui travaille chez le client pour qu'elle favorise une commande constitue une corruption privée, punie par les articles 445-1 et 445-2 du code pénal.
+
+## ARTICLE 9 – EXCLUSIVITÉ
+
+> Option 1 (sans exclusivité) : Le contrat n'est pas exclusif. Le Bénéficiaire peut recourir à d'autres apporteurs et prospecter directement. L'Apporteur peut présenter des clients à d'autres entreprises, à l'exception de concurrents directs du Bénéficiaire pour les mêmes produits ou services.
+
+> Option 2 (exclusivité de secteur) : Le Bénéficiaire s'engage à ne pas recourir à un autre apporteur d'affaires pour [secteur ou zone géographique] pendant la durée du contrat. En contrepartie, l'Apporteur s'interdit de présenter des clients à un concurrent direct du Bénéficiaire pour les mêmes produits ou services. Le Bénéficiaire reste libre de prospecter lui-même.
+
+## ARTICLE 10 – CONFIDENTIALITÉ
+
+Chaque Partie garde confidentielles les informations reçues de l'autre (prix, conditions commerciales, listes de clients et de Prospects) et ne les utilise que pour l'exécution du contrat. Cette obligation s'applique pendant la durée du contrat et [trois] ans après sa fin.
+
+## ARTICLE 11 – DONNÉES PERSONNELLES
+
+L'Apporteur ne transmet au Bénéficiaire les coordonnées d'un Prospect personne physique que s'il dispose d'une base légale pour le faire, en principe l'accord préalable de cette personne, et après l'avoir informée de cette transmission. Chaque Partie traite les données personnelles en qualité de responsable de traitement pour ce qui la concerne, conformément au règlement (UE) 2016/679 (RGPD) et à la loi n° 78-17 du 6 janvier 1978.
+
+## ARTICLE 12 – RESPONSABILITÉ
+
+Le Bénéficiaire est seul responsable, à l'égard de ses clients, de l'exécution des contrats qu'il conclut avec eux. L'Apporteur ne garantit ni la conclusion d'une Affaire, ni la solvabilité des Prospects.
+
+L'Apporteur est responsable des informations inexactes qu'il donnerait aux Prospects en dehors de la documentation remise par le Bénéficiaire.
+
+## ARTICLE 13 – DURÉE ET RÉSILIATION
+
+### 13.1 Durée
+
+> Option 1 : Le contrat prend effet le [date] pour une durée de [douze] mois. Il se renouvelle ensuite par tacite reconduction pour des périodes de [douze] mois, sauf dénonciation par l'une des Parties par lettre recommandée avec accusé de réception au moins [deux] mois avant l'échéance.
+
+> Option 2 : Le contrat prend effet le [date] pour une durée indéterminée. Chaque Partie peut y mettre fin par lettre recommandée avec accusé de réception moyennant un préavis de [deux] mois, porté à [quatre] mois après deux ans d'exécution.
+
+> Note de rédaction : si la relation dure et que l'Apporteur en tire une part importante de ses revenus, un préavis trop court peut être sanctionné comme une rupture brutale d'une relation commerciale établie (article L. 442-1, II du code de commerce).
+
+### 13.2 Résiliation pour manquement
+
+En cas de manquement grave d'une Partie, l'autre peut la mettre en demeure d'y remédier par lettre recommandée avec accusé de réception. Si le manquement persiste quinze jours après réception, le contrat peut être résilié de plein droit par une nouvelle lettre recommandée. Une violation de l'article 8 justifie la résiliation immédiate, sans mise en demeure.
+
+### 13.3 Effets de la fin du contrat
+
+À la fin du contrat, l'Apporteur cesse de se prévaloir de sa qualité d'apporteur du Bénéficiaire et restitue la documentation reçue. Les commissions sur les Affaires conclues avant la fin du contrat, ou dans le délai de l'article 4.4, restent dues au fur et à mesure des encaissements.
+
+## ARTICLE 14 – LOI APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la demande écrite de l'une d'elles. À défaut, le litige est porté devant le tribunal [de commerce / des activités économiques / judiciaire] de [ville].
+
+## ARTICLE 15 – DISPOSITIONS DIVERSES
+
+Le contrat et ses annexes expriment l'intégralité de l'accord des Parties. Toute modification fait l'objet d'un avenant écrit. Le contrat est conclu en considération de la personne de l'Apporteur : il ne peut être cédé sans l'accord écrit du Bénéficiaire. Si une clause est déclarée nulle, les autres restent applicables.
+
+## SIGNATURES
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement par chacune des Parties].
+
+Pour le Bénéficiaire
+[Prénom Nom, fonction]
+Signature :
+
+Pour l'Apporteur
+[Prénom Nom, fonction]
+Signature :
+
+## ANNEXE 1 – CLIENTÈLE VISÉE ET BARÈME
+
+- Produits et services concernés : [liste]
+- Clientèle visée : [type de clients, taille, secteur]
+- Zone géographique : [zone]
+- Clients exclus (déjà clients du Bénéficiaire ou suivis directement) : [liste ou renvoi à un fichier daté]
+- Barème de commission, le cas échéant : [tranches et taux]
+
+## ANNEXE 2 – FICHE DE PRÉSENTATION D'UN PROSPECT
+
+- Nom de l'Apporteur : [nom]
+- Date d'envoi de la fiche : [date]
+- Prospect : [dénomination, adresse, SIREN]
+- Interlocuteur chez le Prospect : [nom, fonction, téléphone, adresse électronique]
+- Accord du Prospect pour être contacté : [oui, recueilli le [date]]
+- Besoin identifié et budget indicatif : [description]
+- Circonstances de la mise en relation : [description]

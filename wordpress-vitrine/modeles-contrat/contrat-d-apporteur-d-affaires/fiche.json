@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-d-apporteur-d-affaires",
+  "nom": "Contrat d'apporteur d'affaires",
+  "nom_court": "contrat d'apporteur d'affaires",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat d'apporteur d'affaires",
+  "mots_cles_secondaires": [
+    "contrat apporteur d'affaires gratuit",
+    "convention d'apporteur d'affaires",
+    "contrat de commission apporteur d'affaires",
+    "exemple contrat apporteur d'affaires",
+    "rémunération apporteur d'affaires",
+    "apporteur d'affaires contrat type"
+  ],
+  "titre_h1": "Modèle de contrat d'apporteur d'affaires gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat d'apporteur d'affaires 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat d'apporteur d'affaires : présentation des prospects, commission, délai de suite, exclusivité et différence avec l'agent commercial.",
+  "chapo": "Le contrat d'apporteur d'affaires encadre la rémunération d'une personne qui présente des clients à une entreprise, sans négocier à sa place. Cette page fournit un modèle complet avec fiche de présentation et explique comment éviter la requalification en agent commercial.",
+  "public": "Entreprises et intermédiaires indépendants qui leur présentent des clients",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-d-apporteur-d-affaires-lumen-juris",
+  "date_publication": "2026-10-26",
+  "date_mise_a_jour": "2026-10-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Droit fiscal des entreprises"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier votre secteur",
+      "Assurez-vous que votre activité n'impose pas un statut particulier à l'intermédiaire (crédit, assurance, immobilier, profession réglementée)."
+    ],
+    [
+      "Décrire la clientèle visée",
+      "Indiquez en Annexe 1 les produits concernés, le type de clients recherchés, la zone et la liste des clients déjà suivis en direct."
+    ],
+    [
+      "Fixer la commission",
+      "Choisissez pourcentage, forfait ou barème, puis l'assiette, la durée pendant laquelle elle est due et le délai de suite."
+    ],
+    [
+      "Mettre en place la fiche de présentation",
+      "Diffusez le formulaire de l'Annexe 2 et convenez de l'adresse électronique à laquelle l'apporteur l'envoie."
+    ],
+    [
+      "Collecter les justificatifs",
+      "Demandez l'extrait d'immatriculation et l'attestation URSSAF de l'apporteur, et prévoyez la déclaration annuelle des commissions."
+    ]
+  ],
+  "faq": [
+    [
+      "Un particulier peut-il être apporteur d'affaires ?",
+      "Oui pour une mise en relation occasionnelle, à condition de déclarer la commission dans ses revenus. S'il apporte des affaires de façon régulière, il exerce une activité commerciale et doit s'immatriculer, par exemple sous le régime de la micro-entreprise. À défaut, il risque d'être considéré comme travaillant de façon dissimulée."
+    ],
+    [
+      "Quel pourcentage de commission pour un apporteur d'affaires ?",
+      "Aucun taux n'est fixé par la loi : il se négocie librement. Il dépend surtout de la marge de l'entreprise, du montant des ventes et de la durée pendant laquelle la commission est versée. Un taux élevé sur une courte durée peut coûter moins cher qu'un taux bas versé sans limite."
+    ],
+    [
+      "La commission est-elle due si le client ne paie pas ?",
+      "Avec le modèle proposé, non : la commission est calculée sur les sommes réellement encaissées. Si le client paie partiellement, la commission est due au prorata. Ce mécanisme doit être écrit, sinon l'apporteur pourrait réclamer sa commission dès la signature."
+    ],
+    [
+      "L'apporteur d'affaires a-t-il droit à une indemnité à la fin du contrat ?",
+      "Pas automatiquement, contrairement à l'agent commercial. Il peut toutefois obtenir réparation si la relation était établie et que le bénéficiaire y a mis fin sans préavis suffisant. Il conserve aussi ses commissions sur les ventes signées pendant le délai de suite prévu au contrat."
+    ],
+    [
+      "L'apporteur d'affaires doit-il facturer la TVA ?",
+      "Oui s'il est assujetti à la TVA, comme tout prestataire de services. S'il relève de la franchise en base de TVA, il facture hors taxes avec la mention de l'exonération. La facture doit être émise pour chaque commission."
+    ],
+    [
+      "Comment prouver qu'un client a été présenté par l'apporteur ?",
+      "Par un écrit daté envoyé avant ou au moment de la mise en relation, comme la fiche de présentation du modèle. Le bénéficiaire dispose d'un délai court pour indiquer s'il connaissait déjà ce client. Sans écrit, la preuve repose sur des témoignages ou des courriels épars, souvent contestés."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1104, 1112-1, 1211 à 1215 (bonne foi, information précontractuelle, durée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 110-1 (actes de commerce), L. 134-1 et suivants (agent commercial), L. 441-10 (délais de paiement) et L. 442-1 (rupture brutale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code du travail, articles L. 8222-1 et D. 8222-5 (obligation de vigilance)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code général des impôts, article 240 (déclaration des commissions)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ],
+    [
+      "Code pénal, articles 445-1 et 445-2 (corruption privée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-apporteur-affaires"
+  }
+}
