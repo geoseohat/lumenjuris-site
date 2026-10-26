@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-partenariat-commercial",
+  "nom": "Contrat de partenariat commercial",
+  "nom_court": "contrat de partenariat commercial",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de partenariat commercial",
+  "mots_cles_secondaires": [
+    "contrat de partenariat entre deux entreprises",
+    "exemple contrat de partenariat",
+    "convention de partenariat commercial",
+    "accord de partenariat commercial",
+    "contrat de partenariat gratuit",
+    "contrat de co-marketing"
+  ],
+  "titre_h1": "Modèle de contrat de partenariat commercial gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de partenariat commercial 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de partenariat commercial entre deux entreprises : objet, partage financier, marques, exclusivité, préavis de rupture.",
+  "chapo": "Le contrat de partenariat commercial fixe les règles d'une coopération entre deux entreprises indépendantes : actions communes, partage des revenus, usage des marques et fin de la relation. Cette page fournit un modèle complet et explique comment éviter la requalification en société et la rupture brutale.",
+  "public": "Entreprises, commerçants et indépendants qui coopèrent",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-partenariat-commercial-lumen-juris",
+  "date_publication": "2026-10-26",
+  "date_mise_a_jour": "2026-10-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Droit de la concurrence"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir le bon cadre",
+      "Vérifiez avec le tableau comparatif qu'il s'agit bien d'un partenariat, et non d'un apport d'affaires, d'un mandat d'agent ou d'une franchise."
+    ],
+    [
+      "Remplir le plan de partenariat",
+      "Listez en Annexe 1 les produits, actions, objectifs et territoire, ainsi que le partenaire titulaire des clients de l'offre conjointe."
+    ],
+    [
+      "Fixer la formule financière",
+      "Retenez l'une des trois options de l'article 6 et détaillez l'assiette, les taux et le calendrier des relevés en Annexe 2."
+    ],
+    [
+      "Encadrer exclusivité et marques",
+      "Décidez si une exclusivité limitée se justifie, avec sa contrepartie, et joignez les chartes graphiques de chaque partenaire."
+    ],
+    [
+      "Régler la sortie",
+      "Choisissez la durée, puis un préavis proportionné à l'ancienneté de la relation et le sort des commissions après la fin."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat de partenariat commercial est-il obligatoire ?",
+      "Non, aucun texte n'impose d'écrit pour ce type de coopération. Mais sans contrat, il est très difficile de prouver la répartition des revenus, la durée du préavis convenu ou le sort des clients. Un écrit signé par les deux entreprises évite ces discussions."
+    ],
+    [
+      "Quelle différence entre partenariat commercial et contrat d'apporteur d'affaires ?",
+      "Dans l'apport d'affaires, une partie se limite à mettre l'autre en relation avec des clients, contre une commission. Dans le partenariat commercial, les deux entreprises agissent ensemble : offre commune, actions marketing ou recommandation réciproque. Les engagements sont donc plus nombreux et plus équilibrés."
+    ],
+    [
+      "Peut-on prévoir une exclusivité dans un partenariat ?",
+      "Oui, à condition qu'elle soit limitée aux produits, au territoire et à la durée nécessaires au partenariat et qu'elle ait une contrepartie. Une exclusivité trop large, surtout entre concurrents, peut être considérée comme une entente interdite par le code de commerce."
+    ],
+    [
+      "Quel préavis respecter pour mettre fin à un partenariat ?",
+      "Celui prévu au contrat, à condition qu'il soit suffisant au regard de l'ancienneté de la relation. Un préavis trop court peut être sanctionné comme une rupture brutale, même s'il respecte le contrat. La loi précise qu'un préavis de dix-huit mois ne peut pas être jugé insuffisant."
+    ],
+    [
+      "Deux partenaires peuvent-ils partager leurs fichiers clients ?",
+      "Seulement si une base légale le permet, le plus souvent le consentement des clients recueilli avant la transmission. Les personnes doivent aussi être informées. Si les deux entreprises utilisent ensemble un fichier commun, elles deviennent responsables conjoints et doivent répartir leurs obligations par écrit."
+    ],
+    [
+      "Le partenariat peut-il être requalifié en société ?",
+      "Oui, si les entreprises mettent des moyens en commun, partagent bénéfices et pertes et se comportent comme des associés. Un juge peut alors retenir une société créée de fait, avec un risque de devoir payer les dettes de l'autre. Le modèle prévoit que chacun garde ses résultats et ses risques pour l'éviter."
+    ],
+    [
+      "Qui facture le client dans une offre commune ?",
+      "Le contrat doit le dire. Soit chaque partenaire facture sa propre part de l'offre, soit l'un facture la totalité et reverse à l'autre sa quote-part selon une clé fixée à l'avance. La première solution limite les risques de confusion entre les deux entreprises."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1104, 1112-1, 1195, 1211 à 1215 et 1218 (bonne foi, information précontractuelle, imprévision, durée, force majeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 420-1 (ententes), L. 441-10 (délais de paiement) et L. 442-1 (rupture brutale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la propriété intellectuelle, article L. 131-3 (cession de droits d'auteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 26 (responsables conjoints)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-partenariat-commercial"
+  }
+}

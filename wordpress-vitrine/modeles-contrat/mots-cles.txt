@@ -23,8 +23,8 @@
 [x] 2026-10-25 rupture conventionnelle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/rupture-conventionnelle/
 [x] 2026-10-25 contrat de cession de parts sociales -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-parts-sociales/
 [x] 2026-10-25 lettre de mission -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-mission/
-contrat de freelance
-contrat de partenariat commercial
+[x] 2026-10-26 contrat de freelance -> écarté : même intention que contrat-de-prestation-de-services : un contrat de freelance est un contrat de prestation de services, la page existante couvre déjà « contrat prestataire freelance »
+[x] 2026-10-26 contrat de partenariat commercial -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-partenariat-commercial/
 contrat d'apporteur d'affaires
 contrat d'agent commercial
 contrat de distribution

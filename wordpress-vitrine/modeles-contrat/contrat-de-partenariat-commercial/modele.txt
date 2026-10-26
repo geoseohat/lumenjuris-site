@@ -1,0 +1,286 @@
+# CONTRAT DE PARTENARIAT COMMERCIAL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat organise une coopération entre deux entreprises indépendantes (offre commune, recommandation réciproque de clients, actions marketing communes, distribution croisée) sans création de société entre elles. Il ne convient pas à un mandat permanent de négociation au nom d'un partenaire (contrat d'agent commercial), à la transmission d'un savoir-faire et d'une marque contre redevance (franchise), ni à un simple apport de clients rémunéré à la commission (contrat d'apporteur d'affaires). Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « [Partenaire A] »,
+
+ET :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « [Partenaire B] »,
+
+ci-après ensemble les « Partenaires » et individuellement un « Partenaire ».
+
+## PRÉAMBULE
+
+[Partenaire A] exerce une activité de [description de l'activité de A]. [Partenaire B] exerce une activité de [description de l'activité de B].
+
+Les Partenaires ont constaté que leurs activités sont complémentaires et qu'une coopération leur permettrait de [objectif commun : proposer une offre conjointe, élargir leur clientèle respective, mener des actions de promotion communes, etc.].
+
+Les Partenaires ont échangé les informations utiles à leur décision dans le respect de l'obligation de bonne foi. Chacun déclare avoir reçu les informations dont l'importance était déterminante pour son consentement.
+
+Le préambule fait partie intégrante du contrat.
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles les Partenaires coopèrent en vue de [objectif précis du partenariat].
+
+Le partenariat porte sur les actions suivantes :
+- [Action 1 : par exemple, présentation de l'offre de l'autre Partenaire à ses propres clients] ;
+- [Action 2 : par exemple, conception et commercialisation d'une offre groupée intitulée « [nom de l'offre] »] ;
+- [Action 3 : par exemple, organisation d'événements ou de campagnes de communication communs].
+
+Le détail des actions, des produits et services concernés et des objectifs figure en Annexe 1 (« Plan de partenariat »).
+
+Toute activité qui n'est pas visée au présent article ou en Annexe 1 reste en dehors du partenariat.
+
+## ARTICLE 2 – INDÉPENDANCE DES PARTENAIRES
+
+### 2.1 Absence de société
+
+Le présent contrat ne crée entre les Partenaires ni société, ni société en participation, ni groupement, ni indivision. Les Partenaires n'entendent pas partager les bénéfices et les pertes d'une entreprise commune : chacun conserve les résultats de sa propre activité et en supporte seul les risques, sous réserve des règles de partage prévues à l'article 6.
+
+### 2.2 Absence de mandat
+
+Aucun Partenaire n'a le pouvoir d'engager l'autre, de signer en son nom ni de se présenter comme son représentant, sauf mandat écrit et spécial donné pour une opération déterminée.
+
+### 2.3 Gestion de chaque activité
+
+Chaque Partenaire organise librement son activité, fixe seul ses propres prix de revente et conserve la direction de son personnel, qui reste placé sous son autorité exclusive. Chaque Partenaire reste seul responsable de ses obligations sociales, fiscales et réglementaires.
+
+## ARTICLE 3 – ENGAGEMENTS DE [PARTENAIRE A]
+
+[Partenaire A] s'engage à :
+- [engagement 1 : par exemple, présenter l'offre de [Partenaire B] à ses clients de manière loyale et conforme à la documentation fournie] ;
+- [engagement 2 : par exemple, fournir les produits ou services entrant dans l'offre conjointe selon les spécifications de l'Annexe 1] ;
+- [engagement 3 : par exemple, consacrer au partenariat un budget de communication de [montant] euros par an] ;
+- informer sans délai [Partenaire B] de toute réclamation d'un client portant sur l'offre de celui-ci ;
+- respecter la réglementation applicable à sa propre activité.
+
+## ARTICLE 4 – ENGAGEMENTS DE [PARTENAIRE B]
+
+[Partenaire B] s'engage à :
+- [engagement 1] ;
+- [engagement 2] ;
+- [engagement 3] ;
+- informer sans délai [Partenaire A] de toute réclamation d'un client portant sur l'offre de celui-ci ;
+- respecter la réglementation applicable à sa propre activité.
+
+## ARTICLE 5 – GOUVERNANCE DU PARTENARIAT
+
+Chaque Partenaire désigne un référent chargé du suivi du partenariat :
+- pour [Partenaire A] : [Prénom Nom, fonction, adresse électronique] ;
+- pour [Partenaire B] : [Prénom Nom, fonction, adresse électronique].
+
+Les référents se réunissent au moins [une fois par trimestre], en présentiel ou à distance, pour faire le point sur les actions menées, les résultats obtenus et les ajustements à prévoir. Un compte rendu écrit est établi à l'issue de chaque réunion et adressé aux deux Partenaires.
+
+Les décisions qui modifient le Plan de partenariat, les objectifs ou la répartition financière ne prennent effet qu'après la signature d'un avenant par les représentants habilités des Partenaires.
+
+## ARTICLE 6 – CONDITIONS FINANCIÈRES
+
+### 6.1 Principe
+
+> Option 1 : Chaque Partenaire supporte ses propres frais et conserve le chiffre d'affaires réalisé avec ses propres clients. Aucune somme n'est due d'un Partenaire à l'autre au titre du partenariat.
+
+> Option 2 : Lorsqu'un client présenté par un Partenaire conclut un contrat avec l'autre Partenaire, ce dernier verse au Partenaire ayant présenté le client une rémunération égale à [pourcentage] % du chiffre d'affaires hors taxes encaissé auprès de ce client pendant [durée], dans les conditions de l'Annexe 2.
+
+> Option 3 : Le chiffre d'affaires hors taxes encaissé au titre de l'offre conjointe est réparti à raison de [pourcentage] % pour [Partenaire A] et [pourcentage] % pour [Partenaire B], selon les modalités de l'Annexe 2.
+
+### 6.2 Frais communs
+
+Les frais engagés pour des actions communes (salons, campagnes, supports) sont partagés à raison de [50 %] chacun, à condition d'avoir été acceptés par écrit et chiffrés à l'avance par les deux référents. Aucun frais engagé sans cet accord préalable n'est refacturable.
+
+### 6.3 Relevés et facturation
+
+Le Partenaire débiteur adresse à l'autre, au plus tard le [10] de chaque [mois / trimestre], un relevé du chiffre d'affaires servant de base au calcul. Le Partenaire créancier émet sa facture au vu de ce relevé. Les factures sont payables à [30] jours à compter de leur date d'émission.
+
+> Note de rédaction : entre professionnels, le délai de paiement ne peut pas dépasser soixante jours à compter de la date d'émission de la facture, ou quarante-cinq jours fin de mois si ce mode de calcul est expressément prévu au contrat (article L. 441-10 du code de commerce).
+
+### 6.4 Retard de paiement
+
+Toute somme non payée à l'échéance porte intérêt, de plein droit, au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente majoré de dix points de pourcentage. Une indemnité forfaitaire pour frais de recouvrement de quarante euros est également due.
+
+### 6.5 Contrôle
+
+Chaque Partenaire peut, une fois par an et moyennant un préavis de quinze jours, faire vérifier par un expert-comptable de son choix, tenu au secret, les éléments ayant servi au calcul des sommes dues. Le coût de la vérification est à sa charge, sauf si elle révèle un écart supérieur à [5] % en sa défaveur.
+
+## ARTICLE 7 – EXCLUSIVITÉ ET NON-CONCURRENCE
+
+> Option 1 (sans exclusivité) : Le partenariat n'est pas exclusif. Chaque Partenaire reste libre de conclure des accords comparables avec des tiers, y compris avec des concurrents de l'autre Partenaire.
+
+> Option 2 (exclusivité limitée) : Pendant la durée du contrat, [Partenaire A / chaque Partenaire] s'interdit de conclure un partenariat portant sur [produits ou services précisément désignés] avec un concurrent direct de l'autre Partenaire sur le territoire suivant : [territoire]. Cette exclusivité est consentie en contrepartie de [contrepartie : objectif minimum, rémunération, investissement de l'autre Partenaire].
+
+> Note de rédaction : une exclusivité ou une interdiction de concurrence doit rester limitée à ce qui est nécessaire au partenariat (produits, territoire, durée) et avoir une contrepartie. Une restriction plus large, surtout entre concurrents, peut être contraire au droit de la concurrence (article L. 420-1 du code de commerce). Ne prévoyez aucune entente sur les prix de revente, aucun partage de clientèle et aucun échange d'informations sensibles entre concurrents.
+
+## ARTICLE 8 – NON-SOLLICITATION DU PERSONNEL
+
+Pendant la durée du contrat et [douze] mois après sa fin, chaque Partenaire s'interdit de solliciter activement un salarié de l'autre Partenaire ayant participé au partenariat. Cette clause ne fait pas obstacle à l'embauche d'un salarié qui répond de sa propre initiative à une offre d'emploi publique. En cas de manquement, le Partenaire fautif verse à l'autre une indemnité égale à [six] mois de la dernière rémunération brute du salarié concerné.
+
+## ARTICLE 9 – MARQUES, SIGNES DISTINCTIFS ET COMMUNICATION
+
+### 9.1 Usage des marques
+
+Chaque Partenaire autorise l'autre, pour la seule durée du contrat et pour les seuls besoins des actions prévues en Annexe 1, à reproduire ses marques, logos et dénominations dans le respect de la charte graphique fournie. Cette autorisation est gratuite, non exclusive et non cessible. Elle ne transfère aucun droit de propriété.
+
+### 9.2 Validation des supports
+
+Tout support mentionnant l'autre Partenaire (site internet, publicité, communiqué, réseaux sociaux) lui est soumis avant diffusion. Il dispose de [cinq] jours ouvrés pour formuler ses observations. Son silence ne vaut pas acceptation.
+
+### 9.3 Fin de l'usage
+
+À la fin du contrat, chaque Partenaire cesse d'utiliser les signes distinctifs de l'autre dans un délai de [trente] jours et retire les supports concernés, sauf les documents déjà remis à des clients.
+
+## ARTICLE 10 – CRÉATIONS RÉALISÉES EN COMMUN
+
+Chaque Partenaire reste propriétaire des éléments qu'il possédait avant le contrat ou qu'il développe seul.
+
+Les créations réalisées ensemble pour le partenariat (supports, contenus, outils) sont régies comme suit :
+
+> Option 1 : Elles appartiennent en copropriété aux Partenaires, à parts égales. Chacun peut les utiliser pour les besoins du partenariat. Après la fin du contrat, aucun ne peut les exploiter sans l'accord écrit de l'autre.
+
+> Option 2 : Elles appartiennent à [Partenaire A / Partenaire B], qui concède à l'autre un droit d'usage gratuit pour la durée du contrat.
+
+> Note de rédaction : une cession de droits d'auteur n'est valable que si chaque droit cédé est mentionné distinctement et si son domaine d'exploitation est délimité quant à son étendue, sa destination, son lieu et sa durée (article L. 131-3 du code de la propriété intellectuelle). Si une cession est prévue, détaillez-la en annexe.
+
+## ARTICLE 11 – CLIENTÈLE
+
+Chaque Partenaire reste titulaire de sa propre clientèle. Un client présenté par un Partenaire et ayant conclu avec l'autre devient client de ce dernier pour les contrats qu'il a conclus avec lui.
+
+Les clients de l'offre conjointe sont, selon le choix figurant en Annexe 1, des clients de [Partenaire A], de [Partenaire B] ou de chacun pour la partie de l'offre qu'il fournit.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Chaque Partenaire s'engage à garder confidentielles les informations de toute nature (commerciales, financières, techniques, relatives aux clients) qu'il reçoit de l'autre à l'occasion du partenariat, à ne les utiliser que pour l'exécution du contrat et à ne les communiquer qu'aux membres de son personnel et à ses conseils qui en ont besoin et sont tenus à la même obligation.
+
+Ne sont pas confidentielles les informations tombées dans le domaine public sans faute du Partenaire qui les a reçues, celles qu'il détenait déjà légitimement, ou celles dont la communication est exigée par la loi ou une autorité.
+
+Cette obligation s'applique pendant toute la durée du contrat et [cinq] ans après sa fin.
+
+## ARTICLE 13 – DONNÉES PERSONNELLES
+
+Chaque Partenaire traite les données personnelles de ses propres clients et prospects en qualité de responsable de traitement et respecte le règlement (UE) 2016/679 (RGPD) et la loi n° 78-17 du 6 janvier 1978.
+
+Un Partenaire ne transmet à l'autre des données personnelles de ses clients que si une base légale le permet (par exemple, le consentement préalable de la personne) et après l'avoir informée.
+
+> Option : Lorsque les Partenaires déterminent ensemble les finalités et les moyens d'un traitement (fichier commun de prospects, campagne commune), ils sont responsables conjoints au sens de l'article 26 du RGPD. Ils définissent alors en Annexe 3 la répartition de leurs obligations, notamment l'information des personnes et la réponse à leurs demandes.
+
+## ARTICLE 14 – RESPONSABILITÉ ET ASSURANCE
+
+Chaque Partenaire est seul responsable, à l'égard de ses clients, des produits et services qu'il fournit. Il garantit l'autre contre toute réclamation d'un client ou d'un tiers liée à ses propres produits, services ou manquements.
+
+La responsabilité d'un Partenaire envers l'autre au titre du contrat est limitée aux dommages directs et prévisibles, dans la limite de [montant] euros [ou : des sommes perçues au titre du contrat au cours des douze derniers mois]. Cette limite ne s'applique pas en cas de faute lourde ou dolosive, ni aux manquements à la confidentialité et à l'usage des marques.
+
+Chaque Partenaire déclare être assuré pour sa responsabilité civile professionnelle auprès d'une compagnie notoirement solvable et s'engage à le rester pendant toute la durée du contrat.
+
+## ARTICLE 15 – DURÉE
+
+> Option 1 (durée déterminée) : Le contrat prend effet le [date] pour une durée de [douze] mois. À son terme, il prend fin sans formalité. Les Partenaires peuvent le renouveler par avenant signé avant son échéance.
+
+> Option 2 (durée déterminée avec reconduction) : Le contrat prend effet le [date] pour une durée initiale de [douze] mois. Il se renouvelle ensuite par tacite reconduction pour des périodes successives de [douze] mois, sauf dénonciation par l'un des Partenaires par lettre recommandée avec accusé de réception au moins [trois] mois avant l'échéance.
+
+> Option 3 (durée indéterminée) : Le contrat prend effet le [date] pour une durée indéterminée. Chaque Partenaire peut y mettre fin à tout moment par lettre recommandée avec accusé de réception, moyennant un préavis de [trois] mois, porté à [six] mois après deux ans de relation.
+
+> Note de rédaction : quelle que soit l'option, la rupture d'une relation commerciale établie doit être précédée d'un préavis écrit qui tient compte notamment de la durée de la relation. Un préavis trop court peut obliger son auteur à réparer le préjudice de l'autre (article L. 442-1, II du code de commerce). La loi précise qu'un préavis de dix-huit mois ne peut jamais être jugé insuffisant.
+
+## ARTICLE 16 – RÉSILIATION POUR MANQUEMENT
+
+En cas de manquement grave d'un Partenaire à l'une de ses obligations, l'autre peut le mettre en demeure, par lettre recommandée avec accusé de réception, d'y remédier. Si la mise en demeure reste sans effet pendant [trente] jours, le Partenaire qui l'a adressée peut résilier le contrat de plein droit par une nouvelle lettre recommandée, sans préjudice des dommages et intérêts auxquels il peut prétendre.
+
+Sont notamment considérés comme graves : la violation de la confidentialité, l'usage non autorisé des marques de l'autre Partenaire, le non-paiement d'une somme due depuis plus de [soixante] jours, et la violation d'une exclusivité.
+
+## ARTICLE 17 – CHANGEMENT DE CONTRÔLE
+
+Le Partenaire dont le contrôle change (au sens de l'article L. 233-3 du code de commerce) en informe l'autre dans les quinze jours. Si le nouveau contrôle est exercé par un concurrent de l'autre Partenaire, celui-ci peut résilier le contrat par lettre recommandée dans les deux mois suivant cette information, moyennant un préavis de [deux] mois.
+
+## ARTICLE 18 – EFFETS DE LA FIN DU CONTRAT
+
+À la fin du contrat, pour quelque cause que ce soit :
+- chaque Partenaire restitue ou détruit les documents et informations confidentiels de l'autre et en confirme la destruction par écrit ;
+- les rémunérations dues sur les contrats conclus avec des clients avant la date de fin restent dues dans les conditions de l'article 6 [pendant [durée] après la fin du contrat] ;
+- les commandes en cours au titre de l'offre conjointe sont exécutées jusqu'à leur terme, sauf accord contraire ;
+- les articles 8, 12, 14 et 20 continuent de produire effet pour la durée qui leur est propre.
+
+## ARTICLE 19 – FORCE MAJEURE ET IMPRÉVISION
+
+### 19.1 Force majeure
+
+Aucun Partenaire n'est responsable d'un manquement causé par un événement de force majeure au sens de l'article 1218 du code civil. Le Partenaire empêché en informe l'autre sans délai. Si l'empêchement dure plus de [trois] mois, chaque Partenaire peut résilier le contrat par lettre recommandée, sans indemnité.
+
+### 19.2 Changement de circonstances
+
+Si un changement de circonstances imprévisible lors de la conclusion du contrat rend son exécution excessivement onéreuse pour un Partenaire qui n'avait pas accepté d'en assumer le risque, celui-ci peut demander une renégociation à l'autre, conformément à l'article 1195 du code civil. Il continue d'exécuter ses obligations pendant la renégociation.
+
+## ARTICLE 20 – LOI APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français.
+
+En cas de différend, les Partenaires recherchent d'abord une solution amiable : les référents se réunissent dans les quinze jours de la demande écrite de l'un d'eux. À défaut d'accord dans les trente jours suivant cette demande, [les Partenaires peuvent recourir à une médiation auprès de [centre de médiation]].
+
+À défaut de solution amiable, tout litige relatif à la formation, à l'exécution ou à la fin du contrat est soumis au tribunal [de commerce / des activités économiques] de [ville].
+
+> Note de rédaction : les litiges relatifs à la rupture brutale d'une relation commerciale établie relèvent de juridictions spécialement désignées par la loi, quelle que soit la clause choisie.
+
+## ARTICLE 21 – DISPOSITIONS DIVERSES
+
+### 21.1 Intégralité
+
+Le contrat et ses annexes expriment l'intégralité de l'accord des Partenaires sur son objet. Ils remplacent tous les échanges antérieurs portant sur le même objet. En cas de contradiction, le corps du contrat prévaut sur les annexes.
+
+### 21.2 Modification
+
+Toute modification du contrat fait l'objet d'un avenant écrit signé par les représentants habilités des deux Partenaires.
+
+### 21.3 Cession
+
+Aucun Partenaire ne peut céder le contrat à un tiers sans l'accord écrit préalable de l'autre.
+
+### 21.4 Notifications
+
+Les notifications prévues au contrat sont faites par lettre recommandée avec accusé de réception aux adresses figurant en tête du contrat, ou par tout moyen électronique permettant d'établir la date de réception.
+
+### 21.5 Divisibilité
+
+Si une clause est déclarée nulle, les autres clauses restent applicables. Les Partenaires remplacent la clause nulle par une clause valable d'effet aussi proche que possible.
+
+## SIGNATURES
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement par chacun des Partenaires].
+
+Pour [Partenaire A]
+[Prénom Nom, fonction]
+Signature :
+
+Pour [Partenaire B]
+[Prénom Nom, fonction]
+Signature :
+
+## ANNEXE 1 – PLAN DE PARTENARIAT
+
+- Produits et services concernés : [liste]
+- Actions prévues et calendrier : [liste et dates]
+- Objectifs chiffrés indicatifs : [nombre de clients présentés, chiffre d'affaires, nombre d'événements]
+- Rattachement des clients de l'offre conjointe : [Partenaire A / Partenaire B / chacun pour sa part]
+- Territoire : [territoire]
+- Charte graphique et règles d'usage des marques : [document joint]
+
+## ANNEXE 2 – MODALITÉS FINANCIÈRES
+
+- Assiette de calcul : [chiffre d'affaires hors taxes encaissé, hors remboursements et avoirs]
+- Taux ou clé de répartition : [pourcentages]
+- Durée pendant laquelle la rémunération est due pour un client présenté : [durée]
+- Budget des actions communes et répartition : [montants]
+- Calendrier des relevés et des factures : [dates]
+
+## ANNEXE 3 – DONNÉES PERSONNELLES (le cas échéant)
+
+- Traitements réalisés en commun : [description, finalités]
+- Catégories de données et de personnes concernées : [liste]
+- Partenaire chargé de l'information des personnes : [Partenaire A / Partenaire B]
+- Point de contact pour l'exercice des droits : [adresse]
+- Durée de conservation : [durée]
+- Mesures de sécurité : [description]

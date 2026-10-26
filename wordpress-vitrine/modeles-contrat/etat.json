@@ -392,27 +392,53 @@
     "lettre-de-mission": {
       "fichiers": {
         "docx": {
-          "id": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o1.id}}",
-          "url": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o1.source_url}}",
+          "id": 3108,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-lettre-de-mission-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "c3ca05044bfa3293fc7ae9f7c04b20111bac27e5ed5174beb180c2c50fd45afd"
         },
         "pdf": {
-          "id": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o2.id}}",
-          "url": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o2.source_url}}",
+          "id": 3109,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-lettre-de-mission-lumen-juris.pdf",
           "taille": "112 Ko",
           "empreinte": "c3ca05044bfa3293fc7ae9f7c04b20111bac27e5ed5174beb180c2c50fd45afd"
         }
       },
       "image": {
-        "id": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o3.id}}",
-        "url": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o3.source_url}}",
+        "id": 3110,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-lettre-de-mission-lumen-juris.png",
         "taille": "284 Ko",
         "empreinte": "646f73fb02d5cb57772d80738bcf842d733d609119293ef593cdf94e7d705e9c"
       },
       "statut": "publish",
-      "id": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o7.id}}",
-      "lien": "{{20261025-081629-publier-en-ligne-lettre-de-mission.o7.link}}",
+      "id": 3111,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-mission/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-partenariat-commercial": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o1.id}}",
+          "url": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o1.source_url}}",
+          "taille": "45 Ko",
+          "empreinte": "b824725bb57961633dda690bdf42491789d5d78aafd3780db261702e206132bb"
+        },
+        "pdf": {
+          "id": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o2.id}}",
+          "url": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o2.source_url}}",
+          "taille": "171 Ko",
+          "empreinte": "b824725bb57961633dda690bdf42491789d5d78aafd3780db261702e206132bb"
+        }
+      },
+      "image": {
+        "id": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o3.id}}",
+        "url": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o3.source_url}}",
+        "taille": "296 Ko",
+        "empreinte": "44d3da323247744fad23a1db3279607f75b8024c86664936923b6f4474236dfb"
+      },
+      "statut": "publish",
+      "id": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o7.id}}",
+      "lien": "{{20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -421,6 +447,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261025-081629-publier-en-ligne-lettre-de-mission"
+    "20261026-091108-publier-en-ligne-contrat-de-partenariat-commercial"
   ]
 }
