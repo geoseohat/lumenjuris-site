@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-d-agent-commercial",
+  "nom": "Contrat d'agent commercial",
+  "nom_court": "contrat d'agent commercial",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat d'agent commercial",
+  "mots_cles_secondaires": [
+    "contrat agent commercial gratuit",
+    "contrat d'agent commercial exclusif",
+    "indemnité de fin de contrat agent commercial",
+    "préavis agent commercial",
+    "mandat d'agent commercial",
+    "exemple contrat agent commercial"
+  ],
+  "titre_h1": "Modèle de contrat d'agent commercial gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat d'agent commercial 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat d'agent commercial : territoire, exclusivité, commissions, préavis légal, indemnité de fin de contrat et non-concurrence.",
+  "chapo": "Le contrat d'agent commercial confie à un indépendant la mission permanente de vendre au nom d'une entreprise, contre commission. Cette page fournit un modèle conforme au code de commerce et explique les règles qui s'imposent au mandant : préavis, commissions et indemnité de fin de contrat.",
+  "public": "Entreprises mandantes et agents commerciaux indépendants",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-d-agent-commercial-lumen-juris",
+  "date_publication": "2026-10-26",
+  "date_mise_a_jour": "2026-10-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit commercial",
+      "Droit de la distribution",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier le statut",
+      "Assurez-vous que l'agent négociera réellement et de façon permanente, qu'il est indépendant et inscrit au registre spécial des agents commerciaux."
+    ],
+    [
+      "Délimiter produits et territoire",
+      "Complétez l'Annexe 1 : gammes confiées, zone ou clientèle, clients réservés au mandant et autres mandants de l'agent."
+    ],
+    [
+      "Choisir l'exclusivité et le pouvoir de conclure",
+      "Retenez les options des articles 1 et 2, en sachant que l'exclusivité ouvre droit à commission sur les ventes directes du secteur."
+    ],
+    [
+      "Fixer commission et objectifs",
+      "Indiquez le taux et l'assiette, puis le barème et les objectifs indicatifs en Annexe 2, sans en faire une cause de rupture automatique."
+    ],
+    [
+      "Anticiper la fin du contrat",
+      "Conservez les préavis légaux ou allongez-les, provisionnez l'indemnité et décidez d'une éventuelle non-concurrence limitée à deux ans."
+    ]
+  ],
+  "faq": [
+    [
+      "Le contrat d'agent commercial doit-il être écrit ?",
+      "La loi ne fait pas de l'écrit une condition de validité, mais chaque partie peut exiger de l'autre un écrit signé mentionnant le contenu du contrat et de ses avenants. En pratique, un contrat écrit est indispensable pour fixer le territoire, les produits et le taux de commission. La non-concurrence après la fin du contrat doit, elle, obligatoirement être écrite."
+    ],
+    [
+      "Combien touche un agent commercial en fin de contrat ?",
+      "La loi prévoit une indemnité compensatrice du préjudice subi, sans en fixer le montant. Les tribunaux retiennent souvent l'équivalent de deux années de commissions, calculées sur la moyenne des dernières années. Le juge peut toutefois retenir un autre montant selon la situation."
+    ],
+    [
+      "Un agent commercial qui démissionne a-t-il droit à une indemnité ?",
+      "En principe non, sauf si son départ est justifié par des circonstances imputables au mandant, comme le non-paiement des commissions, ou par son âge, une infirmité ou une maladie qui l'empêchent de poursuivre. Il peut aussi céder son contrat à un successeur avec l'accord du mandant et obtenir un prix de cession."
+    ],
+    [
+      "Un agent commercial peut-il travailler pour plusieurs entreprises ?",
+      "Oui, sans avoir à demander d'autorisation, sauf si le contrat l'interdit expressément. Il ne peut en revanche représenter une entreprise concurrente de l'un de ses mandants qu'avec l'accord de celui-ci. Le modèle prévoit qu'il communique la liste de ses mandants."
+    ],
+    [
+      "Quel préavis pour rompre un contrat d'agent commercial ?",
+      "Un mois la première année, deux mois la deuxième année commencée et trois mois à partir de la troisième année commencée. La fin du préavis doit tomber à la fin d'un mois civil. Aucun préavis n'est dû en cas de faute grave ou de force majeure."
+    ],
+    [
+      "Peut-on prévoir une période d'essai dans un contrat d'agent commercial ?",
+      "Une période d'essai peut être prévue, mais elle ne permet pas d'écarter l'indemnité de fin de contrat. La Cour de justice de l'Union européenne a jugé en 2018 que cette indemnité reste due si le contrat est rompu pendant l'essai. Le préavis légal doit aussi être respecté."
+    ],
+    [
+      "Quelle différence entre un agent commercial et un VRP ?",
+      "Le VRP est un salarié, lié à son employeur par un contrat de travail, avec un salaire et les protections du code du travail. L'agent commercial est un indépendant, payé à la commission et libre d'organiser son activité. Un agent dirigé comme un salarié risque d'être requalifié en VRP."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 134-1 à L. 134-17 et R. 134-1 et suivants (statut de l'agent commercial)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1984 et suivants (mandat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code du travail, articles L. 7311-1 et suivants (voyageurs, représentants et placiers)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-agent-commercial"
+  }
+}

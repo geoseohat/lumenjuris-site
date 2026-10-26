@@ -1,0 +1,220 @@
+# CONTRAT D'AGENT COMMERCIAL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat est destiné à une entreprise (le « Mandant ») qui confie à un professionnel indépendant (l'« Agent ») la mission permanente de négocier, et le cas échéant de conclure, des contrats de vente, d'achat ou de prestation de services en son nom et pour son compte. Le statut d'agent commercial est régi par les articles L. 134-1 et suivants du code de commerce : la plupart de ses règles protègent l'Agent et ne peuvent pas être écartées par le contrat. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Mandant »,
+
+ET :
+
+> Option 1 (personne physique) : [Prénom Nom], agent commercial, demeurant [adresse], immatriculé(e) au registre spécial des agents commerciaux de [ville] et au registre national des entreprises sous le numéro [SIREN],
+
+> Option 2 (société) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après l'« Agent »,
+
+ci-après ensemble les « Parties ».
+
+## ARTICLE 1 – OBJET ET POUVOIRS DE L'AGENT
+
+Le Mandant confie à l'Agent, qui l'accepte, un mandat d'intérêt commun ayant pour objet la prospection de la clientèle et la négociation, au nom et pour le compte du Mandant, de contrats portant sur les produits et services suivants : [liste des produits ou services, ou renvoi à l'Annexe 1] (ci-après les « Produits »).
+
+> Option 1 : L'Agent négocie les commandes et les transmet au Mandant, qui reste seul libre de les accepter. L'Agent n'a pas le pouvoir de conclure les contrats.
+
+> Option 2 : L'Agent est autorisé à conclure les contrats au nom du Mandant, dans le respect des tarifs et conditions générales de vente en vigueur que le Mandant lui communique.
+
+L'Agent ne peut accorder ni remise, ni délai de paiement, ni conditions particulières sans l'accord écrit préalable du Mandant. Il n'est pas autorisé à encaisser le prix, sauf mandat écrit et spécial.
+
+## ARTICLE 2 – TERRITOIRE ET CLIENTÈLE
+
+### 2.1 Territoire
+
+L'Agent exerce sa mission sur le territoire suivant : [départements, régions ou pays] (ci-après le « Territoire »).
+
+> Option : L'Agent exerce sa mission auprès de la clientèle suivante : [catégorie de clients, par exemple grandes surfaces de bricolage], quelle que soit leur localisation.
+
+### 2.2 Exclusivité accordée à l'Agent
+
+> Option 1 (exclusivité) : Le Mandant s'interdit de confier à un autre agent ou intermédiaire la représentation des Produits sur le Territoire. Il reste libre de traiter directement avec les clients du Territoire, l'Agent ayant alors droit à la commission prévue à l'article 6.2.
+
+> Option 2 (sans exclusivité) : Le Mandant reste libre de désigner d'autres agents sur le Territoire et de traiter directement avec la clientèle.
+
+### 2.3 Clients réservés
+
+Les clients suivants restent suivis directement par le Mandant et ne donnent lieu à aucune commission : [liste des clients réservés, ou « néant »].
+
+## ARTICLE 3 – INDÉPENDANCE DE L'AGENT
+
+L'Agent exerce sa mission en professionnel indépendant. Il organise librement son activité, ses tournées et son emploi du temps et supporte seul ses frais, sauf stipulation contraire de l'article 6.5. Il ne reçoit aucune instruction sur ses horaires et n'est soumis à aucun lien de subordination.
+
+L'Agent peut représenter d'autres mandants sans autorisation du Mandant, à condition qu'il ne s'agisse pas d'entreprises concurrentes. Il informe le Mandant, à la signature puis à chaque changement, de la liste des entreprises qu'il représente. Il ne peut accepter la représentation d'une entreprise concurrente du Mandant qu'avec l'accord écrit de celui-ci.
+
+## ARTICLE 4 – OBLIGATIONS DE L'AGENT
+
+L'Agent s'engage à :
+- exécuter son mandat avec loyauté et en bon professionnel, selon les usages de la profession ;
+- prospecter activement la clientèle du Territoire et visiter régulièrement les clients existants ;
+- présenter les Produits conformément à la documentation et aux tarifs du Mandant, sans faire d'affirmation inexacte sur leurs caractéristiques ;
+- transmettre sans délai au Mandant les commandes recueillies, ainsi que les réclamations des clients ;
+- informer le Mandant de l'état du marché, de l'activité de la concurrence et de toute difficulté de solvabilité d'un client dont il a connaissance ;
+- adresser au Mandant un compte rendu d'activité [mensuel / trimestriel] indiquant les clients visités et les perspectives commerciales.
+
+> Note de rédaction : le compte rendu doit rester un outil d'information. Des instructions détaillées sur l'emploi du temps ou des contrôles constants peuvent faire apparaître un lien de subordination et conduire à une requalification en contrat de travail (VRP ou salarié).
+
+## ARTICLE 5 – OBLIGATIONS DU MANDANT
+
+Le Mandant s'engage à :
+- exécuter le contrat avec loyauté et mettre l'Agent en mesure d'exécuter son mandat ;
+- remettre à l'Agent, sans frais, la documentation, les tarifs, les échantillons et les conditions générales de vente nécessaires ;
+- informer l'Agent, dans un délai raisonnable, de l'acceptation, du refus ou de l'inexécution de chaque commande transmise ;
+- prévenir l'Agent sans délai s'il prévoit que le volume des opérations sera sensiblement inférieur à ce que l'Agent pouvait normalement attendre ;
+- payer les commissions dans les conditions de l'article 6.
+
+## ARTICLE 6 – RÉMUNÉRATION
+
+### 6.1 Commission sur les opérations de l'Agent
+
+L'Agent perçoit une commission pour toute opération conclue pendant la durée du contrat lorsqu'elle l'a été grâce à son intervention, ou lorsqu'elle a été conclue avec un client qu'il avait antérieurement apporté pour des opérations du même genre.
+
+### 6.2 Commission sur les opérations directes
+
+> Option (exclusivité accordée) : L'Agent perçoit également une commission sur toute opération conclue pendant la durée du contrat avec un client du Territoire, même sans son intervention, à l'exception des clients réservés de l'article 2.3.
+
+### 6.3 Taux et assiette
+
+La commission est égale à [pourcentage] % du montant hors taxes des factures émises par le Mandant, déduction faite des remises, avoirs, frais de transport et frais de financement facturés au client.
+
+> Option : Le taux de commission varie selon les Produits ou le volume, conformément au barème de l'Annexe 2.
+
+### 6.4 Acquisition et paiement
+
+La commission est acquise dès que le Mandant a exécuté l'opération, ou devait l'exécuter en vertu de l'accord conclu avec le client, ou dès que le client a exécuté sa part.
+
+Le Mandant remet à l'Agent, au plus tard le dernier jour du mois suivant chaque trimestre civil, un relevé des commissions dues pour le trimestre écoulé, indiquant les éléments essentiels de leur calcul. L'Agent peut exiger la communication des informations, notamment l'extrait des livres comptables, nécessaires pour vérifier ce montant.
+
+La commission est payée au plus tard le dernier jour du mois qui suit le trimestre au cours duquel elle a été acquise, sur facture de l'Agent.
+
+Le droit à commission ne s'éteint que s'il est établi que le contrat entre le client et le Mandant ne sera pas exécuté pour une raison qui n'est pas imputable au Mandant. Les commissions déjà perçues sont alors remboursées ou déduites.
+
+### 6.5 Frais
+
+> Option 1 : Les frais engagés par l'Agent pour l'exercice de sa mission (déplacements, téléphone, salons) sont compris dans la commission.
+
+> Option 2 : Le Mandant rembourse à l'Agent, sur justificatifs, les frais suivants : [participation aux salons professionnels, frais d'échantillons], dans la limite de [montant] euros par [an].
+
+### 6.6 Commissions après la fin du contrat
+
+L'Agent a droit à la commission sur les opérations conclues après la fin du contrat lorsqu'elles sont principalement dues à son activité au cours du contrat et ont été conclues dans un délai de [six] mois à compter de sa cessation, ou lorsque la commande du client a été reçue par le Mandant ou par l'Agent avant la fin du contrat.
+
+## ARTICLE 7 – OBJECTIFS
+
+> Option : Les Parties fixent d'un commun accord, chaque année, des objectifs de chiffre d'affaires indicatifs figurant en Annexe 2. La non-atteinte des objectifs ne constitue pas en elle-même une faute grave. Elle peut justifier une discussion entre les Parties sur les moyens mis en œuvre.
+
+> Note de rédaction : une clause qui prévoit la résiliation automatique du contrat sans indemnité si un objectif n'est pas atteint serait contraire aux règles d'ordre public sur l'indemnité de fin de contrat. Seule une faute grave prive l'Agent de cette indemnité.
+
+## ARTICLE 8 – DURÉE
+
+> Option 1 (durée indéterminée) : Le contrat prend effet le [date] pour une durée indéterminée.
+
+> Option 2 (durée déterminée) : Le contrat prend effet le [date] pour une durée de [durée]. S'il continue d'être exécuté par les deux Parties après son terme, il devient un contrat à durée indéterminée.
+
+## ARTICLE 9 – PRÉAVIS DE RÉSILIATION
+
+Lorsque le contrat est à durée indéterminée, chaque Partie peut y mettre fin moyennant un préavis notifié par lettre recommandée avec accusé de réception. Ce préavis est de :
+- un mois pendant la première année du contrat ;
+- deux mois pendant la deuxième année commencée ;
+- trois mois à partir de la troisième année commencée.
+
+La fin du préavis coïncide avec la fin d'un mois civil.
+
+> Option : Les Parties conviennent de préavis plus longs : [durées]. Le préavis à respecter par le Mandant ne peut être plus court que celui imposé à l'Agent.
+
+Le préavis n'est pas dû en cas de faute grave de l'une des Parties, ni en cas de force majeure. Les durées du préavis s'appliquent également au contrat à durée déterminée devenu à durée indéterminée, en tenant compte de sa durée totale.
+
+## ARTICLE 10 – INDEMNITÉ DE FIN DE CONTRAT
+
+### 10.1 Principe
+
+En cas de cessation de ses relations avec le Mandant, l'Agent a droit à une indemnité compensatrice en réparation du préjudice subi.
+
+L'Agent perd ce droit s'il n'a pas notifié au Mandant, dans un délai d'un an à compter de la cessation du contrat, qu'il entend faire valoir ses droits.
+
+### 10.2 Cas où l'indemnité n'est pas due
+
+L'indemnité n'est pas due :
+- lorsque la cessation du contrat est provoquée par la faute grave de l'Agent ;
+- lorsque la cessation résulte de l'initiative de l'Agent, à moins qu'elle ne soit justifiée par des circonstances imputables au Mandant ou par l'âge, l'infirmité ou la maladie de l'Agent, rendant impossible la poursuite de son activité ;
+- lorsque l'Agent cède à un tiers, avec l'accord du Mandant, les droits et obligations qu'il détient en vertu du contrat.
+
+### 10.3 Montant
+
+Le montant de l'indemnité est fixé d'un commun accord au moment de la fin du contrat ou, à défaut, par le juge en fonction du préjudice réellement subi par l'Agent.
+
+> Note de rédaction : la loi ne fixe pas de montant. En pratique, les juridictions retiennent souvent l'équivalent de deux années de commissions, calculées sur la moyenne des dernières années, mais le juge peut s'en écarter selon les circonstances. Une clause qui plafonnerait l'indemnité à un montant inférieur au préjudice, ou la supprimerait, serait réputée non écrite.
+
+## ARTICLE 11 – CESSION DU CONTRAT PAR L'AGENT
+
+L'Agent peut présenter au Mandant un successeur pour lui céder le contrat. Le Mandant ne peut refuser son agrément que pour un motif légitime, notifié par écrit dans un délai de [un] mois. La cession agréée ouvre droit, pour l'Agent, à un prix librement fixé avec son successeur, et ne donne pas lieu à l'indemnité de l'article 10.
+
+## ARTICLE 12 – NON-CONCURRENCE APRÈS LA FIN DU CONTRAT
+
+> Option : Pendant [douze / vingt-quatre] mois au plus après la fin du contrat, l'Agent s'interdit de représenter ou de vendre, sur le Territoire [ou : auprès de la clientèle qui lui était confiée], des produits concurrents des Produits faisant l'objet du contrat.
+
+> Note de rédaction : la clause doit être écrite, ne pas dépasser deux ans après la cessation du contrat et ne viser que le secteur géographique ou le groupe de clients confié à l'Agent, ainsi que le type de biens ou de services prévus au contrat. Elle peut justifier une contrepartie financière, que les Parties ont intérêt à prévoir pour en assurer l'équilibre.
+
+## ARTICLE 13 – CONFIDENTIALITÉ
+
+L'Agent s'engage à ne pas divulguer les informations confidentielles du Mandant (tarifs, marges, conditions particulières consenties aux clients, projets) pendant la durée du contrat et [deux] ans après sa fin. À la fin du contrat, il restitue les documents, échantillons et fichiers qui lui ont été remis.
+
+## ARTICLE 14 – DONNÉES PERSONNELLES
+
+Les données personnelles des clients et prospects recueillies par l'Agent dans le cadre du mandat sont traitées pour le compte du Mandant. Les Parties précisent en Annexe 3 leurs rôles respectifs au regard du règlement (UE) 2016/679 (RGPD) et, si l'Agent agit comme sous-traitant, les engagements prévus à l'article 28 de ce règlement.
+
+## ARTICLE 15 – RÉSILIATION POUR FAUTE GRAVE
+
+En cas de faute grave de l'une des Parties, rendant impossible le maintien du lien contractuel, l'autre Partie peut résilier le contrat sans préavis par lettre recommandée avec accusé de réception exposant les faits reprochés.
+
+Constituent notamment une faute grave de l'Agent : la représentation non autorisée d'un concurrent du Mandant, le détournement de clientèle, la remise de faux comptes rendus. Constituent notamment une faute grave du Mandant : le non-paiement répété des commissions, le démarchage direct de la clientèle de l'Agent en violation d'une exclusivité.
+
+## ARTICLE 16 – LOI APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la demande écrite de l'une d'elles. À défaut, le litige est porté devant le tribunal [de commerce / des activités économiques / judiciaire] de [ville].
+
+## ARTICLE 17 – DISPOSITIONS DIVERSES
+
+Le contrat et ses annexes expriment l'intégralité de l'accord des Parties. Toute modification fait l'objet d'un avenant écrit. Chaque Partie a droit, sur demande, à un exemplaire écrit signé du contrat et de ses avenants. Si une clause est déclarée nulle, les autres restent applicables.
+
+## SIGNATURES
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement par chacune des Parties].
+
+Pour le Mandant
+[Prénom Nom, fonction]
+Signature :
+
+L'Agent
+[Prénom Nom]
+Signature :
+
+## ANNEXE 1 – PRODUITS ET TERRITOIRE
+
+- Produits ou gammes confiés : [liste]
+- Territoire ou clientèle confiés : [description précise, carte le cas échéant]
+- Clients réservés au Mandant : [liste]
+- Liste des autres mandants de l'Agent à la date de signature : [liste]
+
+## ANNEXE 2 – BARÈME DE COMMISSIONS ET OBJECTIFS INDICATIFS
+
+- Taux par gamme de Produits : [taux]
+- Taux selon le volume, le cas échéant : [tranches]
+- Objectifs indicatifs pour l'année [année] : [montants]
+
+## ANNEXE 3 – DONNÉES PERSONNELLES
+
+- Données recueillies par l'Agent : [catégories]
+- Rôle de l'Agent : [sous-traitant du Mandant / responsable de traitement pour son propre fichier]
+- Durée de conservation et restitution à la fin du contrat : [modalités]
+- Mesures de sécurité : [description]

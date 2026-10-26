@@ -444,27 +444,53 @@
     "contrat-d-apporteur-d-affaires": {
       "fichiers": {
         "docx": {
-          "id": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o1.id}}",
-          "url": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o1.source_url}}",
+          "id": 3131,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-apporteur-d-affaires-lumen-juris.docx",
           "taille": "43 Ko",
           "empreinte": "7627fc8c9d62cc447fffd1d9ee5e2e7bdd594d7603cac0f84df956f4bab5bcbd"
         },
         "pdf": {
-          "id": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o2.id}}",
-          "url": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o2.source_url}}",
+          "id": 3132,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-apporteur-d-affaires-lumen-juris.pdf",
           "taille": "130 Ko",
           "empreinte": "7627fc8c9d62cc447fffd1d9ee5e2e7bdd594d7603cac0f84df956f4bab5bcbd"
         }
       },
       "image": {
-        "id": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o3.id}}",
-        "url": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o3.source_url}}",
+        "id": 3133,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-apporteur-d-affaires-lumen-juris.png",
         "taille": "294 Ko",
         "empreinte": "28fd65fb042161d402f7089a0d923041eb1bfcace0bdf13b72cb06a7abe0c473"
       },
       "statut": "publish",
-      "id": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o7.id}}",
-      "lien": "{{20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires.o7.link}}",
+      "id": 3134,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-apporteur-d-affaires/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-d-agent-commercial": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o1.id}}",
+          "url": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o1.source_url}}",
+          "taille": "43 Ko",
+          "empreinte": "8c85073a62964f1687c68b4bf09c4301f9273586aeedf4d32539ad9cc1220da3"
+        },
+        "pdf": {
+          "id": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o2.id}}",
+          "url": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o2.source_url}}",
+          "taille": "132 Ko",
+          "empreinte": "8c85073a62964f1687c68b4bf09c4301f9273586aeedf4d32539ad9cc1220da3"
+        }
+      },
+      "image": {
+        "id": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o3.id}}",
+        "url": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o3.source_url}}",
+        "taille": "293 Ko",
+        "empreinte": "44b19705f2d3eb4915f9660c7ddafe7f336d26ed6bf8823d378f9e2e6bf883fb"
+      },
+      "statut": "publish",
+      "id": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o7.id}}",
+      "lien": "{{20261026-091709-publier-en-ligne-contrat-d-agent-commercial.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -473,6 +499,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261026-091403-publier-en-ligne-contrat-d-apporteur-d-affaires"
+    "20261026-091709-publier-en-ligne-contrat-d-agent-commercial"
   ]
 }
