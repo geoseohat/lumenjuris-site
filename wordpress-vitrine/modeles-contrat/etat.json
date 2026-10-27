@@ -464,7 +464,7 @@
       },
       "statut": "publish",
       "id": 3134,
-      "lien": "{{20261026-093605-publier-en-ligne-contrat-d-apporteur-d-affaires.o3.link}}",
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-apporteur-d-affaires/",
       "gabarit": "2026-10-23"
     },
     "contrat-d-agent-commercial": {
@@ -524,7 +524,5 @@
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": [
-    "20261026-093605-publier-en-ligne-contrat-d-apporteur-d-affaires"
-  ]
+  "ordres_en_attente": []
 }

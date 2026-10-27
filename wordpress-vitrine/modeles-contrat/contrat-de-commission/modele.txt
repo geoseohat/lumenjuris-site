@@ -1,0 +1,204 @@
+# CONTRAT DE COMMISSION
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat organise une commission au sens des articles L. 132-1 et suivants du code de commerce : le Commissionnaire vend ou achète des marchandises en son propre nom, mais pour le compte du Commettant. Il ne convient ni au commissionnaire de transport (régime propre des articles L. 132-3 et suivants), ni aux services d'investissement ou d'assurance, qui sont réglementés. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Commettant »,
+
+ET :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Commissionnaire »,
+
+ci-après ensemble les « Parties ».
+
+## PRÉAMBULE
+
+Le Commettant souhaite [vendre / acheter] les marchandises décrites à l'Annexe 1 sans apparaître lui-même auprès des clients ou fournisseurs. Le Commissionnaire dispose d'une clientèle, d'un réseau de fournisseurs et d'une organisation commerciale dans le domaine suivant : [secteur]. Les Parties ont donc convenu de conclure un contrat de commission, le Commissionnaire traitant avec les tiers en son nom propre, pour le compte du Commettant.
+
+## ARTICLE 1 – OBJET DE LA COMMISSION
+
+> Option 1 (commission à la vente) : Le Commettant confie au Commissionnaire, qui l'accepte, la mission de vendre en son propre nom, pour le compte du Commettant, les marchandises désignées à l'Annexe 1 (ci-après les « Marchandises »).
+
+> Option 2 (commission à l'achat) : Le Commettant confie au Commissionnaire, qui l'accepte, la mission d'acheter en son propre nom, pour le compte du Commettant, les marchandises désignées à l'Annexe 1 (ci-après les « Marchandises »), dans la limite des quantités, qualités et prix fixés à cette annexe.
+
+Le Commissionnaire contracte personnellement avec les tiers. Il n'est pas tenu de révéler à ces derniers le nom du Commettant, sauf accord écrit de celui-ci ou obligation légale.
+
+Le présent contrat n'est pas un contrat d'agent commercial : le Commissionnaire ne négocie pas au nom du Commettant et ne bénéficie pas du statut prévu aux articles L. 134-1 et suivants du code de commerce.
+
+## ARTICLE 2 – TERRITOIRE ET EXCLUSIVITÉ
+
+Le Commissionnaire exerce sa mission sur le territoire suivant : [zone géographique ou type de clientèle].
+
+> Option 1 : Aucune exclusivité n'est consentie. Le Commettant reste libre de vendre ou d'acheter directement, ou de recourir à d'autres intermédiaires, sur le même territoire.
+
+> Option 2 : Le Commettant s'interdit de confier à un autre intermédiaire une mission identique sur le territoire pendant la durée du contrat. En contrepartie, le Commissionnaire s'engage à réaliser le volume indicatif d'affaires prévu à l'Annexe 2. Le seul fait de ne pas atteindre ce volume ne constitue pas une faute ; il permet seulement au Commettant de retirer l'exclusivité moyennant un préavis écrit de [durée].
+
+> Note de rédaction : si le Commettant met aussi à disposition une enseigne ou une marque et impose une exclusivité ou une quasi-exclusivité, il doit remettre au Commissionnaire, au moins vingt jours avant la signature, le document d'information précontractuelle prévu à l'article L. 330-3 du code de commerce.
+
+## ARTICLE 3 – INSTRUCTIONS DU COMMETTANT
+
+### 3.1 Prix et conditions
+
+Le Commissionnaire respecte les instructions écrites du Commettant, notamment :
+- pour une vente, le prix minimum de vente hors taxes fixé à l'Annexe 1 ;
+- pour un achat, le prix maximum d'achat hors taxes fixé à l'Annexe 1 ;
+- les délais de paiement maximum qu'il peut accorder ou accepter, dans les limites de l'article L. 441-10 du code de commerce ;
+- les catégories de clients ou de fournisseurs exclues.
+
+> Note de rédaction : les instructions de prix sont propres à la commission, où le Commissionnaire vend des marchandises qui ne lui appartiennent pas. Si le Commissionnaire supporte en pratique les risques commerciaux (stock à ses frais, ducroire étendu, investissements spécifiques), le droit de la concurrence peut le traiter comme un revendeur indépendant : faites alors vérifier ces clauses.
+
+### 3.2 Dépassement des instructions
+
+Si le Commissionnaire vend en dessous du prix minimum ou achète au-dessus du prix maximum sans accord écrit préalable, le Commettant peut soit accepter l'opération, soit la refuser. S'il l'accepte, le Commissionnaire lui verse la différence de prix. S'il la refuse, l'opération reste à la charge exclusive du Commissionnaire.
+
+Si le Commissionnaire obtient de meilleures conditions que celles fixées, le bénéfice en revient au Commettant.
+
+## ARTICLE 4 – OBLIGATIONS DU COMMISSIONNAIRE
+
+Le Commissionnaire s'engage à :
+- exécuter sa mission avec loyauté et la diligence d'un professionnel du secteur ;
+- ne pas se porter lui-même contrepartie, c'est-à-dire ne pas acheter pour son compte les Marchandises qu'il est chargé de vendre, ni vendre ses propres marchandises au Commettant, sans accord écrit de ce dernier ;
+- conserver avec soin les Marchandises qui lui sont confiées, les tenir séparées de ses propres stocks et les assurer conformément à l'article 8 ;
+- informer sans délai le Commettant de tout événement susceptible d'affecter l'exécution de la mission (litige avec un tiers, retard, défaut des Marchandises, difficulté financière d'un client) ;
+- ne pas confier tout ou partie de sa mission à un tiers sans accord écrit du Commettant ; s'il le fait, il répond de ce tiers conformément à l'article 1994 du code civil.
+
+## ARTICLE 5 – REDDITION DE COMPTES ET REVERSEMENT DES SOMMES
+
+### 5.1 Relevé périodique
+
+Au plus tard le [jour] de chaque [mois / trimestre], le Commissionnaire adresse au Commettant un relevé indiquant, pour la période écoulée : les opérations conclues, l'identité des tiers, les quantités, les prix, les sommes encaissées ou payées, les frais engagés et la commission due.
+
+### 5.2 Reversement
+
+> Option 1 (commission à la vente) : Le Commissionnaire reverse au Commettant le prix encaissé auprès des acheteurs, déduction faite de sa commission et des frais remboursables, dans un délai de [nombre] jours suivant chaque encaissement.
+
+> Option 2 (commission à l'achat) : Le Commettant met à la disposition du Commissionnaire les fonds nécessaires aux achats, au plus tard [nombre] jours avant chaque échéance de paiement des fournisseurs.
+
+Les sommes encaissées pour le compte du Commettant sont identifiées dans la comptabilité du Commissionnaire. Elles ne peuvent pas être utilisées à d'autres fins.
+
+### 5.3 Contrôle
+
+Le Commettant peut, une fois par an et moyennant un préavis de quinze jours, faire vérifier par un expert-comptable de son choix, tenu au secret, les documents justifiant les relevés. Les frais de vérification sont à sa charge, sauf si un écart supérieur à [pourcentage] % en défaveur du Commettant est constaté.
+
+## ARTICLE 6 – COMMISSION ET FRAIS
+
+### 6.1 Commission
+
+En rémunération de sa mission, le Commissionnaire perçoit une commission égale à [pourcentage] % du montant hors taxes de chaque opération conclue et exécutée.
+
+> Option : Le taux de commission est fixé selon le barème progressif de l'Annexe 2.
+
+La commission est acquise lorsque le tiers a exécuté son obligation principale (paiement du prix pour une vente, livraison conforme pour un achat). Aucune commission n'est due sur une opération annulée ou non exécutée, sauf si l'inexécution est imputable au Commettant.
+
+### 6.2 Frais
+
+> Option 1 : La commission couvre l'ensemble des frais du Commissionnaire, à l'exception des frais de transport, de douane et d'assurance des Marchandises, remboursés sur justificatifs.
+
+> Option 2 : Le Commettant rembourse au Commissionnaire, sur justificatifs, les frais exposés pour l'exécution de la mission, dans la limite du budget annuel fixé à l'Annexe 2, conformément à l'article 1999 du code civil.
+
+### 6.3 Facturation et paiement
+
+Le Commissionnaire facture sa commission et les frais remboursables avec le relevé prévu à l'article 5.1. Les factures sont payables à [nombre] jours à compter de leur date d'émission, dans la limite fixée par l'article L. 441-10 du code de commerce. Tout retard de paiement entraîne de plein droit des pénalités au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points, ainsi que l'indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+> Note de rédaction : en matière de TVA, le commissionnaire est réputé avoir lui-même acheté et revendu les biens (article 256 V du code général des impôts). Les flux de facturation entre les Parties et avec les tiers sont donc à faire vérifier par l'expert-comptable de chacune d'elles avant le démarrage.
+
+## ARTICLE 7 – GARANTIE DE SOLVABILITÉ DES TIERS (DUCROIRE)
+
+> Option 1 (sans ducroire) : Le Commissionnaire ne garantit pas la solvabilité des acheteurs. Il s'engage seulement à vérifier leur situation avec la diligence d'un professionnel et à informer le Commettant de tout incident de paiement. Le risque d'impayé reste à la charge du Commettant.
+
+> Option 2 (avec ducroire) : Le Commissionnaire se porte garant envers le Commettant du paiement du prix par les acheteurs qu'il a choisis. En contrepartie, il perçoit une commission supplémentaire de [pourcentage] % du montant hors taxes des ventes garanties. Cette garantie est limitée à [montant] euros par acheteur et ne couvre pas les impayés dus à un défaut des Marchandises ou à un retard de livraison imputable au Commettant.
+
+## ARTICLE 8 – MARCHANDISES CONFIÉES, PROPRIÉTÉ ET RISQUES
+
+Le Commettant reste propriétaire des Marchandises confiées au Commissionnaire jusqu'à leur vente au tiers. Pour une commission à l'achat, les Marchandises achetées deviennent la propriété du Commettant dès leur acquisition par le Commissionnaire.
+
+Le Commissionnaire tient un inventaire des Marchandises en stock, communiqué au Commettant sur simple demande. Il les assure, pour leur valeur de [remplacement / facture], contre le vol, l'incendie, le dégât des eaux et la détérioration, pendant toute la période où il en a la garde. Il justifie de cette assurance à première demande.
+
+En cas de procédure collective du Commissionnaire, le Commettant pourra revendiquer les Marchandises encore en stock ainsi que le prix non encore payé par les acheteurs, dans les conditions prévues par le code de commerce.
+
+## ARTICLE 9 – PRIVILÈGE DU COMMISSIONNAIRE
+
+Les Parties rappellent que, conformément à l'article L. 132-2 du code de commerce, le Commissionnaire bénéficie d'un privilège sur la valeur des Marchandises faisant l'objet de sa mission et sur les documents qui s'y rapportent, pour le paiement de ses créances de commission, de frais et d'avances contre le Commettant.
+
+## ARTICLE 10 – CONFIDENTIALITÉ ET DONNÉES PERSONNELLES
+
+Chaque Partie garde confidentielles les informations reçues de l'autre (prix, conditions, identité des clients et fournisseurs) pendant la durée du contrat et [nombre] ans après sa fin.
+
+Le Commissionnaire traite les données personnelles des tiers en qualité de responsable de traitement pour ses propres opérations. Lorsqu'il transmet au Commettant des données personnelles de clients ou de fournisseurs, chaque Partie respecte le règlement (UE) 2016/679 et la loi n° 78-17 du 6 janvier 1978.
+
+## ARTICLE 11 – DURÉE ET FIN DU CONTRAT
+
+### 11.1 Durée
+
+> Option 1 : Le contrat est conclu pour une durée indéterminée à compter du [date].
+
+> Option 2 : Le contrat est conclu pour une durée de [durée] à compter du [date]. Il se renouvelle ensuite par tacite reconduction pour une durée indéterminée, sauf dénonciation par l'une des Parties au moins [durée] avant son terme.
+
+### 11.2 Résiliation avec préavis
+
+Chaque Partie peut mettre fin au contrat à durée indéterminée par lettre recommandée avec avis de réception, moyennant un préavis de :
+- un mois pendant la première année ;
+- deux mois pendant la deuxième année ;
+- trois mois à partir de la troisième année, augmenté d'un mois par année supplémentaire, dans la limite de [nombre] mois.
+
+> Note de rédaction : quelle que soit la durée prévue ici, une relation commerciale établie ne peut pas être rompue brutalement (article L. 442-1, II du code de commerce). Le préavis doit tenir compte de l'ancienneté de la relation et de la dépendance économique éventuelle du Commissionnaire. Un préavis de dix-huit mois met l'auteur de la rupture à l'abri de ce reproche.
+
+### 11.3 Résiliation pour manquement grave
+
+En cas de manquement grave de l'une des Parties à ses obligations, notamment le défaut de reversement des sommes encaissées, l'autre Partie peut résilier le contrat sans préavis, quinze jours après une mise en demeure restée sans effet, par lettre recommandée avec avis de réception.
+
+### 11.4 Conséquences de la fin du contrat
+
+À la fin du contrat, quelle qu'en soit la cause :
+- le Commissionnaire établit un relevé de clôture dans les trente jours et reverse les sommes dues ;
+- il restitue les Marchandises invendues, les échantillons et les documents du Commettant, ou les tient à sa disposition, sous réserve de son privilège ;
+- les opérations conclues avant la fin du contrat sont menées à leur terme et donnent lieu à commission ;
+- aucune indemnité de fin de contrat n'est due, sauf rupture brutale ou abusive.
+
+## ARTICLE 12 – NON-CONCURRENCE
+
+> Option 1 : Aucune obligation de non-concurrence n'est prévue après la fin du contrat.
+
+> Option 2 : Pendant la durée du contrat, le Commissionnaire s'interdit de vendre ou d'acheter, pour son compte ou pour un tiers, des produits directement concurrents des Marchandises sur le territoire, sauf accord écrit du Commettant. Après la fin du contrat, cette interdiction se prolonge pendant [durée, un an au plus], sur le seul territoire défini à l'article 2 et pour les seuls produits concurrents des Marchandises.
+
+## ARTICLE 13 – RESPONSABILITÉ
+
+Le Commettant garantit le Commissionnaire contre toute réclamation d'un acheteur liée à un défaut ou à la non-conformité des Marchandises, dès lors que le Commissionnaire les a conservées et livrées dans les conditions prévues au contrat.
+
+Le Commissionnaire répond envers le Commettant des fautes commises dans l'exécution de sa mission, conformément à l'article 1992 du code civil.
+
+## ARTICLE 14 – INDÉPENDANCE DES PARTIES
+
+Le Commissionnaire exerce son activité en toute indépendance. Il organise librement son travail, supporte ses propres charges et n'est soumis à aucun lien de subordination envers le Commettant.
+
+## ARTICLE 15 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la réception d'une lettre exposant le désaccord. À défaut, le litige est porté devant le tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Commettant
+[Prénom Nom, fonction]
+Signature :
+
+Pour le Commissionnaire
+[Prénom Nom, fonction]
+Signature :
+
+## ANNEXE 1 – MARCHANDISES ET INSTRUCTIONS DE PRIX
+
+- Désignation des Marchandises : [références, gammes]
+- Prix minimum de vente ou prix maximum d'achat hors taxes : [montants]
+- Délais de paiement autorisés : [délais]
+- Clients ou fournisseurs exclus : [liste]
+
+## ANNEXE 2 – BARÈME, VOLUME INDICATIF ET BUDGET DE FRAIS
+
+- Barème de commission : [tranches et taux]
+- Volume indicatif annuel (si exclusivité) : [montant ou quantité]
+- Budget annuel des frais remboursables : [montant]

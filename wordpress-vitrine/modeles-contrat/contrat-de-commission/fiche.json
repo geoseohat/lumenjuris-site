@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-commission",
+  "nom": "Contrat de commission",
+  "nom_court": "contrat de commission",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de commission",
+  "mots_cles_secondaires": [
+    "contrat de commission code de commerce",
+    "contrat de commissionnaire",
+    "contrat de commission à la vente",
+    "contrat de commission à l'achat",
+    "commissionnaire et commettant",
+    "contrat de commission ducroire"
+  ],
+  "titre_h1": "Modèle de contrat de commission gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de commission gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de commission à la vente ou à l'achat : le commissionnaire agit en son nom pour votre compte. Prix, ducroire, comptes, fin du contrat.",
+  "chapo": "Le contrat de commission confie à un intermédiaire la vente ou l'achat de marchandises, qu'il conclut en son propre nom pour le compte de votre entreprise. Téléchargez un modèle complet et voyez ce qui le distingue de l'agent commercial et de l'apporteur d'affaires.",
+  "public": "Entreprises commettantes et commissionnaires professionnels",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-commission-lumen-juris",
+  "date_publication": "2026-10-27",
+  "date_mise_a_jour": "2026-10-27",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit commercial",
+      "Droit de la distribution",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier qu'il s'agit bien d'une commission",
+      "Assurez-vous que l'intermédiaire signera avec les clients ou fournisseurs en son propre nom, et non au nom de votre entreprise."
+    ],
+    [
+      "Choisir vente ou achat",
+      "Retenez l'option de l'article 1 et décrivez les marchandises concernées à l'Annexe 1."
+    ],
+    [
+      "Fixer les instructions de prix",
+      "Indiquez le prix plancher de vente ou le prix plafond d'achat, les délais de paiement autorisés et les clients exclus."
+    ],
+    [
+      "Décider du ducroire et de la commission",
+      "Fixez le taux de commission, les frais remboursables et, si le commissionnaire garantit les impayés, la commission de ducroire et son plafond."
+    ],
+    [
+      "Organiser stock, comptes et sortie",
+      "Prévoyez l'inventaire, l'assurance, le rythme des relevés et un préavis adapté à l'ancienneté de la relation."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la différence entre un commissionnaire et un agent commercial ?",
+      "Le commissionnaire conclut les contrats en son propre nom : le client est lié à lui. L'agent commercial négocie au nom de l'entreprise qu'il représente, qui devient seule partie au contrat avec le client. L'agent bénéficie d'une indemnité légale de fin de contrat, le commissionnaire non."
+    ],
+    [
+      "Le client peut-il agir directement contre le commettant ?",
+      "En principe, non : le client n'a contracté qu'avec le commissionnaire, qui répond seul envers lui de l'exécution de la vente. Le commettant garantit ensuite le commissionnaire si les marchandises sont défectueuses, comme le prévoit l'article 13 du modèle."
+    ],
+    [
+      "Qu'est-ce qu'une clause de ducroire ?",
+      "C'est l'engagement du commissionnaire de garantir au commettant le paiement du prix par les acheteurs. En échange de ce risque, il perçoit une commission supplémentaire. Le modèle permet de plafonner cette garantie par acheteur."
+    ],
+    [
+      "Que doit le commettant au commissionnaire quand il met fin au contrat ?",
+      "Aucune indemnité n'est prévue par la loi pour le commissionnaire, contrairement à l'agent commercial. Il peut toutefois obtenir des dommages et intérêts si la relation est rompue brutalement, sans préavis suffisant au regard de son ancienneté, ou de manière abusive."
+    ],
+    [
+      "Qui est propriétaire des marchandises confiées au commissionnaire ?",
+      "Dans une commission à la vente, le commettant reste propriétaire des marchandises jusqu'à leur vente au client. Il est utile de tenir un inventaire et d'exiger une assurance, pour pouvoir prouver cette propriété en cas de sinistre ou de faillite du commissionnaire."
+    ],
+    [
+      "Comment est facturée la TVA dans un contrat de commission ?",
+      "Le code général des impôts traite le commissionnaire comme s'il avait lui-même acheté puis revendu les biens. Il facture donc le client en son nom, et l'opération entre commettant et commissionnaire est aussi soumise à la TVA. Faites valider le schéma de facturation par un expert-comptable."
+    ],
+    [
+      "Faut-il un écrit pour conclure un contrat de commission ?",
+      "La loi n'impose pas d'écrit entre commerçants, et la preuve est libre. Un contrat écrit reste indispensable en pratique pour fixer les instructions de prix, le taux de commission, le ducroire et le sort du stock à la fin de la relation."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 132-1 et L. 132-2 (commissionnaire et privilège), L. 330-3 (information précontractuelle), L. 441-10 (délais de paiement), L. 442-1 (rupture brutale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1984 et suivants (mandat, applicables au commissionnaire), notamment 1992, 1994 et 1999",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, article 256 V (TVA des intermédiaires agissant en leur nom)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-commission"
+  }
+}
