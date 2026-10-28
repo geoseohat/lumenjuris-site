@@ -1,0 +1,155 @@
+# CONTRAT DE VENTE D'UN BIEN MOBILIER
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat organise la vente ponctuelle d'un bien meuble déterminé (matériel, machine, véhicule, mobilier, objet de collection, etc.), régie par les articles 1582 et suivants du code civil. Il ne convient pas à la vente d'un immeuble (acte notarié), d'un fonds de commerce, de parts sociales ou d'actions, ni d'un animal (garanties propres du code rural). Pour des ventes répétées à une clientèle, utilisez plutôt des conditions générales de vente. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+> Option 1 (personne physique) : [Prénom Nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+> Option 2 (personne morale) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Vendeur »,
+
+ET :
+
+> Option 1 (personne physique) : [Prénom Nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+> Option 2 (personne morale) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après l'« Acheteur »,
+
+ci-après ensemble les « Parties ».
+
+> Note de rédaction : indiquez si chaque Partie agit à titre professionnel ou non. Lorsque le Vendeur est un professionnel et l'Acheteur un consommateur, des règles protectrices du code de la consommation s'appliquent en plus de ce contrat (voir l'article 7.2).
+
+Le Vendeur agit [à titre professionnel / à titre non professionnel]. L'Acheteur agit [à titre professionnel / en qualité de consommateur / à titre non professionnel].
+
+## ARTICLE 1 – OBJET DE LA VENTE
+
+Le Vendeur vend à l'Acheteur, qui l'accepte, le bien suivant (ci-après le « Bien ») :
+- désignation : [nature, marque, modèle] ;
+- numéro de série ou d'identification : [numéro] ;
+- année de fabrication ou de première mise en service : [année] ;
+- état : [neuf / d'occasion], [description de l'état, défauts connus, kilométrage ou nombre d'heures d'utilisation le cas échéant] ;
+- accessoires et documents remis avec le Bien : [notice, factures d'entretien, clés, certificats, etc.].
+
+Des photographies du Bien, datées et signées par les Parties, figurent à l'Annexe 1.
+
+> Option (véhicule terrestre à moteur) : Le Bien est le véhicule immatriculé [numéro], numéro d'identification [VIN]. Le Vendeur remet à l'Acheteur le certificat d'immatriculation barré et signé, le certificat de cession établi en deux exemplaires, un certificat de situation administrative de moins de quinze jours et, pour un véhicule de plus de quatre ans, le procès-verbal d'un contrôle technique de moins de six mois.
+
+## ARTICLE 2 – DÉCLARATIONS DU VENDEUR
+
+Le Vendeur déclare :
+- être seul propriétaire du Bien et avoir le droit de le vendre ;
+- que le Bien n'est grevé d'aucun gage, nantissement, saisie, crédit en cours ou droit d'un tiers ;
+- avoir signalé à l'Acheteur tous les défauts dont il a connaissance, tels que décrits à l'article 1.
+
+## ARTICLE 3 – PRIX
+
+Le Bien est vendu au prix de [montant en chiffres] euros ([montant en lettres] euros) [toutes taxes comprises / hors taxes, TVA au taux de [taux] % en sus].
+
+Le prix comprend [le Bien et les accessoires listés à l'article 1 / le transport et l'installation, qui sont à la charge du Vendeur]. [Les frais de transport, de mise en service et de changement de titulaire sont à la charge de l'Acheteur.]
+
+## ARTICLE 4 – PAIEMENT
+
+### 4.1 Modalités
+
+> Option 1 (paiement comptant) : Le prix est payé en totalité à la signature du contrat, par [virement / chèque de banque], ce dont le Vendeur donne quittance par la signature des présentes, sous réserve de l'encaissement effectif.
+
+> Option 2 (acompte) : L'Acheteur verse à la signature un acompte de [montant] euros, à valoir sur le prix. Le solde, soit [montant] euros, est payé au plus tard le [date / jour de la livraison]. L'acompte engage définitivement les deux Parties : aucune d'elles ne peut renoncer à la vente en abandonnant ou en restituant cette somme.
+
+> Option 3 (arrhes) : L'Acheteur verse à la signature des arrhes de [montant] euros. Jusqu'au [date], chaque Partie peut renoncer à la vente : l'Acheteur en perdant les arrhes, le Vendeur en restituant le double, conformément à l'article 1590 du code civil. Passé cette date, la vente est définitive et les arrhes s'imputent sur le prix.
+
+> Note de rédaction : un professionnel ne peut pas recevoir d'un particulier résidant en France un paiement en espèces supérieur à 1 000 euros. Entre particuliers, il n'existe pas de plafond, mais un paiement important en espèces est difficile à prouver : préférez le virement ou le chèque de banque.
+
+### 4.2 Retard de paiement
+
+Entre professionnels, le solde est payable au plus tard [nombre] jours après la date de la facture, dans la limite de l'article L. 441-10 du code de commerce. Tout retard entraîne de plein droit des pénalités au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points, et une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+Dans les autres cas, toute somme non payée à son échéance porte intérêt au taux légal à compter d'une mise en demeure.
+
+## ARTICLE 5 – LIVRAISON
+
+### 5.1 Date et lieu
+
+Le Bien est remis à l'Acheteur le [date], à [adresse] [par le Vendeur / par un transporteur choisi par [Partie] / par enlèvement par l'Acheteur].
+
+### 5.2 Vérification à la remise
+
+À la remise, les Parties examinent ensemble le Bien. L'Acheteur signale par écrit, sur le bon de livraison ou à l'Annexe 2, tout défaut apparent ou toute différence avec la description de l'article 1. À défaut de réserve, le Bien est réputé conforme à la description, sous réserve des défauts cachés et des garanties de l'article 7.
+
+### 5.3 Retard
+
+Si le Bien n'est pas livré [nombre] jours après la date prévue, l'Acheteur peut, après une mise en demeure restée sans effet pendant huit jours, résoudre la vente par écrit et obtenir la restitution des sommes versées, sans préjudice de dommages et intérêts.
+
+## ARTICLE 6 – TRANSFERT DE PROPRIÉTÉ ET DES RISQUES
+
+> Option 1 (transfert immédiat) : La propriété du Bien est transférée à l'Acheteur dès la signature du présent contrat. Les risques de perte ou de détérioration sont transférés [en même temps / à la remise du Bien].
+
+> Option 2 (réserve de propriété) : Le Vendeur conserve la propriété du Bien jusqu'au paiement intégral du prix, en principal et accessoires. Les risques de perte ou de détérioration passent à l'Acheteur dès la remise du Bien : il l'assure à ses frais et ne peut pas le revendre ni le donner en garantie avant le paiement complet. À défaut de paiement à l'échéance, le Vendeur peut, après une mise en demeure restée sans effet pendant [nombre] jours, reprendre le Bien. Les sommes déjà versées sont alors restituées à l'Acheteur, déduction faite d'une indemnité d'utilisation et de la moins-value éventuelle, justifiées.
+
+> Note de rédaction : la réserve de propriété doit être convenue par écrit, au plus tard au moment de la livraison (articles 2367 et 2368 du code civil). C'est à cette condition qu'elle reste opposable aux créanciers de l'Acheteur en cas de procédure collective.
+
+## ARTICLE 7 – GARANTIES
+
+### 7.1 Garantie des vices cachés
+
+Le Vendeur doit la garantie des défauts cachés du Bien qui le rendent impropre à l'usage auquel on le destine, ou qui diminuent tellement cet usage que l'Acheteur ne l'aurait pas acquis, ou en aurait donné un moindre prix, s'il les avait connus (articles 1641 et suivants du code civil). L'action doit être engagée dans les deux ans de la découverte du vice.
+
+> Option (Vendeur et Acheteur non professionnels, ou deux professionnels de la même spécialité) : Le Vendeur ne garantit pas les vices cachés dont il n'avait pas connaissance. Cette clause est sans effet pour les vices qu'il connaissait et n'a pas révélés.
+
+> Note de rédaction : un vendeur professionnel est présumé connaître les vices du bien qu'il vend. Une clause excluant la garantie ne peut donc pas être opposée par un professionnel à un acheteur non professionnel, ni à un professionnel d'une autre spécialité.
+
+### 7.2 Vente par un professionnel à un consommateur
+
+Lorsque le Vendeur est un professionnel et l'Acheteur un consommateur, le Vendeur répond en outre des défauts de conformité existant lors de la délivrance et apparaissant dans un délai de deux ans, dans les conditions des articles L. 217-3 et suivants du code de la consommation. Ces garanties légales ne peuvent être ni écartées ni réduites.
+
+### 7.3 Garantie commerciale
+
+> Option : Le Vendeur accorde en outre une garantie commerciale de [durée] couvrant [pièces / main-d'œuvre / déplacement], dans les conditions de l'Annexe 3. Elle s'ajoute aux garanties légales, sans les remplacer.
+
+## ARTICLE 8 – FORMALITÉS
+
+Chaque Partie accomplit les formalités qui lui incombent dans les délais légaux. Pour un véhicule, le Vendeur déclare la cession à l'administration dans les quinze jours de la vente, et l'Acheteur demande le nouveau certificat d'immatriculation à son nom dans le délai d'un mois.
+
+## ARTICLE 9 – RÉSOLUTION POUR INEXÉCUTION
+
+En cas de manquement grave de l'une des Parties à ses obligations, l'autre Partie peut, après une mise en demeure restée sans effet pendant [quinze] jours, résoudre la vente par écrit. Chaque Partie restitue alors ce qu'elle a reçu, sans préjudice des dommages et intérêts dus par la Partie défaillante.
+
+## ARTICLE 10 – DONNÉES PERSONNELLES
+
+Les données personnelles des Parties figurant au contrat sont utilisées pour la seule exécution de la vente et des formalités qui en découlent, dans le respect du règlement (UE) 2016/679 et de la loi n° 78-17 du 6 janvier 1978.
+
+## ARTICLE 11 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent d'abord une solution amiable pendant trente jours à compter de la réception d'une lettre exposant le désaccord. À défaut, le litige est porté devant la juridiction compétente.
+
+> Option (Acheteur consommateur) : L'Acheteur peut recourir gratuitement au médiateur de la consommation dont relève le Vendeur : [nom, adresse et site internet du médiateur].
+
+> Option (deux professionnels) : À défaut d'accord amiable, le litige est porté devant le tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Le Vendeur
+[Prénom Nom, et fonction le cas échéant]
+Signature :
+
+L'Acheteur
+[Prénom Nom, et fonction le cas échéant]
+Signature :
+
+## ANNEXE 1 – PHOTOGRAPHIES ET DESCRIPTION DÉTAILLÉE DU BIEN
+
+[Photographies datées, défauts visibles, relevé du compteur, références]
+
+## ANNEXE 2 – PROCÈS-VERBAL DE REMISE
+
+- Date et heure de la remise : [date, heure]
+- Lieu : [adresse]
+- Accessoires et documents remis : [liste]
+- Réserves de l'Acheteur : [aucune / description]
+- Signatures des Parties
+
+## ANNEXE 3 – GARANTIE COMMERCIALE (LE CAS ÉCHÉANT)
+
+[Durée, étendue, conditions de mise en œuvre, coordonnées du garant]

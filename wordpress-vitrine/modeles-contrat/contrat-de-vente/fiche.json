@@ -1,0 +1,107 @@
+{
+  "slug": "contrat-de-vente",
+  "nom": "Contrat de vente (bien mobilier)",
+  "nom_court": "contrat de vente",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de vente",
+  "mots_cles_secondaires": [
+    "contrat de vente entre particuliers",
+    "contrat de vente d'un bien",
+    "acte de vente simple",
+    "contrat de vente véhicule d'occasion",
+    "contrat de vente de matériel",
+    "contrat de vente avec réserve de propriété",
+    "compromis de vente objet"
+  ],
+  "titre_h1": "Modèle de contrat de vente gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de vente gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de contrat de vente d'un bien meuble entre particuliers ou professionnels : prix, acompte ou arrhes, livraison, vices cachés, véhicule.",
+  "chapo": "Le contrat de vente fixe ce que le vendeur livre, ce que l'acheteur paie et qui supporte les défauts du bien. Téléchargez un modèle complet pour vendre un véhicule, une machine ou un objet, et voyez quelles garanties s'appliquent selon que vous êtes particulier ou professionnel.",
+  "public": "Particuliers et professionnels, vendeurs et acheteurs",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-vente-lumen-juris",
+  "date_publication": "2026-10-28",
+  "date_mise_a_jour": "2026-10-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit de la consommation",
+      "Droit civil"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier le type de vente",
+      "Assurez-vous qu'il s'agit d'un bien meuble vendu une fois, et notez si chaque partie est professionnelle ou non : les garanties en dépendent."
+    ],
+    [
+      "Décrire le bien sans rien omettre",
+      "Indiquez numéro de série, année, état et défauts connus, et joignez des photos datées à l'Annexe 1."
+    ],
+    [
+      "Choisir acompte, arrhes ou paiement comptant",
+      "Retenez l'option de l'article 4 selon que vous voulez une vente ferme ou garder une porte de sortie jusqu'à une date fixée."
+    ],
+    [
+      "Décider du transfert de propriété",
+      "En cas de paiement différé, retenez la réserve de propriété et demandez à l'acheteur d'assurer le bien dès sa remise."
+    ],
+    [
+      "Remettre le bien contre procès-verbal",
+      "Examinez le bien ensemble le jour de la remise, notez les réserves à l'Annexe 2 et accomplissez les formalités, notamment pour un véhicule."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat de vente entre particuliers est-il obligatoire ?",
+      "Non, la vente est valable dès l'accord sur le bien et le prix, même oral. Mais au-delà de 1 500 euros, un écrit est exigé pour prouver la vente entre particuliers. Le contrat permet surtout de figer l'état du bien et les défauts signalés."
+    ],
+    [
+      "Quelle différence entre un acompte et des arrhes ?",
+      "L'acompte rend la vente définitive : celui qui renonce peut être condamné à exécuter ou à indemniser. Les arrhes permettent de se dédire : l'acheteur les perd, le vendeur rembourse le double. Entre un professionnel et un consommateur, la somme versée d'avance vaut arrhes si le contrat ne dit rien."
+    ],
+    [
+      "Peut-on vendre un bien « en l'état » sans garantie ?",
+      "Un vendeur particulier peut exclure la garantie des vices cachés qu'il ignorait, mais jamais celle des vices qu'il connaissait et a tus. Un vendeur professionnel ne peut pas l'exclure face à un acheteur non professionnel. La mention « vendu en l'état » ne couvre donc pas tout."
+    ],
+    [
+      "Combien de temps l'acheteur a-t-il pour agir en cas de vice caché ?",
+      "Il dispose de deux ans à compter de la découverte du vice. Il doit prouver que le défaut existait avant la vente, qu'il était caché et qu'il rend le bien impropre à son usage ou en diminue fortement l'usage."
+    ],
+    [
+      "À quel moment l'acheteur devient-il propriétaire ?",
+      "En principe dès l'accord sur le bien et le prix, même avant le paiement. Les parties peuvent retarder ce transfert, notamment par une clause de réserve de propriété jusqu'au paiement complet, qui doit être écrite au plus tard à la livraison."
+    ],
+    [
+      "Quels documents remettre lors de la vente d'une voiture d'occasion ?",
+      "Le certificat d'immatriculation barré et signé, le certificat de cession, un certificat de situation administrative de moins de quinze jours et, si le véhicule a plus de quatre ans, un contrôle technique de moins de six mois. Le vendeur déclare la cession dans les quinze jours."
+    ],
+    [
+      "Peut-on payer en espèces ?",
+      "Un professionnel ne peut pas accepter d'un particulier résidant en France plus de 1 000 euros en espèces. Entre particuliers, il n'y a pas de plafond, mais il faut une quittance écrite pour prouver le paiement. Le virement reste la solution la plus sûre."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1582 et suivants (vente), notamment 1583, 1590 (arrhes), 1641 à 1649 (vices cachés), 1359 (preuve par écrit), 2367 et 2368 (réserve de propriété)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, articles L. 214-1 (arrhes) et L. 217-3 et suivants (garantie légale de conformité)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais et pénalités de paiement entre professionnels)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-vente"
+  }
+}

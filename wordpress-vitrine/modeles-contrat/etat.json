@@ -548,27 +548,53 @@
     "contrat-de-mandat": {
       "fichiers": {
         "docx": {
-          "id": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o1.id}}",
-          "url": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o1.source_url}}",
+          "id": 3189,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-mandat-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "63d7ab2158932731edd23a553f572dad505378bc55497e2bf962d29815c6acec"
         },
         "pdf": {
-          "id": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o2.id}}",
-          "url": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o2.source_url}}",
+          "id": 3190,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-mandat-lumen-juris.pdf",
           "taille": "108 Ko",
           "empreinte": "63d7ab2158932731edd23a553f572dad505378bc55497e2bf962d29815c6acec"
         }
       },
       "image": {
-        "id": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o3.id}}",
-        "url": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o3.source_url}}",
+        "id": 3191,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-mandat-lumen-juris.png",
         "taille": "286 Ko",
         "empreinte": "82cffd27e09a07b41de9064d8513e6a41e45545b13090f24488d313d7086b72b"
       },
       "statut": "publish",
-      "id": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o7.id}}",
-      "lien": "{{20261028-091918-publier-en-ligne-contrat-de-mandat.o7.link}}",
+      "id": 3192,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-mandat/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-vente": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o1.id}}",
+          "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "c4feb32c97f48a916c4d05a902e1b3b5e1e94ace77dd09274138424bdd2295d9"
+        },
+        "pdf": {
+          "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o2.id}}",
+          "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o2.source_url}}",
+          "taille": "114 Ko",
+          "empreinte": "c4feb32c97f48a916c4d05a902e1b3b5e1e94ace77dd09274138424bdd2295d9"
+        }
+      },
+      "image": {
+        "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o3.id}}",
+        "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "057d6db9d1cda770e35d0bd0f9836d18e8f3d40fe9422ba74df5d21b87b00b9e"
+      },
+      "statut": "publish",
+      "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o7.id}}",
+      "lien": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -577,6 +603,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261028-091918-publier-en-ligne-contrat-de-mandat"
+    "20261028-092133-publier-en-ligne-contrat-de-vente"
   ]
 }
