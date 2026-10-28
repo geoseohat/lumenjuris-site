@@ -1,0 +1,158 @@
+# CONTRAT DE MANDAT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat organise un mandat de droit commun au sens des articles 1984 et suivants du code civil : le Mandataire accomplit un ou plusieurs actes juridiques au nom et pour le compte du Mandant. Il ne convient pas aux mandats soumis à une réglementation particulière : mandat immobilier confié à un professionnel (loi n° 70-9 du 2 janvier 1970), agent commercial, mandat de protection future, intermédiation en assurance ou en opérations de banque, représentation devant les juridictions. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+> Option 1 (personne physique) : [Prénom Nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+> Option 2 (personne morale) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Mandant »,
+
+ET :
+
+> Option 1 (personne physique) : [Prénom Nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+> Option 2 (personne morale) : [Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Mandataire »,
+
+ci-après ensemble les « Parties ».
+
+## PRÉAMBULE
+
+Le Mandant souhaite se faire représenter pour accomplir les actes décrits ci-dessous, car [raison : éloignement, indisponibilité, compétence particulière du Mandataire, etc.]. Le Mandataire accepte cette mission dans les conditions du présent contrat.
+
+## ARTICLE 1 – OBJET DU MANDAT
+
+Le Mandant donne pouvoir au Mandataire, qui l'accepte, d'accomplir en son nom et pour son compte :
+
+> Option 1 (mandat spécial) : l'acte ou les actes suivants, et eux seuls : [description précise de chaque acte : nature, bien ou affaire concerné, cocontractant éventuel].
+
+> Option 2 (mandat général d'administration) : les actes d'administration courante du bien ou de l'affaire suivant : [désignation], notamment [encaisser les loyers, payer les charges, conclure les contrats d'entretien, etc.].
+
+> Note de rédaction : un mandat rédigé en termes généraux ne permet que des actes d'administration (article 1988 du code civil). Pour vendre, donner, hypothéquer ou accomplir tout autre acte de disposition, l'acte doit être désigné expressément à l'option 1, avec ses conditions essentielles (bien, prix minimum, etc.).
+
+## ARTICLE 2 – ÉTENDUE ET LIMITES DES POUVOIRS
+
+### 2.1 Pouvoirs accordés
+
+Pour l'accomplissement de sa mission, le Mandataire peut, au nom du Mandant : signer tous actes et documents, négocier dans les limites fixées à l'article 2.2, faire toutes déclarations, retirer et délivrer tous documents, et plus généralement faire le nécessaire pour l'exécution des actes visés à l'article 1.
+
+### 2.2 Limites
+
+Le Mandataire respecte les limites suivantes : [prix minimum ou maximum, montant maximum d'engagement par opération, durée maximale des contrats conclus, actes soumis à l'accord écrit préalable du Mandant].
+
+Il ne peut pas dépasser les pouvoirs ainsi définis. Tout acte accompli au-delà n'engage le Mandant que s'il le ratifie par écrit.
+
+### 2.3 Conflit d'intérêts
+
+Le Mandataire ne peut ni contracter avec lui-même pour son propre compte, ni représenter en même temps l'autre partie à l'acte, sauf autorisation écrite et préalable du Mandant pour l'acte concerné.
+
+### 2.4 Substitution
+
+> Option 1 : Le Mandataire exécute personnellement sa mission et ne peut se substituer personne.
+
+> Option 2 : Le Mandataire peut se substituer une personne de son choix pour [actes concernés]. Il en informe le Mandant par écrit et répond des actes de cette personne dans les conditions de l'article 1994 du code civil.
+
+## ARTICLE 3 – OBLIGATIONS DU MANDATAIRE
+
+Le Mandataire s'engage à :
+- exécuter sa mission avec soin et loyauté, dans l'intérêt exclusif du Mandant ;
+- informer le Mandant de l'avancement de sa mission au moins [fréquence], et sans délai de toute difficulté ou de toute offre qui sortirait de ses pouvoirs ;
+- présenter aux tiers le présent contrat, ou une copie, lorsqu'ils lui demandent de justifier de ses pouvoirs ;
+- conserver séparément les sommes et biens reçus pour le compte du Mandant et ne jamais les utiliser à son profit ;
+- rendre compte de sa gestion dans les conditions de l'article 5.
+
+## ARTICLE 4 – OBLIGATIONS DU MANDANT
+
+Le Mandant s'engage à :
+- remettre au Mandataire les documents, informations et fonds nécessaires à sa mission ;
+- exécuter les engagements que le Mandataire a pris en son nom dans la limite de ses pouvoirs ;
+- rembourser au Mandataire les frais et avances engagés pour la mission, sur justificatifs, conformément à l'article 1999 du code civil, ainsi que l'indemniser des pertes subies à l'occasion de sa mission sans faute de sa part ;
+- payer la rémunération prévue à l'article 6, le cas échéant.
+
+> Option : Les frais engagés sans accord préalable du Mandant ne sont remboursés que dans la limite de [montant] euros par mois.
+
+## ARTICLE 5 – REDDITION DE COMPTES
+
+Le Mandataire rend compte de sa gestion :
+- à la fin de la mission, dans les [nombre] jours suivant l'accomplissement du dernier acte ;
+- et, pendant le mandat, [chaque mois / chaque trimestre / à première demande du Mandant].
+
+Le compte détaille les actes accomplis, les sommes reçues et versées, les frais engagés et le solde. Le Mandataire remet au Mandant les justificatifs, les originaux des actes signés et tout ce qu'il a reçu en vertu de son mandat. Il verse le solde dû au Mandant dans les [nombre] jours suivant la présentation du compte.
+
+## ARTICLE 6 – RÉMUNÉRATION
+
+> Option 1 (mandat gratuit) : Le mandat est consenti à titre gratuit. Le Mandataire ne perçoit aucune rémunération, sans préjudice du remboursement de ses frais prévu à l'article 4.
+
+> Option 2 (mandat rémunéré) : En contrepartie de sa mission, le Mandataire perçoit [une somme forfaitaire de [montant] euros / une rémunération de [pourcentage] % du montant de l'opération réalisée / un honoraire de [montant] euros par heure]. Cette rémunération est payable [à l'accomplissement de l'acte / chaque mois, sur facture], par virement, dans un délai de [nombre] jours.
+
+> Note de rédaction : en l'absence de clause, le mandat est gratuit (article 1986 du code civil), mais un professionnel qui agit dans son domaine est en principe présumé rémunéré. Le Mandataire qui agit à titre gratuit voit sa responsabilité appréciée moins sévèrement (article 1992 du code civil).
+
+## ARTICLE 7 – RESPONSABILITÉ
+
+Le Mandataire répond des fautes qu'il commet dans l'exécution de sa mission. Il n'est pas responsable du résultat de l'opération, sauf engagement écrit contraire.
+
+Le Mandataire qui a fait connaître ses pouvoirs aux tiers n'est pas personnellement tenu envers eux de ce qui a été fait au-delà, sauf s'il s'y est personnellement engagé.
+
+> Option (mandataire professionnel) : Le Mandataire déclare être titulaire d'une assurance de responsabilité civile professionnelle couvrant l'activité exercée au titre du présent mandat, souscrite auprès de [assureur] sous le numéro [numéro de contrat]. Il en justifie à première demande.
+
+## ARTICLE 8 – DURÉE
+
+> Option 1 : Le mandat prend effet le [date] et prend fin de plein droit à l'accomplissement du ou des actes visés à l'article 1, et au plus tard le [date].
+
+> Option 2 : Le mandat est conclu pour une durée indéterminée à compter du [date].
+
+## ARTICLE 9 – FIN DU MANDAT
+
+### 9.1 Révocation par le Mandant
+
+Le Mandant peut révoquer le mandat à tout moment, par lettre recommandée avec avis de réception ou par écrit remis contre signature. Le Mandataire cesse d'agir dès la réception de la révocation et restitue sans délai le présent contrat et les documents qui lui ont été remis.
+
+> Option (mandat rémunéré à durée indéterminée) : La révocation prend effet à l'issue d'un préavis de [durée]. La rémunération due pour les actes accomplis avant la prise d'effet reste acquise au Mandataire.
+
+### 9.2 Renonciation par le Mandataire
+
+Le Mandataire peut renoncer au mandat en notifiant sa décision au Mandant par écrit, avec un préavis de [durée] qui laisse au Mandant le temps de prendre ses dispositions. S'il renonce à contretemps et cause ainsi un préjudice au Mandant, il l'en indemnise, sauf s'il ne pouvait pas poursuivre sa mission sans subir lui-même un préjudice considérable.
+
+### 9.3 Autres causes
+
+Le mandat prend également fin par le décès, la mise sous tutelle ou la déconfiture du Mandant ou du Mandataire, et, pour une personne morale, par sa dissolution ou l'ouverture d'une liquidation judiciaire.
+
+### 9.4 Information des tiers
+
+Le Mandant informe de la fin du mandat les tiers avec lesquels le Mandataire était en relation. À défaut, les actes accomplis avec des tiers de bonne foi qui ignoraient la fin du mandat peuvent continuer à l'engager.
+
+### 9.5 Conséquences
+
+À la fin du mandat, quelle qu'en soit la cause, le Mandataire rend un compte définitif dans les conditions de l'article 5. En cas de décès du Mandant, le Mandataire achève ce qui était commencé s'il y a péril en la demeure.
+
+## ARTICLE 10 – CONFIDENTIALITÉ ET DONNÉES PERSONNELLES
+
+Le Mandataire garde confidentielles les informations reçues du Mandant ou recueillies au cours de sa mission, pendant toute la durée du mandat et [nombre] ans après sa fin.
+
+Les données personnelles échangées sont traitées dans le respect du règlement (UE) 2016/679 et de la loi n° 78-17 du 6 janvier 1978, pour la seule exécution du mandat.
+
+## ARTICLE 11 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent d'abord une solution amiable. À défaut d'accord dans un délai de trente jours à compter de la réception d'une lettre exposant le désaccord, le litige est porté devant la juridiction compétente selon les règles de droit commun.
+
+> Option (deux professionnels) : À défaut d'accord amiable, le litige est porté devant le tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Le Mandant
+[Prénom Nom, et fonction le cas échéant]
+Signature précédée de la mention « Bon pour pouvoir » :
+
+Le Mandataire
+[Prénom Nom, et fonction le cas échéant]
+Signature précédée de la mention « Bon pour acceptation du mandat » :
+
+## ANNEXE – PIÈCES REMISES AU MANDATAIRE
+
+- Documents remis : [titres de propriété, contrats, pièces d'identité en copie, etc.]
+- Fonds remis, le cas échéant : [montant] euros, le [date]
+- Coordonnées des tiers concernés : [liste]

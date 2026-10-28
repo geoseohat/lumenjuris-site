@@ -29,7 +29,7 @@
 [x] 2026-10-26 contrat d'agent commercial -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-agent-commercial/
 [x] 2026-10-26 contrat de distribution -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-distribution/
 [x] 2026-10-28 contrat de commission -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-commission/
-contrat de mandat
+[x] 2026-10-28 contrat de mandat -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-mandat/
 contrat de vente
 contrat de fourniture
 contrat de maintenance

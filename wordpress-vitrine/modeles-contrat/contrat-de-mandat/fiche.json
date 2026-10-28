@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-mandat",
+  "nom": "Contrat de mandat",
+  "nom_court": "contrat de mandat",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de mandat",
+  "mots_cles_secondaires": [
+    "contrat de mandat gratuit",
+    "contrat de mandat entre particuliers",
+    "modèle de mandat de représentation",
+    "contrat de mandat code civil",
+    "mandat spécial",
+    "contrat de mandat rémunéré"
+  ],
+  "titre_h1": "Modèle de contrat de mandat gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de mandat gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de mandat gratuit : pouvoirs du mandataire, mandat spécial ou général, reddition de comptes, rémunération, révocation.",
+  "chapo": "Le contrat de mandat charge une personne d'accomplir des actes juridiques en votre nom et pour votre compte. Téléchargez un modèle complet, entre particuliers ou professionnels, et voyez comment fixer des pouvoirs clairs que les tiers accepteront.",
+  "public": "Particuliers, entreprises et associations",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-mandat-lumen-juris",
+  "date_publication": "2026-10-28",
+  "date_mise_a_jour": "2026-10-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit civil"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que votre mandat n'est pas réglementé",
+      "Écartez les cas qui ont leur propre régime : agence immobilière, agent commercial, assurance, protection future, représentation en justice."
+    ],
+    [
+      "Choisir mandat spécial ou général",
+      "Pour vendre, donner ou emprunter, nommez précisément chaque acte à l'article 1 ; pour une simple gestion courante, le mandat général suffit."
+    ],
+    [
+      "Chiffrer les limites des pouvoirs",
+      "Indiquez à l'article 2.2 les prix plancher ou plafond, les montants maximum et les actes qui demandent votre accord écrit."
+    ],
+    [
+      "Régler l'argent",
+      "Décidez si le mandat est gratuit ou rémunéré, quels frais sont remboursés et à quel rythme le mandataire rend ses comptes."
+    ],
+    [
+      "Prévoir la fin et prévenir les tiers",
+      "Fixez une date limite et, à la fin du mandat, informez par écrit les personnes avec qui le mandataire était en contact."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la différence entre un mandat et une procuration ?",
+      "La procuration est l'écrit qui donne et prouve le pouvoir de représenter. Le contrat de mandat va plus loin : il fixe aussi les obligations du mandataire, ses comptes, sa rémunération éventuelle et la fin de sa mission. En pratique, un contrat de mandat détaillé peut être présenté aux tiers comme une procuration."
+    ],
+    [
+      "Un contrat de mandat doit-il être écrit ?",
+      "Non, le code civil admet un mandat verbal et une acceptation tacite. Mais l'écrit est vivement conseillé : le tiers demandera la preuve des pouvoirs, et certains actes exigent une forme particulière, parfois notariée."
+    ],
+    [
+      "Le mandataire peut-il vendre un bien avec un mandat général ?",
+      "Non. Un mandat rédigé en termes généraux ne couvre que les actes d'administration. Pour vendre, donner ou hypothéquer, le pouvoir doit viser expressément l'acte et le bien concernés."
+    ],
+    [
+      "Le mandat est-il gratuit ou payant ?",
+      "Le code civil présume le mandat gratuit, sauf convention contraire. Un professionnel qui agit dans son activité est en principe considéré comme rémunéré. Dans tous les cas, les frais engagés pour la mission doivent être remboursés au mandataire."
+    ],
+    [
+      "Peut-on révoquer un mandataire à tout moment ?",
+      "Oui, le mandant peut révoquer le mandat quand il le veut. Une exception existe pour le mandat d'intérêt commun, rémunéré et utile aux deux parties : la révocation sans motif légitime ouvre droit à une indemnité. Pensez aussi à prévenir les tiers."
+    ],
+    [
+      "Que se passe-t-il si le mandataire dépasse ses pouvoirs ?",
+      "L'acte n'engage pas le mandant, sauf s'il le ratifie ensuite. Il peut toutefois l'engager si le tiers a légitimement cru aux pouvoirs du mandataire, du fait du comportement du mandant : c'est le mandat apparent."
+    ],
+    [
+      "Le mandat prend-il fin au décès du mandant ?",
+      "Oui, le décès du mandant ou du mandataire met fin au mandat. Le mandataire doit cependant achever ce qui était commencé s'il y a péril en la demeure, et les actes qu'il accomplit en ignorant le décès restent valables envers les tiers de bonne foi."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1984 à 2010 (mandat), notamment 1985, 1986, 1988, 1992, 1994, 1999, 2003, 2004, 2005, 2007 et 2009",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1153 à 1161 (représentation), notamment 1156 (mandat apparent), 1158 (demande de confirmation des pouvoirs) et 1161 (conflit d'intérêts)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-mandat"
+  }
+}
