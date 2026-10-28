@@ -518,11 +518,39 @@
       "id": 3163,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-distribution/",
       "gabarit": "2026-10-23"
+    },
+    "contrat-de-commission": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o1.id}}",
+          "url": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "80a2a9831ab7b47c04c4392b56c1c6cf70e38e77453feecddfb8e9005e7c364b"
+        },
+        "pdf": {
+          "id": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o2.id}}",
+          "url": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o2.source_url}}",
+          "taille": "127 Ko",
+          "empreinte": "80a2a9831ab7b47c04c4392b56c1c6cf70e38e77453feecddfb8e9005e7c364b"
+        }
+      },
+      "image": {
+        "id": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o3.id}}",
+        "url": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o3.source_url}}",
+        "taille": "290 Ko",
+        "empreinte": "9c507c58e4c99ea88c8de1d8004561ff5cc35e08608728775c36dc903bd7319e"
+      },
+      "statut": "publish",
+      "id": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o7.id}}",
+      "lien": "{{20261028-091631-publier-en-ligne-contrat-de-commission.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261028-091631-publier-en-ligne-contrat-de-commission"
+  ]
 }

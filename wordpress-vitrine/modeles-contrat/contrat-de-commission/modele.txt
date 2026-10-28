@@ -54,7 +54,9 @@ Le Commissionnaire respecte les instructions écrites du Commettant, notamment :
 
 ### 3.2 Dépassement des instructions
 
-Si le Commissionnaire vend en dessous du prix minimum ou achète au-dessus du prix maximum sans accord écrit préalable, le Commettant peut soit accepter l'opération, soit la refuser. S'il l'accepte, le Commissionnaire lui verse la différence de prix. S'il la refuse, l'opération reste à la charge exclusive du Commissionnaire.
+Si le Commissionnaire vend en dessous du prix minimum sans accord écrit préalable du Commettant, il verse à ce dernier la différence entre le prix minimum et le prix obtenu, en plus du prix reversé.
+
+Si le Commissionnaire achète au-dessus du prix maximum sans accord écrit préalable, le Commettant peut soit accepter l'opération, le Commissionnaire lui versant alors la différence de prix, soit la refuser dans les [nombre] jours suivant le relevé qui la mentionne. En cas de refus, l'achat reste pour le compte et à la charge exclusive du Commissionnaire.
 
 Si le Commissionnaire obtient de meilleures conditions que celles fixées, le bénéfice en revient au Commettant.
 
