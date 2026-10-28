@@ -1,0 +1,105 @@
+{
+  "slug": "contrat-de-fourniture",
+  "nom": "Contrat de fourniture",
+  "nom_court": "contrat de fourniture",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de fourniture",
+  "mots_cles_secondaires": [
+    "contrat d'approvisionnement",
+    "contrat-cadre de fourniture",
+    "contrat de fourniture de marchandises",
+    "contrat fournisseur client",
+    "contrat d'approvisionnement exclusif",
+    "contrat de fourniture industrielle"
+  ],
+  "titre_h1": "Modèle de contrat de fourniture gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de fourniture gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat-cadre de fourniture entre entreprises : commandes successives, révision des prix, volumes, exclusivité, retards, préavis.",
+  "chapo": "Le contrat de fourniture fixe une fois pour toutes les règles d'un approvisionnement régulier entre un fournisseur et son client professionnel. Téléchargez un modèle de contrat-cadre complet et voyez comment encadrer le prix, les volumes et les ruptures de stock.",
+  "public": "Entreprises fournisseurs et entreprises clientes",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-fourniture-lumen-juris",
+  "date_publication": "2026-10-28",
+  "date_mise_a_jour": "2026-10-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit commercial",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Décrire les produits et leurs spécifications",
+      "Remplissez l'Annexe 1 avec les références, tolérances et normes : c'est la base pour juger une livraison conforme."
+    ],
+    [
+      "Choisir le niveau d'engagement",
+      "Retenez à l'article 3 l'absence d'engagement, un volume minimum ou une exclusivité, dans la limite de dix ans pour l'exclusivité."
+    ],
+    [
+      "Construire la règle de prix",
+      "Choisissez prix ferme, indexation sur un indice lié aux produits ou tarif du fournisseur, et détaillez la formule à l'Annexe 3."
+    ],
+    [
+      "Fixer délais, pénalités et contrôle à réception",
+      "Indiquez le délai de livraison, le taux et le plafond des pénalités, et le délai pour signaler un défaut."
+    ],
+    [
+      "Préparer la sortie",
+      "Fixez la durée, un préavis qui croît avec l'ancienneté et le sort des stocks fabriqués pour le client."
+    ]
+  ],
+  "faq": [
+    [
+      "Qu'est-ce qu'un contrat-cadre de fourniture ?",
+      "C'est un contrat qui fixe les règles générales d'une relation d'approvisionnement : produits, prix, délais, garanties. Les commandes passées ensuite en sont l'application et n'ont pas à reprendre ces conditions. Le code civil reconnaît ce mécanisme à l'article 1111."
+    ],
+    [
+      "Le fournisseur peut-il augmenter ses prix en cours de contrat ?",
+      "Seulement si le contrat le prévoit : formule d'indexation, renégociation annuelle ou tarif fixé par le fournisseur. Dans ce dernier cas, il doit justifier le montant en cas de contestation, et un abus peut être sanctionné. Sans clause, le prix convenu s'applique jusqu'au terme."
+    ],
+    [
+      "Quel indice choisir pour indexer le prix ?",
+      "Un indice en rapport direct avec les produits ou l'activité de l'une des parties, par exemple un indice de prix de production publié par l'INSEE pour la matière concernée. Les indexations sur le SMIC ou sur le niveau général des prix sont interdites."
+    ],
+    [
+      "Une clause d'exclusivité d'approvisionnement est-elle valable ?",
+      "Oui, si elle est limitée dans le temps : dix ans au plus selon le code de commerce. Elle doit aussi rester compatible avec le droit de la concurrence, surtout si le fournisseur ou le client occupe une place importante sur son marché."
+    ],
+    [
+      "Que faire si le fournisseur livre en retard ?",
+      "Le contrat prévoit des pénalités de retard après mise en demeure, plafonnées. Au-delà du plafond, le client peut annuler la commande et s'approvisionner ailleurs, le surcoût justifié restant à la charge du fournisseur."
+    ],
+    [
+      "Une hausse brutale des matières premières permet-elle de renégocier ?",
+      "Si le contrat ne l'exclut pas, la partie pour qui l'exécution devient excessivement onéreuse, à cause d'un changement imprévisible, peut demander une renégociation. Elle doit continuer à exécuter pendant la discussion. Le modèle permet de garder ou d'écarter cette possibilité."
+    ],
+    [
+      "Quel préavis respecter pour arrêter de travailler avec un fournisseur ?",
+      "Un préavis écrit, dont la durée tient compte de l'ancienneté de la relation et de la dépendance économique de l'autre partie. Une rupture trop brusque d'une relation établie engage la responsabilité de celui qui rompt, même si le préavis contractuel a été respecté."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1111 (contrat-cadre), 1164 (prix fixé unilatéralement), 1195 (imprévision), 1218 (force majeure) et 1231-5 (clause pénale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 133-3 (réserves au transporteur), L. 330-1 (exclusivité limitée à dix ans), L. 441-3 (convention annuelle), L. 441-10 (délais de paiement) et L. 442-1 (rupture brutale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code monétaire et financier, article L. 112-2 (clauses d'indexation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-fourniture"
+  }
+}

@@ -1,0 +1,177 @@
+# CONTRAT-CADRE DE FOURNITURE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Ce contrat-cadre (article 1111 du code civil) organise des livraisons successives de produits entre deux professionnels : il fixe les règles communes, et chaque commande passée ensuite en est l'application. Il vise un client qui utilise ou transforme les produits pour son activité. Si le client revend les produits en l'état, la négociation commerciale relève en plus de la convention écrite annuelle prévue par le code de commerce (articles L. 441-3 et suivants), et de règles particulières pour les produits alimentaires et agricoles. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Fournisseur »,
+
+ET :
+
+[Dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom Nom], en qualité de [fonction],
+
+ci-après le « Client »,
+
+ci-après ensemble les « Parties ».
+
+## PRÉAMBULE
+
+Le Client a besoin, pour son activité de [activité], d'un approvisionnement régulier en [nature des produits]. Le Fournisseur fabrique ou commercialise ces produits. Les Parties souhaitent fixer, pour toute la durée de leur relation, les conditions dans lesquelles le Client passera ses commandes et le Fournisseur les exécutera.
+
+## ARTICLE 1 – OBJET ET DOCUMENTS CONTRACTUELS
+
+Le présent contrat définit les conditions dans lesquelles le Fournisseur livre au Client les produits décrits à l'Annexe 1 (ci-après les « Produits »), selon les commandes successives du Client.
+
+Les documents contractuels sont, par ordre de priorité décroissant : le présent contrat, ses annexes, puis chaque commande acceptée. Les conditions générales d'achat du Client et les conditions générales de vente du Fournisseur ne s'appliquent pas aux commandes passées en exécution du contrat, sauf sur les points qu'il ne règle pas.
+
+## ARTICLE 2 – SPÉCIFICATIONS ET QUALITÉ
+
+Les Produits sont conformes aux spécifications techniques de l'Annexe 1 et aux normes et réglementations applicables à leur usage déclaré, à savoir : [usage].
+
+Le Fournisseur informe le Client par écrit, au moins [nombre] jours à l'avance, de toute modification de la composition, de l'origine ou du procédé de fabrication des Produits susceptible d'affecter leurs caractéristiques. Le Client peut refuser cette modification ; il peut alors résilier le contrat pour les Produits concernés, sans indemnité, en respectant un préavis de [durée].
+
+## ARTICLE 3 – VOLUMES ET EXCLUSIVITÉ
+
+> Option 1 (sans engagement de volume) : Le Client passe commande selon ses besoins. Il communique à titre indicatif, chaque [trimestre], une prévision de ses besoins pour la période suivante, qui ne l'engage pas.
+
+> Option 2 (volume minimum) : Le Client s'engage à commander au moins [quantité] de Produits par [année / semestre]. Si ce volume n'est pas atteint du fait du Client, celui-ci verse au Fournisseur une indemnité égale à [pourcentage] % du prix des quantités manquantes, sauf cas de force majeure ou manquement du Fournisseur.
+
+> Option 3 (exclusivité d'approvisionnement) : Le Client s'engage à acheter exclusivement auprès du Fournisseur les Produits de l'Annexe 1 nécessaires à [site / activité]. En contrepartie, le Fournisseur garantit la disponibilité des quantités prévues à l'Annexe 2 et accorde les conditions tarifaires de l'Annexe 3.
+
+> Note de rédaction : une clause d'exclusivité d'achat est limitée à dix ans au plus (article L. 330-1 du code de commerce). Une exclusivité qui verrouille une part importante du marché peut aussi être contestée au regard du droit de la concurrence.
+
+## ARTICLE 4 – COMMANDES
+
+### 4.1 Passation
+
+Chaque commande est adressée par écrit [par courrier électronique / sur la plateforme du Fournisseur] et précise les références, quantités, prix applicable, date et lieu de livraison.
+
+### 4.2 Acceptation
+
+Le Fournisseur accepte ou refuse la commande dans un délai de [nombre] jours ouvrés. Sans réponse dans ce délai, la commande est réputée acceptée [dans la limite des quantités prévues à l'Annexe 2]. Le Fournisseur ne peut refuser une commande conforme au contrat que pour un motif légitime, qu'il indique par écrit.
+
+### 4.3 Modification et annulation
+
+Le Client peut modifier ou annuler une commande sans frais jusqu'à [nombre] jours avant la date de livraison prévue. Au-delà, il prend en charge les Produits déjà fabriqués spécialement pour lui et les frais justifiés engagés par le Fournisseur.
+
+## ARTICLE 5 – PRIX
+
+### 5.1 Tarif
+
+Les prix sont fixés à l'Annexe 3, hors taxes, [départ usine du Fournisseur / rendu site du Client, selon l'Incoterm [Incoterm] dans sa version en vigueur].
+
+### 5.2 Révision
+
+> Option 1 (prix ferme) : Les prix sont fermes pendant [durée] à compter de la signature. Ils sont ensuite renégociés chaque année avant le [date] ; à défaut d'accord, les prix en vigueur continuent de s'appliquer et chaque Partie peut résilier le contrat en respectant le préavis de l'article 11.2.
+
+> Option 2 (indexation) : Les prix sont révisés [chaque trimestre / chaque année] selon la formule de l'Annexe 3, qui tient compte de l'évolution de l'indice [nom de l'indice publié par l'INSEE ou d'un indice professionnel], en rapport direct avec les matières ou coûts des Produits.
+
+> Option 3 (tarif fixé par le Fournisseur) : Le Fournisseur peut modifier son tarif en informant le Client par écrit au moins [nombre] jours avant l'application du nouveau tarif. Le Client peut, dans ce délai, contester le nouveau prix ou résilier le contrat sans indemnité ; en cas de contestation, le Fournisseur justifie le montant. Les commandes acceptées avant l'entrée en vigueur du nouveau tarif restent facturées à l'ancien prix.
+
+> Note de rédaction : l'indice choisi doit être en relation directe avec l'objet du contrat ou l'activité de l'une des Parties ; une indexation sur le SMIC ou sur le niveau général des prix est interdite (article L. 112-2 du code monétaire et financier). Dans un contrat-cadre, la fixation unilatérale du prix par une Partie est permise, mais celle-ci doit en motiver le montant en cas de contestation, et un abus peut être sanctionné (article 1164 du code civil).
+
+## ARTICLE 6 – LIVRAISON ET RÉCEPTION
+
+### 6.1 Délais
+
+Le Fournisseur livre dans un délai de [nombre] jours à compter de l'acceptation de la commande, à l'adresse indiquée par le Client.
+
+### 6.2 Retard
+
+En cas de retard de livraison non imputable au Client ou à la force majeure, le Fournisseur doit, après une mise en demeure restée sans effet pendant [nombre] jours, une pénalité de [pourcentage] % du prix hors taxes des Produits livrés en retard par [jour / semaine] de retard, plafonnée à [pourcentage] % de ce prix. Au-delà du plafond, le Client peut annuler la commande concernée et s'approvisionner ailleurs, aux frais du Fournisseur pour le surcoût justifié.
+
+### 6.3 Contrôle à réception
+
+Le Client vérifie la quantité et l'aspect des Produits à la livraison et formule ses réserves sur le bon de livraison. Il signale tout défaut de conformité décelable par un contrôle normal dans les [nombre] jours ouvrés suivant la livraison. Le Fournisseur reprend ou remplace à ses frais les Produits non conformes dans un délai de [nombre] jours.
+
+> Note de rédaction : en cas de transport, les réserves contre le transporteur doivent en outre être confirmées dans les trois jours de la réception, sans compter les jours fériés (article L. 133-3 du code de commerce).
+
+## ARTICLE 7 – TRANSFERT DE PROPRIÉTÉ ET DES RISQUES
+
+Les risques sont transférés au Client [à la remise des Produits sur son site / à la remise au premier transporteur, selon l'Incoterm retenu].
+
+> Option (réserve de propriété) : Le Fournisseur conserve la propriété des Produits jusqu'au paiement intégral de leur prix. Le Client peut les utiliser ou les transformer dans le cours normal de son activité ; il ne peut pas les donner en garantie avant le paiement complet.
+
+## ARTICLE 8 – FACTURATION ET PAIEMENT
+
+Chaque livraison donne lieu à une facture. Les factures sont payables à [nombre] jours à compter de leur date d'émission, par virement, dans la limite de l'article L. 441-10 du code de commerce.
+
+Tout retard de paiement entraîne de plein droit des pénalités au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points, ainsi que l'indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+En cas de retard de paiement supérieur à [nombre] jours, le Fournisseur peut suspendre les livraisons suivantes, après une mise en demeure restée sans effet pendant [nombre] jours.
+
+## ARTICLE 9 – GARANTIE ET RESPONSABILITÉ
+
+Le Fournisseur garantit les Produits contre tout défaut de conformité aux spécifications et contre les vices cachés, pendant [durée] à compter de leur livraison, sans préjudice des garanties légales. Il remplace ou rembourse à son choix les Produits défectueux, et prend en charge les frais de retour.
+
+Le Fournisseur déclare être assuré pour sa responsabilité civile, y compris du fait des produits défectueux, auprès de [assureur], pour un montant d'au moins [montant] euros par sinistre. Il en justifie à première demande.
+
+> Option : Sauf faute lourde ou dolosive, dommage corporel ou responsabilité du fait des produits défectueux, la responsabilité de chaque Partie au titre du contrat est limitée, par année, au [montant / prix hors taxes des Produits commandés au cours des douze derniers mois].
+
+## ARTICLE 10 – FORCE MAJEURE ET CHANGEMENT DE CIRCONSTANCES
+
+### 10.1 Force majeure
+
+Aucune Partie n'est responsable d'un manquement dû à un événement de force majeure au sens de l'article 1218 du code civil. La Partie empêchée en informe l'autre sans délai. Si l'empêchement dure plus de [nombre] jours, chaque Partie peut résilier le contrat par écrit, sans indemnité.
+
+En cas de pénurie, le Fournisseur répartit les quantités disponibles entre ses clients de façon équitable et en informe le Client.
+
+### 10.2 Changement de circonstances imprévisible
+
+> Option 1 : Si un changement de circonstances imprévisible lors de la signature rend l'exécution excessivement onéreuse pour une Partie (par exemple, une hausse brutale du coût des matières premières de plus de [pourcentage] %), celle-ci peut demander une renégociation, dans les conditions de l'article 1195 du code civil. Elle continue d'exécuter ses obligations pendant la renégociation.
+
+> Option 2 : Chaque Partie accepte d'assumer le risque d'un changement de circonstances imprévisible et renonce à se prévaloir de l'article 1195 du code civil, la formule de révision de l'article 5.2 étant réputée répartir ce risque entre elles.
+
+## ARTICLE 11 – DURÉE ET FIN DU CONTRAT
+
+### 11.1 Durée
+
+> Option 1 : Le contrat est conclu pour une durée de [durée] à compter du [date]. Il ne se renouvelle pas tacitement.
+
+> Option 2 : Le contrat est conclu pour une durée initiale de [durée] à compter du [date]. Il se renouvelle ensuite par tacite reconduction pour une durée indéterminée.
+
+### 11.2 Résiliation du contrat à durée indéterminée
+
+Chaque Partie peut mettre fin au contrat à durée indéterminée par lettre recommandée avec avis de réception, moyennant un préavis de [durée, en principe au moins trois mois], augmenté d'un mois par année de relation au-delà de la [nombre] année.
+
+> Note de rédaction : le préavis doit tenir compte de la durée de la relation commerciale et de la dépendance éventuelle de l'autre Partie ; une rupture brutale engage la responsabilité de son auteur (article L. 442-1, II du code de commerce). Un préavis de dix-huit mois écarte ce risque.
+
+### 11.3 Résiliation pour manquement
+
+En cas de manquement grave d'une Partie, notamment des retards ou non-conformités répétés ou des défauts de paiement, l'autre Partie peut résilier le contrat trente jours après une mise en demeure restée sans effet, par lettre recommandée avec avis de réception.
+
+### 11.4 Conséquences
+
+Les commandes acceptées avant la fin du contrat sont exécutées aux conditions du contrat, sauf résiliation pour manquement du Fournisseur. Le Client achète, au prix contractuel, les stocks de Produits spécifiques constitués à sa demande expresse dans la limite des quantités prévues à l'Annexe 2.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Chaque Partie garde confidentielles les informations techniques et commerciales reçues de l'autre, notamment les spécifications, prix et volumes, pendant la durée du contrat et [nombre] ans après sa fin.
+
+## ARTICLE 13 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la réception d'une lettre exposant le désaccord. À défaut, le litige est porté devant le tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Fournisseur
+[Prénom Nom, fonction]
+Signature :
+
+Pour le Client
+[Prénom Nom, fonction]
+Signature :
+
+## ANNEXE 1 – PRODUITS ET SPÉCIFICATIONS TECHNIQUES
+
+[Références, caractéristiques, tolérances, normes, conditionnement]
+
+## ANNEXE 2 – PRÉVISIONS, VOLUMES ET STOCK DE SÉCURITÉ
+
+[Volumes prévisionnels ou minimums, stock de sécurité éventuel tenu par le Fournisseur]
+
+## ANNEXE 3 – TARIF ET FORMULE DE RÉVISION
+
+[Prix unitaires hors taxes, remises, formule d'indexation et indice de référence]

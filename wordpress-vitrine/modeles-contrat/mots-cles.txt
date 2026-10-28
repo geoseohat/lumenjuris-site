@@ -31,7 +31,7 @@
 [x] 2026-10-28 contrat de commission -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-commission/
 [x] 2026-10-28 contrat de mandat -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-mandat/
 [x] 2026-10-28 contrat de vente -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente/
-contrat de fourniture
+[x] 2026-10-28 contrat de fourniture -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-fourniture/
 contrat de maintenance
 contrat de licence
 contrat de licence de logiciel

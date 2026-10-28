@@ -574,27 +574,53 @@
     "contrat-de-vente": {
       "fichiers": {
         "docx": {
-          "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o1.id}}",
-          "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o1.source_url}}",
+          "id": 3194,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-vente-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "c4feb32c97f48a916c4d05a902e1b3b5e1e94ace77dd09274138424bdd2295d9"
         },
         "pdf": {
-          "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o2.id}}",
-          "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o2.source_url}}",
+          "id": 3195,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-vente-lumen-juris.pdf",
           "taille": "114 Ko",
           "empreinte": "c4feb32c97f48a916c4d05a902e1b3b5e1e94ace77dd09274138424bdd2295d9"
         }
       },
       "image": {
-        "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o3.id}}",
-        "url": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o3.source_url}}",
+        "id": 3196,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-vente-lumen-juris.png",
         "taille": "295 Ko",
         "empreinte": "057d6db9d1cda770e35d0bd0f9836d18e8f3d40fe9422ba74df5d21b87b00b9e"
       },
       "statut": "publish",
-      "id": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o7.id}}",
-      "lien": "{{20261028-092133-publier-en-ligne-contrat-de-vente.o7.link}}",
+      "id": 3197,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-fourniture": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o1.id}}",
+          "url": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "5c319dcf0fc2e9e7461a654b2fc5e5aa7d800ff9e4d11a419c38e15649fa65fe"
+        },
+        "pdf": {
+          "id": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o2.id}}",
+          "url": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o2.source_url}}",
+          "taille": "115 Ko",
+          "empreinte": "5c319dcf0fc2e9e7461a654b2fc5e5aa7d800ff9e4d11a419c38e15649fa65fe"
+        }
+      },
+      "image": {
+        "id": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o3.id}}",
+        "url": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o3.source_url}}",
+        "taille": "287 Ko",
+        "empreinte": "04c236a6cdb3a9a1c340865da9353017b2030265f66c56126b6aff67cc5e53eb"
+      },
+      "statut": "publish",
+      "id": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o7.id}}",
+      "lien": "{{20261028-092356-publier-en-ligne-contrat-de-fourniture.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -603,6 +629,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261028-092133-publier-en-ligne-contrat-de-vente"
+    "20261028-092356-publier-en-ligne-contrat-de-fourniture"
   ]
 }
