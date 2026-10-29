@@ -1,0 +1,183 @@
+# CONTRAT D'ABONNEMENT À UN LOGICIEL EN LIGNE (SAAS)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle encadre l'accès à un logiciel hébergé par l'éditeur et utilisé en ligne, entre professionnels. Pour un logiciel installé sur les serveurs du client, utilisez plutôt un contrat de licence de logiciel.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale de l'éditeur], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Fournisseur »,
+
+ET
+
+[Dénomination sociale du client], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Client »,
+
+ensemble « les Parties ».
+
+## ARTICLE 1 – DÉFINITIONS
+
+- Service : l'accès en ligne à la solution [nom de la solution], hébergée par le Fournisseur ou ses sous-traitants, et ses fonctionnalités décrites en annexe 1.
+- Données du Client : toutes les données, contenus et fichiers que le Client ou ses Utilisateurs saisissent, importent ou génèrent dans le Service.
+- Utilisateur : toute personne physique à laquelle le Client attribue un identifiant d'accès.
+- Disponibilité : la possibilité d'accéder au Service et d'utiliser ses fonctionnalités principales, mesurée selon l'annexe 2.
+- Incident : toute interruption ou dégradation du Service.
+
+## ARTICLE 2 – OBJET
+
+Le contrat fixe les conditions dans lesquelles le Fournisseur met le Service à la disposition du Client, sur abonnement, ainsi que les prestations associées : hébergement, sauvegarde, maintenance, assistance et, le cas échéant, paramétrage initial.
+
+Le contrat se compose, par ordre de priorité décroissant, des présentes conditions particulières et de leurs annexes. Les conditions générales du Client ou du Fournisseur ne s'appliquent pas.
+
+## ARTICLE 3 – ACCÈS AU SERVICE
+
+### 3.1 Ouverture des accès
+
+Le Fournisseur ouvre le Service et transmet les identifiants d'administration au Client dans un délai de [nombre] jours ouvrés à compter de la signature. Le Client crée ensuite les comptes de ses Utilisateurs dans la limite de l'abonnement souscrit.
+
+### 3.2 Droit d'utilisation
+
+Le Fournisseur concède au Client, pour la durée du contrat, un droit non exclusif et non cessible d'accéder au Service et de l'utiliser pour les besoins internes de son activité, par [nombre] Utilisateurs [nommés / simultanés]. Ce droit s'étend aux sociétés suivantes du groupe du Client : [liste ou « néant »].
+
+Le Client s'interdit de revendre l'accès au Service, de tenter d'accéder à son code source, de contourner ses mesures de sécurité ou de l'utiliser pour des contenus illicites.
+
+### 3.3 Identifiants
+
+Les identifiants sont personnels et confidentiels. Le Client veille à ce que ses Utilisateurs les protègent. Il informe le Fournisseur sans délai de toute utilisation non autorisée, afin que les accès concernés soient bloqués.
+
+## ARTICLE 4 – NIVEAUX DE SERVICE
+
+### 4.1 Disponibilité
+
+Le Fournisseur s'engage à un taux de Disponibilité mensuel de [99,5] %, calculé selon l'annexe 2, hors maintenance programmée.
+
+La maintenance programmée est réalisée [en dehors des jours ouvrés / entre [heure] et [heure]], dans la limite de [nombre] heures par mois, et annoncée au Client au moins [nombre] jours à l'avance.
+
+> Note de rédaction : un taux de 99,5 % par mois autorise environ 3 heures 40 d'indisponibilité ; 99,9 %, environ 44 minutes. Choisissez un taux que le Fournisseur peut réellement mesurer et tenir.
+
+### 4.2 Traitement des incidents
+
+Le Client signale les Incidents par [outil de ticket / courriel / téléphone], [jours et horaires du support]. Le Fournisseur les traite selon leur gravité :
+- Incident bloquant (Service inaccessible ou fonctionnalité essentielle hors d'usage) : prise en charge sous [nombre] heures ouvrées, solution de contournement ou correction sous [nombre] heures ouvrées ;
+- Incident majeur : prise en charge sous [nombre] heures ouvrées, correction sous [nombre] jours ouvrés ;
+- Incident mineur : correction dans une prochaine version.
+
+### 4.3 Crédits de service
+
+Si le taux de Disponibilité d'un mois est inférieur à l'engagement, le Client bénéficie d'un avoir égal à :
+- [5] % de la redevance mensuelle si le taux est compris entre [99] % et l'engagement ;
+- [15] % si le taux est compris entre [97] % et [99] % ;
+- [30] % si le taux est inférieur à [97] %.
+
+L'avoir est imputé sur la facture suivante, sur demande du Client formulée dans les [trente] jours suivant la fin du mois concerné. Les avoirs ne privent pas le Client de son droit de résilier le contrat en cas de manquement grave ni de demander réparation d'un préjudice supérieur.
+
+> Note de rédaction : présenter les crédits de service comme la seule réparation possible peut, selon leur montant, priver de sa substance l'engagement de disponibilité. Le modèle les laisse cumulables avec les autres recours.
+
+## ARTICLE 5 – ÉVOLUTIONS DU SERVICE
+
+Le Fournisseur fait évoluer le Service et ses fonctionnalités. Il ne peut pas supprimer ou dégrader de façon importante une fonctionnalité essentielle décrite en annexe 1 sans en informer le Client au moins [trois] mois à l'avance. Dans ce cas, le Client peut résilier le contrat sans frais avant la date de l'évolution, et les sommes payées d'avance pour la période restante lui sont remboursées.
+
+## ARTICLE 6 – DONNÉES DU CLIENT
+
+### 6.1 Propriété
+
+Le Client reste seul titulaire des droits sur les Données du Client. Le Fournisseur ne les utilise que pour exécuter le contrat. [Option : Le Fournisseur peut produire des statistiques anonymes et agrégées sur l'utilisation du Service, qui ne permettent d'identifier ni le Client ni aucune personne.]
+
+### 6.2 Hébergement et sauvegarde
+
+Les Données du Client sont hébergées [dans l'Union européenne / en France], dans les centres de données suivants : [prestataires et localisation]. Elles sont sauvegardées au moins [une fois par jour], avec une durée de conservation des sauvegardes de [nombre] jours. Le Fournisseur teste la restauration au moins [une fois par an].
+
+Tout changement de lieu d'hébergement hors de l'Union européenne nécessite l'accord écrit préalable du Client.
+
+### 6.3 Sécurité
+
+Le Fournisseur met en œuvre les mesures techniques et organisationnelles décrites en annexe 3 : chiffrement des flux et des données stockées, gestion des droits d'accès, journalisation, tests d'intrusion [annuels], plan de continuité. Il notifie au Client toute violation de sécurité affectant les Données du Client dans les meilleurs délais et au plus tard [24 / 48] heures après en avoir pris connaissance.
+
+### 6.4 Données personnelles
+
+Pour les données personnelles que le Client traite au moyen du Service, le Fournisseur agit comme sous-traitant au sens du règlement (UE) 2016/679. Les Parties signent l'accord de traitement de données figurant en annexe 4, qui précise notamment l'objet et la durée du traitement, les catégories de données, les sous-traitants ultérieurs autorisés et le sort des données en fin de contrat.
+
+## ARTICLE 7 – PRIX ET PAIEMENT
+
+### 7.1 Abonnement
+
+Le Client paie un abonnement de [montant] euros hors taxes par [Utilisateur et par mois / mois / an], payable [mensuellement / annuellement] d'avance. Les prestations de paramétrage, de reprise de données et de formation sont facturées selon l'annexe 5.
+
+### 7.2 Évolution du prix
+
+Le Fournisseur peut modifier ses tarifs une fois par an, à la date anniversaire du contrat, en informant le Client au moins [trois] mois à l'avance. Si la hausse dépasse [5] %, le Client peut résilier le contrat à la date d'application du nouveau tarif, sans frais.
+
+### 7.3 Paiement
+
+Les factures sont payables à [trente] jours à compter de leur date d'émission. Tout retard entraîne de plein droit des pénalités au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de quarante euros.
+
+Après une mise en demeure restée sans effet pendant [trente] jours, le Fournisseur peut suspendre l'accès au Service jusqu'au paiement. La suspension ne supprime pas les Données du Client.
+
+## ARTICLE 8 – DURÉE
+
+Le contrat prend effet le [date] pour une période initiale de [douze] mois. Il est ensuite renouvelé par périodes de [douze] mois, sauf dénonciation par l'une des Parties par lettre recommandée avec avis de réception ou courriel avec accusé de réception, au moins [deux] mois avant l'échéance.
+
+## ARTICLE 9 – RÉVERSIBILITÉ ET CHANGEMENT DE FOURNISSEUR
+
+### 9.1 Demande de réversibilité
+
+Le Client peut, à tout moment, demander à quitter le Service pour un autre fournisseur ou pour ses propres serveurs. Le Fournisseur l'accompagne dans les conditions suivantes :
+- délai de préavis : la réversibilité démarre au plus tard [deux] mois après la demande du Client ;
+- période de transition : [trente] jours, pendant lesquels le Service reste accessible et le Fournisseur restitue les Données du Client ;
+- format de restitution : [formats ouverts et lisibles par machine, par exemple CSV, JSON ou XML], avec la description de leur structure ;
+- assistance : [nombre] jours d'assistance technique [compris dans l'abonnement / facturés selon l'annexe 5].
+
+> Note de rédaction : depuis le 12 septembre 2025, le règlement européen sur les données (Data Act) impose aux fournisseurs de services en nuage des clauses de changement de fournisseur : préavis de deux mois au plus, période de transition de trente jours en principe, restitution des données exportables. Les frais de changement doivent être limités aux coûts réels et disparaîtront à partir du 12 janvier 2027. Vérifiez que l'annexe 5 respecte ces plafonds.
+
+### 9.2 Suppression des données
+
+À l'issue de la période de transition, et après confirmation écrite par le Client de la bonne récupération de ses données, le Fournisseur supprime les Données du Client de ses systèmes et de ses sauvegardes dans un délai de [nombre] jours, et en atteste par écrit, sauf obligation légale de conservation.
+
+## ARTICLE 10 – PROPRIÉTÉ INTELLECTUELLE ET GARANTIE D'ÉVICTION
+
+Le Fournisseur reste titulaire de tous les droits sur le Service, son code, ses bases de données et sa documentation. Il garantit qu'il dispose des droits nécessaires à la fourniture du Service et que celui-ci ne contrefait pas les droits de tiers. Il défend le Client contre toute réclamation sur ce fondement et prend en charge les condamnations prononcées, à condition d'en être informé sans délai.
+
+## ARTICLE 11 – RESPONSABILITÉ ET ASSURANCE
+
+Chaque Partie répond des dommages directs et prévisibles causés à l'autre par l'inexécution de ses obligations.
+
+[Option : La responsabilité totale du Fournisseur est limitée, par année contractuelle, à [montant / nombre de mois] de redevances. Cette limite ne s'applique pas en cas de faute lourde ou dolosive, de violation des obligations de sécurité et de confidentialité des Données du Client, ni à la garantie d'éviction.]
+
+Le Fournisseur déclare être assuré pour sa responsabilité civile professionnelle, y compris pour les risques cyber, auprès de [assureur], et en justifie sur demande.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Chaque Partie garde confidentielles les informations de l'autre dont elle a connaissance à l'occasion du contrat, pendant sa durée et [trois] ans après sa fin. Les Données du Client restent confidentielles sans limite de durée.
+
+## ARTICLE 13 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties, non réparé dans les [trente] jours d'une mise en demeure par lettre recommandée avec avis de réception visant la présente clause, l'autre Partie peut résilier le contrat de plein droit. Constitue notamment un manquement grave un taux de Disponibilité inférieur à [97] % pendant [deux] mois consécutifs ou [trois] mois sur une période de douze mois.
+
+La résiliation, quelle qu'en soit la cause, ouvre la réversibilité prévue à l'article 9. Les redevances payées d'avance pour une période non exécutée sont remboursées, sauf résiliation pour faute du Client.
+
+## ARTICLE 14 – FORCE MAJEURE
+
+Aucune Partie n'est responsable d'un manquement causé par un événement échappant à son contrôle, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées. Une panne d'un sous-traitant d'hébergement du Fournisseur ne constitue pas, à elle seule, un cas de force majeure. Si l'empêchement dure plus de [trente] jours, chaque Partie peut résilier le contrat.
+
+## ARTICLE 15 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. Les Parties recherchent d'abord une solution amiable pendant [trente] jours. À défaut, le litige est porté devant le tribunal [des activités économiques / de commerce] de [ville].
+
+Fait à [ville], le [date] [en deux exemplaires originaux / signé électroniquement].
+
+Pour le Fournisseur
+[nom, fonction, signature]
+
+Pour le Client
+[nom, fonction, signature]
+
+## ANNEXES
+
+- Annexe 1 : description du Service et fonctionnalités essentielles
+- Annexe 2 : niveaux de service et méthode de mesure de la Disponibilité
+- Annexe 3 : mesures de sécurité
+- Annexe 4 : accord de traitement de données personnelles (article 28 du RGPD)
+- Annexe 5 : tarifs des prestations associées et de la réversibilité

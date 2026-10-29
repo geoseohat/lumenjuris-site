@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-saas",
+  "nom": "Contrat SaaS",
+  "nom_court": "contrat SaaS",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat SaaS",
+  "mots_cles_secondaires": [
+    "contrat d'abonnement SaaS",
+    "contrat logiciel en ligne",
+    "contrat cloud SaaS B2B",
+    "SLA contrat SaaS",
+    "clause de réversibilité SaaS",
+    "conditions générales d'abonnement logiciel"
+  ],
+  "titre_h1": "Modèle de contrat SaaS gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat SaaS gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de contrat SaaS gratuit en Word et PDF : disponibilité, crédits de service, sécurité et RGPD, prix, réversibilité conforme au Data Act.",
+  "chapo": "Le contrat SaaS encadre l'abonnement à un logiciel hébergé par son éditeur et les données que le client lui confie. Téléchargez notre modèle entre professionnels et découvrez comment chiffrer la disponibilité et organiser la sortie.",
+  "public": "Éditeurs de logiciels en ligne et entreprises clientes",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-saas-lumen-juris",
+  "date_publication": "2026-10-29",
+  "date_mise_a_jour": "2026-10-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Protection des données personnelles",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Lister les fonctionnalités essentielles",
+      "Décrivez en annexe les fonctions sans lesquelles le service ne sert plus au client, et qui ne pourront pas être retirées sans préavis."
+    ],
+    [
+      "Chiffrer le niveau de service",
+      "Fixez le taux de disponibilité, la méthode de mesure, les délais de traitement des incidents et le barème des crédits."
+    ],
+    [
+      "Cartographier les données",
+      "Indiquez le lieu d'hébergement, les sous-traitants, la fréquence des sauvegardes et signez l'accord de traitement de données."
+    ],
+    [
+      "Encadrer le prix",
+      "Précisez le mode de calcul de l'abonnement, la date de révision annuelle et le seuil de hausse ouvrant une sortie sans frais."
+    ],
+    [
+      "Préparer la sortie",
+      "Fixez le préavis, la durée de transition, les formats d'export et le coût de la réversibilité dans les limites du Data Act."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat SaaS est-il une licence de logiciel ?",
+      "Pas seulement. Il comprend un droit d'utiliser le logiciel, mais aussi l'hébergement, la maintenance et la sécurité des données. Le client n'installe pas le logiciel et n'en obtient aucune copie."
+    ],
+    [
+      "Quel taux de disponibilité exiger dans un contrat SaaS ?",
+      "Il dépend de l'usage. Pour un outil de gestion courant, 99,5 % par mois est fréquent ; pour un service critique, 99,9 % ou plus. L'essentiel est que le taux soit mesurable et assorti de conséquences en cas de manquement."
+    ],
+    [
+      "L'éditeur peut-il augmenter l'abonnement en cours de contrat ?",
+      "Seulement si le contrat le prévoit. Une clause raisonnable limite la révision à une fois par an, avec un préavis, et permet au client de partir sans frais si la hausse dépasse un seuil."
+    ],
+    [
+      "Que deviennent mes données à la fin d'un abonnement SaaS ?",
+      "Le contrat doit prévoir leur restitution dans un format exploitable, puis leur suppression par l'éditeur. Pour les données personnelles, le RGPD impose ce choix entre suppression et restitution à la fin du service."
+    ],
+    [
+      "Le Data Act s'applique-t-il aux petites offres SaaS ?",
+      "Ses règles sur le changement de fournisseur visent l'ensemble des services de traitement de données, dont le SaaS, quel que soit le client professionnel. Certaines obligations sont allégées pour les services sur mesure et pour les versions d'essai."
+    ],
+    [
+      "L'éditeur peut-il couper l'accès en cas d'impayé ?",
+      "Oui, si le contrat le prévoit, mais de préférence après une mise en demeure restée sans effet. La suspension ne doit pas entraîner la suppression des données du client."
+    ],
+    [
+      "Faut-il signer un accord RGPD avec un fournisseur SaaS ?",
+      "Oui, dès que le service traite des données personnelles pour le compte du client, ce qui est presque toujours le cas. L'article 28 du RGPD impose un contrat écrit avec un contenu minimal."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1170 (clause privant l'obligation essentielle de sa substance), 1171 (déséquilibre significatif dans un contrat d'adhésion) et 1218 (force majeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais et pénalités de paiement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 28 (sous-traitant), 32 (sécurité) et 33 (notification des violations)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Règlement (UE) 2023/2854 sur les données (Data Act), chapitre VI (changement de fournisseur de services de traitement de données)",
+      "https://eur-lex.europa.eu/eli/reg/2023/2854/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-saas"
+  }
+}

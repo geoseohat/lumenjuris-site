@@ -652,27 +652,53 @@
     "contrat-de-licence-de-logiciel": {
       "fichiers": {
         "docx": {
-          "id": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o1.id}}",
-          "url": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o1.source_url}}",
+          "id": 3209,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-licence-de-logiciel-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "706cb148ed6a0d0d80ee2c64fd57bb2b473f8b3bc0c5c58afa7de636d6afc0cb"
         },
         "pdf": {
-          "id": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o2.id}}",
-          "url": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o2.source_url}}",
+          "id": 3210,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-licence-de-logiciel-lumen-juris.pdf",
           "taille": "119 Ko",
           "empreinte": "706cb148ed6a0d0d80ee2c64fd57bb2b473f8b3bc0c5c58afa7de636d6afc0cb"
         }
       },
       "image": {
-        "id": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o3.id}}",
-        "url": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o3.source_url}}",
+        "id": 3211,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-licence-de-logiciel-lumen-juris.png",
         "taille": "293 Ko",
         "empreinte": "f0bb5475ee70cfb4f270dfcea5d89754b21582ca3b9f6bc1be914bd2ffedbe30"
       },
       "statut": "publish",
-      "id": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o7.id}}",
-      "lien": "{{20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel.o7.link}}",
+      "id": 3212,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-licence-de-logiciel/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-saas": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261029-092116-publier-en-ligne-contrat-saas.o1.id}}",
+          "url": "{{20261029-092116-publier-en-ligne-contrat-saas.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "946e6e820da464af98009e1af6e5ed23e376831d0420e9645a5c14a717a8a250"
+        },
+        "pdf": {
+          "id": "{{20261029-092116-publier-en-ligne-contrat-saas.o2.id}}",
+          "url": "{{20261029-092116-publier-en-ligne-contrat-saas.o2.source_url}}",
+          "taille": "129 Ko",
+          "empreinte": "946e6e820da464af98009e1af6e5ed23e376831d0420e9645a5c14a717a8a250"
+        }
+      },
+      "image": {
+        "id": "{{20261029-092116-publier-en-ligne-contrat-saas.o3.id}}",
+        "url": "{{20261029-092116-publier-en-ligne-contrat-saas.o3.source_url}}",
+        "taille": "284 Ko",
+        "empreinte": "b776399bb52d10ca271669b6c25d7b52cda682e14a2232e074b27d23190e07d8"
+      },
+      "statut": "publish",
+      "id": "{{20261029-092116-publier-en-ligne-contrat-saas.o7.id}}",
+      "lien": "{{20261029-092116-publier-en-ligne-contrat-saas.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -681,6 +707,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261029-091850-publier-en-ligne-contrat-de-licence-de-logiciel"
+    "20261029-092116-publier-en-ligne-contrat-saas"
   ]
 }
