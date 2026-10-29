@@ -1,0 +1,109 @@
+{
+  "slug": "contrat-de-maintenance",
+  "nom": "Contrat de maintenance",
+  "nom_court": "contrat de maintenance",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de maintenance",
+  "mots_cles_secondaires": [
+    "contrat de maintenance informatique",
+    "contrat d'entretien matériel",
+    "contrat de maintenance préventive et corrective",
+    "contrat de maintenance industrielle",
+    "modèle contrat de dépannage",
+    "clause délai d'intervention maintenance"
+  ],
+  "titre_h1": "Modèle de contrat de maintenance gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de maintenance gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de maintenance gratuit en Word et PDF : maintenance préventive et corrective, délais d'intervention, pièces, pénalités et résiliation.",
+  "chapo": "Le contrat de maintenance fixe ce que le prestataire entretient, en combien de temps il dépanne et ce qui reste facturé en plus. Téléchargez notre modèle entre professionnels et découvrez les clauses à négocier avant de signer.",
+  "public": "Entreprises clientes et prestataires de maintenance",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-maintenance-lumen-juris",
+  "date_publication": "2026-10-29",
+  "date_mise_a_jour": "2026-10-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Dresser la liste des équipements",
+      "Relevez pour chaque équipement la marque, le modèle, le numéro de série et l'emplacement, puis reportez-les en annexe 1."
+    ],
+    [
+      "Constater leur état ensemble",
+      "Faites une visite commune avant le démarrage et notez l'état apparent de chaque matériel dans l'annexe 2."
+    ],
+    [
+      "Fixer les niveaux de gravité",
+      "Définissez ce qu'est une panne bloquante, majeure ou mineure pour votre activité, et le délai d'intervention de chacune."
+    ],
+    [
+      "Choisir le régime des pièces",
+      "Indiquez si les pièces sont comprises dans la redevance ou facturées en plus, et à partir de quel montant un devis est exigé."
+    ],
+    [
+      "Noter l'échéance de dénonciation",
+      "Calculez la date limite pour dénoncer la reconduction et inscrivez-la dans votre agenda dès la signature."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat de maintenance est-il obligatoire ?",
+      "Non, en règle générale. Mais certains équipements doivent être entretenus ou vérifiés périodiquement par la réglementation (ascenseurs, chaudières, extincteurs, par exemple). Dans ces cas, confier l'entretien à un professionnel par contrat est le moyen le plus simple de respecter ses obligations."
+    ],
+    [
+      "Quelle différence entre délai d'intervention et délai de rétablissement ?",
+      "Le délai d'intervention court jusqu'au début du diagnostic par un technicien, sur site ou à distance. Le délai de rétablissement court jusqu'à la remise en marche de l'équipement. Un prestataire s'engage plus facilement sur le premier que sur le second, qui dépend parfois d'une pièce à commander."
+    ],
+    [
+      "Le prestataire de maintenance est-il responsable de toutes les pannes ?",
+      "Non. Il est en principe tenu d'une obligation de moyens : sa responsabilité suppose une faute, comme une visite non réalisée ou une alerte non donnée. Le contrat peut toutefois prévoir des engagements de résultat, par exemple sur le délai d'intervention."
+    ],
+    [
+      "Comment résilier un contrat de maintenance reconduit tacitement ?",
+      "Envoyez une lettre recommandée avec avis de réception avant la date limite fixée par le contrat, souvent un à trois mois avant l'échéance. Passé ce délai, le contrat repart pour une nouvelle période. En cas de manquement grave du prestataire, une résiliation anticipée reste possible après mise en demeure."
+    ],
+    [
+      "Les pièces de rechange sont-elles comprises dans le contrat ?",
+      "Cela dépend de ce que prévoit le contrat. Un forfait « pièces et main-d'œuvre » coûte plus cher mais protège des mauvaises surprises. Sinon, prévoyez un devis préalable au-delà d'un certain montant."
+    ],
+    [
+      "Peut-on prévoir des pénalités si le dépanneur arrive en retard ?",
+      "Oui, par une clause pénale fixant un montant par heure ou par jour de retard. Le juge peut réduire une pénalité manifestement excessive, ou augmenter une pénalité dérisoire. Un plafond exprimé en pourcentage de la redevance garde la clause proportionnée."
+    ],
+    [
+      "Faut-il un accord RGPD pour la maintenance informatique ?",
+      "Oui, dès que le technicien peut accéder à des données personnelles du client, même à distance. Le prestataire agit alors comme sous-traitant au sens de l'article 28 du RGPD, et un accord écrit fixant ses obligations est exigé."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1170 (clause privant l'obligation essentielle de sa substance), 1211 à 1215 (durée, renouvellement et tacite reconduction), 1231-5 (clause pénale) et 1710 (louage d'ouvrage)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 441-10 (délais et pénalités de paiement) et L. 442-1 (rupture brutale des relations commerciales établies)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, article L. 215-1 (information du consommateur sur la reconduction tacite)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-maintenance"
+  }
+}

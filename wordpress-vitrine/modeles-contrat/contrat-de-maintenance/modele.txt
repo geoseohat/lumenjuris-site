@@ -1,0 +1,198 @@
+# CONTRAT DE MAINTENANCE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle vise la maintenance d'équipements, d'installations ou de matériels informatiques entre professionnels. Si le client est un consommateur, des règles protectrices supplémentaires s'appliquent (information sur la reconduction tacite, droit de rétractation en cas de signature hors établissement).
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du client], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Client »,
+
+ET
+
+[Dénomination sociale du prestataire], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Prestataire »,
+
+ensemble « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Client exploite les équipements décrits en annexe 1 dans le cadre de son activité de [activité]. Il souhaite confier leur entretien et leur dépannage à un professionnel. Le Prestataire déclare disposer des compétences, des qualifications et des moyens nécessaires à la maintenance de ces équipements.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Prestataire assure la maintenance des équipements listés en annexe 1 (ci-après « les Équipements »), installés à l'adresse suivante : [adresse du ou des sites].
+
+La maintenance comprend :
+- la maintenance préventive, décrite à l'article 3 ;
+- la maintenance corrective, décrite à l'article 4 ;
+- [Option : la fourniture des pièces de rechange dans les conditions de l'article 6].
+
+Tout équipement ajouté en cours de contrat est intégré par un avenant mettant à jour l'annexe 1 et, le cas échéant, le prix.
+
+## ARTICLE 2 – ÉTAT DES ÉQUIPEMENTS À LA SIGNATURE
+
+Avant le début des prestations, les Parties établissent contradictoirement un état des Équipements (annexe 2), précisant pour chacun sa marque, son modèle, son numéro de série, son année de mise en service et son état apparent.
+
+Le Prestataire peut exclure du contrat, en le motivant par écrit, un équipement dont l'état ne permet pas une maintenance normale. Il peut aussi proposer une remise en état préalable, facturée sur devis accepté.
+
+## ARTICLE 3 – MAINTENANCE PRÉVENTIVE
+
+Le Prestataire réalise [nombre] visites de maintenance préventive par [an / semestre / trimestre], selon le calendrier figurant en annexe 3. Chaque visite comprend au minimum les opérations décrites dans cette annexe, conformément aux préconisations du fabricant et à la réglementation applicable aux Équipements.
+
+Les dates de visite sont confirmées au Client au moins [nombre] jours ouvrés à l'avance. Une visite reportée à la demande du Client est replanifiée dans un délai de [nombre] jours.
+
+À l'issue de chaque visite, le Prestataire remet un rapport d'intervention indiquant les opérations réalisées, les anomalies constatées, les pièces remplacées et les recommandations éventuelles.
+
+## ARTICLE 4 – MAINTENANCE CORRECTIVE
+
+### 4.1 Signalement des pannes
+
+Le Client signale toute panne ou tout dysfonctionnement par [téléphone au numéro / courriel à l'adresse / plateforme en ligne] pendant les heures de service suivantes : [jours et horaires].
+
+Un signalement reçu en dehors de ces heures est réputé reçu au début de la plage de service suivante.
+
+### 4.2 Niveaux de gravité et délais
+
+Les Parties retiennent les niveaux suivants :
+- panne bloquante (arrêt total de l'Équipement ou risque pour la sécurité) : délai d'intervention de [nombre] heures ouvrées à compter du signalement ;
+- panne majeure (fonctionnement fortement dégradé) : délai d'intervention de [nombre] heures ouvrées ;
+- panne mineure (gêne sans impact important sur l'activité) : délai d'intervention de [nombre] jours ouvrés.
+
+Le délai d'intervention est le délai dans lequel un technicien commence le diagnostic, sur site ou à distance. Le Prestataire met en œuvre tous les moyens raisonnables pour rétablir le fonctionnement dans un délai de [nombre] heures ouvrées pour une panne bloquante.
+
+> Note de rédaction : distinguez bien le délai d'intervention (début du diagnostic) et le délai de rétablissement. S'engager sur un délai de rétablissement garanti crée une obligation de résultat, à réserver aux équipements que le Prestataire maîtrise parfaitement.
+
+### 4.3 Exclusions
+
+Ne sont pas couvertes par le prix forfaitaire, et font l'objet d'un devis préalable :
+- les pannes dues à une utilisation non conforme à la notice du fabricant, à une négligence ou à un acte volontaire ;
+- les interventions de tiers non autorisés par le Prestataire ;
+- les dommages causés par un événement extérieur (incendie, dégât des eaux, foudre, surtension du réseau) ;
+- les déplacements ou modifications des Équipements non validés par le Prestataire ;
+- [autres exclusions].
+
+Le Prestataire informe le Client de la cause relevant d'une exclusion avant d'engager tout travail facturable.
+
+## ARTICLE 5 – OBLIGATIONS DU PRESTATAIRE
+
+Le Prestataire s'engage à :
+- exécuter les prestations avec soin, selon les règles de l'art et les préconisations du fabricant ;
+- affecter des techniciens qualifiés et, lorsque la réglementation l'exige, habilités ;
+- respecter les règles d'hygiène, de sécurité et d'accès en vigueur sur le site du Client ;
+- tenir à jour un carnet de maintenance pour chaque Équipement, consultable par le Client à tout moment ;
+- alerter le Client, par écrit, de toute usure, obsolescence ou non-conformité qu'il constate, et de tout risque pour la sécurité des personnes.
+
+Le Prestataire est tenu d'une obligation de moyens pour la maintenance, sauf pour le respect des délais d'intervention de l'article 4.2, qui constitue une obligation de résultat.
+
+## ARTICLE 6 – PIÈCES DE RECHANGE
+
+[Option 1 : Les pièces de rechange et consommables sont compris dans le prix forfaitaire, à l'exception de : [liste].]
+
+[Option 2 : Les pièces de rechange sont facturées en sus, au tarif figurant en annexe 4 ou sur devis accepté par le Client pour toute pièce d'un montant supérieur à [montant] euros hors taxes.]
+
+Les pièces utilisées sont neuves ou, avec l'accord écrit du Client, reconditionnées. Elles sont compatibles avec les Équipements et conformes aux spécifications du fabricant. La propriété des pièces fournies est transférée au Client à leur paiement complet ; les risques lui sont transférés dès leur installation.
+
+Lorsqu'une pièce n'est plus fabriquée, le Prestataire en informe le Client et lui propose une solution de remplacement chiffrée.
+
+## ARTICLE 7 – OBLIGATIONS DU CLIENT
+
+Le Client s'engage à :
+- utiliser les Équipements conformément à leur notice et les faire utiliser par un personnel formé ;
+- donner au Prestataire un libre accès aux Équipements et aux locaux aux heures convenues ;
+- désigner un interlocuteur chargé du suivi du contrat : [nom, fonction, coordonnées] ;
+- signaler sans délai toute panne et ne pas faire intervenir un tiers sans l'accord du Prestataire, sauf urgence ou carence de celui-ci ;
+- informer le Prestataire de tout déplacement ou de toute modification des Équipements.
+
+## ARTICLE 8 – PRIX ET RÉVISION
+
+En contrepartie de la maintenance préventive et corrective, le Client verse une redevance forfaitaire de [montant] euros hors taxes par [mois / trimestre / an], soit [montant] euros toutes taxes comprises au taux de TVA en vigueur.
+
+Les interventions hors forfait sont facturées au tarif suivant : [taux horaire] euros hors taxes de l'heure, frais de déplacement de [montant] euros hors taxes, majoration de [pourcentage] % en dehors des heures de service.
+
+> Option : Le prix est révisé chaque année à la date anniversaire du contrat selon la formule P1 = P0 × (S1 / S0), où S est la dernière valeur publiée de l'indice [nom de l'indice publié par l'INSEE, en lien direct avec l'objet du contrat]. La révision ne peut pas jouer à la baisse ni à la hausse au-delà de la variation de l'indice.
+
+> Note de rédaction : un indice de révision doit avoir un lien direct avec l'objet du contrat ou l'activité de l'une des parties (indices du coût de la main-d'œuvre ou des prix des services de réparation, par exemple). Évitez un indice général sans rapport.
+
+## ARTICLE 9 – FACTURATION ET PAIEMENT
+
+La redevance est facturée [d'avance / à terme échu] au début de chaque période. Les interventions hors forfait sont facturées à la fin du mois de leur réalisation, avec le rapport d'intervention.
+
+Les factures sont payables à [nombre] jours à compter de leur date d'émission, par virement sur le compte du Prestataire. Ce délai ne peut dépasser soixante jours à compter de la date d'émission de la facture, ou quarante-cinq jours fin de mois si les Parties le prévoient expressément.
+
+Tout retard de paiement entraîne de plein droit, sans rappel préalable, des pénalités de retard calculées au taux de [taux, qui ne peut être inférieur à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de quarante euros.
+
+Après une mise en demeure restée sans effet pendant quinze jours, le Prestataire peut suspendre ses interventions hors urgence de sécurité, jusqu'au paiement complet.
+
+## ARTICLE 10 – PÉNALITÉS DE RETARD D'INTERVENTION
+
+> Option : En cas de dépassement du délai d'intervention prévu à l'article 4.2 pour une panne bloquante, le Prestataire verse au Client une pénalité de [montant] euros par heure ouvrée de retard, plafonnée à [pourcentage] % de la redevance [mensuelle / annuelle]. Cette pénalité n'est pas due si le retard résulte d'une faute du Client ou d'un cas de force majeure.
+
+> Note de rédaction : une pénalité manifestement excessive ou dérisoire peut être modérée par le juge. Fixez un montant proportionné au préjudice que subirait le Client.
+
+## ARTICLE 11 – RESPONSABILITÉ ET ASSURANCE
+
+Chaque Partie répond des dommages directs et prévisibles causés à l'autre par l'inexécution de ses obligations.
+
+[Option : La responsabilité totale du Prestataire au titre du contrat est limitée, par année contractuelle, à [montant ou nombre de mois de redevance]. Cette limite ne s'applique pas en cas de faute lourde ou dolosive, ni aux dommages corporels.]
+
+Le Prestataire déclare être titulaire d'une assurance de responsabilité civile professionnelle couvrant les conséquences de ses interventions, auprès de [assureur], police n° [numéro]. Il en remet une attestation à la signature puis à chaque renouvellement.
+
+## ARTICLE 12 – DURÉE
+
+Le contrat prend effet le [date] pour une durée de [un an / durée].
+
+> Option 1 (durée ferme) : Le contrat prend fin à son terme, sans reconduction. Les Parties peuvent le renouveler par écrit.
+
+> Option 2 (reconduction tacite) : À son terme, le contrat est reconduit tacitement par périodes successives de [un an], sauf dénonciation par l'une des Parties par lettre recommandée avec avis de réception adressée au moins [trois] mois avant l'échéance.
+
+## ARTICLE 13 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties à ses obligations, non réparé dans un délai de [trente] jours après une mise en demeure par lettre recommandée avec avis de réception visant la présente clause, l'autre Partie peut résilier le contrat de plein droit, sans préjudice des dommages et intérêts qu'elle pourrait réclamer.
+
+Constituent notamment un manquement grave : trois dépassements du délai d'intervention pour panne bloquante sur une période de douze mois, ou un défaut de paiement de deux échéances.
+
+En cas de cession ou de mise au rebut d'un Équipement, le Client peut le retirer du contrat avec un préavis d'un mois ; la redevance est réduite à proportion.
+
+## ARTICLE 14 – FIN DU CONTRAT
+
+À la fin du contrat, pour quelque cause que ce soit, le Prestataire remet au Client dans un délai de [quinze] jours les carnets de maintenance, les rapports d'intervention, les codes d'accès et la documentation technique qu'il détient. Les sommes versées d'avance pour une période non exécutée sont remboursées au Client, déduction faite des sommes qu'il doit encore.
+
+## ARTICLE 15 – CONFIDENTIALITÉ ET DONNÉES PERSONNELLES
+
+Chaque Partie garde confidentielles les informations techniques et commerciales de l'autre dont elle a connaissance à l'occasion du contrat, pendant toute sa durée et [deux] ans après sa fin.
+
+Si les interventions donnent accès à des données personnelles traitées par le Client (maintenance informatique notamment), les Parties concluent l'accord prévu à l'article 28 du règlement (UE) 2016/679, joint en annexe 5.
+
+## ARTICLE 16 – FORCE MAJEURE
+
+Aucune Partie n'est responsable d'un manquement causé par un événement échappant à son contrôle, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées. La Partie empêchée en informe l'autre sans délai. Si l'empêchement dure plus de [deux] mois, chaque Partie peut résilier le contrat par lettre recommandée avec avis de réception.
+
+## ARTICLE 17 – SOUS-TRAITANCE
+
+Le Prestataire ne peut sous-traiter tout ou partie des prestations qu'avec l'accord écrit préalable du Client. Il reste responsable envers le Client des prestations sous-traitées.
+
+## ARTICLE 18 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. Les Parties recherchent d'abord une solution amiable pendant [trente] jours à compter de la réclamation écrite de l'une d'elles. À défaut, le litige est porté devant le tribunal [de commerce / des activités économiques] de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement].
+
+Pour le Client
+[nom, fonction, signature]
+
+Pour le Prestataire
+[nom, fonction, signature]
+
+## ANNEXES
+
+- Annexe 1 : liste des Équipements couverts
+- Annexe 2 : état des Équipements à la signature
+- Annexe 3 : calendrier et contenu de la maintenance préventive
+- Annexe 4 : tarifs des pièces et des interventions hors forfait
+- Annexe 5 : accord relatif aux données personnelles (si nécessaire)

@@ -622,11 +622,39 @@
       "id": 3202,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-fourniture/",
       "gabarit": "2026-10-23"
+    },
+    "contrat-de-maintenance": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o1.id}}",
+          "url": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "40ad283beb0e53779bf0a32ae14104acd1a4561f241f58494e3083c497d13cbf"
+        },
+        "pdf": {
+          "id": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o2.id}}",
+          "url": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o2.source_url}}",
+          "taille": "127 Ko",
+          "empreinte": "40ad283beb0e53779bf0a32ae14104acd1a4561f241f58494e3083c497d13cbf"
+        }
+      },
+      "image": {
+        "id": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o3.id}}",
+        "url": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o3.source_url}}",
+        "taille": "290 Ko",
+        "empreinte": "35579cfbd96ccf8b619fc7c16ae27effd9c472b26def79fd9a9187942f469936"
+      },
+      "statut": "publish",
+      "id": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o7.id}}",
+      "lien": "{{20261029-091625-publier-en-ligne-contrat-de-maintenance.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261029-091625-publier-en-ligne-contrat-de-maintenance"
+  ]
 }
