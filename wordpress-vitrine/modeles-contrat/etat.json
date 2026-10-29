@@ -704,27 +704,27 @@
     "contrat-de-developpement-logiciel": {
       "fichiers": {
         "docx": {
-          "id": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o1.id}}",
-          "url": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o1.source_url}}",
+          "id": 3237,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-developpement-logiciel-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "8f57a8c1324bb15c25fe7d5c27d7de57a0389edc4f1cc1e3f51ad985ea20e2bd"
         },
         "pdf": {
-          "id": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o2.id}}",
-          "url": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o2.source_url}}",
+          "id": 3238,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-developpement-logiciel-lumen-juris.pdf",
           "taille": "118 Ko",
           "empreinte": "8f57a8c1324bb15c25fe7d5c27d7de57a0389edc4f1cc1e3f51ad985ea20e2bd"
         }
       },
       "image": {
-        "id": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o3.id}}",
-        "url": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o3.source_url}}",
+        "id": 3239,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-developpement-logiciel-lumen-juris.png",
         "taille": "297 Ko",
         "empreinte": "b5be48394df81da996deb949b16dc1bc413f9684acad304d2a0735961445d512"
       },
       "statut": "publish",
-      "id": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o7.id}}",
-      "lien": "{{20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel.o7.link}}",
+      "id": 3240,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-developpement-logiciel/",
       "gabarit": "2026-10-23"
     }
   },
@@ -732,7 +732,5 @@
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": [
-    "20261029-092322-publier-en-ligne-contrat-de-developpement-logiciel"
-  ]
+  "ordres_en_attente": []
 }
