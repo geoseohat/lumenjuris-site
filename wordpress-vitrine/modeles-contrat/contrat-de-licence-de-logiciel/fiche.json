@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-licence-de-logiciel",
+  "nom": "Contrat de licence de logiciel",
+  "nom_court": "contrat de licence de logiciel",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de licence de logiciel",
+  "mots_cles_secondaires": [
+    "licence d'utilisation logiciel",
+    "contrat de concession de licence de logiciel",
+    "licence logiciel perpétuelle",
+    "contrat licence éditeur logiciel",
+    "clause d'audit licence logiciel",
+    "contrat de licence utilisateur final"
+  ],
+  "titre_h1": "Modèle de contrat de licence de logiciel gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de licence de logiciel gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de licence de logiciel gratuit en Word et PDF : étendue des droits, métrique, réception, garanties, audit et dépôt des sources.",
+  "chapo": "Le contrat de licence de logiciel autorise une entreprise à utiliser un programme sans en devenir propriétaire. Téléchargez notre modèle entre professionnels et repérez les clauses qui fixent le prix réel et les risques d'audit.",
+  "public": "Éditeurs de logiciels et entreprises utilisatrices",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-licence-de-logiciel-lumen-juris",
+  "date_publication": "2026-10-29",
+  "date_mise_a_jour": "2026-10-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Propriété intellectuelle",
+      "Droit des contrats",
+      "Droit du numérique"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifier précisément le logiciel",
+      "Indiquez le nom, la version et joignez la documentation qui décrit les fonctionnalités promises."
+    ],
+    [
+      "Choisir la métrique",
+      "Décidez si la licence se compte en utilisateurs nommés, simultanés, postes ou serveurs, et définissez chaque unité."
+    ],
+    [
+      "Délimiter le périmètre",
+      "Précisez les sociétés du groupe, les établissements et les pays où le logiciel peut être utilisé."
+    ],
+    [
+      "Organiser la réception",
+      "Rédigez un plan de tests court et fixez le délai pour signaler les anomalies avant le procès-verbal."
+    ],
+    [
+      "Sécuriser la suite",
+      "Négociez une durée minimale de maintenance et, pour un logiciel critique, le dépôt des sources chez un tiers."
+    ]
+  ],
+  "faq": [
+    [
+      "Une licence perpétuelle rend-elle propriétaire du logiciel ?",
+      "Non. Elle donne un droit d'utilisation sans limite de durée, mais l'éditeur reste titulaire des droits d'auteur. Le client ne peut pas modifier, revendre ou diffuser le logiciel au-delà de ce que prévoit le contrat."
+    ],
+    [
+      "Un éditeur peut-il interdire la copie de sauvegarde ?",
+      "Non. La loi autorise l'utilisateur légitime à faire une copie de sauvegarde lorsqu'elle est nécessaire pour préserver l'utilisation du logiciel. Une clause contraire est nulle."
+    ],
+    [
+      "Que risque une entreprise qui dépasse le nombre de licences ?",
+      "L'éditeur peut demander le paiement des licences manquantes et, selon les cas, agir en contrefaçon. Un contrat bien rédigé prévoit une régularisation au tarif normal pour un dépassement limité, ce qui évite un conflit coûteux."
+    ],
+    [
+      "Peut-on utiliser une licence dans toutes les sociétés d'un groupe ?",
+      "Seulement si le contrat le prévoit. Une licence consentie à une société ne profite pas automatiquement à ses filiales. Il faut les désigner ou viser expressément les sociétés contrôlées."
+    ],
+    [
+      "À quoi sert le dépôt du code source ?",
+      "Il protège le client si l'éditeur disparaît ou arrête la maintenance. Le code est confié à un tiers de confiance et remis au client dans les cas prévus au contrat, pour qu'il puisse faire maintenir le logiciel."
+    ],
+    [
+      "Quelle différence entre licence de logiciel et contrat SaaS ?",
+      "Avec une licence, le logiciel est installé chez le client, qui gère son exploitation. En SaaS, l'éditeur héberge le logiciel et le client y accède en ligne, sur abonnement. Les clauses clés ne sont donc pas les mêmes."
+    ],
+    [
+      "Le client peut-il corriger lui-même les bugs ?",
+      "La loi le permet en principe, sauf si le contrat réserve ce droit à l'éditeur, ce qui est fréquent. Dans ce cas, prévoyez des délais de correction et la possibilité de faire intervenir un tiers si l'éditeur ne les respecte pas."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de la propriété intellectuelle, articles L. 113-9 (logiciel créé par un salarié), L. 122-6 (droits de l'auteur du logiciel), L. 122-6-1 (droits de l'utilisateur légitime) et L. 335-3 (contrefaçon de logiciel)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code civil, articles 1170 (clause privant l'obligation essentielle de sa substance) et 1231-3 (dommages prévisibles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais et pénalités de paiement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-licence-logiciel"
+  }
+}

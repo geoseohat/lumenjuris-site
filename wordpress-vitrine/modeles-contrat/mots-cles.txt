@@ -33,8 +33,8 @@
 [x] 2026-10-28 contrat de vente -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente/
 [x] 2026-10-28 contrat de fourniture -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-fourniture/
 [x] 2026-10-29 contrat de maintenance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-maintenance/
-contrat de licence
-contrat de licence de logiciel
+[x] 2026-10-29 contrat de licence -> écarté : ligne trop générale : couverte par contrat de licence de logiciel et contrat de licence de marque
+[x] 2026-10-29 contrat de licence de logiciel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-licence-de-logiciel/
 contrat SaaS
 contrat de développement logiciel
 contrat de création de site internet

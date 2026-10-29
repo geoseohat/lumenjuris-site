@@ -1,0 +1,178 @@
+# CONTRAT DE LICENCE DE LOGICIEL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle vise une licence d'utilisation d'un logiciel installé chez le client (sur ses serveurs ou ses postes), entre professionnels. Pour un logiciel utilisé en ligne sur abonnement, préférez un contrat SaaS. Pour transférer la propriété des droits, il faut un contrat de cession de droits, et non une licence.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale de l'éditeur], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Concédant »,
+
+ET
+
+[Dénomination sociale du client], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Licencié »,
+
+ensemble « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Concédant est titulaire des droits d'auteur sur le logiciel dénommé [nom du logiciel], version [numéro], dont les fonctionnalités sont décrites dans la documentation figurant en annexe 1 (ci-après « le Logiciel »). Le Licencié souhaite utiliser le Logiciel pour les besoins de son activité de [activité]. Avant la signature, le Licencié a pu consulter la documentation et [tester une version de démonstration / assister à une présentation].
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – DÉFINITIONS
+
+- Logiciel : le programme d'ordinateur désigné ci-dessus, sous forme de code objet, ainsi que ses mises à jour fournies au titre du contrat.
+- Documentation : les manuels d'installation et d'utilisation, sur tout support, remis avec le Logiciel.
+- Utilisateur : toute personne physique autorisée par le Licencié à utiliser le Logiciel (salarié, mandataire social, prestataire agissant pour son compte).
+- Site : le lieu d'installation indiqué à l'article 3.
+- Anomalie : tout défaut de fonctionnement reproductible du Logiciel non conforme à la Documentation.
+
+## ARTICLE 2 – OBJET
+
+Le Concédant concède au Licencié, qui l'accepte, un droit d'utilisation du Logiciel et de sa Documentation, dans les limites définies au présent contrat. Le contrat ne transfère au Licencié aucun droit de propriété sur le Logiciel.
+
+## ARTICLE 3 – ÉTENDUE DE LA LICENCE
+
+### 3.1 Nature des droits concédés
+
+Le Licencié est autorisé à :
+- installer le Logiciel et le charger en mémoire pour son exécution ;
+- l'utiliser pour les besoins internes de son activité, conformément à sa destination décrite dans la Documentation ;
+- reproduire la Documentation pour l'usage des Utilisateurs.
+
+Tout autre droit, notamment de modification, de traduction, d'adaptation, de distribution, de location, de prêt ou de mise à disposition de tiers, est réservé au Concédant, sauf autorisation écrite de sa part.
+
+### 3.2 Limites de l'utilisation
+
+- Caractère : licence [non exclusive / exclusive pour le secteur suivant : …], non cessible et non transférable, sauf accord écrit du Concédant.
+- Métrique : [nombre] [Utilisateurs nommés / Utilisateurs simultanés / serveurs / processeurs / postes].
+- Lieu : [Site situé à : adresse / tous les établissements du Licencié en France / monde entier].
+- Durée : [durée de l'article 10 / durée des droits d'auteur].
+
+> Note de rédaction : la métrique est le cœur économique de la licence. Décrivez-la de façon mesurable et prévoyez le prix d'un dépassement (article 6.3) pour éviter qu'un dépassement involontaire soit traité comme une contrefaçon.
+
+### 3.3 Droits que la loi réserve au Licencié
+
+Le Licencié conserve les droits que la loi accorde à toute personne ayant le droit d'utiliser un logiciel, et notamment :
+- faire une copie de sauvegarde lorsqu'elle est nécessaire pour préserver l'utilisation du Logiciel ;
+- observer, étudier ou tester le fonctionnement du Logiciel afin de déterminer les idées et principes qui en sont à la base, lors d'opérations de chargement, d'affichage, d'exécution, de transmission ou de stockage qu'il est en droit d'effectuer ;
+- reproduire ou traduire le code lorsque c'est indispensable pour obtenir les informations nécessaires à l'interopérabilité du Logiciel avec un autre logiciel créé de façon indépendante, dans les conditions fixées par la loi.
+
+Le Concédant se réserve le droit de corriger les Anomalies. Le Licencié peut toutefois les faire corriger par un tiers si le Concédant n'y procède pas dans les délais de l'article 7.
+
+## ARTICLE 4 – LIVRAISON ET INSTALLATION
+
+Le Concédant livre le Logiciel et la Documentation [par téléchargement sécurisé / sur support physique] au plus tard le [date], avec les clés de licence correspondant à la métrique retenue.
+
+[Option 1 : Le Licencié installe lui-même le Logiciel selon la Documentation, sur un environnement conforme aux prérequis techniques de l'annexe 2.]
+
+[Option 2 : Le Concédant installe le Logiciel sur le Site, dans les conditions de l'annexe 3, moyennant le prix prévu à l'article 6.]
+
+## ARTICLE 5 – RÉCEPTION
+
+Le Licencié dispose d'un délai de [trente] jours à compter de l'installation pour vérifier la conformité du Logiciel à la Documentation, selon le plan de tests de l'annexe 4.
+
+À l'issue de cette période, les Parties signent un procès-verbal de réception, avec ou sans réserves. Les Anomalies bloquantes empêchent la réception ; elles sont corrigées par le Concédant dans un délai de [quinze] jours, puis une nouvelle période de vérification de [quinze] jours s'ouvre.
+
+Faute de réserves notifiées par écrit dans le délai, ou en cas d'utilisation du Logiciel en production, la réception est réputée prononcée sans réserve.
+
+## ARTICLE 6 – PRIX
+
+### 6.1 Redevance de licence
+
+[Option 1 – licence perpétuelle : Le Licencié verse une redevance unique de [montant] euros hors taxes, payable [50 % à la signature et 50 % à la réception].]
+
+[Option 2 – licence à durée déterminée : Le Licencié verse une redevance de [montant] euros hors taxes par [an], payable d'avance au début de chaque période.]
+
+### 6.2 Autres prestations
+
+L'installation, la formation et le paramétrage sont facturés [au forfait de [montant] euros hors taxes / selon les tarifs de l'annexe 5].
+
+### 6.3 Extension et dépassement
+
+Le Licencié peut à tout moment étendre la métrique au tarif en vigueur de l'annexe 5. Si un audit révèle un dépassement, le Licencié régularise sa situation en payant les licences manquantes au tarif en vigueur, à compter de la date du dépassement s'il peut être établi, sans autre pénalité si le dépassement est inférieur à [10] %.
+
+### 6.4 Paiement
+
+Les factures sont payables à [trente] jours à compter de leur date d'émission. Tout retard entraîne de plein droit des pénalités au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de quarante euros.
+
+## ARTICLE 7 – GARANTIE ET MAINTENANCE
+
+### 7.1 Garantie de conformité
+
+Le Concédant garantit, pendant [six] mois à compter de la réception, que le Logiciel fonctionne de façon conforme à la Documentation. Pendant cette période, il corrige gratuitement les Anomalies signalées par écrit, dans les délais suivants : Anomalie bloquante [nombre] jours ouvrés, Anomalie majeure [nombre] jours ouvrés, Anomalie mineure à la prochaine mise à jour.
+
+Cette garantie ne couvre pas les Anomalies dues à une utilisation non conforme, à une modification du Logiciel par un tiers ou à un environnement ne respectant pas les prérequis de l'annexe 2.
+
+### 7.2 Maintenance et mises à jour
+
+> Option : Après la période de garantie, la correction des Anomalies, l'assistance téléphonique et la fourniture des mises à jour font l'objet d'un contrat de maintenance distinct, que le Concédant s'engage à proposer au Licencié pendant au moins [cinq] ans à compter de la signature.
+
+> Note de rédaction : sans engagement de maintenance sur une durée minimale, le Licencié risque de détenir une licence perpétuelle sur un logiciel devenu inutilisable faute de mises à jour.
+
+## ARTICLE 8 – GARANTIE D'ÉVICTION
+
+Le Concédant garantit qu'il est titulaire de tous les droits nécessaires à la concession de la licence et que le Logiciel ne contrefait pas les droits de tiers.
+
+Si une action est engagée contre le Licencié sur ce fondement, le Concédant prend en charge sa défense et les condamnations prononcées, à condition que le Licencié l'en informe sans délai et lui laisse la conduite de la procédure. Le Concédant peut aussi, à ses frais, obtenir le droit de continuer l'utilisation, modifier le Logiciel pour qu'il ne soit plus contrefaisant ou, à défaut, résilier la licence et rembourser la redevance au prorata de la durée d'utilisation restant à courir [ou : sur une base d'amortissement de [cinq] ans pour une licence perpétuelle].
+
+## ARTICLE 9 – AUDIT
+
+Le Concédant peut vérifier, au plus une fois par an et avec un préavis de [trente] jours, le respect de la métrique de licence. L'audit est réalisé [par un expert indépendant tenu au secret / à partir d'un rapport d'utilisation généré par le Logiciel], pendant les heures ouvrées et sans perturber l'activité du Licencié.
+
+Les frais d'audit sont supportés par le Concédant, sauf si un dépassement supérieur à [10] % est constaté.
+
+## ARTICLE 10 – DURÉE
+
+[Option 1 : La licence est concédée pour la durée de protection des droits d'auteur sur le Logiciel, à compter de la signature.]
+
+[Option 2 : La licence est concédée pour une durée de [nombre] ans à compter de la signature. Elle est ensuite renouvelée par périodes de [un an] sauf dénonciation par lettre recommandée avec avis de réception au moins [trois] mois avant l'échéance.]
+
+## ARTICLE 11 – RESPONSABILITÉ
+
+Chaque Partie répond des dommages directs et prévisibles causés à l'autre par l'inexécution de ses obligations.
+
+[Option : La responsabilité totale du Concédant est limitée au montant des sommes perçues au titre du contrat au cours des douze mois précédant le fait générateur. Cette limite ne s'applique pas en cas de faute lourde ou dolosive, de dommages corporels ou de mise en jeu de la garantie d'éviction.]
+
+Le Licencié reste responsable de la sauvegarde régulière de ses données.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Le Licencié garde confidentiels le Logiciel, sa Documentation et les clés de licence. Il ne les communique qu'aux Utilisateurs qui en ont besoin et les informe de cette obligation. Chaque Partie garde également confidentielles les informations commerciales de l'autre, pendant la durée du contrat et [cinq] ans après sa fin.
+
+## ARTICLE 13 – DÉPÔT DES SOURCES
+
+> Option : Le Concédant dépose le code source du Logiciel et de chacune de ses versions majeures auprès de [nom du tiers de confiance]. Le Licencié pourra y accéder, pour les seuls besoins de la maintenance du Logiciel à son usage, en cas de liquidation judiciaire du Concédant sans reprise de l'activité, ou de cessation de la maintenance par le Concédant pendant plus de [six] mois sans solution de remplacement. Les frais de dépôt sont supportés par [le Concédant / le Licencié / les deux Parties à parts égales].
+
+## ARTICLE 14 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties, non réparé dans les [trente] jours d'une mise en demeure par lettre recommandée avec avis de réception visant la présente clause, l'autre Partie peut résilier le contrat de plein droit.
+
+À la fin de la licence, pour quelque cause que ce soit, le Licencié cesse d'utiliser le Logiciel et détruit toutes ses copies, dont il atteste par écrit dans les [quinze] jours. Il conserve le droit d'accéder à ses propres données et de les exporter dans un format standard pendant [trois] mois.
+
+## ARTICLE 15 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. Les Parties recherchent d'abord une solution amiable pendant [trente] jours. À défaut, le litige est porté devant le tribunal compétent du ressort de [ville].
+
+> Note de rédaction : les litiges portant sur les droits d'auteur sur un logiciel relèvent de quelques tribunaux judiciaires spécialisés désignés par décret. Vérifiez que la ville choisie en dispose, faute de quoi la clause ne pourra pas s'appliquer à ces litiges.
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou : signé électroniquement].
+
+Pour le Concédant
+[nom, fonction, signature]
+
+Pour le Licencié
+[nom, fonction, signature]
+
+## ANNEXES
+
+- Annexe 1 : description fonctionnelle et Documentation du Logiciel
+- Annexe 2 : prérequis techniques
+- Annexe 3 : conditions d'installation (le cas échéant)
+- Annexe 4 : plan de tests de réception
+- Annexe 5 : tarifs (licences supplémentaires, prestations)
