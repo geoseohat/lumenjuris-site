@@ -1,0 +1,191 @@
+# CONTRAT DE DÉVELOPPEMENT DE LOGICIEL SPÉCIFIQUE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle encadre la réalisation d'un logiciel sur mesure (application, outil métier, plateforme web) par un prestataire indépendant pour une entreprise cliente, avec cession des droits d'auteur. Pour la création d'un simple site vitrine, un contrat dédié est plus adapté.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du client], [forme sociale] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après « le Client »,
+
+ET
+
+[Dénomination sociale ou nom du prestataire], [forme sociale ou entrepreneur individuel], immatriculé(e) sous le numéro [numéro SIREN], dont le siège est situé [adresse], représenté(e) par [nom et prénom], en qualité de [fonction],
+
+ci-après « le Prestataire »,
+
+ensemble « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Client souhaite disposer d'un logiciel répondant aux besoins décrits dans son cahier des charges (annexe 1). Le Prestataire a remis une proposition technique et financière (annexe 2) après avoir pris connaissance de ce cahier des charges et posé les questions utiles à sa compréhension.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le Prestataire s'engage à concevoir, développer, tester et livrer au Client le logiciel décrit en annexe 1 (ci-après « le Logiciel »), ainsi que son code source, sa documentation technique et sa documentation utilisateur (ci-après, ensemble, « les Livrables »).
+
+Le contrat prévoit également la cession au Client des droits d'auteur sur les Livrables, dans les conditions de l'article 9.
+
+## ARTICLE 2 – DOCUMENTS CONTRACTUELS
+
+Le contrat comprend, par ordre de priorité décroissant :
+- les présentes conditions ;
+- le cahier des charges du Client (annexe 1) ;
+- la proposition du Prestataire (annexe 2), pour ce qui ne contredit pas le cahier des charges ;
+- le planning (annexe 3) ;
+- la liste des composants tiers et des licences libres utilisés (annexe 4), mise à jour à chaque livraison.
+
+## ARTICLE 3 – MÉTHODE DE TRAVAIL
+
+[Option 1 – développement au forfait : Le Prestataire réalise le Logiciel conforme au cahier des charges pour un prix forfaitaire. Il s'engage sur le résultat décrit et sur le planning. Toute demande nouvelle du Client fait l'objet d'un avenant chiffré.]
+
+[Option 2 – développement itératif : Le développement est découpé en cycles de [deux] semaines. Au début de chaque cycle, les Parties choisissent ensemble les fonctionnalités à réaliser parmi la liste priorisée par le Client. À la fin du cycle, le Prestataire présente les fonctionnalités réalisées et le Client les valide ou formule ses remarques. Le Prestataire s'engage sur la qualité et le volume de travail convenus pour chaque cycle, sans garantir que l'ensemble de la liste sera réalisé dans le budget.]
+
+> Note de rédaction : en mode itératif, le périmètre évolue au fil du projet. Le Client doit alors s'impliquer à chaque cycle, et l'obligation du Prestataire porte davantage sur les moyens que sur un résultat final figé.
+
+## ARTICLE 4 – OBLIGATIONS DU PRESTATAIRE
+
+Le Prestataire s'engage à :
+- réaliser le Logiciel selon les règles de l'art, avec un code lisible, commenté et documenté ;
+- conseiller le Client et l'alerter par écrit sur toute incohérence, lacune ou difficulté technique du cahier des charges, ainsi que sur les risques de sécurité qu'il identifie ;
+- respecter les exigences de sécurité de l'annexe 1 et appliquer la protection des données dès la conception lorsque le Logiciel traite des données personnelles ;
+- déposer le code source sur un dépôt [de gestion de versions] auquel le Client a accès en permanence ;
+- n'utiliser de composants tiers ou libres qu'après les avoir listés en annexe 4 et vérifié que leur licence est compatible avec l'usage prévu par le Client ;
+- informer le Client de l'avancement au moins [chaque semaine / à chaque fin de cycle].
+
+## ARTICLE 5 – OBLIGATIONS DU CLIENT
+
+Le Client s'engage à :
+- désigner un chef de projet disposant du pouvoir de décision : [nom, fonction] ;
+- fournir dans les délais du planning les informations, contenus, accès et environnements de test nécessaires ;
+- répondre aux questions du Prestataire dans un délai de [cinq] jours ouvrés ;
+- participer aux réunions de suivi et aux validations prévues.
+
+Un retard du Client décale d'autant le planning du Prestataire.
+
+## ARTICLE 6 – MODIFICATIONS DU PÉRIMÈTRE
+
+Toute modification du périmètre demandée par le Client est formalisée par une demande écrite. Le Prestataire en évalue l'impact sur le prix et le planning dans un délai de [cinq] jours ouvrés. La modification n'est réalisée qu'après acceptation écrite de cette évaluation par le Client.
+
+## ARTICLE 7 – LIVRAISON ET RECETTE
+
+### 7.1 Livraison
+
+Le Prestataire livre les Livrables selon le planning de l'annexe 3, sur l'environnement de recette du Client, avec le code source et un document listant les fonctionnalités livrées.
+
+### 7.2 Recette
+
+Le Client dispose de [quinze] jours ouvrés à compter de chaque livraison pour réaliser ses tests et signaler les anomalies, classées ainsi :
+- anomalie bloquante : empêche l'utilisation d'une fonctionnalité essentielle, sans contournement possible ;
+- anomalie majeure : gêne importante, avec contournement possible ;
+- anomalie mineure : défaut sans incidence importante sur l'utilisation.
+
+Le Prestataire corrige les anomalies bloquantes et majeures dans un délai de [dix] jours ouvrés, puis livre une nouvelle version soumise à une recette limitée aux corrections.
+
+### 7.3 Procès-verbal
+
+La recette est prononcée par un procès-verbal signé lorsqu'il ne reste aucune anomalie bloquante ni majeure. Les anomalies mineures restantes y sont listées et corrigées pendant la garantie. Faute de réponse du Client dans le délai de recette, ou en cas de mise en production du Logiciel par le Client, la recette est réputée prononcée.
+
+## ARTICLE 8 – PRIX ET PAIEMENT
+
+[Option 1 – forfait : Le prix forfaitaire est de [montant] euros hors taxes, payable selon l'échéancier suivant : [30] % à la signature, [40] % à la livraison de la version complète, [30] % au procès-verbal de recette.]
+
+[Option 2 – itératif : Le prix est de [montant] euros hors taxes par cycle, ou de [montant] euros hors taxes par jour de travail, facturé à la fin de chaque cycle sur la base du relevé de temps validé par le Client. Le budget prévisionnel est de [montant] euros hors taxes ; le Prestataire alerte le Client dès que [80] % de ce budget est consommé.]
+
+Le prix inclut la cession des droits prévue à l'article 9.
+
+Les factures sont payables à [trente] jours à compter de leur date d'émission. Tout retard entraîne de plein droit des pénalités au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de quarante euros.
+
+## ARTICLE 9 – CESSION DES DROITS D'AUTEUR
+
+### 9.1 Droits cédés
+
+Le Prestataire cède au Client, à titre exclusif, au fur et à mesure de leur réalisation et sous réserve du paiement complet du prix correspondant, les droits patrimoniaux d'auteur sur les Livrables développés spécifiquement pour le Client, à savoir :
+- le droit de reproduction : le droit de reproduire les Livrables, en tout ou partie, de façon permanente ou provisoire, par tout moyen et sur tout support, notamment pour leur chargement, leur affichage, leur exécution, leur transmission et leur stockage ;
+- le droit d'adaptation : le droit de traduire, d'adapter, d'arranger, de corriger, de faire évoluer et de modifier les Livrables, et de reproduire le résultat ;
+- le droit de mise sur le marché et de distribution : le droit de mettre les Livrables à disposition de tiers, à titre gratuit ou onéreux, y compris par location, licence ou accès en ligne.
+
+### 9.2 Étendue de la cession
+
+Ces droits sont cédés :
+- pour le monde entier ;
+- pour toute la durée de protection des droits d'auteur ;
+- pour toute utilisation, interne ou commerciale, du Logiciel par le Client, ses sociétés affiliées et ses ayants droit.
+
+Le Client peut à son tour céder ou concéder ces droits à des tiers.
+
+### 9.3 Éléments exclus
+
+Ne sont pas cédés :
+- les composants tiers et libres listés en annexe 4, qui restent soumis à leur propre licence ;
+- les outils, bibliothèques et savoir-faire préexistants du Prestataire, listés en annexe 5. Le Prestataire concède au Client sur ces éléments une licence non exclusive, gratuite, pour le monde entier et pour la durée des droits, permettant d'utiliser, de modifier et de faire maintenir le Logiciel par tout tiers.
+
+### 9.4 Prix de la cession
+
+La cession est consentie moyennant une rémunération forfaitaire incluse dans le prix de l'article 8.
+
+> Note de rédaction : si le Prestataire fait intervenir des salariés, les droits sur leurs développements lui reviennent par la loi. S'il fait intervenir des sous-traitants indépendants, il doit obtenir d'eux une cession écrite avant de pouvoir céder les droits au Client.
+
+## ARTICLE 10 – GARANTIES
+
+### 10.1 Garantie de conformité
+
+Le Prestataire garantit pendant [trois / six] mois à compter du procès-verbal de recette que le Logiciel est conforme au cahier des charges. Il corrige gratuitement les anomalies signalées pendant cette période, dans les délais de l'article 7.2.
+
+### 10.2 Garantie d'éviction
+
+Le Prestataire garantit qu'il est titulaire des droits cédés, que les Livrables sont originaux et qu'ils ne contrefont pas les droits de tiers. Il garantit aussi que les licences des composants listés en annexe 4 permettent l'usage prévu par le Client. Il défend le Client contre toute réclamation sur ce fondement et prend en charge les condamnations prononcées.
+
+## ARTICLE 11 – MAINTENANCE APRÈS GARANTIE
+
+> Option : À l'issue de la garantie, le Prestataire propose au Client un contrat de maintenance corrective et évolutive. Le Client reste libre de confier cette maintenance à tout autre prestataire, auquel le Prestataire remet, sur demande, toutes les informations utiles à la reprise du code.
+
+## ARTICLE 12 – RESPONSABILITÉ
+
+Chaque Partie répond des dommages directs et prévisibles causés à l'autre par l'inexécution de ses obligations.
+
+[Option : La responsabilité totale du Prestataire est limitée au montant total du prix du contrat. Cette limite ne s'applique pas en cas de faute lourde ou dolosive, ni à la garantie d'éviction.]
+
+## ARTICLE 13 – CONFIDENTIALITÉ ET DONNÉES PERSONNELLES
+
+Chaque Partie garde confidentielles les informations de l'autre, pendant la durée du contrat et [trois] ans après sa fin.
+
+Si le Prestataire accède à des données personnelles traitées par le Client (tests sur des données réelles, reprise de données), les Parties signent l'accord prévu à l'article 28 du règlement (UE) 2016/679. Les tests sont réalisés en priorité sur des données fictives ou anonymisées.
+
+## ARTICLE 14 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties, non réparé dans les [quinze] jours d'une mise en demeure par lettre recommandée avec avis de réception visant la présente clause, l'autre Partie peut résilier le contrat de plein droit.
+
+[Option : En mode itératif, chaque Partie peut mettre fin au contrat à la fin d'un cycle, avec un préavis de [un cycle].]
+
+En cas de résiliation, le Prestataire remet au Client, dans un délai de [dix] jours, le code source et la documentation dans leur état d'avancement. Le Client paie les travaux réalisés jusqu'à la date de résiliation. La cession des droits porte sur les éléments payés.
+
+## ARTICLE 15 – NON-SOLLICITATION
+
+> Option : Pendant la durée du contrat et [douze] mois après sa fin, chaque Partie s'interdit de solliciter, en vue de l'embaucher, un salarié de l'autre Partie ayant participé au projet, sauf accord écrit de celle-ci. En cas de manquement, la Partie fautive verse à l'autre une indemnité égale à [six] mois de la dernière rémunération brute du salarié concerné.
+
+## ARTICLE 16 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. Les Parties recherchent d'abord une solution amiable pendant [trente] jours, le cas échéant avec l'aide d'un expert technique choisi d'un commun accord. À défaut, le litige est porté devant le tribunal compétent du ressort de [ville].
+
+> Note de rédaction : les litiges portant sur les droits d'auteur sur un logiciel relèvent de tribunaux judiciaires spécialisés désignés par décret. Choisissez une ville qui en dispose.
+
+Fait à [ville], le [date] [en deux exemplaires originaux / signé électroniquement].
+
+Pour le Client
+[nom, fonction, signature]
+
+Pour le Prestataire
+[nom, fonction, signature]
+
+## ANNEXES
+
+- Annexe 1 : cahier des charges du Client
+- Annexe 2 : proposition technique et financière du Prestataire
+- Annexe 3 : planning
+- Annexe 4 : composants tiers et licences libres
+- Annexe 5 : éléments préexistants du Prestataire

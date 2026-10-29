@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-developpement-logiciel",
+  "nom": "Contrat de développement logiciel",
+  "nom_court": "contrat de développement logiciel",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de développement logiciel",
+  "mots_cles_secondaires": [
+    "contrat de développement informatique",
+    "contrat de développement d'application",
+    "contrat de réalisation de logiciel sur mesure",
+    "contrat développeur freelance cession de droits",
+    "contrat de développement agile",
+    "contrat de développement au forfait"
+  ],
+  "titre_h1": "Modèle de contrat de développement logiciel gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de développement logiciel gratuit (Word, PDF)",
+  "meta_description": "Modèle de contrat de développement logiciel gratuit en Word et PDF : forfait ou agile, recette, cession des droits d'auteur, garanties et code source.",
+  "chapo": "Le contrat de développement logiciel encadre la création d'un outil sur mesure et transfère au client les droits sur le code. Téléchargez notre modèle entre professionnels, au forfait ou en méthode agile, avec une cession de droits rédigée selon la loi.",
+  "public": "Entreprises clientes, sociétés de services et développeurs indépendants",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-developpement-logiciel-lumen-juris",
+  "date_publication": "2026-10-29",
+  "date_mise_a_jour": "2026-10-29",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Propriété intellectuelle",
+      "Droit des contrats",
+      "Droit du numérique"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Rédiger le besoin",
+      "Décrivez dans un cahier des charges les fonctions attendues, les utilisateurs, les contraintes techniques et de sécurité."
+    ],
+    [
+      "Choisir la méthode",
+      "Optez pour le forfait si le besoin est stable, ou pour des cycles itératifs avec un budget indicatif et un seuil d'alerte."
+    ],
+    [
+      "Fixer la recette",
+      "Prévoyez le délai de test, le classement des anomalies et les conditions de signature du procès-verbal."
+    ],
+    [
+      "Vérifier la cession des droits",
+      "Contrôlez que chaque droit cédé est nommé, que l'étendue est délimitée et que les briques exclues sont listées."
+    ],
+    [
+      "Demander l'accès au code",
+      "Obtenez un accès permanent au dépôt du code source et la liste des composants libres à chaque livraison."
+    ]
+  ],
+  "faq": [
+    [
+      "Qui est propriétaire d'un logiciel développé par un prestataire ?",
+      "Le prestataire, tant qu'aucune cession écrite n'a été signée. Le paiement du prix ne suffit pas à transférer les droits d'auteur. C'est pourquoi le contrat doit comporter une clause de cession détaillée."
+    ],
+    [
+      "Une cession de droits sur un logiciel peut-elle être forfaitaire ?",
+      "Oui. La loi autorise une rémunération forfaitaire pour la cession des droits sur un logiciel, alors qu'en principe l'auteur est rémunéré proportionnellement aux recettes. Le prix peut donc être inclus dans le prix global du développement."
+    ],
+    [
+      "Le client doit-il recevoir le code source ?",
+      "Ce n'est pas automatique : il faut le prévoir. Sans code source, le client ne peut ni faire évoluer le logiciel ni changer de prestataire. Un accès permanent au dépôt de code est la solution la plus sûre."
+    ],
+    [
+      "Que se passe-t-il si le projet dépasse le budget en mode agile ?",
+      "Le prestataire est payé pour le travail réalisé à chaque cycle, sans garantir que toutes les fonctions tiendront dans le budget indicatif. D'où l'intérêt d'un seuil d'alerte et de la possibilité d'arrêter à la fin d'un cycle."
+    ],
+    [
+      "Un développeur freelance peut-il réutiliser le code ailleurs ?",
+      "Pas les parties cédées au client à titre exclusif. Il conserve en revanche ses outils et bibliothèques préexistants, s'ils sont exclus de la cession, et peut les réutiliser pour d'autres clients."
+    ],
+    [
+      "Combien de temps dure la garantie d'un logiciel sur mesure ?",
+      "Elle dépend du contrat : trois à six mois après la recette est fréquent. Pendant cette période, le prestataire corrige gratuitement les anomalies. Au-delà, un contrat de maintenance prend le relais."
+    ],
+    [
+      "Que faire si le logiciel livré ne fonctionne pas ?",
+      "Signalez les anomalies par écrit pendant la recette et ne signez pas le procès-verbal tant qu'il reste des anomalies bloquantes ou majeures. Si le prestataire ne corrige pas, mettez-le en demeure avant d'envisager la résiliation."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de la propriété intellectuelle, articles L. 113-9 (logiciel créé par un salarié), L. 122-6 (droits de l'auteur d'un logiciel), L. 131-3 (mentions obligatoires de la cession) et L. 131-4 (rémunération forfaitaire)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code civil, articles 1710 et 1787 (louage d'ouvrage) et 1231-3 (dommages prévisibles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais et pénalités de paiement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 25 (protection des données dès la conception) et 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-developpement-logiciel"
+  }
+}

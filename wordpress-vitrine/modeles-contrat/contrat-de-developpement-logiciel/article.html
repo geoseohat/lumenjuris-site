@@ -1,0 +1,51 @@
+<h2 id="definition">Contrat de développement logiciel : faire créer un outil sur mesure</h2>
+<p>Le contrat de développement logiciel encadre la création d'un programme sur mesure par un prestataire extérieur : application mobile, outil de gestion interne, plateforme web, connecteur entre deux systèmes. L'entreprise cliente décrit son besoin, le prestataire (société de services, agence ou développeur indépendant) le réalise, le teste et le livre.</p>
+<p>Deux sujets distinguent ce contrat d'une prestation de services ordinaire. D'abord, le résultat n'existe pas au moment de la signature : il faut organiser sa définition, sa validation et la gestion des changements de cap. Ensuite, le code produit est une œuvre protégée par le droit d'auteur. Sans clause écrite, c'est le prestataire qui en reste titulaire, même si le client a tout payé.</p>
+<p>Notre modèle couvre les deux méthodes courantes, au forfait ou par cycles itératifs, la recette, la cession des droits et les garanties.</p>
+
+<h2 id="comparatif">Forfait ou méthode agile : quelle formule pour votre projet ?</h2>
+<div class="lj-table-wrap">
+<table class="lj-table">
+<thead><tr><th scope="col"></th><th scope="col">Développement au forfait</th><th scope="col">Développement itératif (agile)</th></tr></thead>
+<tbody>
+<tr><th scope="row">Besoin</th><td>Stable et décrit en détail</td><td>Encore flou ou appelé à évoluer</td></tr>
+<tr><th scope="row">Prix</th><td>Fixé à l'avance</td><td>Par cycle ou par jour, budget indicatif</td></tr>
+<tr><th scope="row">Engagement du prestataire</th><td>Livrer le logiciel décrit, dans les délais</td><td>Fournir le travail convenu à chaque cycle</td></tr>
+<tr><th scope="row">Rôle du client</th><td>Valider le cahier des charges puis la recette</td><td>Prioriser et valider à chaque cycle</td></tr>
+<tr><th scope="row">Risque principal</th><td>Avenants coûteux si le besoin change</td><td>Dépassement du budget prévisionnel</td></tr>
+</tbody>
+</table>
+</div>
+<p>Exemple : une PME qui veut automatiser une procédure de devis déjà rodée gagne à choisir le forfait. Une start-up qui teste un produit auprès de ses premiers clients aura besoin de souplesse, donc de cycles courts avec un seuil d'alerte sur le budget.</p>
+
+<h2 id="droits">Qui est propriétaire du code ? La cession de droits à ne pas oublier</h2>
+<p>Un logiciel est protégé par le droit d'auteur dès sa création. Lorsqu'il est écrit par un salarié dans l'exercice de ses fonctions, les droits reviennent à l'employeur par la loi (article L. 113-9 du Code de la propriété intellectuelle). Ce mécanisme ne joue pas pour un prestataire extérieur : seul un écrit peut transférer ses droits au client.</p>
+<p>Cet écrit doit être précis. La loi exige que chaque droit cédé fasse l'objet d'une mention distincte et que le domaine d'exploitation soit délimité quant à son étendue, sa destination, son lieu et sa durée (article L. 131-3). Une formule vague du type « le client devient propriétaire de tout » expose à une contestation. Pour un logiciel, une rémunération forfaitaire est admise (article L. 131-4).</p>
+<ul class="lj-clauses">
+<li><strong>Les droits cédés</strong> : reproduction, adaptation et mise sur le marché, chacun décrit séparément.</li>
+<li><strong>L'étendue</strong> : monde entier, toute la durée de protection, usages interne et commercial.</li>
+<li><strong>Le moment du transfert</strong> : au fur et à mesure, sous réserve du paiement, ce qui protège aussi le prestataire.</li>
+<li><strong>Les exclusions</strong> : briques libres et outils préexistants du prestataire, couverts par une licence pour que le client puisse faire maintenir le logiciel par un autre.</li>
+</ul>
+
+<h2 id="recette">Recette du logiciel : comment valider sans se piéger</h2>
+<p>La recette est la phase où le client teste le logiciel livré et constate sa conformité. Elle déclenche souvent le paiement du solde et le départ de la garantie. Un classement des anomalies (bloquante, majeure, mineure) évite les discussions sans fin : seules les deux premières empêchent la signature du procès-verbal.</p>
+<p>Préparez la recette avant la livraison : un jeu de scénarios de test écrit à partir du cahier des charges, des utilisateurs disponibles pour les dérouler et un environnement distinct de la production. Un délai de quinze jours ouvrés paraît long, mais il passe vite si les testeurs sont aussi pris par leur travail courant. Notez chaque anomalie avec les étapes pour la reproduire : le prestataire la corrigera plus vite, et le constat servira de preuve en cas de désaccord.</p>
+<p>Attention à la mise en production anticipée. Si le client utilise le logiciel avant d'avoir signé la recette, le contrat peut considérer qu'il l'a acceptée. Testez d'abord, mettez en service ensuite.</p>
+
+<h2 id="libres">Composants libres et briques existantes : un risque souvent sous-estimé</h2>
+<p>Presque tous les logiciels intègrent des bibliothèques publiées sous licence libre. Certaines licences imposent, en cas de diffusion du logiciel, de publier aussi son code source sous la même licence. Pour un client qui veut commercialiser son outil, c'est un enjeu majeur.</p>
+<p>Le même raisonnement vaut pour les outils maison du prestataire : un moteur de formulaires ou un module d'authentification qu'il réutilise d'un client à l'autre. Il est normal qu'il les garde, mais le client doit pouvoir continuer à les utiliser et les faire modifier par un autre prestataire.</p>
+<p>Le modèle oblige le prestataire à lister chaque composant et sa licence, à vérifier leur compatibilité avec l'usage du client et à garantir ce point. Exigez cette liste à chaque livraison, et pas seulement à la fin du projet.</p>
+
+<h2 id="erreurs">Les erreurs fréquentes dans un contrat de développement</h2>
+<ul>
+<li><strong>Un cahier des charges réduit à une liste d'idées</strong> : en forfait, ce qui n'est pas écrit ne sera pas livré sans avenant.</li>
+<li><strong>Ne pas exiger le code source</strong> : sans accès permanent au dépôt de code, le client dépend entièrement du prestataire.</li>
+<li><strong>Oublier les sous-traitants du prestataire</strong> : s'il fait appel à des indépendants, il doit d'abord obtenir leurs droits pour pouvoir les céder.</li>
+<li><strong>Tester sur des données réelles sans encadrement</strong> : utilisez des données fictives ou anonymisées, ou signez un accord RGPD.</li>
+<li><strong>Payer la totalité avant la recette</strong> : gardez une part significative du prix pour la validation finale.</li>
+</ul>
+
+<h2 id="relecture">Quand ce modèle doit être complété</h2>
+<p>Le modèle convient à un projet de développement entre professionnels de taille courante. Faites-le compléter si le logiciel sera vendu à grande échelle, s'il intègre de l'intelligence artificielle ou traite des données sensibles, si plusieurs prestataires interviennent en parallèle, ou si le projet est financé par une aide publique imposant des conditions sur la propriété des résultats.</p>
