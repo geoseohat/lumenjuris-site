@@ -130,7 +130,9 @@ foreach ((array) $liste as $f) {
 ksort($a_faire);  // les noms commencent par la date : ordre chronologique
 file_put_contents("$DIR/dernier-passage.txt", date('Y-m-d H:i:s') . ' OK : GitHub lisible, '
     . count($a_faire) . " ordre(s) à exécuter\n");
-if (!$a_faire) {
+// Le relevé du plan du site (voir diagnostic_plan_du_site) est refait une fois par jour, même sans ordre.
+$releve_du_jour = ($etat['plan_du_site']['date'] ?? '') !== date('Y-m-d');
+if (!$a_faire && !$releve_du_jour) {
     exit;  // rien de nouveau : aucun message, aucun chargement de WordPress
 }
 
@@ -290,6 +292,58 @@ function operation($op)
     return executer(requete_rest($op['methode'], $route, resoudre($op['donnees'] ?? null)));
 }
 
+// --- Plan du site (Rank Math) : depuis le 25 oct. 2026, les pages au-delà de la 30e n'y figurent pas.
+// Relevé en lecture seule des réglages et des pages, publié dans resultats.json et lu par la routine,
+// puis vidage du cache du plan du site pour qu'il soit refait avec les nouvelles pages.
+// Aucun réglage du site n'est modifié.
+function diagnostic_plan_du_site()
+{
+    global $etat;
+    $options = (array) get_option('rank-math-options-sitemap', []);
+    $pages = get_posts(['post_type' => 'page', 'post_status' => 'publish', 'posts_per_page' => -1,
+        'fields' => 'ids', 'orderby' => 'date', 'order' => 'ASC']);
+    $robots = [];
+    foreach ($pages as $id) {
+        $r = get_post_meta($id, 'rank_math_robots', true);
+        if (!empty($r)) {
+            $robots[$id] = $r;
+        }
+    }
+    // Code ajouté au site (thème, extension) qui modifierait le plan du site.
+    global $wp_filter;
+    $filtres = [];
+    foreach ((array) $wp_filter as $nom => $crochet) {
+        if (strpos($nom, 'rank_math/sitemap') !== 0) {
+            continue;
+        }
+        foreach ($crochet->callbacks as $fonctions) {
+            foreach ($fonctions as $f) {
+                $cb = $f['function'];
+                $filtres[$nom][] = is_string($cb) ? $cb
+                    : (is_array($cb) ? (is_object($cb[0]) ? get_class($cb[0]) : $cb[0]) . '::' . $cb[1] : 'fonction anonyme');
+            }
+        }
+    }
+    $releve = [
+        'date'              => date('Y-m-d'),
+        'version_rank_math' => defined('RANK_MATH_VERSION') ? RANK_MATH_VERSION : null,
+        'pages_publiees'    => count($pages),
+        'liens_par_plan'    => $options['items_per_page'] ?? null,
+        'pages_dans_plan'   => $options['pt_page_sitemap'] ?? null,
+        'pages_exclues'     => $options['exclude_posts'] ?? null,
+        'robots_par_page'   => $robots,
+        'filtres'           => $filtres,
+        'cache_vide'        => false,
+    ];
+    if (class_exists('\RankMath\Sitemap\Cache') && method_exists('\RankMath\Sitemap\Cache', 'invalidate_storage')) {
+        \RankMath\Sitemap\Cache::invalidate_storage();
+        $releve['cache_vide'] = true;
+    }
+    $etat['plan_du_site'] = $releve;
+    journal('plan du site : ' . count($pages) . ' pages publiées, liens par plan = '
+        . var_export($releve['liens_par_plan'], true) . ', cache ' . ($releve['cache_vide'] ? 'vidé' : 'non vidé'));
+}
+
 // --- Exécution, ordre par ordre, opération par opération (reprise possible après une erreur)
 foreach ($a_faire as $id_ordre => $chemin) {
     $e = &$etat['ordres'][$id_ordre];
@@ -330,3 +384,11 @@ foreach ($a_faire as $id_ordre => $chemin) {
     unset($e);
     enregistrer_etat();
 }
+
+// Après les ordres : nouvelles pages éventuelles, donc relevé et plan du site refait.
+try {
+    diagnostic_plan_du_site();
+} catch (Throwable $ex) {
+    journal('plan du site : relevé impossible : ' . $ex->getMessage());
+}
+enregistrer_etat();
