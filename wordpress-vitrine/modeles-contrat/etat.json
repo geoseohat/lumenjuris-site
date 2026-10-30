@@ -830,11 +830,39 @@
       "id": 3260,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-formation-professionnelle/",
       "gabarit": "2026-10-23"
+    },
+    "convention-de-formation": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o1.id}}",
+          "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "63ceb78863b69660ecac142684df550d714c76269009f4dddb711adb424261c1"
+        },
+        "pdf": {
+          "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o2.id}}",
+          "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o2.source_url}}",
+          "taille": "128 Ko",
+          "empreinte": "63ceb78863b69660ecac142684df550d714c76269009f4dddb711adb424261c1"
+        }
+      },
+      "image": {
+        "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o3.id}}",
+        "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o3.source_url}}",
+        "taille": "291 Ko",
+        "empreinte": "01f014798f998c8996b470bdc123a7e30e604517fc4eb537073b49d0e958c6a9"
+      },
+      "statut": "publish",
+      "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o7.id}}",
+      "lien": "{{20261030-164941-publier-en-ligne-convention-de-formation.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261030-164941-publier-en-ligne-convention-de-formation"
+  ]
 }

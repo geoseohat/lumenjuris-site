@@ -1,0 +1,110 @@
+{
+  "slug": "convention-de-formation",
+  "nom": "Convention de formation",
+  "nom_court": "convention de formation",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle convention de formation",
+  "mots_cles_secondaires": [
+    "convention de formation professionnelle",
+    "convention de formation OPCO",
+    "convention de formation entreprise organisme",
+    "mentions obligatoires convention de formation",
+    "convention de formation intra entreprise",
+    "convention de formation D. 6353-1"
+  ],
+  "titre_h1": "Modèle de convention de formation gratuit (Word et PDF)",
+  "titre_seo": "Modèle de convention de formation gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de convention de formation entre un organisme et une entreprise : mentions exigées par l'OPCO, prix, dédit, émargement. Word et PDF.",
+  "chapo": "La convention de formation encadre l'achat d'une formation par une entreprise pour ses salariés, et sert de pièce justificative auprès de l'OPCO. Ce modèle reprend les mentions du Code du travail, un barème d'annulation équilibré et les clauses de suivi exigées par les financeurs.",
+  "public": "Organismes de formation, formateurs indépendants et entreprises clientes",
+  "gratuit": true,
+  "fichier_base": "modele-convention-de-formation-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la formation professionnelle",
+      "Droit du travail",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Distinguer le payeur",
+      "Vérifiez que c'est bien l'entreprise qui finance, seule ou avec un OPCO. Si le stagiaire paie lui-même, utilisez un contrat de formation professionnelle."
+    ],
+    [
+      "Rédiger le programme en annexe",
+      "Écrivez les objectifs en compétences observables, la progression par séquence, la durée et la qualification des formateurs."
+    ],
+    [
+      "Fixer durée, dates et effectif",
+      "Indiquez le nombre d'heures, le calendrier, le lieu ou l'outil à distance, et la liste nominative des stagiaires."
+    ],
+    [
+      "Choisir prix, TVA et financement",
+      "Précisez le prix hors taxes, le régime de TVA de l'organisme, l'échéancier et la part demandée au financeur, avec ou sans subrogation."
+    ],
+    [
+      "Signer avant le premier jour",
+      "Faites signer la convention et déposer la demande de prise en charge avant le début, puis préparez les feuilles d'émargement par demi-journée."
+    ]
+  ],
+  "faq": [
+    [
+      "La convention de formation est-elle obligatoire ?",
+      "Elle est exigée par le Code du travail lorsque la formation est financée par un OPCO, la Caisse des dépôts, France Travail, une région ou l'État. Si l'entreprise paie seule, un devis signé ou un bon de commande peut suffire, mais la convention précise mieux les règles d'annulation et de paiement."
+    ],
+    [
+      "Le salarié doit-il signer la convention de formation ?",
+      "Non. La convention est signée par l'organisme de formation et l'entreprise qui achète la formation. Le salarié reçoit le programme, les horaires et le règlement intérieur, et signe les feuilles d'émargement."
+    ],
+    [
+      "Quelle différence avec un contrat de formation professionnelle ?",
+      "Le contrat de formation professionnelle est signé quand une personne finance elle-même sa formation. Il ouvre un délai de rétractation de dix jours et limite l'acompte à 30 % du prix. La convention, conclue entre professionnels, ne comporte pas ces protections légales."
+    ],
+    [
+      "L'OPCO paie-t-il les heures d'absence d'un stagiaire ?",
+      "Non, le financeur ne prend en charge que les heures réellement suivies et justifiées par l'émargement. Les heures manquées peuvent être facturées à l'entreprise sous forme de dédit si la convention le prévoit, sur une facture séparée."
+    ],
+    [
+      "Peut-on signer la convention après le début de la formation ?",
+      "Juridiquement, rien n'interdit une signature tardive entre les parties. Mais la plupart des financeurs exigent une demande de prise en charge déposée avant le début, avec la convention ou le devis signé : une signature après coup expose à un refus."
+    ],
+    [
+      "Une formation de quelques heures nécessite-t-elle une convention ?",
+      "Oui, si elle est financée par un OPCO ou un autre financeur, quelle que soit sa durée. Pour une session interne courte payée par l'entreprise, la convention reste recommandée pour prouver la réalisation de l'action."
+    ],
+    [
+      "La convention de formation est-elle soumise à la TVA ?",
+      "Cela dépend de l'organisme. Une formation professionnelle continue peut être exonérée si l'organisme remplit les conditions de l'article 261, 4, 4° a du Code général des impôts ; sinon, la TVA s'applique au taux normal."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 6353-1 (convention et attestation de fin de formation), D. 6353-1 (contenu de la convention), L. 6316-1 (certification qualité) et L. 6351-1 (déclaration d'activité)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, articles 1218 (force majeure) et 1231-5 (réduction d'une pénalité manifestement excessive)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais de paiement, pénalités de retard et indemnité de recouvrement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code général des impôts, article 261, 4, 4° a (exonération de TVA de la formation professionnelle continue)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "convention-formation"
+  }
+}
