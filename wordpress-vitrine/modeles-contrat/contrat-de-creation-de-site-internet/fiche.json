@@ -1,0 +1,118 @@
+{
+  "slug": "contrat-de-creation-de-site-internet",
+  "nom": "Contrat de création de site internet",
+  "nom_court": "contrat de création de site internet",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de création de site internet",
+  "mots_cles_secondaires": [
+    "contrat création site web",
+    "contrat agence web",
+    "contrat de réalisation de site internet",
+    "contrat webdesigner",
+    "contrat création site vitrine",
+    "cession de droits site internet"
+  ],
+  "titre_h1": "Modèle de contrat de création de site internet gratuit (Word et PDF)",
+  "titre_seo": "Contrat de création de site internet : modèle gratuit 2026",
+  "meta_description": "Modèle de contrat de création de site internet entre professionnels : cahier des charges, recette, nom de domaine, cession des droits d'auteur. Word et PDF.",
+  "chapo": "Le contrat de création de site internet fixe ce que l'agence ou le développeur livre, à quel prix, et ce que le client pourra faire du site une fois payé. Téléchargez un modèle complet, avec recette, cession des droits d'auteur et clauses sur le nom de domaine.",
+  "public": "Agences web, développeurs indépendants et entreprises clientes",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-creation-de-site-internet-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Propriété intellectuelle",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Joignez le cahier des charges",
+      "Listez les pages, les fonctionnalités, les appareils pris en charge et le nombre d'allers-retours sur les maquettes, puis annexez ce document au contrat."
+    ],
+    [
+      "Dressez la liste des éléments tiers",
+      "Indiquez l'outil de gestion de contenu, les thèmes, extensions, polices et images sous licence, avec le titulaire de chaque licence."
+    ],
+    [
+      "Réglez le sort du nom de domaine et de l'hébergement",
+      "Vérifiez que le domaine est enregistré au nom du client et précisez qui souscrit l'hébergement après la mise en ligne."
+    ],
+    [
+      "Calibrez la cession des droits",
+      "Choisissez les droits cédés, leur durée et leur territoire, et ce que le prestataire garde pour ses références ou ses outils génériques."
+    ],
+    [
+      "Fixez la recette et l'échéancier",
+      "Indiquez le délai de vérification, le classement des anomalies et les paiements liés à chaque étape, jusqu'au procès-verbal de réception."
+    ]
+  ],
+  "faq": [
+    [
+      "Le site m'appartient-il une fois que je l'ai payé ?",
+      "Pas automatiquement. Le prestataire reste titulaire des droits d'auteur sur ses créations tant qu'il ne les a pas cédés par écrit. Le contrat doit détailler chaque droit cédé, son étendue, sa durée et son territoire."
+    ],
+    [
+      "À qui doit appartenir le nom de domaine ?",
+      "Au client, qui doit en être le titulaire auprès du bureau d'enregistrement. Si l'agence se charge de la démarche, elle doit le faire au nom du client et lui remettre les accès."
+    ],
+    [
+      "Puis-je changer d'agence web après la mise en ligne ?",
+      "Oui, si vous disposez des droits d'adaptation sur le site, des identifiants d'hébergement et d'administration, et des licences des extensions payantes. Ce sont précisément les points à régler dans le contrat avant de signer."
+    ],
+    [
+      "Quelle différence entre la garantie et la maintenance d'un site ?",
+      "La garantie oblige le prestataire à corriger gratuitement les défauts du site livré par rapport au cahier des charges, pendant une durée fixée au contrat. La maintenance couvre les mises à jour, la sécurité et les évolutions : elle fait l'objet d'un contrat séparé et payant."
+    ],
+    [
+      "Qui doit rédiger les mentions légales du site ?",
+      "L'éditeur du site, c'est-à-dire le client, est responsable des mentions légales et de la politique de confidentialité. Il peut confier leur rédaction au prestataire, mais le contrat doit le prévoir expressément."
+    ],
+    [
+      "Un particulier peut-il se rétracter après avoir commandé un site ?",
+      "Oui, s'il a signé à distance ou hors des locaux du prestataire : il dispose en principe de 14 jours pour se rétracter. Le prestataire doit l'informer de ce droit avant la signature."
+    ],
+    [
+      "Quel acompte demander pour la création d'un site ?",
+      "La loi ne fixe pas de montant entre professionnels. L'usage est de répartir le prix entre la signature, la validation des maquettes et la réception, ce qui protège les deux parties."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1710 et 1779 et suivants (contrat d'entreprise), 1217 (inexécution) et 1218 (force majeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la propriété intellectuelle, articles L. 111-1 (droits de l'auteur malgré le contrat de commande) et L. 131-3 (contenu de la cession)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais de paiement et pénalités de retard)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, articles L. 221-3 et L. 221-18 (contrats hors établissement et rétractation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Code général des impôts, article 293 B (franchise en base de TVA)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-creation-site-internet"
+  }
+}

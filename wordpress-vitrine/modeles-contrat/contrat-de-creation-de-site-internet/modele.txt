@@ -1,0 +1,261 @@
+# CONTRAT DE CRÉATION DE SITE INTERNET
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du prestataire], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+> Option : si le prestataire est un entrepreneur individuel, indiquez ses nom et prénom, la mention « entrepreneur individuel » ou « EI », son numéro SIREN et l'adresse de son établissement.
+
+ci-après « le Prestataire »,
+
+ET
+
+[Dénomination sociale du client], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+ci-après « le Client »,
+
+ensemble « les Parties ».
+
+> Note de rédaction : ce modèle est conçu pour un client professionnel. Si le client est un particulier, ou un professionnel d'au plus cinq salariés qui commande un site sans rapport avec son activité principale lors d'un démarchage, les règles du Code de la consommation s'appliquent (information précontractuelle, droit de rétractation de 14 jours en cas de contrat conclu à distance ou hors établissement). Adaptez alors les articles 10, 14 et 16.
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Client souhaite disposer d'un site internet [vitrine / de commerce en ligne / de réservation / autre : préciser] destiné à [objectif du site : présenter l'activité, vendre en ligne, recueillir des demandes de devis…].
+
+Le Prestataire exerce une activité de conception et de réalisation de sites internet. Il a remis au Client, avant la signature, une proposition en date du [date] décrivant la solution envisagée.
+
+Le Client déclare avoir été informé des choix techniques proposés, notamment de l'outil de gestion de contenu utilisé, et les avoir acceptés en connaissance de cause.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Prestataire conçoit, réalise et met en ligne pour le Client le site internet décrit à l'article 3 (ci-après « le Site »), ainsi que les conditions de cession des droits de propriété intellectuelle sur les éléments créés.
+
+## ARTICLE 2 – DOCUMENTS CONTRACTUELS
+
+Le contrat est formé des documents suivants, par ordre de priorité décroissant :
+- le présent contrat ;
+- l'annexe 1 : cahier des charges ;
+- l'annexe 2 : calendrier de réalisation ;
+- l'annexe 3 : liste des éléments tiers (outil de gestion de contenu, extensions, thèmes, polices, photographies sous licence) et de leurs licences ;
+- l'annexe 4 : proposition commerciale du [date].
+
+En cas de contradiction entre ces documents, le document de rang supérieur prévaut.
+
+## ARTICLE 3 – DESCRIPTION DU SITE
+
+### 3.1 Contenu de la prestation
+
+Le Prestataire réalise les prestations suivantes :
+- conception de l'arborescence et des maquettes graphiques ([nombre] propositions de maquette de la page d'accueil, [nombre] allers-retours de modifications) ;
+- intégration et développement du Site sur l'outil [nom de l'outil de gestion de contenu ou « développement sur mesure »] ;
+- création de [nombre] pages types et intégration de [nombre] pages de contenu fournies par le Client ;
+- adaptation de l'affichage aux ordinateurs, tablettes et téléphones ;
+- installation des formulaires suivants : [formulaire de contact / devis / inscription à la lettre d'information] ;
+- mise en place des réglages techniques de base pour le référencement naturel (balises de titre, plan du site, adresses lisibles) ;
+- mise en place d'un bandeau de gestion des cookies ;
+- [module de paiement en ligne / catalogue de [nombre] produits / espace client : préciser] ;
+- formation du Client à la mise à jour du Site, d'une durée de [durée] ;
+- mise en ligne du Site sur l'hébergement désigné à l'article 7.
+
+### 3.2 Prestations non comprises
+
+Sauf mention contraire dans le cahier des charges, ne sont pas comprises : la rédaction des textes, la fourniture de photographies, la traduction, la rédaction des mentions légales, de la politique de confidentialité et des conditions générales de vente, les campagnes publicitaires, le référencement payant, l'hébergement après la mise en ligne et la maintenance.
+
+> Option : la rédaction des textes peut être confiée au Prestataire moyennant un prix complémentaire fixé à l'article 10.
+
+### 3.3 Accessibilité
+
+> Option : le Site est réalisé en suivant le niveau [A / AA] du référentiel [RGAA / WCAG 2.1]. Le Client est informé que certains services de commerce en ligne doivent, depuis le 28 juin 2025, respecter des exigences d'accessibilité, sauf exception prévue pour les microentreprises.
+
+## ARTICLE 4 – DEMANDES DE MODIFICATION
+
+Toute demande du Client qui modifie le cahier des charges (nouvelle fonctionnalité, page supplémentaire, changement de maquette après validation) fait l'objet d'un devis complémentaire écrit indiquant son prix et son effet sur le calendrier. Aucun travail supplémentaire n'est facturé sans devis accepté par écrit, y compris par courriel.
+
+## ARTICLE 5 – OBLIGATIONS DU PRESTATAIRE
+
+Le Prestataire s'engage à :
+- réaliser le Site conformément au cahier des charges et aux règles de l'art de la profession ;
+- conseiller le Client sur les choix techniques et l'alerter, par écrit, lorsqu'une demande lui paraît inadaptée, risquée ou contraire à une règle dont il a connaissance ;
+- respecter le calendrier de l'annexe 2, sous réserve de la remise à temps par le Client des éléments qui lui incombent ;
+- utiliser uniquement des éléments tiers (extensions, thèmes, images, polices) dont la licence autorise l'usage prévu, et les lister dans l'annexe 3 ;
+- livrer un Site exempt de code malveillant, dont les composants sont à jour à la date de mise en ligne.
+
+Le Prestataire est tenu d'une obligation de moyens, sauf pour la conformité du Site aux fonctionnalités décrites dans le cahier des charges, qui constitue une obligation de résultat.
+
+## ARTICLE 6 – OBLIGATIONS DU CLIENT
+
+Le Client s'engage à :
+- désigner un interlocuteur unique, [nom, fonction], habilité à valider les étapes ;
+- remettre les contenus (textes, logos, photographies, vidéos) au plus tard le [date] ou selon le calendrier de l'annexe 2 ;
+- garantir qu'il détient les droits sur les contenus qu'il fournit et que ces contenus sont licites ;
+- répondre aux demandes de validation dans un délai de [5] jours ouvrés ;
+- rédiger ou faire rédiger, sous sa responsabilité, les mentions légales, la politique de confidentialité et, le cas échéant, les conditions générales de vente du Site.
+
+Le retard du Client dans la remise des éléments ou dans ses validations décale d'autant le calendrier. Si ce retard dépasse [30] jours, le Prestataire peut facturer les travaux déjà réalisés, sans que cette facturation ne vaille résiliation.
+
+## ARTICLE 7 – NOM DE DOMAINE ET HÉBERGEMENT
+
+Le nom de domaine [nom de domaine] est enregistré au nom du Client, qui en est le seul titulaire. Si le Prestataire effectue la démarche d'enregistrement, il le fait au nom et pour le compte du Client et lui remet les identifiants d'accès au plus tard à la réception du Site.
+
+Le Site est hébergé chez [nom de l'hébergeur], dans le cadre d'un contrat conclu [directement par le Client / par le Prestataire pour le compte du Client].
+
+> Option : si le Prestataire fournit l'hébergement, prévoyez un contrat d'hébergement distinct indiquant la durée, le prix, le niveau de disponibilité, la fréquence des sauvegardes et les conditions de restitution du Site et des données en fin de contrat.
+
+## ARTICLE 8 – CALENDRIER, RECETTE ET RÉCEPTION
+
+### 8.1 Validations intermédiaires
+
+Les maquettes graphiques sont soumises à la validation écrite du Client. Une fois validées, toute modification relève de l'article 4.
+
+### 8.2 Recette
+
+Le Prestataire met le Site à disposition du Client sur une adresse de test. Le Client dispose d'un délai de [10] jours ouvrés pour vérifier sa conformité au cahier des charges et signaler par écrit les anomalies constatées.
+
+Les anomalies sont classées ainsi :
+- anomalie bloquante : elle empêche l'utilisation d'une fonctionnalité principale (paiement, formulaire de contact, affichage d'une page) ;
+- anomalie mineure : elle gêne l'utilisation sans l'empêcher.
+
+Le Prestataire corrige les anomalies bloquantes avant la mise en ligne et les anomalies mineures dans un délai de [15] jours après celle-ci.
+
+### 8.3 Réception
+
+La réception est constatée par un procès-verbal signé par les Parties. Elle peut être prononcée avec réserves portant sur des anomalies mineures.
+
+À défaut de réponse écrite du Client à l'issue du délai de recette, ou en cas d'exploitation du Site en ligne par le Client, la réception est réputée prononcée sans réserve.
+
+## ARTICLE 9 – GARANTIE
+
+Pendant [3] mois à compter de la réception, le Prestataire corrige gratuitement toute anomalie du Site par rapport au cahier des charges, à condition qu'elle ne résulte pas d'une modification réalisée par le Client ou un tiers, d'une mise à jour de l'outil de gestion de contenu ou d'une extension postérieure à la réception, ou d'un changement d'hébergement.
+
+Cette garantie ne couvre ni les mises à jour de sécurité, ni l'évolution du Site, qui relèvent d'un contrat de maintenance.
+
+> Option : le Prestataire propose un contrat de maintenance distinct, dont la signature n'est pas une condition du présent contrat.
+
+## ARTICLE 10 – PRIX ET PAIEMENT
+
+### 10.1 Prix
+
+Le prix de la prestation est fixé forfaitairement à [montant] euros hors taxes, soit [montant] euros toutes taxes comprises au taux de TVA en vigueur.
+
+> Option : si le prestataire bénéficie de la franchise en base de TVA, remplacez la phrase précédente par : « Le prix est de [montant] euros. TVA non applicable, article 293 B du code général des impôts. »
+
+### 10.2 Échéancier
+
+Le prix est payé selon l'échéancier suivant :
+- [30] % à la signature du contrat, à titre d'acompte ;
+- [40] % à la validation des maquettes graphiques ;
+- [30] % à la réception du Site.
+
+### 10.3 Délai de paiement et retard
+
+Les factures sont payables dans un délai de [30] jours à compter de leur date d'émission.
+
+> Note de rédaction : entre professionnels, le délai convenu ne peut pas dépasser 60 jours à compter de la date d'émission de la facture, ou 45 jours fin de mois.
+
+Tout retard de paiement entraîne de plein droit, sans rappel préalable :
+- des pénalités de retard calculées au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] ;
+- une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+En cas de retard de paiement de plus de [15] jours après une mise en demeure restée sans effet, le Prestataire peut suspendre ses travaux jusqu'au paiement, après en avoir informé le Client par écrit.
+
+## ARTICLE 11 – PROPRIÉTÉ INTELLECTUELLE
+
+### 11.1 Principe
+
+Le Prestataire est l'auteur des créations originales réalisées pour le Site (maquettes graphiques, charte graphique, éléments graphiques, code source spécifique). La conclusion du présent contrat ne transfère pas, à elle seule, ces droits au Client : la cession est prévue au présent article.
+
+### 11.2 Cession
+
+Sous réserve du paiement intégral du prix, le Prestataire cède au Client, à titre exclusif, les droits patrimoniaux suivants sur les créations spécifiques réalisées pour le Site :
+- le droit de reproduction : droit de reproduire les créations sur tout support numérique ou papier, en nombre illimité ;
+- le droit de représentation : droit de diffuser les créations en ligne, sur le Site et sur les comptes du Client sur les réseaux sociaux ;
+- le droit d'adaptation : droit de modifier, faire évoluer et corriger les créations, seul ou par l'intermédiaire du prestataire de son choix ;
+- le droit d'usage du code source spécifique, qui lui est remis à la réception.
+
+Cette cession est consentie pour le monde entier, pour la durée de protection des droits d'auteur, et pour l'exploitation du Site et la communication du Client.
+
+Le prix de la cession est inclus dans le prix fixé à l'article 10.
+
+> Option : le transfert des droits peut être limité à une durée ou à un territoire, ou prendre la forme d'une licence non exclusive pour les éléments graphiques que le Prestataire souhaite réutiliser. Indiquez-le précisément.
+
+### 11.3 Éléments exclus de la cession
+
+Ne sont pas cédés :
+- l'outil de gestion de contenu, les extensions, thèmes, polices et images de tiers listés en annexe 3, que le Client utilise selon leur propre licence ;
+- les outils, bibliothèques et savoir-faire génériques du Prestataire, antérieurs au contrat ou développés indépendamment du Site, sur lesquels le Client reçoit un droit d'utilisation non exclusif, gratuit et pour la durée de vie du Site.
+
+### 11.4 Mention du Prestataire
+
+Le Prestataire peut faire figurer une mention discrète « Site réalisé par [nom] » en pied de page, que le Client peut retirer à tout moment. Il peut citer le Site dans ses références commerciales, sauf refus écrit du Client.
+
+## ARTICLE 12 – DONNÉES PERSONNELLES
+
+Le Client est responsable des traitements de données personnelles réalisés au moyen du Site (formulaires, comptes clients, commandes, mesure d'audience). Il lui revient d'informer les visiteurs et, lorsque la loi l'exige, de recueillir leur consentement, notamment pour les cookies non nécessaires au fonctionnement du Site.
+
+Si le Prestataire accède à des données personnelles pour le compte du Client (reprise de données, phase de test sur données réelles, hébergement, maintenance), il agit en qualité de sous-traitant au sens de l'article 28 du règlement (UE) 2016/679. Les Parties signent alors l'avenant de sous-traitance figurant en annexe [numéro], qui précise l'objet, la durée, la nature des données traitées et les mesures de sécurité.
+
+## ARTICLE 13 – CONFIDENTIALITÉ
+
+Chaque Partie garde confidentielles les informations de l'autre Partie dont elle a connaissance à l'occasion du contrat, notamment les identifiants d'accès, et ne les utilise que pour son exécution. Cette obligation dure pendant le contrat et [2] ans après sa fin.
+
+## ARTICLE 14 – RESPONSABILITÉ
+
+Le Prestataire répond des dommages directs causés au Client par un manquement à ses obligations. Sauf faute lourde ou intentionnelle, sa responsabilité est limitée au montant total payé par le Client au titre du contrat.
+
+Le Prestataire n'est pas responsable du contenu publié sur le Site par le Client, ni des interruptions imputables à l'hébergeur, au registre du nom de domaine ou aux éditeurs des éléments tiers.
+
+Le Client garantit le Prestataire contre toute réclamation de tiers portant sur les contenus qu'il a fournis.
+
+## ARTICLE 15 – DURÉE
+
+Le contrat entre en vigueur à sa signature. Il prend fin à l'expiration de la période de garantie prévue à l'article 9, sous réserve des articles 11 et 13, qui restent applicables après cette date.
+
+## ARTICLE 16 – RÉSILIATION
+
+### 16.1 Résiliation pour manquement
+
+En cas de manquement grave d'une Partie à ses obligations, non réparé dans un délai de [30] jours après une mise en demeure envoyée par lettre recommandée avec accusé de réception, l'autre Partie peut résilier le contrat par lettre recommandée avec accusé de réception.
+
+### 16.2 Résiliation à l'initiative du Client
+
+Le Client peut mettre fin au contrat à tout moment, par écrit. Il paie alors les travaux réalisés jusqu'à la date de résiliation, sur la base de l'échéancier et du temps passé justifié, ainsi que [une indemnité de [pourcentage] % du prix restant dû].
+
+### 16.3 Effets
+
+En cas de résiliation, le Prestataire remet au Client, contre paiement des sommes dues, les éléments réalisés à la date de résiliation, dans leur état, ainsi que les accès au nom de domaine. La cession de droits prévue à l'article 11 porte alors sur ces seuls éléments.
+
+## ARTICLE 17 – FORCE MAJEURE
+
+Aucune Partie n'est responsable d'un retard ou d'une inexécution causé par un événement de force majeure au sens de l'article 1218 du Code civil. Si l'empêchement dure plus de [60] jours, chaque Partie peut résilier le contrat par écrit, les travaux réalisés restant dus.
+
+## ARTICLE 18 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français.
+
+En cas de différend, les Parties recherchent d'abord une solution amiable pendant [30] jours à compter de la demande écrite de l'une d'elles.
+
+À défaut d'accord, le litige est porté devant le tribunal de commerce de [ville].
+
+> Note de rédaction : la clause qui désigne un tribunal n'est valable qu'entre commerçants ou sociétés commerciales. Si l'une des Parties n'a pas cette qualité (profession libérale, association, particulier), supprimez la dernière phrase : les règles légales de compétence s'appliquent.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Prestataire
+[nom, prénom, fonction]
+Signature :
+
+Pour le Client
+[nom, prénom, fonction]
+Signature :
+
+## ANNEXES
+
+- Annexe 1 : cahier des charges (fonctionnalités, nombre de pages, navigateurs et appareils pris en charge, niveau d'accessibilité visé)
+- Annexe 2 : calendrier de réalisation (maquettes, intégration, recette, mise en ligne)
+- Annexe 3 : liste des éléments tiers et de leurs licences
+- Annexe 4 : proposition commerciale
+- Annexe [5] : avenant de sous-traitance des données personnelles (si l'article 12 s'applique)

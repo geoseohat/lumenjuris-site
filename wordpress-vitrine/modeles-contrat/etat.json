@@ -726,11 +726,39 @@
       "id": 3240,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-developpement-logiciel/",
       "gabarit": "2026-10-23"
+    },
+    "contrat-de-creation-de-site-internet": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o1.id}}",
+          "url": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o1.source_url}}",
+          "taille": "43 Ko",
+          "empreinte": "8243fc1db85e3acd622893211ad1f84e9a7d0265d10ae61de68b4e8f59bb9617"
+        },
+        "pdf": {
+          "id": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o2.id}}",
+          "url": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o2.source_url}}",
+          "taille": "149 Ko",
+          "empreinte": "8243fc1db85e3acd622893211ad1f84e9a7d0265d10ae61de68b4e8f59bb9617"
+        }
+      },
+      "image": {
+        "id": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o3.id}}",
+        "url": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o3.source_url}}",
+        "taille": "298 Ko",
+        "empreinte": "ba50d4f7ed2ed219b6032a0352276e9e8d1dd1e64738f55dc6486b984bcf811d"
+      },
+      "statut": "publish",
+      "id": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o7.id}}",
+      "lien": "{{20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261030-091653-publier-en-ligne-contrat-de-creation-de-site-internet"
+  ]
 }
