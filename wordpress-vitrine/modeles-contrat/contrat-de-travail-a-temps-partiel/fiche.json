@@ -1,0 +1,102 @@
+{
+  "slug": "contrat-de-travail-a-temps-partiel",
+  "nom": "Contrat de travail à temps partiel",
+  "nom_court": "contrat de travail à temps partiel",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de travail à temps partiel",
+  "mots_cles_secondaires": [
+    "contrat temps partiel",
+    "CDI à temps partiel",
+    "mentions obligatoires contrat temps partiel",
+    "contrat de travail moins de 24 heures",
+    "heures complémentaires temps partiel",
+    "requalification temps partiel en temps plein"
+  ],
+  "titre_h1": "Modèle de contrat de travail à temps partiel gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de travail à temps partiel gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de travail à temps partiel : mentions obligatoires, 24 heures minimum, heures complémentaires et horaires. Word et PDF.",
+  "chapo": "Le contrat de travail à temps partiel doit être écrit et préciser la durée, la répartition des horaires et les heures complémentaires, sous peine d'être présumé à temps plein. Ce modèle de CDI reprend ces mentions, la règle des 24 heures et ses dérogations.",
+  "public": "Employeurs, TPE et PME, et salariés à temps partiel",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-travail-a-temps-partiel-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Durée du travail",
+      "Droit de la sécurité sociale"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Fixer la durée contractuelle",
+      "Choisissez une durée hebdomadaire ou mensuelle d'au moins 24 heures, ou vérifiez la dérogation applicable et joignez la demande écrite du salarié."
+    ],
+    [
+      "Répartir les heures jour par jour",
+      "Indiquez les jours travaillés et les horaires de chacun, en limitant les coupures à une interruption par journée."
+    ],
+    [
+      "Prévoir les modifications possibles",
+      "Décrivez les cas et la nature des changements de répartition et le délai de prévenance de sept jours ouvrés ou celui de votre convention."
+    ],
+    [
+      "Encadrer les heures complémentaires",
+      "Fixez leur plafond, au dixième ou au tiers selon votre accord collectif, et les taux de majoration applicables."
+    ],
+    [
+      "Vérifier salaire et convention collective",
+      "Contrôlez le taux horaire au regard du minimum conventionnel et les règles propres au temps partiel de votre branche avant signature."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat à temps partiel doit-il obligatoirement être écrit ?",
+      "Oui. Il doit être écrit et comporter notamment la durée prévue, sa répartition, les cas de modification et la limite des heures complémentaires. À défaut, il est présumé conclu à temps plein, et l'employeur doit apporter une preuve difficile pour renverser cette présomption."
+    ],
+    [
+      "Peut-on embaucher un salarié pour moins de 24 heures par semaine ?",
+      "Oui, mais seulement dans certains cas : demande écrite et motivée du salarié, étudiant de moins de 26 ans, accord de branche étendu fixant un minimum inférieur ou contrats courts prévus par la loi. L'employeur ne peut pas l'imposer de sa seule initiative."
+    ],
+    [
+      "Combien d'heures complémentaires peut-on demander ?",
+      "À défaut d'accord collectif, un dixième de la durée prévue au contrat ; un accord peut porter cette limite au tiers. Elles sont majorées d'au moins 10 % et ne doivent jamais amener le salarié au niveau d'un temps plein."
+    ],
+    [
+      "L'employeur peut-il changer les jours de travail d'un salarié à temps partiel ?",
+      "Seulement dans les cas et selon la nature prévus au contrat, en respectant un délai de prévenance de sept jours ouvrés à défaut d'accord collectif. Le salarié peut refuser sans faute si le changement est incompatible avec des obligations familiales impérieuses, ses études ou un autre emploi."
+    ],
+    [
+      "Un salarié à temps partiel a-t-il droit à autant de congés payés ?",
+      "Oui, il acquiert deux jours et demi ouvrables par mois de travail effectif, comme un salarié à temps plein. Les jours de congés sont décomptés de la même manière, quel que soit le nombre d'heures travaillées chaque jour."
+    ],
+    [
+      "Un salarié à temps partiel peut-il avoir un autre emploi ?",
+      "Oui, il peut cumuler plusieurs emplois en respectant son obligation de loyauté et les durées maximales du travail. Une clause d'exclusivité est en principe inopposable, sauf si elle est indispensable, justifiée et proportionnée."
+    ],
+    [
+      "Que se passe-t-il si les heures complémentaires deviennent habituelles ?",
+      "Si l'horaire moyen réel dépasse d'au moins deux heures par semaine la durée prévue pendant 12 semaines consécutives ou 12 semaines sur 15, le contrat est modifié pour intégrer ce dépassement, sauf opposition du salarié."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 3123-1 et suivants (travail à temps partiel), dont L. 3123-6 (mentions du contrat écrit) et L. 3123-27 (durée minimale de 24 heures à défaut d'accord)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 241-3-1 (cotisations d'assurance vieillesse sur la base d'un temps plein)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-travail-temps-partiel"
+  }
+}
