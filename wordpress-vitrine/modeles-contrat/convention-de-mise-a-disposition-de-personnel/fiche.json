@@ -1,0 +1,106 @@
+{
+  "slug": "convention-de-mise-a-disposition-de-personnel",
+  "nom": "Convention de mise à disposition de personnel",
+  "nom_court": "convention de mise à disposition de personnel",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle convention de mise à disposition de personnel",
+  "mots_cles_secondaires": [
+    "prêt de main-d'œuvre à but non lucratif",
+    "convention de prêt de main-d'œuvre",
+    "mise à disposition de salarié entre entreprises",
+    "avenant mise à disposition salarié",
+    "refacturation mise à disposition de personnel",
+    "mise à disposition de personnel groupe"
+  ],
+  "titre_h1": "Modèle de convention de mise à disposition de personnel gratuit (Word et PDF)",
+  "titre_seo": "Convention de mise à disposition de personnel : modèle 2026",
+  "meta_description": "Modèle gratuit de convention de mise à disposition de personnel sans but lucratif, avec avenant du salarié et annexe de refacturation au coût réel.",
+  "chapo": "La convention de mise à disposition de personnel encadre le prêt temporaire d'un salarié à une autre entreprise, sans marge. Ce modèle réunit la convention entre entreprises, l'avenant au contrat de travail et un tableau de refacturation au coût réel.",
+  "public": "Dirigeants, responsables RH et sociétés d'un même groupe",
+  "gratuit": true,
+  "fichier_base": "modele-convention-de-mise-a-disposition-de-personnel-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Droit pénal du travail",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier l'absence de marge",
+      "Chiffrez le salaire, les charges et les frais du salarié pour fixer un prix de refacturation strictement égal au coût."
+    ],
+    [
+      "Consulter les deux CSE",
+      "Informez et consultez le comité social et économique de chaque entreprise avant le début du prêt."
+    ],
+    [
+      "Obtenir l'accord écrit du salarié",
+      "Présentez la mission, les horaires et le lieu au salarié et faites-lui signer l'avenant annexé à la convention."
+    ],
+    [
+      "Décrire mission et sécurité",
+      "Précisez les tâches, les caractéristiques du poste, l'accueil sécurité et les équipements fournis par l'entreprise utilisatrice."
+    ],
+    [
+      "Organiser la fin et le retour",
+      "Fixez la date de fin, le préavis de fin anticipée et le retour du salarié sur son poste ou un poste équivalent."
+    ]
+  ],
+  "faq": [
+    [
+      "Une entreprise peut-elle facturer une marge sur un salarié prêté ?",
+      "Non. Hors travail temporaire, portage salarial et quelques cas prévus par la loi, le prêt de main-d'œuvre à but lucratif est interdit. L'entreprise prêteuse ne peut refacturer que le salaire, les charges sociales et les frais professionnels."
+    ],
+    [
+      "Le salarié peut-il refuser une mise à disposition ?",
+      "Oui. Son accord exprès est obligatoire et son refus ne peut entraîner ni sanction, ni licenciement, ni mesure discriminatoire. Son accord se matérialise par un avenant à son contrat de travail."
+    ],
+    [
+      "Qui paie le salarié pendant la mise à disposition ?",
+      "L'entreprise prêteuse, qui reste son employeur. Elle verse le salaire et les cotisations, puis refacture ces sommes à l'entreprise utilisatrice selon la convention."
+    ],
+    [
+      "Qui est responsable en cas d'accident du travail ?",
+      "L'entreprise utilisatrice répond des conditions de travail sur son site et doit informer immédiatement l'employeur. L'entreprise prêteuse, en sa qualité d'employeur, déclare l'accident à la caisse primaire d'assurance maladie."
+    ],
+    [
+      "Faut-il une convention pour chaque salarié prêté ?",
+      "La loi exige que la convention identifie chaque salarié, sa qualification et la durée de sa mise à disposition. On peut signer une convention par salarié ou une convention commune avec une annexe nominative et un avenant individuel pour chacun."
+    ],
+    [
+      "La mise à disposition entre sociétés d'un même groupe est-elle libre ?",
+      "Non, les mêmes règles s'appliquent au sein d'un groupe : absence de marge, accord du salarié, avenant, consultation des CSE. Les sociétés d'un groupe restent des employeurs distincts."
+    ],
+    [
+      "Quels risques en cas de prêt de main-d'œuvre illicite ?",
+      "Le prêt illicite et le marchandage sont des délits pénaux qui visent les dirigeants comme les sociétés. Le salarié peut aussi obtenir des dommages et intérêts devant le conseil de prud'hommes."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 8241-1 (interdiction du prêt de main-d'œuvre à but lucratif), L. 8241-2 (prêt à but non lucratif, convention, avenant, CSE), L. 8241-3 (prêt aux jeunes entreprises et PME) et L. 8231-1 (marchandage)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais de paiement et pénalités de retard)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la propriété intellectuelle, articles L. 131-1 et suivants (cession des droits d'auteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "convention-mise-disposition-personnel"
+  }
+}

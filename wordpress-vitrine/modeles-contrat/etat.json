@@ -860,27 +860,53 @@
     "contrat-de-stage": {
       "fichiers": {
         "docx": {
-          "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o1.id}}",
-          "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o1.source_url}}",
+          "id": 3279,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-stage-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "3a68283e7a1311c542e99efbd4fb8e2baac99f573452409055f9ca6db3c73540"
         },
         "pdf": {
-          "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o2.id}}",
-          "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o2.source_url}}",
+          "id": 3280,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-stage-lumen-juris.pdf",
           "taille": "105 Ko",
           "empreinte": "3a68283e7a1311c542e99efbd4fb8e2baac99f573452409055f9ca6db3c73540"
         }
       },
       "image": {
-        "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o3.id}}",
-        "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o3.source_url}}",
+        "id": 3281,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-stage-lumen-juris.png",
         "taille": "285 Ko",
         "empreinte": "d9ae12118f4c1c940f02a69d2a06498eb7caf2623f091013971ded06645c3f58"
       },
       "statut": "publish",
-      "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o7.id}}",
-      "lien": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o7.link}}",
+      "id": 3282,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-stage/",
+      "gabarit": "2026-10-23"
+    },
+    "convention-de-mise-a-disposition-de-personnel": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o1.id}}",
+          "url": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "24f98d0a9b58c74e997583f8825cc587aa133b39fcca830e0fbca9d1f3db05c6"
+        },
+        "pdf": {
+          "id": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o2.id}}",
+          "url": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o2.source_url}}",
+          "taille": "110 Ko",
+          "empreinte": "24f98d0a9b58c74e997583f8825cc587aa133b39fcca830e0fbca9d1f3db05c6"
+        }
+      },
+      "image": {
+        "id": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o3.id}}",
+        "url": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o3.source_url}}",
+        "taille": "306 Ko",
+        "empreinte": "7ac07bd205c78a2865f9970122894706ba76734a413d7a7deea3bf12762918b2"
+      },
+      "statut": "publish",
+      "id": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o7.id}}",
+      "lien": "{{20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -889,6 +915,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261030-165232-publier-en-ligne-contrat-de-stage"
+    "20261030-165456-publier-en-ligne-convention-de-mise-a-disposition-de-personnel"
   ]
 }

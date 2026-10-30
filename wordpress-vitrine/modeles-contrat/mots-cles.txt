@@ -45,7 +45,7 @@
 [x] 2026-10-30 contrat de formation professionnelle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-formation-professionnelle/
 [x] 2026-10-30 convention de formation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-formation/
 [x] 2026-10-30 contrat de stage -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-stage/
-convention de mise à disposition de personnel
+[x] 2026-10-30 convention de mise à disposition de personnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-mise-a-disposition-de-personnel/
 contrat de travail à temps partiel
 contrat de travail à temps plein
 contrat de travail intermittent

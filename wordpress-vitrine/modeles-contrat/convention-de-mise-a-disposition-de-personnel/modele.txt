@@ -1,0 +1,185 @@
+# CONVENTION DE MISE À DISPOSITION DE PERSONNEL À BUT NON LUCRATIF
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle encadre un prêt de main-d'œuvre sans but lucratif entre deux entreprises (article L. 8241-2 du Code du travail). L'entreprise prêteuse ne peut facturer que les salaires versés au salarié, les charges sociales afférentes et les frais professionnels remboursés. Toute marge rend le prêt illicite, hors travail temporaire et cas prévus par la loi. Une convention distincte est conclue pour chaque salarié, ou une convention commune avec une annexe nominative par salarié. Elle s'accompagne obligatoirement d'un avenant au contrat de travail signé par le salarié.
+
+ENTRE LES SOUSSIGNÉES :
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction], dûment habilité(e),
+
+ci-après « l'Entreprise prêteuse »,
+
+ET
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction], dûment habilité(e),
+
+ci-après « l'Entreprise utilisatrice »,
+
+ci-après ensemble « les Parties ».
+
+## PRÉAMBULE
+
+L'Entreprise utilisatrice a besoin, pour [motif : projet, transmission de compétences, appui temporaire, partenariat], des compétences d'un salarié de l'Entreprise prêteuse. Les Parties ont décidé d'organiser une mise à disposition temporaire, sans but lucratif, dans le respect des articles L. 8241-1 et L. 8241-2 du Code du travail.
+
+## ARTICLE 1 – OBJET
+
+L'Entreprise prêteuse met à la disposition de l'Entreprise utilisatrice le salarié désigné à l'article 2, qui a donné son accord, pour exercer les missions décrites à l'article 3.
+
+La mise à disposition n'a pas de but lucratif : l'Entreprise prêteuse ne réalise aucun bénéfice et facture uniquement les sommes prévues à l'article 6.
+
+## ARTICLE 2 – SALARIÉ MIS À DISPOSITION
+
+Nom, prénom : [nom, prénom].
+
+Emploi occupé dans l'Entreprise prêteuse : [intitulé], classification [niveau, coefficient], convention collective [intitulé et IDCC].
+
+Qualification et compétences mobilisées : [diplômes, expérience, compétences utiles à la mission].
+
+## ARTICLE 3 – MISSIONS ET CONDITIONS DE TRAVAIL
+
+Missions confiées : [description précise].
+
+Lieu d'exécution : [adresse].
+
+Horaires de travail : [horaires, durée hebdomadaire, modalités de télétravail éventuelles], dans le respect de la durée du travail applicable au salarié.
+
+Caractéristiques particulières du poste : [travaux dangereux, déplacements, équipements de protection individuelle, surveillance médicale particulière, ou « néant »].
+
+## ARTICLE 4 – DURÉE
+
+La mise à disposition débute le [date] et prend fin le [date], soit une durée de [nombre] mois.
+
+[Option : période probatoire : la mise à disposition peut comporter une période probatoire de [durée], pendant laquelle elle peut être interrompue à la demande du salarié ou d'une des Parties. Cette interruption ne peut constituer ni une sanction ni un motif de licenciement, sauf faute grave du salarié.]
+
+Elle peut être renouvelée par avenant écrit, avec l'accord du salarié.
+
+## ARTICLE 5 – STATUT DU SALARIÉ PENDANT LA MISE À DISPOSITION
+
+### 5.1 Maintien du contrat de travail
+
+Le contrat de travail du salarié avec l'Entreprise prêteuse n'est ni rompu ni suspendu. L'Entreprise prêteuse reste son employeur. Elle continue de lui verser sa rémunération, d'acquitter les cotisations sociales et d'exercer le pouvoir disciplinaire.
+
+### 5.2 Organisation du travail
+
+Pendant la mise à disposition, l'Entreprise utilisatrice organise le travail du salarié et lui donne les instructions nécessaires à l'exécution des missions. Elle informe l'Entreprise prêteuse de tout fait susceptible de justifier une sanction, sans pouvoir la prononcer elle-même.
+
+### 5.3 Avantages collectifs
+
+Le salarié a accès aux installations et moyens de transport collectifs dont bénéficient les salariés de l'Entreprise utilisatrice, notamment au restaurant d'entreprise ou aux titres-restaurant.
+
+### 5.4 Retour
+
+À l'issue de la mise à disposition, le salarié retrouve son poste de travail ou un poste équivalent dans l'Entreprise prêteuse, sans que l'évolution de sa carrière ou de sa rémunération soit affectée par la période de prêt.
+
+## ARTICLE 6 – CONDITIONS FINANCIÈRES
+
+### 6.1 Sommes refacturées
+
+L'Entreprise prêteuse facture à l'Entreprise utilisatrice, au prorata du temps passé au service de celle-ci :
+
+- le salaire brut versé au salarié, y compris les primes et l'indemnité de congés payés acquises pendant la période ;
+- les charges sociales patronales afférentes ;
+- les frais professionnels remboursés au salarié pour l'exécution de la mission.
+
+Mode de détermination : [coût horaire de [montant] euros calculé selon l'annexe 1 / refacturation au réel sur justificatifs].
+
+Aucune marge, aucun frais de gestion ni aucune autre somme ne peut être ajouté.
+
+> Option : dans les cas prévus à l'article L. 8241-3 du Code du travail (prêt par une entreprise ou un groupe d'au moins 5 000 salariés à une jeune entreprise ou à une PME, pour une durée limitée), le montant facturé peut être inférieur au coût réel, voire nul. Vérifiez les conditions avant d'utiliser cette option.
+
+### 6.2 Facturation et paiement
+
+Les sommes sont facturées [mensuellement], avec les justificatifs de paie correspondants. Elles sont payables à [30] jours à compter de l'émission de la facture.
+
+En cas de retard, des pénalités sont dues au taux de [trois fois le taux d'intérêt légal / taux de la Banque centrale européenne majoré de dix points], ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+### 6.3 Frais professionnels
+
+Les frais de déplacement, d'hébergement et de repas engagés par le salarié pour la mission sont [avancés par l'Entreprise prêteuse et refacturés / pris en charge directement par l'Entreprise utilisatrice], selon le barème [de l'Entreprise prêteuse / suivant : [précisions]].
+
+## ARTICLE 7 – SANTÉ, SÉCURITÉ ET ACCIDENTS DU TRAVAIL
+
+L'Entreprise utilisatrice est responsable des conditions d'exécution du travail sur son site, notamment en matière de santé et de sécurité. Elle assure au salarié une information et, si nécessaire, une formation à la sécurité adaptées au poste, et fournit les équipements de protection individuelle nécessaires.
+
+En cas d'accident du travail ou de trajet, l'Entreprise utilisatrice en informe l'Entreprise prêteuse sans délai et lui transmet les éléments utiles. L'Entreprise prêteuse, employeur, effectue la déclaration auprès de la caisse primaire d'assurance maladie dans les délais légaux.
+
+Le suivi médical du salarié reste assuré par le service de prévention et de santé au travail de l'Entreprise prêteuse.
+
+## ARTICLE 8 – CONGÉS ET ABSENCES
+
+Les demandes de congés sont adressées à l'Entreprise prêteuse, qui statue après avis de l'Entreprise utilisatrice. L'Entreprise utilisatrice informe l'Entreprise prêteuse de toute absence du salarié dans les 24 heures.
+
+## ARTICLE 9 – RESPONSABILITÉ ET ASSURANCES
+
+L'Entreprise utilisatrice est responsable des dommages causés par le salarié aux tiers dans l'exécution des missions qu'elle lui confie et sous ses instructions. Chaque Partie déclare être assurée en responsabilité civile pour les activités concernées.
+
+## ARTICLE 10 – CONFIDENTIALITÉ ET PROPRIÉTÉ INTELLECTUELLE
+
+L'Entreprise prêteuse s'engage, et engage le salarié, à garder confidentielles les informations de l'Entreprise utilisatrice dont il a connaissance pendant la mise à disposition.
+
+Les résultats des travaux réalisés pour l'Entreprise utilisatrice lui reviennent, dans les limites permises par le Code de la propriété intellectuelle. [Option : les droits d'auteur sur les créations du salarié, hors logiciels, font l'objet d'une cession écrite distincte.]
+
+## ARTICLE 11 – NON-SOLLICITATION
+
+Pendant la mise à disposition et [six] mois après sa fin, l'Entreprise utilisatrice s'interdit de proposer un emploi au salarié sans l'accord préalable écrit de l'Entreprise prêteuse.
+
+> Note de rédaction : cette clause engage seulement les deux entreprises. Elle ne peut pas interdire au salarié de démissionner ni de postuler de sa propre initiative. Une durée excessive ou une indemnité disproportionnée pourrait être contestée.
+
+## ARTICLE 12 – FIN ANTICIPÉE
+
+Chaque Partie peut mettre fin à la mise à disposition avant son terme par lettre recommandée avec avis de réception, moyennant un préavis de [quinze] jours, notamment si le salarié retire son accord ou si l'une des Parties manque à ses obligations.
+
+En cas de faute grave du salarié, l'Entreprise utilisatrice peut demander la fin immédiate de la mise à disposition ; seule l'Entreprise prêteuse peut prendre une sanction.
+
+Les sommes dues pour la période effectivement réalisée restent exigibles.
+
+## ARTICLE 13 – INFORMATION DES REPRÉSENTANTS DU PERSONNEL
+
+Chaque Partie déclare avoir rempli, avant la signature, les obligations d'information et de consultation de son comité social et économique s'il existe :
+
+- l'Entreprise prêteuse : consultation préalable du comité sur la mise en œuvre du prêt de main-d'œuvre et information sur les conventions signées ;
+- l'Entreprise utilisatrice : information et consultation préalable du comité avant l'accueil du salarié.
+
+## ARTICLE 14 – LITIGES
+
+Les Parties recherchent une solution amiable pendant [30] jours. À défaut, le litige entre elles est porté devant le tribunal de commerce de [ville]. Les litiges entre le salarié et son employeur relèvent du conseil de prud'hommes.
+
+Fait à [ville], le [date], en deux exemplaires originaux [ou signé électroniquement].
+
+Pour l'Entreprise prêteuse
+[Nom, fonction]
+Signature
+
+Pour l'Entreprise utilisatrice
+[Nom, fonction]
+Signature
+
+## ANNEXE 1 – CALCUL DU COÛT REFACTURÉ
+
+- Salaire brut mensuel : [montant] euros.
+- Charges patronales : [montant] euros.
+- Frais professionnels prévisionnels : [montant] euros.
+- Coût horaire ou journalier refacturé : [montant] euros.
+
+## ANNEXE 2 – AVENANT AU CONTRAT DE TRAVAIL DU SALARIÉ
+
+Entre [Entreprise prêteuse], représentée par [nom, fonction], et [nom, prénom du salarié],
+
+Il est convenu que le salarié est mis à disposition de [Entreprise utilisatrice] du [date] au [date], pour exercer les missions suivantes : [missions], à [lieu], selon les horaires suivants : [horaires]. Caractéristiques particulières du poste : [précisions].
+
+Le salarié conserve sa rémunération de [montant] euros brut mensuel, son ancienneté et l'ensemble des droits attachés à son contrat de travail. À l'issue de la mise à disposition, il retrouve son poste ou un poste équivalent dans l'entreprise.
+
+Le salarié reconnaît avoir été informé qu'il peut refuser cette mise à disposition sans être sanctionné, licencié ni faire l'objet d'une mesure discriminatoire.
+
+[Option : une période probatoire de [durée] est prévue, au cours de laquelle il peut être mis fin à la mise à disposition à la demande de l'une des parties.]
+
+Fait à [ville], le [date], en deux exemplaires.
+
+L'employeur
+[Nom, fonction]
+Signature
+
+Le salarié
+[Nom, prénom]
+Signature précédée de la mention « Lu et approuvé, bon pour accord »
