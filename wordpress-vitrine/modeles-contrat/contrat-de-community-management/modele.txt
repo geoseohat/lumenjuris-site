@@ -1,0 +1,197 @@
+# CONTRAT DE PRESTATION DE COMMUNITY MANAGEMENT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du prestataire], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+> Option : si le prestataire est un entrepreneur individuel, indiquez ses nom et prénom, la mention « entrepreneur individuel » ou « EI », son numéro SIREN et l'adresse de son établissement.
+
+ci-après « le Prestataire »,
+
+ET
+
+[Dénomination sociale du client], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+ci-après « le Client »,
+
+ensemble « les Parties ».
+
+> Note de rédaction : ce modèle vise un client professionnel (entreprise, commerce, association) qui confie l'animation de ses comptes à un prestataire indépendant ou à une agence. Il ne convient pas pour embaucher un community manager salarié, ni pour un contrat avec un influenceur qui publie sur ses propres comptes.
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Client souhaite confier à un professionnel l'animation de sa présence sur les réseaux sociaux, afin de [faire connaître son activité / fidéliser sa clientèle / annoncer ses événements : préciser].
+
+Le Prestataire exerce une activité de gestion et d'animation de comptes sur les réseaux sociaux pour le compte d'entreprises.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat définit les conditions dans lesquelles le Prestataire anime, au nom et pour le compte du Client, les comptes suivants (ci-après « les Comptes ») :
+- [réseau social] : [nom ou adresse du compte] ;
+- [réseau social] : [nom ou adresse du compte] ;
+- [réseau social] : [nom ou adresse du compte].
+
+## ARTICLE 2 – PRESTATIONS
+
+### 2.1 Contenu de la mission
+
+Le Prestataire réalise les prestations suivantes, détaillées dans l'annexe 1 :
+- élaboration d'une ligne éditoriale et d'un calendrier mensuel de publications ;
+- création de [nombre] publications par mois et par Compte (textes, visuels, vidéos courtes) ;
+- publication aux dates prévues au calendrier ;
+- modération des commentaires et réponse aux messages selon la charte de l'annexe 2, du [lundi au vendredi], de [heure] à [heure] ;
+- [gestion des campagnes publicitaires sur les réseaux sociaux, dans les conditions de l'article 7] ;
+- rapport mensuel sur l'activité des Comptes.
+
+### 2.2 Exclusions
+
+Sauf avenant, ne sont pas compris : les séances photo ou vidéo sur place, l'achat de photographies ou de musiques sous licence payante, le budget publicitaire, la gestion des avis clients sur les plateformes d'avis et la communication de crise au-delà des premières réponses prévues à l'article 5.
+
+## ARTICLE 3 – VALIDATION DES PUBLICATIONS
+
+Le Prestataire soumet au Client le calendrier éditorial et les publications du mois suivant au plus tard le [date] de chaque mois.
+
+Le Client valide ou demande des modifications dans un délai de [3] jours ouvrés. Sans réponse dans ce délai, [le Prestataire ne publie pas les contenus non validés / les contenus sont réputés validés, à l'exception de ceux qui mentionnent un prix, une promotion, un concours ou une personne identifiable].
+
+> Note de rédaction : une validation tacite fait gagner du temps, mais le Client reste l'éditeur de ses comptes et répond de ce qui y est publié. Réservez-la aux contenus sans enjeu particulier.
+
+Les publications de réaction à l'actualité, non prévues au calendrier, sont soumises à l'accord du Client par [messagerie / courriel] avant leur mise en ligne.
+
+## ARTICLE 4 – PROPRIÉTÉ ET ACCÈS AUX COMPTES
+
+Les Comptes, leurs abonnés, leurs contenus et leurs statistiques appartiennent au Client. Lorsqu'un Compte est créé par le Prestataire pendant le contrat, il l'est au nom du Client, avec une adresse électronique dont le Client est titulaire.
+
+Le Client donne au Prestataire un accès personnel, par l'attribution d'un rôle de gestionnaire au moyen des outils proposés par chaque réseau social, plutôt que par la communication de ses identifiants. Le Client conserve en permanence le rôle d'administrateur principal.
+
+Le Prestataire s'interdit de modifier le nom, l'adresse ou les administrateurs des Comptes sans l'accord écrit du Client, et de les utiliser pour un autre objet que la mission.
+
+## ARTICLE 5 – MODÉRATION ET GESTION DES INCIDENTS
+
+Le Prestataire applique la charte de modération de l'annexe 2. Il masque ou supprime sans délai les commentaires manifestement illicites (injures, propos haineux, menaces, atteintes à la vie privée, contenus à caractère pornographique) dont il a connaissance, et en conserve une capture d'écran datée.
+
+Il alerte le Client, dans un délai de [2] heures ouvrées, de tout message ou commentaire susceptible de nuire à sa réputation, de toute mise en cause publique d'un salarié, de toute réclamation d'un tiers sur un contenu, et de toute suspension ou restriction d'un Compte. Il ne répond publiquement à ces situations qu'avec l'accord du Client.
+
+## ARTICLE 6 – RÈGLES DE PUBLICATION
+
+### 6.1 Engagements du Prestataire
+
+Le Prestataire s'engage à :
+- ne publier que des contenus dont il détient ou a obtenu les droits (textes, photographies, musiques, polices, modèles graphiques), et à tenir la liste des contenus sous licence ;
+- ne publier l'image d'une personne identifiable qu'après avoir obtenu, ou fait obtenir par le Client, son autorisation écrite ;
+- ne pas acheter d'abonnés, de mentions « j'aime » ou de commentaires, ni publier de faux avis ;
+- respecter les conditions d'utilisation de chaque réseau social ;
+- signaler clairement comme publicitaire tout contenu publié dans le cadre d'un partenariat rémunéré avec un tiers.
+
+### 6.2 Engagements du Client
+
+Le Client s'engage à :
+- fournir des informations exactes sur ses produits, ses prix et ses offres ;
+- vérifier que les promotions et jeux-concours annoncés respectent les règles qui leur sont applicables ;
+- informer le Prestataire des règles de publicité propres à son secteur d'activité (par exemple : alcool, santé, crédit, jeux d'argent) ;
+- remettre les logos, photographies et documents dont il détient les droits.
+
+## ARTICLE 7 – CAMPAGNES PUBLICITAIRES
+
+> Option A : le budget publicitaire est payé directement par le Client sur son propre compte publicitaire, avec son moyen de paiement. Le Prestataire paramètre et suit les campagnes dans la limite du budget mensuel validé par écrit, soit [montant] euros au plus.
+> Option B : le Prestataire achète l'espace publicitaire au nom et pour le compte du Client, dans la limite de [montant] euros par mois. Il lui rend compte chaque mois des sommes dépensées, factures des plateformes à l'appui, et lui refacture ces sommes sans majoration. Sa rémunération est uniquement celle prévue à l'article 9.
+
+Toute dépense au-delà du budget validé reste à la charge du Prestataire, sauf accord préalable écrit du Client.
+
+## ARTICLE 8 – RAPPORT MENSUEL
+
+Le Prestataire remet au plus tard le [jour] de chaque mois un rapport comprenant : les publications réalisées, l'évolution du nombre d'abonnés, la portée et les interactions par Compte, les incidents de modération, et, le cas échéant, les dépenses et résultats des campagnes publicitaires.
+
+## ARTICLE 9 – PRIX ET PAIEMENT
+
+La mission est rémunérée par un forfait mensuel de [montant] euros hors taxes.
+
+> Option : si le prestataire bénéficie de la franchise en base de TVA, ajoutez : « TVA non applicable, article 293 B du code général des impôts. »
+
+Les prestations ponctuelles hors forfait (séance photo, vidéo, campagne exceptionnelle) font l'objet d'un devis accepté par écrit.
+
+Les factures sont payables dans un délai de [30] jours à compter de leur date d'émission.
+
+> Note de rédaction : entre professionnels, le délai convenu ne peut pas dépasser 60 jours à compter de la date d'émission de la facture, ou 45 jours fin de mois.
+
+Tout retard de paiement entraîne de plein droit des pénalités au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+## ARTICLE 10 – PROPRIÉTÉ INTELLECTUELLE
+
+### 10.1 Cession des droits sur les contenus créés
+
+Au fur et à mesure du paiement des factures correspondantes, le Prestataire cède au Client, à titre exclusif, ses droits d'auteur sur les textes, visuels et vidéos créés pour lui dans le cadre du contrat, à savoir :
+- le droit de reproduction, sur tout support numérique ou imprimé ;
+- le droit de représentation, sur les Comptes, sur tout autre compte ou site du Client et dans ses supports de communication ;
+- le droit d'adaptation, notamment pour recadrer, traduire, modifier ou combiner les contenus.
+
+Cette cession est consentie pour le monde entier et pour la durée de protection des droits d'auteur. Son prix est compris dans le forfait.
+
+### 10.2 Éléments exclus
+
+Les photographies, musiques, polices et modèles sous licence restent soumis aux conditions de leur licence, que le Prestataire communique au Client. Le Prestataire conserve ses méthodes et modèles de travail génériques.
+
+### 10.3 Références
+
+Le Prestataire peut citer le Client parmi ses références et montrer des publications réalisées, sauf refus écrit du Client.
+
+## ARTICLE 11 – DONNÉES PERSONNELLES ET CONFIDENTIALITÉ
+
+Dans le cadre de la modération et de la réponse aux messages, le Prestataire traite pour le compte du Client des données personnelles des internautes. Il agit en qualité de sous-traitant au sens de l'article 28 du règlement (UE) 2016/679, selon l'avenant figurant en annexe 3. Il n'exporte pas ces données hors des outils des réseaux sociaux, sauf instruction écrite du Client.
+
+Chaque Partie garde confidentielles les informations non publiques de l'autre Partie, notamment les projets, prix et accès, pendant le contrat et [2] ans après sa fin.
+
+## ARTICLE 12 – RESPONSABILITÉ
+
+Le Prestataire répond des dommages directs causés par un manquement à ses obligations, notamment la publication d'un contenu non validé ou sur lequel il ne détenait pas les droits. Sauf faute lourde ou intentionnelle, sa responsabilité est limitée au montant payé par le Client au cours des [12] derniers mois.
+
+Le Client répond des informations qu'il fournit et des contenus qu'il a validés en connaissance de cause.
+
+Aucune Partie n'est responsable des décisions prises par un réseau social (modification des règles de diffusion, suspension de compte) qui ne résultent pas de sa faute.
+
+## ARTICLE 13 – DURÉE
+
+Le contrat est conclu pour une durée initiale de [3 / 6 / 12] mois à compter du [date].
+
+> Option A : il est ensuite reconduit tacitement par périodes de [1] mois, chaque Partie pouvant y mettre fin à tout moment avec un préavis de [1] mois notifié par écrit.
+> Option B : il prend fin à l'issue de la durée initiale, sans reconduction tacite.
+
+## ARTICLE 14 – RÉSILIATION POUR MANQUEMENT
+
+En cas de manquement grave d'une Partie, non réparé dans les [15] jours suivant une mise en demeure envoyée par lettre recommandée avec accusé de réception, l'autre Partie peut résilier le contrat par lettre recommandée avec accusé de réception.
+
+La publication par le Prestataire d'un contenu portant gravement atteinte à l'image du Client, sans sa validation, autorise le Client à suspendre immédiatement les accès du Prestataire, puis à résilier le contrat sans préavis.
+
+## ARTICLE 15 – FIN DU CONTRAT
+
+À la fin du contrat, quelle qu'en soit la cause, le Prestataire :
+- retire ou laisse retirer ses rôles d'accès sur l'ensemble des Comptes et des comptes publicitaires dans un délai de [5] jours ;
+- remet au Client les fichiers sources des contenus payés, le calendrier éditorial, la charte de modération mise à jour et la liste des licences ;
+- ne supprime aucune publication, aucun abonné ni aucun message des Comptes.
+
+## ARTICLE 16 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français.
+
+En cas de différend, les Parties recherchent une solution amiable pendant [30] jours à compter de la demande écrite de l'une d'elles. À défaut d'accord, le litige est porté devant le tribunal de commerce de [ville].
+
+> Note de rédaction : la clause qui désigne un tribunal n'est valable qu'entre commerçants ou sociétés commerciales. Si l'une des Parties n'a pas cette qualité, supprimez la dernière phrase.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Prestataire
+[nom, prénom, fonction]
+Signature :
+
+Pour le Client
+[nom, prénom, fonction]
+Signature :
+
+## ANNEXES
+
+- Annexe 1 : description de la mission (réseaux, rythme de publication, formats, horaires de modération)
+- Annexe 2 : charte de modération (ton, réponses types, contenus à masquer, situations à remonter au Client)
+- Annexe 3 : avenant de sous-traitance des données personnelles

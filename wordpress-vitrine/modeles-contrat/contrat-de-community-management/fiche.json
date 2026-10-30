@@ -1,0 +1,114 @@
+{
+  "slug": "contrat-de-community-management",
+  "nom": "Contrat de community management",
+  "nom_court": "contrat de community management",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de community management",
+  "mots_cles_secondaires": [
+    "contrat community manager",
+    "contrat community manager freelance",
+    "contrat gestion réseaux sociaux",
+    "contrat social media manager",
+    "contrat agence réseaux sociaux",
+    "contrat de prestation réseaux sociaux"
+  ],
+  "titre_h1": "Modèle de contrat de community management gratuit (Word et PDF)",
+  "titre_seo": "Contrat de community management : modèle gratuit 2026",
+  "meta_description": "Modèle de contrat de community management pour confier vos réseaux sociaux à un freelance ou une agence : validation, accès, modération, droits. Word et PDF.",
+  "chapo": "Le contrat de community management encadre la mission d'un indépendant ou d'une agence qui anime vos comptes sur les réseaux sociaux. Téléchargez un modèle complet qui règle la validation des publications, la propriété des comptes, la modération et les droits sur les visuels.",
+  "public": "Entreprises, community managers indépendants et agences",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-community-management-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Propriété intellectuelle",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Listez les comptes confiés",
+      "Indiquez chaque réseau et le nom exact de chaque compte, ainsi que le rythme de publication attendu sur chacun."
+    ],
+    [
+      "Fixez le circuit de validation",
+      "Choisissez le délai de réponse et ce qui se passe sans réponse : pas de publication, ou validation tacite limitée aux contenus sans enjeu."
+    ],
+    [
+      "Ouvrez des accès de gestionnaire",
+      "Attribuez au prestataire un rôle sur chaque plateforme sans lui transmettre vos identifiants, et gardez le rôle d'administrateur principal."
+    ],
+    [
+      "Rédigez la charte de modération",
+      "Décrivez le ton, les réponses types, les commentaires à masquer et les situations à vous signaler immédiatement."
+    ],
+    [
+      "Plafonnez le budget publicitaire",
+      "Choisissez qui paie les campagnes sponsorisées, fixez un montant mensuel maximal et exigez les factures des plateformes."
+    ]
+  ],
+  "faq": [
+    [
+      "À qui appartient une page Facebook ou Instagram gérée par une agence ?",
+      "À l'entreprise, si le contrat le prévoit et si la page a été créée à son nom. Gardez toujours le rôle d'administrateur principal et n'accordez au prestataire qu'un rôle de gestionnaire, que vous pouvez retirer à tout moment."
+    ],
+    [
+      "Un community manager freelance peut-il être requalifié en salarié ?",
+      "Oui, si l'entreprise lui impose des horaires, des tâches détaillées au quotidien et un pouvoir de sanction, comme à un salarié. Le contrat doit lui laisser l'organisation de son travail, encadrée par un calendrier et une charte."
+    ],
+    [
+      "Qui est responsable d'un commentaire injurieux publié sous un post de l'entreprise ?",
+      "L'auteur du commentaire en répond en premier lieu. L'entreprise, en tant qu'éditeur du compte, peut aussi être mise en cause si elle laisse en ligne un commentaire manifestement illicite qui lui a été signalé. D'où l'intérêt d'une modération rapide."
+    ],
+    [
+      "Les visuels créés par le community manager appartiennent-ils à l'entreprise ?",
+      "Pas sans cession écrite des droits d'auteur. Le modèle prévoit la cession des droits de reproduction, de représentation et d'adaptation au fur et à mesure du paiement des factures."
+    ],
+    [
+      "Combien de temps pour valider les publications du community manager ?",
+      "La loi ne fixe aucun délai : c'est au contrat de le prévoir. Le modèle propose trois jours ouvrés, avec une règle claire pour les contenus restés sans réponse."
+    ],
+    [
+      "Que doit rendre le community manager à la fin du contrat ?",
+      "Ses accès aux comptes, les fichiers sources des visuels payés, le calendrier éditorial, la charte de modération et la liste des licences utilisées. Il ne doit supprimer aucune publication."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 9 (droit à l'image et vie privée), 1217 (inexécution) et 1984 et suivants (mandat, pour l'achat d'espace publicitaire au nom du client)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la propriété intellectuelle, articles L. 111-1 et L. 131-3 (droits d'auteur et cession)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code de la consommation, articles L. 121-1 et suivants (pratiques commerciales déloyales et trompeuses)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (délais de paiement et pénalités de retard)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Code général des impôts, article 293 B (franchise en base de TVA)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-community-management"
+  }
+}
