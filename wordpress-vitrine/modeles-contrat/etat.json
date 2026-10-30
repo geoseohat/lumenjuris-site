@@ -834,27 +834,53 @@
     "convention-de-formation": {
       "fichiers": {
         "docx": {
-          "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o1.id}}",
-          "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o1.source_url}}",
+          "id": 3268,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-convention-de-formation-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "63ceb78863b69660ecac142684df550d714c76269009f4dddb711adb424261c1"
         },
         "pdf": {
-          "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o2.id}}",
-          "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o2.source_url}}",
+          "id": 3269,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-convention-de-formation-lumen-juris.pdf",
           "taille": "128 Ko",
           "empreinte": "63ceb78863b69660ecac142684df550d714c76269009f4dddb711adb424261c1"
         }
       },
       "image": {
-        "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o3.id}}",
-        "url": "{{20261030-164941-publier-en-ligne-convention-de-formation.o3.source_url}}",
+        "id": 3270,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-convention-de-formation-lumen-juris.png",
         "taille": "291 Ko",
         "empreinte": "01f014798f998c8996b470bdc123a7e30e604517fc4eb537073b49d0e958c6a9"
       },
       "statut": "publish",
-      "id": "{{20261030-164941-publier-en-ligne-convention-de-formation.o7.id}}",
-      "lien": "{{20261030-164941-publier-en-ligne-convention-de-formation.o7.link}}",
+      "id": 3271,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-formation/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-stage": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o1.id}}",
+          "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "3a68283e7a1311c542e99efbd4fb8e2baac99f573452409055f9ca6db3c73540"
+        },
+        "pdf": {
+          "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o2.id}}",
+          "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o2.source_url}}",
+          "taille": "105 Ko",
+          "empreinte": "3a68283e7a1311c542e99efbd4fb8e2baac99f573452409055f9ca6db3c73540"
+        }
+      },
+      "image": {
+        "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o3.id}}",
+        "url": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o3.source_url}}",
+        "taille": "285 Ko",
+        "empreinte": "d9ae12118f4c1c940f02a69d2a06498eb7caf2623f091013971ded06645c3f58"
+      },
+      "statut": "publish",
+      "id": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o7.id}}",
+      "lien": "{{20261030-165232-publier-en-ligne-contrat-de-stage.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -863,6 +889,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261030-164941-publier-en-ligne-convention-de-formation"
+    "20261030-165232-publier-en-ligne-contrat-de-stage"
   ]
 }
