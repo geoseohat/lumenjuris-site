@@ -309,11 +309,12 @@ function diagnostic_plan_du_site()
             $robots[$id] = $r;
         }
     }
-    // Code ajouté au site (thème, extension) qui modifierait le plan du site.
+    // Code ajouté au site (thème, extension) qui modifierait le plan du site ou limiterait les requêtes.
     global $wp_filter;
     $filtres = [];
     foreach ((array) $wp_filter as $nom => $crochet) {
-        if (strpos($nom, 'rank_math/sitemap') !== 0) {
+        if (strpos($nom, 'rank_math/sitemap') !== 0
+            && !in_array($nom, ['pre_get_posts', 'post_limits', 'posts_clauses', 'posts_where', 'posts_request'], true)) {
             continue;
         }
         foreach ($crochet->callbacks as $fonctions) {
@@ -329,6 +330,7 @@ function diagnostic_plan_du_site()
         'version_rank_math' => defined('RANK_MATH_VERSION') ? RANK_MATH_VERSION : null,
         'pages_publiees'    => count($pages),
         'liens_par_plan'    => $options['items_per_page'] ?? null,
+        'articles_par_page' => get_option('posts_per_page'),
         'pages_dans_plan'   => $options['pt_page_sitemap'] ?? null,
         'pages_exclues'     => $options['exclude_posts'] ?? null,
         'robots_par_page'   => $robots,
