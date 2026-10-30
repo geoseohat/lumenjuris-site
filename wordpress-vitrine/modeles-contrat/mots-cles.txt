@@ -38,7 +38,7 @@
 [x] 2026-10-29 contrat SaaS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-saas/
 [x] 2026-10-29 contrat de développement logiciel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-developpement-logiciel/
 [x] 2026-10-30 contrat de création de site internet -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-creation-de-site-internet/
-contrat de référencement SEO
+[x] 2026-10-30 contrat de référencement SEO -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-referencement-seo/
 contrat de community management
 contrat de conseil
 contrat de consulting

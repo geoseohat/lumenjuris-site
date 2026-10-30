@@ -1,0 +1,114 @@
+{
+  "slug": "contrat-de-referencement-seo",
+  "nom": "Contrat de référencement SEO",
+  "nom_court": "contrat de référencement SEO",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de référencement SEO",
+  "mots_cles_secondaires": [
+    "contrat SEO",
+    "contrat de référencement naturel",
+    "contrat agence SEO",
+    "contrat consultant SEO",
+    "contrat netlinking",
+    "contrat prestation référencement"
+  ],
+  "titre_h1": "Modèle de contrat de référencement SEO gratuit (Word et PDF)",
+  "titre_seo": "Contrat de référencement SEO : modèle gratuit 2026",
+  "meta_description": "Modèle de contrat de référencement naturel entre une entreprise et une agence ou un consultant SEO : obligations, netlinking, rapports, droits. Word et PDF.",
+  "chapo": "Le contrat de référencement SEO fixe ce que l'agence ou le consultant fera pour améliorer la visibilité d'un site, et ce qu'il ne peut pas promettre. Téléchargez un modèle complet, avec état des lieux initial, règles sur les liens et rapports mensuels.",
+  "public": "Entreprises, agences SEO et consultants en référencement",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-referencement-seo-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Droit des contrats",
+      "Propriété intellectuelle"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Faites l'état des lieux de départ",
+      "Relevez les positions, le trafic issu des moteurs et le nombre de pages indexées à la date de signature, et annexez-les au contrat."
+    ],
+    [
+      "Choisissez les requêtes suivies",
+      "Arrêtez avec le prestataire la liste des mots-clés travaillés : ce sont eux qui serviront de repère dans chaque rapport."
+    ],
+    [
+      "Décidez qui intervient sur le site",
+      "Cochez l'option où le prestataire modifie lui-même le site, ou celle où il remet des recommandations appliquées par votre équipe technique."
+    ],
+    [
+      "Encadrez la recherche de liens",
+      "Fixez le budget mensuel maximal et exigez votre accord écrit sur chaque site proposé avant toute publication."
+    ],
+    [
+      "Préparez la sortie",
+      "Vérifiez la durée initiale, le préavis et la liste des données que le prestataire doit vous remettre à la fin de la mission."
+    ]
+  ],
+  "faq": [
+    [
+      "Une agence SEO peut-elle garantir la première position sur Google ?",
+      "Non, aucun prestataire ne maîtrise l'algorithme des moteurs de recherche. Il peut s'engager sur les actions réalisées et sur des indicateurs de suivi, pas sur un classement. Méfiez-vous d'une offre qui promet une position précise."
+    ],
+    [
+      "Que se passe-t-il si mon site est pénalisé par Google à cause de l'agence ?",
+      "Si la pénalité résulte d'une méthode interdite utilisée sans votre accord, le prestataire engage sa responsabilité. Le modèle l'oblige alors à retirer les éléments en cause à ses frais et à préparer la demande de réexamen."
+    ],
+    [
+      "Quelle durée d'engagement prévoir pour un contrat de référencement ?",
+      "Les effets du référencement naturel se mesurent en général sur plusieurs mois. Une durée initiale de six à douze mois est courante, suivie d'une reconduction par courtes périodes résiliable avec préavis."
+    ],
+    [
+      "Les articles rédigés par l'agence SEO m'appartiennent-ils ?",
+      "Seulement si le contrat prévoit une cession écrite des droits d'auteur, droit par droit. Le modèle cède au client les droits de reproduction, de représentation et d'adaptation sur les contenus payés."
+    ],
+    [
+      "Acheter des liens pour son référencement est-il illégal ?",
+      "Ce n'est pas interdit par la loi, mais les consignes de Google sanctionnent les liens achetés qui ne sont pas signalés comme tels. De plus, un contenu publié contre rémunération doit être identifiable comme publicitaire."
+    ],
+    [
+      "Comment récupérer mes données à la fin du contrat SEO ?",
+      "Prévoyez une clause de réversibilité : historique des positions, rapports, liste des liens obtenus et accès rendus dans un délai fixé. Ouvrez dès le départ les comptes d'audience et de console à votre nom."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1103 (force obligatoire du contrat) et 1217 (sanctions de l'inexécution)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 441-10 (délais de paiement et pénalités) et L. 442-1 (rupture brutale d'une relation commerciale établie)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la propriété intellectuelle, article L. 131-3 (contenu de la cession des droits d'auteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code de la consommation, articles L. 221-18 (rétractation) et L. 215-1 (information sur la reconduction tacite), si le client est un particulier",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), article 28 (sous-traitant)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Code général des impôts, article 293 B (franchise en base de TVA)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-referencement-seo"
+  }
+}

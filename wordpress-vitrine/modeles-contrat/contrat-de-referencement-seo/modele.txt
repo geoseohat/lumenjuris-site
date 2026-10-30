@@ -1,0 +1,208 @@
+# CONTRAT DE PRESTATION DE RÉFÉRENCEMENT NATUREL (SEO)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale du prestataire], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+> Option : si le prestataire est un entrepreneur individuel, indiquez ses nom et prénom, la mention « entrepreneur individuel » ou « EI », son numéro SIREN et l'adresse de son établissement.
+
+ci-après « le Prestataire »,
+
+ET
+
+[Dénomination sociale du client], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e),
+
+ci-après « le Client »,
+
+ensemble « les Parties ».
+
+> Note de rédaction : ce modèle est conçu pour un client professionnel qui commande le référencement de son propre site. Si le client est un particulier, les règles du Code de la consommation s'appliquent (information précontractuelle, rétractation, reconduction tacite encadrée) et plusieurs articles doivent être revus.
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Client édite le site internet accessible à l'adresse [adresse du site] (ci-après « le Site »). Il souhaite améliorer la visibilité du Site dans les résultats non payants des moteurs de recherche.
+
+Le Prestataire exerce une activité de conseil et de réalisation en référencement naturel. Il a réalisé, avant la signature, un premier examen du Site et remis au Client une proposition en date du [date].
+
+Le Client a été informé que le classement d'un site dans les résultats des moteurs de recherche dépend d'algorithmes conçus et modifiés par leurs éditeurs, sans que le Prestataire ait la maîtrise de ces algorithmes.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat définit les conditions dans lesquelles le Prestataire réalise, pour le Client, des prestations destinées à améliorer le référencement naturel du Site sur les moteurs de recherche suivants : [Google / Bing / autres].
+
+Le référencement payant (annonces sponsorisées) n'entre pas dans l'objet du contrat.
+
+## ARTICLE 2 – DOCUMENTS CONTRACTUELS
+
+Le contrat est formé des documents suivants, par ordre de priorité décroissant :
+- le présent contrat ;
+- l'annexe 1 : description des prestations et liste des requêtes suivies ;
+- l'annexe 2 : état des lieux initial du Site (positions, trafic issu des moteurs, pages indexées) à la date du [date] ;
+- l'annexe 3 : proposition commerciale du [date].
+
+## ARTICLE 3 – PRESTATIONS
+
+### 3.1 Prestations comprises
+
+Le Prestataire réalise les prestations cochées ci-dessous et détaillées dans l'annexe 1 :
+- [ ] audit technique du Site (vitesse, indexation, structure des adresses, données structurées, affichage sur téléphone) et liste priorisée de corrections ;
+- [ ] étude des mots-clés et choix, avec le Client, des requêtes à travailler ;
+- [ ] optimisation des pages existantes (titres, descriptions, structure des contenus, maillage interne) ;
+- [ ] rédaction de [nombre] contenus par mois, d'environ [nombre] mots chacun ;
+- [ ] recherche de liens externes (netlinking), dans les limites de l'article 5 ;
+- [ ] optimisation de la fiche d'établissement locale ;
+- [ ] suivi mensuel des positions et du trafic, avec un rapport commenté.
+
+### 3.2 Mise en œuvre des recommandations
+
+> Option A : le Prestataire intervient lui-même sur le Site, au moyen d'un accès personnel qui lui est ouvert par le Client.
+> Option B : le Prestataire remet ses recommandations ; leur mise en œuvre sur le Site incombe au Client ou à son prestataire technique.
+
+Lorsque le Prestataire intervient sur le Site, il effectue une sauvegarde préalable ou s'assure qu'une sauvegarde récente existe, et consigne ses modifications dans le rapport mensuel.
+
+### 3.3 Contenus rédigés
+
+Les contenus rédigés par le Prestataire sont originaux, ne reproduisent pas de contenu tiers et sont soumis à la validation du Client avant leur publication.
+
+> Option : si le Prestataire utilise des outils d'intelligence artificielle pour produire des contenus, il en informe le Client, relit et vérifie chaque contenu, et reste tenu de sa qualité et de son originalité.
+
+## ARTICLE 4 – NATURE DE L'ENGAGEMENT DU PRESTATAIRE
+
+Le Prestataire est tenu d'une obligation de moyens. Il ne garantit ni une position déterminée dans les résultats d'un moteur de recherche, ni un volume de trafic ou de ventes.
+
+Il s'engage en revanche à réaliser les prestations décrites à l'annexe 1, dans les délais convenus, selon les règles de l'art et en respectant les consignes publiées par les moteurs de recherche à destination des éditeurs de sites.
+
+> Option : les Parties fixent des indicateurs de suivi (par exemple, le nombre de requêtes de l'annexe 1 classées dans les dix premiers résultats). Ces indicateurs servent à mesurer l'avancement et à ajuster la stratégie ; ils ne constituent pas une obligation de résultat, sauf mention contraire expresse.
+
+## ARTICLE 5 – MÉTHODES INTERDITES ET NETLINKING
+
+Le Prestataire s'interdit toute technique contraire aux consignes des moteurs de recherche et susceptible d'entraîner une pénalité pour le Site, notamment : texte caché, contenus générés en masse sans valeur pour le lecteur, pages satellites, réseaux de sites créés pour fabriquer des liens, ou achat de liens non signalés comme tels.
+
+Toute campagne de liens externes est soumise à l'accord préalable écrit du Client, sur une liste de sites proposée par le Prestataire. Lorsqu'un lien est obtenu en contrepartie d'un paiement ou d'un avantage, le contenu qui le porte est identifié comme publicitaire et le lien est signalé comme sponsorisé.
+
+En cas de pénalité manuelle notifiée par un moteur de recherche et résultant d'une méthode mise en œuvre par le Prestataire sans l'accord du Client, le Prestataire supprime ou fait supprimer à ses frais les éléments en cause et prépare la demande de réexamen, sans préjudice de l'article 12.
+
+## ARTICLE 6 – OBLIGATIONS DU CLIENT
+
+Le Client s'engage à :
+- désigner un interlocuteur, [nom, fonction], chargé de répondre aux demandes du Prestataire et de valider les contenus ;
+- donner au Prestataire, par des accès personnels et révocables, l'accès aux outils nécessaires : [console des moteurs de recherche, outil de mesure d'audience, administration du Site] ;
+- informer le Prestataire, au moins [15] jours à l'avance, de toute refonte, migration, changement d'adresse ou de nom de domaine du Site ;
+- vérifier, avant publication, l'exactitude des informations sur son activité figurant dans les contenus rédigés ;
+- rester seul responsable des contenus publiés sur le Site et du respect des règles applicables à son activité.
+
+Le Client reste titulaire des comptes ouverts sur les outils des moteurs de recherche et de mesure d'audience. S'ils sont créés par le Prestataire, ils le sont au nom du Client.
+
+## ARTICLE 7 – RAPPORTS ET SUIVI
+
+Le Prestataire remet au Client, au plus tard le [jour] de chaque mois, un rapport indiquant :
+- les actions réalisées le mois précédent ;
+- l'évolution des positions sur les requêtes de l'annexe 1 et du trafic issu des moteurs de recherche, comparée à l'état des lieux initial ;
+- la liste des liens externes obtenus et leur coût, le cas échéant ;
+- les actions prévues le mois suivant ;
+- en cas de mise à jour majeure de l'algorithme d'un moteur de recherche ayant affecté le Site, les actions correctives proposées.
+
+Une réunion de suivi a lieu tous les [trois] mois.
+
+## ARTICLE 8 – DURÉE
+
+Le contrat est conclu pour une durée initiale de [6 / 12] mois à compter du [date].
+
+> Option A : à l'issue de la durée initiale, le contrat est reconduit tacitement par périodes de [3] mois, sauf résiliation par l'une des Parties notifiée par écrit au moins [1] mois avant l'échéance.
+> Option B : le contrat prend fin à l'issue de la durée initiale, sans reconduction tacite.
+
+> Note de rédaction : entre professionnels, une relation commerciale établie ne peut pas être rompue brutalement. Plus la relation est ancienne, plus le préavis doit être long, même si le contrat prévoit un délai plus court.
+
+## ARTICLE 9 – PRIX ET PAIEMENT
+
+### 9.1 Prix
+
+Les prestations sont facturées comme suit :
+- audit initial : [montant] euros hors taxes, payable à la remise de l'audit ;
+- accompagnement mensuel : [montant] euros hors taxes par mois, payable [à terme échu / d'avance] ;
+- budget de liens externes : [montant] euros hors taxes par mois au plus, refacturé sur justificatifs, sans majoration [ou : avec des frais de gestion de [pourcentage] %].
+
+> Option : si le prestataire bénéficie de la franchise en base de TVA, ajoutez : « TVA non applicable, article 293 B du code général des impôts. »
+
+### 9.2 Paiement
+
+Les factures sont payables dans un délai de [30] jours à compter de leur date d'émission.
+
+> Note de rédaction : entre professionnels, le délai convenu ne peut pas dépasser 60 jours à compter de la date d'émission de la facture, ou 45 jours fin de mois.
+
+Tout retard de paiement entraîne de plein droit des pénalités calculées au taux de [taux, au moins égal à trois fois le taux d'intérêt légal] et une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+### 9.3 Révision
+
+> Option : le prix mensuel est révisé chaque année au [date] selon l'indice [nom de l'indice], l'indice de référence étant celui du [date].
+
+## ARTICLE 10 – PROPRIÉTÉ INTELLECTUELLE
+
+### 10.1 Contenus et livrables
+
+Sous réserve du paiement des prestations correspondantes, le Prestataire cède au Client, à titre exclusif, sur les contenus rédigés et les livrables remis (audit, études de mots-clés, rapports) :
+- le droit de reproduction, sur tout support numérique ou papier ;
+- le droit de représentation, notamment par publication sur le Site, sur ses comptes de réseaux sociaux et dans ses communications commerciales ;
+- le droit d'adaptation, notamment pour modifier, mettre à jour, traduire ou découper les contenus.
+
+Cette cession vaut pour le monde entier et pour toute la durée de protection des droits d'auteur. Son prix est compris dans celui des prestations.
+
+Le Prestataire s'interdit de publier ailleurs les contenus rédigés pour le Client.
+
+### 10.2 Méthodes et outils du Prestataire
+
+Le Prestataire conserve ses méthodes, ses outils et son savoir-faire. Le Client ne reçoit aucun droit sur les logiciels de suivi utilisés par le Prestataire, dont les données relatives au Site lui sont remises sous forme d'export à la fin du contrat.
+
+## ARTICLE 11 – DONNÉES PERSONNELLES ET CONFIDENTIALITÉ
+
+Le Prestataire peut accéder, par les outils de mesure d'audience ou l'administration du Site, à des données personnelles dont le Client est responsable. Il agit alors en qualité de sous-traitant au sens de l'article 28 du règlement (UE) 2016/679, selon l'avenant figurant en annexe [numéro].
+
+Chaque Partie garde confidentielles les informations de l'autre Partie, notamment les accès, les chiffres d'affaires et les données de trafic, pendant le contrat et [2] ans après sa fin.
+
+## ARTICLE 12 – RESPONSABILITÉ
+
+Le Prestataire répond des dommages directs causés au Client par un manquement à ses obligations. Sauf faute lourde ou intentionnelle, ou manquement à l'article 5, sa responsabilité est limitée au montant payé par le Client au cours des [12] derniers mois.
+
+Le Prestataire n'est pas responsable de la baisse de positions ou de trafic causée par une modification des algorithmes des moteurs de recherche, par une intervention du Client ou d'un tiers sur le Site, ou par une indisponibilité de l'hébergement.
+
+## ARTICLE 13 – RÉSILIATION
+
+En cas de manquement grave d'une Partie, non réparé dans les [30] jours suivant une mise en demeure envoyée par lettre recommandée avec accusé de réception, l'autre Partie peut résilier le contrat par lettre recommandée avec accusé de réception.
+
+## ARTICLE 14 – FIN DU CONTRAT ET RÉVERSIBILITÉ
+
+À la fin du contrat, quelle qu'en soit la cause, le Prestataire :
+- remet au Client, dans un délai de [15] jours, l'historique des positions, les rapports, la liste des liens externes obtenus et les contenus en cours de rédaction déjà payés ;
+- rend les accès qui lui ont été ouverts et cesse de les utiliser ;
+- ne supprime aucun contenu ni aucun lien publié pour le compte du Client.
+
+Le Client paie les prestations réalisées jusqu'à la date de fin.
+
+## ARTICLE 15 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français.
+
+En cas de différend, les Parties recherchent une solution amiable pendant [30] jours à compter de la demande écrite de l'une d'elles. À défaut d'accord, le litige est porté devant le tribunal de commerce de [ville].
+
+> Note de rédaction : la clause qui désigne un tribunal n'est valable qu'entre commerçants ou sociétés commerciales. Si l'une des Parties n'a pas cette qualité, supprimez la dernière phrase.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Prestataire
+[nom, prénom, fonction]
+Signature :
+
+Pour le Client
+[nom, prénom, fonction]
+Signature :
+
+## ANNEXES
+
+- Annexe 1 : description des prestations et liste des requêtes suivies
+- Annexe 2 : état des lieux initial du Site
+- Annexe 3 : proposition commerciale
+- Annexe [4] : avenant de sous-traitance des données personnelles
