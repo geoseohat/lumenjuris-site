@@ -782,27 +782,53 @@
     "contrat-de-community-management": {
       "fichiers": {
         "docx": {
-          "id": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o1.id}}",
-          "url": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o1.source_url}}",
+          "id": 3252,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-community-management-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "c4cb370d79443b746e5e1b23a85d738162f64652a5a0e938a3f404b795dd0bce"
         },
         "pdf": {
-          "id": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o2.id}}",
-          "url": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o2.source_url}}",
+          "id": 3253,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-community-management-lumen-juris.pdf",
           "taille": "120 Ko",
           "empreinte": "c4cb370d79443b746e5e1b23a85d738162f64652a5a0e938a3f404b795dd0bce"
         }
       },
       "image": {
-        "id": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o3.id}}",
-        "url": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o3.source_url}}",
+        "id": 3254,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-community-management-lumen-juris.png",
         "taille": "297 Ko",
         "empreinte": "805f8d9dd9206a7df32f0587383675578a3e002a070d95a7b2eee2122af48e61"
       },
       "statut": "publish",
-      "id": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o7.id}}",
-      "lien": "{{20261030-092100-publier-en-ligne-contrat-de-community-management.o7.link}}",
+      "id": 3255,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-community-management/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-formation-professionnelle": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o1.id}}",
+          "url": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "23e24d554a43dfe3d427169d296fbccec37c310261548f65750c6c298da82769"
+        },
+        "pdf": {
+          "id": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o2.id}}",
+          "url": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o2.source_url}}",
+          "taille": "113 Ko",
+          "empreinte": "23e24d554a43dfe3d427169d296fbccec37c310261548f65750c6c298da82769"
+        }
+      },
+      "image": {
+        "id": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o3.id}}",
+        "url": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o3.source_url}}",
+        "taille": "300 Ko",
+        "empreinte": "ba2662b45141194af095c16f270f0349448ce3c56c2d3c6986b26f45a587f649"
+      },
+      "statut": "publish",
+      "id": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o7.id}}",
+      "lien": "{{20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -811,6 +837,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261030-092100-publier-en-ligne-contrat-de-community-management"
+    "20261030-092402-publier-en-ligne-contrat-de-formation-professionnelle"
   ]
 }

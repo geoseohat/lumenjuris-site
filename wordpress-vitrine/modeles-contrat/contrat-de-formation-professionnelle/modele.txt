@@ -1,0 +1,171 @@
+# CONTRAT DE FORMATION PROFESSIONNELLE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce contrat est celui que la loi impose lorsqu'une personne physique suit une formation à titre individuel et à ses frais (articles L. 6353-3 et suivants du Code du travail). Il ne convient pas lorsque la formation est payée par un employeur ou un opérateur de compétences (une convention de formation est alors utilisée), ni lorsqu'elle est achetée par le compte personnel de formation sur la plateforme publique, qui impose ses propres conditions.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination de l'organisme de formation], [forme juridique], immatriculé(e) sous le numéro SIREN [numéro], dont le siège est situé [adresse], enregistré(e) sous le numéro de déclaration d'activité [numéro] auprès du préfet de la région [région], représenté(e) par [nom, prénom], en qualité de [fonction],
+
+> Note de rédaction : l'enregistrement de la déclaration d'activité ne vaut pas agrément de l'État. Si l'organisme est certifié Qualiopi, il peut l'indiquer ; dans le cas contraire, ne laissez pas entendre qu'il l'est.
+
+ci-après « l'Organisme »,
+
+ET
+
+[Madame / Monsieur] [nom, prénom], né(e) le [date] à [lieu], demeurant [adresse], [adresse électronique, téléphone],
+
+ci-après « le Stagiaire ».
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet la formation intitulée « [intitulé de la formation] », que le Stagiaire suit à titre individuel et à ses frais.
+
+La formation relève de la catégorie suivante : [action de formation / bilan de compétences / action permettant de faire valider les acquis de l'expérience / action de formation par apprentissage : préciser].
+
+## ARTICLE 2 – NATURE, DURÉE ET EFFECTIF DE LA FORMATION
+
+- Objectifs : à l'issue de la formation, le Stagiaire sera capable de [objectifs précis et mesurables].
+- Programme : voir l'annexe 1, qui fait partie du contrat.
+- Durée : [nombre] heures, réparties sur [nombre] jours / semaines.
+- Dates : du [date] au [date].
+- Horaires : [horaires].
+- Lieu : [adresse / à distance, via [outil]].
+- Effectif : [nombre minimal] à [nombre maximal] stagiaires par session.
+
+> Option : si la formation est en tout ou partie à distance, précisez dans l'annexe 1 l'assistance technique et pédagogique proposée (personnes à contacter, délais de réponse) et les activités à réaliser seul.
+
+## ARTICLE 3 – NIVEAU DE CONNAISSANCES PRÉALABLES
+
+Pour suivre la formation dans de bonnes conditions, le Stagiaire doit disposer du niveau suivant : [diplôme, expérience, compétences attendues / aucun prérequis].
+
+Le Stagiaire déclare avoir pris connaissance de ces prérequis. [Il a passé un test de positionnement le [date], dont le résultat lui a été communiqué.]
+
+## ARTICLE 4 – ORGANISATION ET MOYENS PÉDAGOGIQUES
+
+La formation est dispensée selon les modalités suivantes : [cours en groupe, exercices pratiques, études de cas, travaux sur logiciel, plateforme en ligne : préciser].
+
+Les moyens techniques mis à disposition sont : [salle équipée, matériel, supports remis, accès à la plateforme pendant [durée]].
+
+Le Stagiaire s'engage à respecter le règlement intérieur de l'Organisme, qui lui a été remis avant la signature du contrat.
+
+## ARTICLE 5 – CONTRÔLE DES CONNAISSANCES ET SANCTION DE LA FORMATION
+
+Les acquis du Stagiaire sont évalués de la manière suivante : [questionnaire, mise en situation, épreuve écrite, soutenance : préciser et indiquer quand].
+
+La formation est sanctionnée par : [une attestation de fin de formation / un certificat / une certification inscrite au répertoire national des certifications professionnelles ou au répertoire spécifique : préciser l'intitulé et le numéro de fiche].
+
+À l'issue de la formation, l'Organisme remet au Stagiaire une attestation mentionnant les objectifs, la nature et la durée de l'action, ainsi que les résultats de l'évaluation des acquis.
+
+> Note de rédaction : n'annoncez un diplôme ou une certification enregistrée que si l'Organisme est habilité à y préparer ou à la délivrer.
+
+## ARTICLE 6 – FORMATEURS
+
+La formation est assurée par :
+- [nom, prénom], [diplômes, titres ou références professionnelles en lien avec la formation] ;
+- [nom, prénom], [diplômes, titres ou références professionnelles en lien avec la formation].
+
+En cas d'indisponibilité d'un formateur, l'Organisme le remplace par une personne de qualification équivalente et en informe le Stagiaire.
+
+## ARTICLE 7 – DÉLAI DE RÉTRACTATION
+
+À compter de la signature du présent contrat, le Stagiaire dispose d'un délai de quatorze jours pour se rétracter, sans avoir à donner de motif ni à payer de frais.
+
+Il exerce ce droit par lettre recommandée avec avis de réception adressée à l'Organisme, ou par tout autre écrit permettant de dater la réception, notamment par courriel à l'adresse [adresse électronique]. Un formulaire de rétractation figure en annexe 2.
+
+> Note de rédaction : le Code du travail ouvre un délai de rétractation à compter de la signature, et le Code de la consommation prévoit quatorze jours lorsque le contrat est conclu à distance ou hors établissement. Le modèle retient quatorze jours dans tous les cas. Ne réduisez pas ce délai.
+
+## ARTICLE 8 – PRIX ET MODALITÉS DE PAIEMENT
+
+### 8.1 Prix
+
+Le prix de la formation est de [montant] euros [toutes taxes comprises / net de taxes, l'Organisme étant exonéré de TVA pour cette activité]. Il comprend [les supports pédagogiques, l'accès à la plateforme, les frais d'examen : préciser]. Il ne comprend pas [les frais de transport, de repas et d'hébergement : préciser].
+
+### 8.2 Paiement
+
+Aucune somme n'est exigée du Stagiaire avant l'expiration du délai de rétractation prévu à l'article 7.
+
+À l'expiration de ce délai, le Stagiaire paie un premier versement de [montant, au plus 30 % du prix] euros.
+
+Le solde, soit [montant] euros, est payé de façon échelonnée au fur et à mesure du déroulement de la formation, selon l'échéancier suivant :
+- [montant] euros le [date] ;
+- [montant] euros le [date] ;
+- [montant] euros le [date].
+
+Le paiement s'effectue par [virement / chèque / carte bancaire].
+
+## ARTICLE 9 – EMPÊCHEMENT, ABANDON ET ANNULATION
+
+### 9.1 Force majeure
+
+Si le Stagiaire est empêché de suivre la formation par un cas de force majeure dûment reconnu, il peut rompre le contrat. Seules les prestations effectivement dispensées sont alors dues, au prorata temporis de leur valeur prévue au contrat.
+
+### 9.2 Abandon pour un autre motif
+
+Si le Stagiaire abandonne la formation pour un autre motif, il en informe l'Organisme par écrit. Il doit alors le prix des heures de formation déjà dispensées, au prorata de leur valeur prévue au contrat.
+
+> Option : il doit en outre une indemnité égale à [pourcentage, à fixer de façon modérée] % du prix des heures restant à dispenser, pour couvrir les frais que l'Organisme ne peut pas éviter. Cette indemnité ne peut pas être facturée comme une formation et ne peut pas être prise en charge par un financement public. Une indemnité excessive peut être réduite par le juge et constituer une clause abusive.
+
+### 9.3 Annulation ou report par l'Organisme
+
+Si l'Organisme annule la formation, notamment faute d'un effectif suffisant, il en informe le Stagiaire au moins [10] jours avant la date de début et lui rembourse sans délai toutes les sommes versées. Il peut proposer un report à une autre session, que le Stagiaire est libre de refuser.
+
+Si l'Organisme interrompt la formation en cours pour un motif qui ne relève pas de la force majeure, il rembourse les sommes payées pour les heures non dispensées.
+
+## ARTICLE 10 – ASSIDUITÉ
+
+Le Stagiaire s'engage à suivre la formation avec assiduité. Les présences sont constatées par [une feuille d'émargement signée par demi-journée / les relevés de connexion de la plateforme et les travaux remis].
+
+Le Stagiaire qui souhaite une attestation de présence ou un justificatif d'absence peut la demander à tout moment.
+
+## ARTICLE 11 – ACCESSIBILITÉ ET SITUATION DE HANDICAP
+
+Le Stagiaire en situation de handicap peut contacter le référent handicap de l'Organisme, [nom, coordonnées], afin d'étudier les adaptations possibles de la formation.
+
+## ARTICLE 12 – PROPRIÉTÉ DES SUPPORTS
+
+Les supports de formation remis au Stagiaire sont protégés par le droit d'auteur. Le Stagiaire peut les utiliser pour son usage personnel et professionnel. Il ne peut ni les reproduire pour les diffuser, ni les revendre, ni les utiliser pour former des tiers sans l'accord écrit de l'Organisme.
+
+## ARTICLE 13 – DONNÉES PERSONNELLES
+
+L'Organisme traite les données personnelles du Stagiaire pour gérer son inscription, le suivi de sa formation, son évaluation et la délivrance de son attestation. Ces données sont conservées pendant [durée] après la fin de la formation, pour répondre aux contrôles et aux demandes d'attestation.
+
+Le Stagiaire peut accéder à ses données, les faire rectifier ou effacer, s'opposer à leur traitement ou en demander la limitation, en écrivant à [adresse électronique]. Il peut adresser une réclamation à la Commission nationale de l'informatique et des libertés.
+
+## ARTICLE 14 – RÉCLAMATIONS ET MÉDIATION
+
+Le Stagiaire peut adresser toute réclamation à [service, adresse électronique, adresse postale]. L'Organisme y répond dans un délai de [15] jours.
+
+En cas de litige non résolu, le Stagiaire peut recourir gratuitement au médiateur de la consommation suivant : [nom, adresse du site internet du médiateur].
+
+## ARTICLE 15 – DROIT APPLICABLE ET LITIGES
+
+Le contrat est soumis au droit français. À défaut d'accord amiable, le litige est porté devant la juridiction compétente selon les règles légales.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un remis au Stagiaire.
+
+Pour l'Organisme
+[nom, prénom, fonction]
+Signature :
+
+Le Stagiaire
+[nom, prénom]
+Signature, précédée de la mention « lu et approuvé » :
+
+## ANNEXES
+
+- Annexe 1 : programme détaillé de la formation (objectifs, contenu, durée de chaque séquence, modalités d'évaluation)
+- Annexe 2 : formulaire de rétractation
+- Annexe 3 : règlement intérieur applicable aux stagiaires
+
+### Annexe 2 – Formulaire de rétractation
+
+À l'attention de [dénomination et adresse de l'Organisme, adresse électronique] :
+
+Je vous notifie par la présente ma rétractation du contrat de formation « [intitulé] » signé le [date].
+
+Nom et prénom du Stagiaire : [nom, prénom]
+Adresse : [adresse]
+Date : [date]
+Signature : [signature, en cas d'envoi sur papier]

@@ -40,9 +40,9 @@
 [x] 2026-10-30 contrat de création de site internet -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-creation-de-site-internet/
 [x] 2026-10-30 contrat de référencement SEO -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-referencement-seo/
 [x] 2026-10-30 contrat de community management -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-community-management/
-contrat de conseil
-contrat de consulting
-contrat de formation professionnelle
+[x] 2026-10-30 contrat de conseil -> écarté : même intention que lettre-de-mission (qui cible déjà « lettre de mission consultant » et « lettre de mission conseil ») et contrat-de-prestation-de-services : même document pour la même recherche, risque de doublon
+[x] 2026-10-30 contrat de consulting -> écarté : doublon connu : même document que contrat de conseil, déjà couvert par lettre-de-mission et contrat-de-prestation-de-services
+[x] 2026-10-30 contrat de formation professionnelle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-formation-professionnelle/
 convention de formation
 contrat de stage
 convention de mise à disposition de personnel

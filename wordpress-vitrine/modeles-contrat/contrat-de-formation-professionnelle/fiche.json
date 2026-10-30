@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-formation-professionnelle",
+  "nom": "Contrat de formation professionnelle",
+  "nom_court": "contrat de formation professionnelle",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de formation professionnelle",
+  "mots_cles_secondaires": [
+    "contrat de formation professionnelle personne physique",
+    "contrat de formation à titre individuel",
+    "contrat de formation organisme de formation",
+    "contrat stagiaire formation continue",
+    "contrat de formation financement personnel",
+    "mentions obligatoires contrat de formation"
+  ],
+  "titre_h1": "Modèle de contrat de formation professionnelle gratuit (Word et PDF)",
+  "titre_seo": "Contrat de formation professionnelle : modèle gratuit 2026",
+  "meta_description": "Modèle de contrat de formation professionnelle pour une personne qui finance elle-même sa formation : mentions obligatoires, rétractation, paiement.",
+  "chapo": "Le contrat de formation professionnelle est obligatoire quand une personne suit une formation à ses frais. Téléchargez un modèle qui reprend les mentions exigées à peine de nullité, le délai de rétractation et le paiement échelonné.",
+  "public": "Organismes de formation, formateurs indépendants et stagiaires",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-formation-professionnelle-lumen-juris",
+  "date_publication": "2026-10-30",
+  "date_mise_a_jour": "2026-10-30",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la formation professionnelle",
+      "Droit de la consommation",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez qui finance",
+      "Assurez-vous que la personne paie elle-même la formation ; si un employeur ou un financeur public intervient, un autre document est nécessaire."
+    ],
+    [
+      "Annexez le programme",
+      "Joignez le programme détaillé avec les objectifs, la durée de chaque séquence et le mode d'évaluation."
+    ],
+    [
+      "Présentez les formateurs",
+      "Indiquez le nom et les diplômes, titres ou références professionnelles de chaque intervenant."
+    ],
+    [
+      "Bâtissez l'échéancier",
+      "Ne prévoyez aucun paiement pendant la rétractation, au plus 30 % ensuite, puis des échéances réparties sur la durée de la formation."
+    ],
+    [
+      "Remettez les documents avant signature",
+      "Donnez au futur stagiaire le programme, les tarifs, le règlement intérieur et le formulaire de rétractation avant qu'il ne s'engage."
+    ]
+  ],
+  "faq": [
+    [
+      "Faut-il un contrat quand on paie soi-même sa formation ?",
+      "Oui. Le Code du travail impose un contrat écrit entre la personne qui finance elle-même sa formation et l'organisme. Ce contrat doit contenir plusieurs mentions précises, sous peine de nullité."
+    ],
+    [
+      "Peut-on annuler une inscription à une formation après avoir signé ?",
+      "Oui, le stagiaire dispose d'un délai de rétractation à compter de la signature, sans avoir à se justifier. Il est de quatorze jours lorsque le contrat a été conclu à distance ou hors établissement, et le modèle l'applique dans tous les cas."
+    ],
+    [
+      "Un organisme de formation peut-il demander tout le prix à l'inscription ?",
+      "Non. Rien ne peut être exigé pendant le délai de rétractation, puis le premier versement est limité à 30 % du prix. Le reste doit être payé au fur et à mesure de la formation."
+    ],
+    [
+      "Que dois-je payer si j'abandonne ma formation en cours de route ?",
+      "En cas de force majeure, vous ne payez que les heures déjà suivies. Pour un autre motif, le contrat peut prévoir en plus une indemnité, qui doit rester raisonnable ; une pénalité excessive peut être réduite par le juge."
+    ],
+    [
+      "Quelle différence entre contrat et convention de formation ?",
+      "Le contrat est signé avec la personne qui paie elle-même sa formation. La convention est conclue avec l'entreprise qui finance la formation de son salarié."
+    ],
+    [
+      "Le numéro de déclaration d'activité garantit-il la qualité d'une formation ?",
+      "Non. Il atteste seulement que l'organisme est enregistré auprès de l'administration. La certification Qualiopi, exigée pour bénéficier de certains financements, est une démarche distincte."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 6353-1 (attestation de fin de formation) et L. 6353-3 à L. 6353-8 (contrat conclu avec une personne physique, rétractation, paiement, force majeure, information préalable)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de la consommation, articles L. 221-18 (rétractation des contrats à distance et hors établissement), L. 212-1 (clauses abusives) et L. 612-1 (médiation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code civil, article 1231-5 (réduction d'une pénalité manifestement excessive)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 13 et 15 à 21 (information et droits des personnes)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-formation-professionnelle"
+  }
+}
