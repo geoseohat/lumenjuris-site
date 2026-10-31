@@ -964,27 +964,53 @@
     "contrat-de-travail-saisonnier": {
       "fichiers": {
         "docx": {
-          "id": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o1.id}}",
-          "url": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o1.source_url}}",
+          "id": 3336,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-saisonnier-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "c22c9ba4a8a783b4397866856c447b8541fd93027fa1a01d2488a08fb445293c"
         },
         "pdf": {
-          "id": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o2.id}}",
-          "url": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o2.source_url}}",
+          "id": 3337,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-saisonnier-lumen-juris.pdf",
           "taille": "94 Ko",
           "empreinte": "c22c9ba4a8a783b4397866856c447b8541fd93027fa1a01d2488a08fb445293c"
         }
       },
       "image": {
-        "id": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o3.id}}",
-        "url": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o3.source_url}}",
+        "id": 3338,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-saisonnier-lumen-juris.png",
         "taille": "294 Ko",
         "empreinte": "dbb2dfb9229e43e6334758525db50a806c5583e82f7aa3c449075426e0e79e58"
       },
       "statut": "publish",
-      "id": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o7.id}}",
-      "lien": "{{20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier.o7.link}}",
+      "id": 3339,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-saisonnier/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-d-extra": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o1.id}}",
+          "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "941fe14905a49c05a0b60d7639eafc71b8b05d5adf4d961ae73f08a080ec45d9"
+        },
+        "pdf": {
+          "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o2.id}}",
+          "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o2.source_url}}",
+          "taille": "92 Ko",
+          "empreinte": "941fe14905a49c05a0b60d7639eafc71b8b05d5adf4d961ae73f08a080ec45d9"
+        }
+      },
+      "image": {
+        "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o3.id}}",
+        "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o3.source_url}}",
+        "taille": "284 Ko",
+        "empreinte": "598228c2ec6f23a6ca8ce82aef99437213a2b5bdcdaf8bae778d77c8bdd555d8"
+      },
+      "statut": "publish",
+      "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o7.id}}",
+      "lien": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -993,6 +1019,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261031-091832-publier-en-ligne-contrat-de-travail-saisonnier"
+    "20261031-092033-publier-en-ligne-contrat-d-extra"
   ]
 }

@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-d-extra",
+  "nom": "Contrat d'extra",
+  "nom_court": "contrat d'extra",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat d'extra",
+  "mots_cles_secondaires": [
+    "contrat extra hôtellerie restauration",
+    "contrat extra HCR",
+    "CDD d'usage extra",
+    "contrat extra restaurant",
+    "extra 60 jours par trimestre",
+    "contrat de vacation restauration"
+  ],
+  "titre_h1": "Modèle de contrat d'extra gratuit (Word et PDF)",
+  "titre_seo": "Contrat d'extra 2026 : modèle gratuit (CDD d'usage, Word et PDF)",
+  "meta_description": "Modèle de contrat d'extra pour l'hôtellerie, la restauration et l'événementiel : mentions du CDD d'usage, paie, règle des 60 jours et cas d'annulation.",
+  "chapo": "Le contrat d'extra permet d'engager un serveur, un cuisinier ou un barman pour un banquet, une réception ou un événement précis. Notre modèle gratuit de CDD d'usage reprend toutes les mentions obligatoires, et cette page explique les limites à respecter pour éviter une requalification en CDI.",
+  "public": "Hôtels, cafés, restaurants, traiteurs, organisateurs d'événements et salariés extras",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-d-extra-lumen-juris",
+  "date_publication": "2026-10-31",
+  "date_mise_a_jour": "2026-10-31",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Contrats à durée déterminée"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que le besoin est ponctuel",
+      "Identifiez l'événement précis qui justifie le recours à un extra et assurez-vous qu'il ne s'agit pas d'un besoin régulier de l'établissement."
+    ],
+    [
+      "Compter les vacations du trimestre",
+      "Additionnez les jours déjà confiés à cet extra depuis le début du trimestre civil, pour rester sous le seuil de 60 jours prévu en hôtellerie-restauration."
+    ],
+    [
+      "Décrire la mission et les horaires",
+      "Indiquez l'événement, la date, l'heure de début et de fin de chaque vacation, le poste occupé et le responsable sur place."
+    ],
+    [
+      "Fixer la rémunération",
+      "Choisissez un taux horaire ou un forfait par vacation, ajoutez l'indemnité de congés payés et traitez la question du repas."
+    ],
+    [
+      "Déclarer et faire signer avant le service",
+      "Effectuez la déclaration préalable à l'embauche, puis faites signer le contrat avant la prise de poste et remettez-en un exemplaire."
+    ]
+  ],
+  "faq": [
+    [
+      "Un extra doit-il obligatoirement avoir un contrat écrit ?",
+      "Oui. Le contrat d'extra est un CDD et doit donc être écrit, même pour une seule soirée. Sans écrit, il est réputé conclu pour une durée indéterminée, et l'extra peut réclamer un CDI."
+    ],
+    [
+      "L'extra a-t-il droit à la prime de précarité ?",
+      "Non, en principe. Le CDD d'usage n'ouvre pas droit à l'indemnité de fin de contrat, sauf disposition plus favorable de la convention collective. L'indemnité compensatrice de congés payés de 10 % reste due."
+    ],
+    [
+      "Combien de jours un extra peut-il travailler dans le même restaurant ?",
+      "La convention collective des hôtels, cafés, restaurants permet à l'extra employé plus de 60 jours au cours d'un trimestre civil par le même établissement de demander la requalification en CDI. Même sous ce seuil, des missions régulières peuvent être requalifiées."
+    ],
+    [
+      "Peut-on faire un seul contrat pour plusieurs soirées ?",
+      "Oui, si toutes les vacations sont liées à la même mission, par exemple un congrès de trois jours. En revanche, un contrat unique couvrant des services réguliers pendant des semaines révèle un emploi permanent."
+    ],
+    [
+      "L'employeur peut-il annuler la mission d'un extra au dernier moment ?",
+      "Pas librement une fois le contrat signé. Hors accord de l'extra, faute grave, force majeure ou inaptitude, l'employeur doit verser la rémunération prévue. L'annulation par un client n'est en général pas un cas de force majeure."
+    ],
+    [
+      "Faut-il faire une déclaration préalable à l'embauche pour un extra ?",
+      "Oui, pour chaque embauche et avant la prise de poste, même pour quelques heures. L'oubli de cette déclaration caractérise le travail dissimulé."
+    ],
+    [
+      "Un étudiant peut-il travailler comme extra ?",
+      "Oui, c'est très courant. Le contrat est le même. Un étudiant étranger doit toutefois respecter le plafond annuel d'heures de travail autorisé par son titre de séjour."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1242-2 (3°), D. 1242-1, L. 1242-7, L. 1242-12 et L. 1243-10 (CDD d'usage, secteurs concernés, mentions obligatoires, absence d'indemnité de fin de contrat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Convention collective nationale des hôtels, cafés, restaurants du 30 avril 1997 (IDCC 1979), article 14 (contrats d'extra) – texte à consulter sur Légifrance",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-extra"
+  }
+}

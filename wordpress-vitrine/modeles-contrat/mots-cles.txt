@@ -50,7 +50,7 @@
 [x] 2026-10-31 contrat de travail à temps plein -> écarté : même intention que contrat-de-travail-cdi et contrat-de-travail-cdd : le temps plein est la forme par défaut de ces contrats
 [x] 2026-10-31 contrat de travail intermittent -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-intermittent/
 [x] 2026-10-31 contrat de travail saisonnier -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-saisonnier/
-contrat d'extra
+[x] 2026-10-31 contrat d'extra -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-extra/
 contrat de télétravail
 charte de télétravail
 avenant de télétravail
