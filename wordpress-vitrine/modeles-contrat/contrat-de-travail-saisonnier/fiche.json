@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-travail-saisonnier",
+  "nom": "Contrat de travail saisonnier",
+  "nom_court": "contrat de travail saisonnier",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de travail saisonnier",
+  "mots_cles_secondaires": [
+    "contrat saisonnier",
+    "CDD saisonnier",
+    "contrat de travail saisonnier gratuit",
+    "contrat saisonnier terme imprécis",
+    "reconduction contrat saisonnier",
+    "prime de précarité saisonnier"
+  ],
+  "titre_h1": "Modèle de contrat de travail saisonnier gratuit (Word et PDF)",
+  "titre_seo": "Contrat de travail saisonnier 2026 : modèle gratuit Word et PDF",
+  "meta_description": "Modèle de contrat saisonnier (CDD) : terme précis ou fin de saison, période d'essai, logement, reconduction et ancienneté. Clauses expliquées pas à pas.",
+  "chapo": "Le contrat saisonnier est le CDD des emplois qui reviennent chaque année au même moment : tourisme, sports d'hiver, récoltes. Notre modèle gratuit intègre le terme imprécis, le logement et la reconduction, et cette page explique ce qui le distingue d'un CDD classique.",
+  "public": "Employeurs saisonniers (tourisme, hôtellerie, agriculture, loisirs) et salariés saisonniers",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-travail-saisonnier-lumen-juris",
+  "date_publication": "2026-10-31",
+  "date_mise_a_jour": "2026-10-31",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Contrats à durée déterminée"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier le caractère saisonnier",
+      "Assurez-vous que le besoin revient chaque année à des dates à peu près fixes, et non d'un simple pic d'activité dans une entreprise ouverte toute l'année."
+    ],
+    [
+      "Choisir le terme",
+      "Fixez une date de fin précise, ou la fin de saison liée à un événement objectif accompagnée d'une durée minimale."
+    ],
+    [
+      "Régler le logement et les repas",
+      "Indiquez si un logement est fourni, son coût éventuel, sa date de libération, et évaluez les avantages en nature selon le barème URSSAF."
+    ],
+    [
+      "Prévoir la saison suivante",
+      "Ajoutez une clause de reconduction ou rappelez le droit à reconduction si le salarié a déjà fait deux mêmes saisons chez vous."
+    ],
+    [
+      "Remettre le contrat dans les deux jours",
+      "Faites signer et remettez le contrat au saisonnier au plus tard dans les deux jours ouvrables suivant son arrivée."
+    ]
+  ],
+  "faq": [
+    [
+      "Un saisonnier touche-t-il la prime de précarité ?",
+      "Non, en principe. L'indemnité de fin de contrat de 10 % n'est pas due pour un emploi saisonnier, sauf si la convention collective ou le contrat la prévoit. L'indemnité compensatrice de congés payés reste en revanche due."
+    ],
+    [
+      "Peut-on enchaîner plusieurs contrats saisonniers avec le même salarié ?",
+      "Oui. Les contrats saisonniers successifs sont permis sans délai de carence d'une saison à l'autre. Il ne faut pas pour autant qu'ils couvrent toute l'année au point de pourvoir un emploi permanent, sous peine de requalification en CDI."
+    ],
+    [
+      "Un contrat saisonnier peut-il se terminer « à la fin de la saison » ?",
+      "Oui. Le contrat saisonnier peut être conclu sans date de fin précise, à condition de fixer une durée minimale. Il prend fin à la réalisation de l'événement prévu, par exemple la fermeture de la station."
+    ],
+    [
+      "Quelle est la durée de la période d'essai d'un saisonnier ?",
+      "Un jour par semaine de contrat, dans la limite de deux semaines si le contrat dure six mois au plus, et d'un mois au-delà, sauf usage ou convention plus courte. Pour un terme imprécis, elle se calcule sur la durée minimale."
+    ],
+    [
+      "Le saisonnier a-t-il droit à être réembauché l'année suivante ?",
+      "Il y a droit si son contrat contient une clause de reconduction. Sans clause, la loi prévoit un droit à reconduction dans les branches où l'emploi saisonnier est très développé, pour le salarié qui a fait au moins deux mêmes saisons dans l'entreprise sur deux années consécutives, si un poste compatible est disponible."
+    ],
+    [
+      "L'employeur doit-il loger le saisonnier ?",
+      "Non, ce n'est pas une obligation générale, sauf disposition conventionnelle. S'il fournit un logement, celui-ci doit être décent, et sa fourniture constitue en principe un avantage en nature à déclarer."
+    ],
+    [
+      "Les saisons précédentes comptent-elles dans l'ancienneté ?",
+      "Oui. Les durées des contrats saisonniers successifs dans une même entreprise sont cumulées pour calculer l'ancienneté, même s'ils ont été séparés par des périodes sans activité."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1242-2, L. 1242-7, L. 1242-10 et L. 1242-12 (motif saisonnier, terme imprécis, période d'essai, mentions obligatoires du CDD)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1243-10 et L. 1244-2 et suivants (indemnité de fin de contrat, reconduction et ancienneté des saisonniers)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-travail-saisonnier"
+  }
+}
