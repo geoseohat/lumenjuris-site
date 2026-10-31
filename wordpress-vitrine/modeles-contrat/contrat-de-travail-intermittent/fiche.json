@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-travail-intermittent",
+  "nom": "Contrat de travail intermittent",
+  "nom_court": "contrat de travail intermittent",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de travail intermittent",
+  "mots_cles_secondaires": [
+    "contrat de travail intermittent",
+    "CDI intermittent",
+    "CDII",
+    "contrat intermittent mentions obligatoires",
+    "durée annuelle minimale contrat intermittent",
+    "rémunération lissée contrat intermittent"
+  ],
+  "titre_h1": "Modèle de contrat de travail intermittent gratuit (Word et PDF)",
+  "titre_seo": "Contrat de travail intermittent 2026 : modèle gratuit Word et PDF",
+  "meta_description": "Modèle de contrat de travail intermittent (CDI intermittent) : mentions obligatoires, durée annuelle minimale, lissage du salaire, pièges à éviter.",
+  "chapo": "Le contrat de travail intermittent permet d'employer en CDI un salarié sur un poste qui alterne chaque année périodes travaillées et périodes creuses. Téléchargez notre modèle complet et découvrez les mentions obligatoires, le calcul des heures et les erreurs qui entraînent une requalification à temps complet.",
+  "public": "Employeurs couverts par un accord autorisant le travail intermittent, et salariés concernés",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-travail-intermittent-lumen-juris",
+  "date_publication": "2026-10-31",
+  "date_mise_a_jour": "2026-10-31",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Durée du travail et rémunération"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier l'accord collectif",
+      "Retrouvez l'accord d'entreprise ou de branche étendu qui autorise le travail intermittent et contrôlez que l'emploi proposé figure dans sa liste."
+    ],
+    [
+      "Fixer la durée annuelle minimale",
+      "Estimez le volume d'heures réellement garanti sur l'année et calculez le plafond du tiers au-delà duquel l'accord du salarié sera nécessaire."
+    ],
+    [
+      "Dresser le calendrier des périodes",
+      "Indiquez les dates ou semaines travaillées et la répartition des heures à l'intérieur de chaque période, puis reportez-les dans l'annexe 1."
+    ],
+    [
+      "Choisir le mode de paiement",
+      "Optez pour le paiement des heures réelles ou pour la rémunération lissée si l'accord le permet, et prévoyez la régularisation de fin d'année."
+    ],
+    [
+      "Signer avant la première période",
+      "Remettez le contrat écrit au salarié avant son premier jour de travail, avec les références de l'accord collectif en annexe 2."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat de travail intermittent est-il un CDI ?",
+      "Oui. La loi le définit comme un contrat à durée indéterminée. Les périodes sans travail ne mettent pas fin au contrat, qui se poursuit d'une saison à l'autre sans nouvelle signature."
+    ],
+    [
+      "Peut-on conclure un contrat intermittent sans accord collectif ?",
+      "Non, en principe. Il faut une convention ou un accord d'entreprise ou d'établissement, ou à défaut un accord de branche étendu, qui autorise ce contrat et liste les emplois concernés. À défaut, le contrat risque d'être requalifié en contrat à temps complet."
+    ],
+    [
+      "Le salarié intermittent est-il payé pendant les périodes non travaillées ?",
+      "Pas en principe : il est payé pour les heures accomplies. Si l'accord collectif prévoit le lissage, il reçoit chaque mois une somme identique calculée sur la durée annuelle minimale, ce qui lui assure un revenu toute l'année."
+    ],
+    [
+      "Combien d'heures en plus de la durée minimale l'employeur peut-il imposer ?",
+      "Les heures accomplies au-delà de la durée annuelle minimale ne peuvent pas dépasser le tiers de celle-ci, sauf accord du salarié. Pour un minimum de 600 heures, l'employeur peut donc demander jusqu'à 200 heures de plus sans l'accord du salarié."
+    ],
+    [
+      "Les périodes non travaillées comptent-elles pour l'ancienneté ?",
+      "Oui, en totalité. Le Code du travail prévoit que les périodes non travaillées sont prises en compte pour tous les droits liés à l'ancienneté, comme les primes ou l'indemnité de licenciement."
+    ],
+    [
+      "Un salarié intermittent peut-il travailler pour un autre employeur ?",
+      "Oui, notamment pendant les périodes non travaillées. Il doit simplement rester loyal envers son employeur, ne pas lui faire concurrence déloyale et respecter les durées maximales de travail si des périodes se chevauchent."
+    ],
+    [
+      "Quelle différence avec le statut d'intermittent du spectacle ?",
+      "Ce sont deux choses distinctes. L'intermittent du spectacle est le plus souvent employé en CDD d'usage et relève de règles d'assurance chômage particulières. Le contrat de travail intermittent est un CDI soumis aux articles L. 3123-33 et suivants du Code du travail."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 3123-33 à L. 3123-38 (travail intermittent : accord collectif, mentions obligatoires, plafond du tiers, ancienneté)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1221-19 et suivants (période d'essai du contrat à durée indéterminée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-travail-intermittent"
+  }
+}

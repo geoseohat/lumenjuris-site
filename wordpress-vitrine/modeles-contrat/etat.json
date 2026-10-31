@@ -912,27 +912,53 @@
     "contrat-de-travail-a-temps-partiel": {
       "fichiers": {
         "docx": {
-          "id": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o1.id}}",
-          "url": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o1.source_url}}",
+          "id": 3302,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-a-temps-partiel-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "4e937088a248e2f81d67c6c6166a26c2429a6ccec0d818020cd239e9e267d57e"
         },
         "pdf": {
-          "id": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o2.id}}",
-          "url": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o2.source_url}}",
+          "id": 3303,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-a-temps-partiel-lumen-juris.pdf",
           "taille": "104 Ko",
           "empreinte": "4e937088a248e2f81d67c6c6166a26c2429a6ccec0d818020cd239e9e267d57e"
         }
       },
       "image": {
-        "id": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o3.id}}",
-        "url": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o3.source_url}}",
+        "id": 3304,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-de-travail-a-temps-partiel-lumen-juris.png",
         "taille": "296 Ko",
         "empreinte": "3a378834f1af165210edaddc7ecf9e3f683d9989ba3053d97bc5c4596d790648"
       },
       "statut": "publish",
-      "id": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o7.id}}",
-      "lien": "{{20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel.o7.link}}",
+      "id": 3305,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-a-temps-partiel/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-travail-intermittent": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o1.id}}",
+          "url": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "44546ec85024d98eb52617441fb8789486ac380c87dd386ee21eb65912535ee2"
+        },
+        "pdf": {
+          "id": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o2.id}}",
+          "url": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o2.source_url}}",
+          "taille": "107 Ko",
+          "empreinte": "44546ec85024d98eb52617441fb8789486ac380c87dd386ee21eb65912535ee2"
+        }
+      },
+      "image": {
+        "id": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o3.id}}",
+        "url": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o3.source_url}}",
+        "taille": "293 Ko",
+        "empreinte": "e163f3b58bd1825c6010f8e01f0b44bc6dcfd17879a03d69a22d1aea25c61cdd"
+      },
+      "statut": "publish",
+      "id": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o7.id}}",
+      "lien": "{{20261031-091555-publier-en-ligne-contrat-de-travail-intermittent.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -941,6 +967,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261030-165718-publier-en-ligne-contrat-de-travail-a-temps-partiel"
+    "20261031-091555-publier-en-ligne-contrat-de-travail-intermittent"
   ]
 }

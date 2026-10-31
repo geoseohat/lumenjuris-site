@@ -47,8 +47,8 @@
 [x] 2026-10-30 contrat de stage -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-stage/
 [x] 2026-10-30 convention de mise à disposition de personnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-mise-a-disposition-de-personnel/
 [x] 2026-10-30 contrat de travail à temps partiel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-a-temps-partiel/
-contrat de travail à temps plein
-contrat de travail intermittent
+[x] 2026-10-31 contrat de travail à temps plein -> écarté : même intention que contrat-de-travail-cdi et contrat-de-travail-cdd : le temps plein est la forme par défaut de ces contrats
+[x] 2026-10-31 contrat de travail intermittent -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-intermittent/
 contrat de travail saisonnier
 contrat d'extra
 contrat de télétravail
