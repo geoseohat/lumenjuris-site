@@ -1,0 +1,127 @@
+# AVENANT AU CONTRAT DE TRAVAIL RELATIF AU TÉLÉTRAVAIL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : le télétravail n'est pas un contrat distinct : il s'ajoute au contrat de travail existant par un avenant, ou figure directement dans le contrat lors de l'embauche. Si l'entreprise dispose d'un accord collectif ou d'une charte sur le télétravail (article L. 1222-9 du Code du travail), cet avenant doit le respecter et y renvoyer. Pour une nouvelle embauche, reprenez les articles 2 à 12 dans le contrat de travail lui-même.
+
+ENTRE LES SOUSSIGNÉS :
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction],
+
+ci-après « l'Employeur »,
+
+ET
+
+[Madame / Monsieur] [nom, prénom], demeurant [adresse], salarié(e) de l'Employeur depuis le [date], occupant le poste de [intitulé],
+
+ci-après « le Salarié »,
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Salarié est lié à l'Employeur par un contrat de travail [à durée indéterminée / à durée déterminée] conclu le [date]. [À la demande du Salarié formulée le [date] / À la proposition de l'Employeur acceptée par le Salarié], les parties ont convenu d'organiser une partie de l'activité du Salarié en télétravail, dans le cadre [de l'accord collectif du [date] / de la charte de télétravail du [date] / de leur accord individuel, en l'absence d'accord collectif et de charte].
+
+Il a été convenu ce qui suit.
+
+## ARTICLE 1 – OBJET
+
+Le présent avenant a pour objet de définir les conditions dans lesquelles le Salarié exerce ses fonctions en télétravail, c'est-à-dire hors des locaux de l'Employeur, de façon volontaire, en utilisant les technologies de l'information et de la communication.
+
+Les autres clauses du contrat de travail restent inchangées.
+
+## ARTICLE 2 – DATE D'EFFET ET PÉRIODE D'ADAPTATION
+
+Le télétravail débute le [date].
+
+[Option : une période d'adaptation de [durée] est prévue. Pendant cette période, chaque partie peut mettre fin au télétravail par écrit, en respectant un délai de prévenance de [nombre] jours. Le Salarié retrouve alors son poste dans les locaux de l'Employeur, dans les mêmes conditions qu'auparavant.]
+
+## ARTICLE 3 – RYTHME DU TÉLÉTRAVAIL
+
+Choisir l'une des options suivantes :
+
+[Option A – Jours fixes : le Salarié télétravaille [nombre] jour(s) par semaine, le [jour(s)]. Les autres jours sont travaillés dans les locaux de l'Employeur situés [adresse].]
+
+[Option B – Forfait de jours : le Salarié dispose de [nombre] jours de télétravail par [semaine / mois], qu'il positionne en accord avec son responsable, au moins [nombre] jours à l'avance, via [outil ou procédure].]
+
+[Option C – Télétravail à temps complet : le Salarié exerce l'intégralité de ses fonctions en télétravail. Il se rend dans les locaux de l'Employeur pour les réunions et événements suivants : [liste], les frais de déplacement correspondants étant pris en charge selon les règles de l'entreprise.]
+
+L'Employeur peut, pour une nécessité de service ponctuelle (réunion, formation, intervention urgente), demander au Salarié de venir sur site un jour de télétravail, en le prévenant au moins [nombre] heures à l'avance.
+
+## ARTICLE 4 – LIEU DU TÉLÉTRAVAIL
+
+Le télétravail s'exerce au domicile du Salarié, à l'adresse indiquée ci-dessus [ou : à l'adresse suivante : [adresse]].
+
+Le Salarié informe l'Employeur à l'avance de tout changement de lieu de télétravail. [Option : le télétravail depuis un autre lieu situé en France (tiers-lieu, résidence secondaire) est possible après accord préalable écrit de l'Employeur. Le télétravail depuis l'étranger est exclu, sauf accord spécifique.]
+
+Le Salarié atteste que le lieu de télétravail dispose d'un espace adapté, d'une connexion internet suffisante et d'une installation électrique conforme. Il remet à l'Employeur une attestation d'assurance habitation couvrant l'exercice d'une activité professionnelle à domicile.
+
+## ARTICLE 5 – HORAIRES ET PLAGES DE CONTACT
+
+Le Salarié conserve la durée du travail prévue à son contrat. Les jours de télétravail, il doit pouvoir être joint pendant les plages horaires suivantes : de [heure] à [heure] et de [heure] à [heure].
+
+En dehors de ces plages, et en particulier pendant ses temps de repos, le Salarié n'est pas tenu de répondre aux sollicitations professionnelles, conformément au droit à la déconnexion applicable dans l'entreprise.
+
+## ARTICLE 6 – CONTRÔLE DU TEMPS DE TRAVAIL ET CHARGE DE TRAVAIL
+
+Le temps de travail du Salarié est décompté [par un système déclaratif hebdomadaire / par l'outil [nom] / selon les modalités du forfait en jours prévu à son contrat].
+
+La charge de travail en télétravail est équivalente à celle qui serait la sienne dans les locaux de l'Employeur. Un entretien annuel porte notamment sur les conditions d'activité du Salarié en télétravail et sur sa charge de travail.
+
+Tout dispositif de contrôle de l'activité doit être proportionné, porté préalablement à la connaissance du Salarié et, le cas échéant, soumis à la consultation du comité social et économique.
+
+## ARTICLE 7 – ÉQUIPEMENT
+
+L'Employeur met à disposition du Salarié le matériel suivant : [ordinateur portable, écran, téléphone, casque, accès VPN, autre]. Ce matériel reste la propriété de l'Employeur. Il est assuré et entretenu par lui et doit être restitué à la fin du télétravail.
+
+Le Salarié prend soin du matériel confié et l'utilise conformément aux règles de l'entreprise. Il informe immédiatement l'Employeur de toute panne, perte ou vol. [Option : l'usage personnel du matériel est [interdit / toléré dans des limites raisonnables].]
+
+## ARTICLE 8 – FRAIS PROFESSIONNELS
+
+Choisir l'une des options suivantes :
+
+[Option A – Allocation forfaitaire : l'Employeur verse au Salarié une allocation forfaitaire de [montant] euros par [jour de télétravail / mois], destinée à couvrir les frais liés au télétravail (énergie, connexion internet, fournitures).]
+
+[Option B – Remboursement sur justificatifs : l'Employeur rembourse les frais réellement engagés par le Salarié pour les besoins du télétravail, sur présentation de justificatifs, dans la limite de [montant] euros par mois.]
+
+> Note de rédaction : l'URSSAF exonère de cotisations l'allocation forfaitaire de télétravail jusqu'à un montant par jour et par mois qu'elle revalorise régulièrement : vérifiez le barème en vigueur avant de fixer le montant. Si votre accord collectif ou votre charte prévoit une indemnité, appliquez au moins ce montant.
+
+## ARTICLE 9 – SÉCURITÉ DES DONNÉES ET CONFIDENTIALITÉ
+
+Le Salarié respecte la politique de sécurité informatique de l'Employeur, notamment : verrouillage de session, utilisation du VPN, interdiction de stocker des données professionnelles sur des supports personnels, confidentialité des échanges à l'égard des tiers présents au domicile.
+
+## ARTICLE 10 – SANTÉ, SÉCURITÉ ET ACCIDENT
+
+Le Salarié bénéficie des mêmes règles de santé et de sécurité que les salariés travaillant dans les locaux de l'Employeur.
+
+L'accident survenu sur le lieu de télétravail pendant l'exercice de l'activité professionnelle est présumé être un accident du travail. Le Salarié le déclare à l'Employeur dans les mêmes délais que s'il travaillait sur site.
+
+## ARTICLE 11 – ÉGALITÉ DE TRAITEMENT
+
+Le Salarié en télétravail a les mêmes droits que les salariés qui exécutent leur travail dans les locaux de l'Employeur : accès à la formation, évolution de carrière, information et activités sociales, élections professionnelles, titres-restaurant dans les mêmes conditions que les salariés sur site.
+
+## ARTICLE 12 – RÉVERSIBILITÉ ET FIN DU TÉLÉTRAVAIL
+
+Choisir l'une des options suivantes :
+
+[Option A – Réversibilité : à l'issue de la période d'adaptation, chacune des parties peut mettre fin au télétravail par écrit, moyennant un délai de prévenance de [nombre] jours [ou le délai fixé par l'accord ou la charte]. L'Employeur motive sa décision. Le Salarié retrouve alors un poste dans les locaux de l'Employeur correspondant à sa qualification.]
+
+[Option B – Télétravail prévu dès l'embauche : le télétravail étant une condition du contrat de travail conclu, sa suppression constitue une modification du contrat qui nécessite l'accord du Salarié.]
+
+> Note de rédaction : le Salarié en télétravail est prioritaire pour occuper ou reprendre un poste sans télétravail correspondant à sa qualification et à ses compétences. L'Employeur porte à sa connaissance la disponibilité de tout poste de cette nature.
+
+## ARTICLE 13 – CIRCONSTANCES EXCEPTIONNELLES
+
+En cas de circonstances exceptionnelles, notamment de menace d'épidémie ou de force majeure, l'Employeur peut imposer le télétravail ou en modifier le rythme pour permettre la continuité de l'activité et garantir la protection des salariés, sans que l'accord du Salarié soit nécessaire.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+L'Employeur
+[nom, fonction, signature]
+
+Le Salarié
+[nom, signature]
+
+## ANNEXE – INVENTAIRE DU MATÉRIEL REMIS
+
+- [Désignation, numéro de série, date de remise]
+- [Désignation, numéro de série, date de remise]
+- [Désignation, numéro de série, date de remise]

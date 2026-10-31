@@ -990,27 +990,53 @@
     "contrat-d-extra": {
       "fichiers": {
         "docx": {
-          "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o1.id}}",
-          "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o1.source_url}}",
+          "id": 3347,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-extra-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "941fe14905a49c05a0b60d7639eafc71b8b05d5adf4d961ae73f08a080ec45d9"
         },
         "pdf": {
-          "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o2.id}}",
-          "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o2.source_url}}",
+          "id": 3348,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-extra-lumen-juris.pdf",
           "taille": "92 Ko",
           "empreinte": "941fe14905a49c05a0b60d7639eafc71b8b05d5adf4d961ae73f08a080ec45d9"
         }
       },
       "image": {
-        "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o3.id}}",
-        "url": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o3.source_url}}",
+        "id": 3349,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/10/modele-contrat-d-extra-lumen-juris.png",
         "taille": "284 Ko",
         "empreinte": "598228c2ec6f23a6ca8ce82aef99437213a2b5bdcdaf8bae778d77c8bdd555d8"
       },
       "statut": "publish",
-      "id": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o7.id}}",
-      "lien": "{{20261031-092033-publier-en-ligne-contrat-d-extra.o7.link}}",
+      "id": 3350,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-extra/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-teletravail": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o1.id}}",
+          "url": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "61ca0a4fae28ad41c2d442da1fe92e4ce9dc698c0d73137138fc4108b17b501c"
+        },
+        "pdf": {
+          "id": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o2.id}}",
+          "url": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o2.source_url}}",
+          "taille": "86 Ko",
+          "empreinte": "61ca0a4fae28ad41c2d442da1fe92e4ce9dc698c0d73137138fc4108b17b501c"
+        }
+      },
+      "image": {
+        "id": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o3.id}}",
+        "url": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o3.source_url}}",
+        "taille": "289 Ko",
+        "empreinte": "712e2591ec607b012b0de6fe542841c8313dc978c7942dae1b3c6f4cf7c94d87"
+      },
+      "statut": "publish",
+      "id": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o7.id}}",
+      "lien": "{{20261031-092239-publier-en-ligne-contrat-de-teletravail.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1019,6 +1045,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261031-092033-publier-en-ligne-contrat-d-extra"
+    "20261031-092239-publier-en-ligne-contrat-de-teletravail"
   ]
 }

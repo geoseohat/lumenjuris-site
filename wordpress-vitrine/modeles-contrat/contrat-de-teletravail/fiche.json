@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-teletravail",
+  "nom": "Contrat de télétravail",
+  "nom_court": "contrat de télétravail",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle contrat de télétravail",
+  "mots_cles_secondaires": [
+    "avenant télétravail",
+    "avenant de télétravail",
+    "accord individuel de télétravail",
+    "clause de télétravail contrat de travail",
+    "modèle avenant télétravail gratuit",
+    "indemnité télétravail"
+  ],
+  "titre_h1": "Modèle de contrat de télétravail gratuit (Word et PDF)",
+  "titre_seo": "Contrat de télétravail 2026 : modèle d'avenant gratuit (Word, PDF)",
+  "meta_description": "Modèle d'avenant de télétravail : rythme, lieu, plages de contact, matériel, frais, réversibilité et accident du travail. Clauses commentées une à une.",
+  "chapo": "Le télétravail se formalise par un avenant au contrat de travail, ou par une clause prévue dès l'embauche. Notre modèle gratuit couvre le rythme, le lieu, les frais, le matériel et le retour sur site, et cette page explique ce que la loi impose à l'employeur.",
+  "public": "Employeurs et salariés qui mettent en place le télétravail",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-teletravail-lumen-juris",
+  "date_publication": "2026-10-31",
+  "date_mise_a_jour": "2026-10-31",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Organisation du travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifier le cadre applicable",
+      "Vérifiez si l'entreprise a un accord collectif ou une charte de télétravail : l'avenant doit s'y conformer et y renvoyer."
+    ],
+    [
+      "Choisir le rythme",
+      "Optez pour des jours fixes, un forfait de jours à positionner ou un télétravail à temps complet, et prévoyez les retours ponctuels sur site."
+    ],
+    [
+      "Fixer les plages de contact",
+      "Indiquez les horaires pendant lesquels le salarié doit être joignable et la façon dont son temps de travail est décompté."
+    ],
+    [
+      "Régler matériel et frais",
+      "Listez le matériel fourni dans l'annexe et choisissez entre une allocation forfaitaire et un remboursement sur justificatifs."
+    ],
+    [
+      "Prévoir le retour sur site",
+      "Définissez la période d'adaptation, le délai de prévenance et les conditions dans lesquelles chacun peut mettre fin au télétravail."
+    ]
+  ],
+  "faq": [
+    [
+      "Faut-il un avenant au contrat de travail pour télétravailler ?",
+      "Ce n'est pas toujours obligatoire : sans accord collectif ni charte, l'accord peut être formalisé par tout moyen, même un courriel. Un avenant écrit reste vivement conseillé, car il fixe le rythme, les frais, le matériel et les conditions de retour sur site."
+    ],
+    [
+      "L'employeur peut-il refuser une demande de télétravail ?",
+      "Oui, mais lorsqu'un accord collectif ou une charte existe, il doit motiver son refus si le salarié occupe un poste éligible au télétravail selon ce texte."
+    ],
+    [
+      "Un salarié peut-il refuser le télétravail ?",
+      "Oui. Le télétravail repose sur le volontariat, et le refus d'un poste en télétravail n'est pas un motif de rupture du contrat. Seules des circonstances exceptionnelles, comme une menace d'épidémie, permettent à l'employeur de l'imposer."
+    ],
+    [
+      "L'employeur doit-il verser une indemnité de télétravail ?",
+      "Les frais engagés pour les besoins du travail sont à la charge de l'employeur. Il peut les couvrir par une allocation forfaitaire, exonérée de cotisations dans la limite du barème de l'URSSAF, ou par un remboursement sur justificatifs. Un accord collectif peut fixer un montant minimal."
+    ],
+    [
+      "Un accident à domicile pendant le télétravail est-il un accident du travail ?",
+      "Il est présumé l'être s'il survient sur le lieu de télétravail pendant l'exercice de l'activité professionnelle. L'employeur peut renverser cette présomption en prouvant l'absence de lien avec le travail."
+    ],
+    [
+      "Le télétravailleur a-t-il droit aux titres-restaurant ?",
+      "Oui, s'il se trouve dans la même situation que les salariés sur site qui en bénéficient. Le télétravailleur a les mêmes droits que les salariés travaillant dans les locaux de l'entreprise."
+    ],
+    [
+      "Peut-on télétravailler depuis l'étranger ?",
+      "Seulement avec l'accord de l'employeur, et avec prudence. Travailler depuis un autre pays peut entraîner l'application de règles locales de sécurité sociale, de fiscalité et de droit du travail. Mieux vaut le prévoir par une clause spécifique."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1222-9 à L. 1222-11 (définition et mise en place du télétravail, obligations de l'employeur, circonstances exceptionnelles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Accord national interprofessionnel du 26 novembre 2020 pour une mise en œuvre réussie du télétravail – texte à consulter sur Légifrance",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-teletravail"
+  }
+}

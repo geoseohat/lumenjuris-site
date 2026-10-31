@@ -51,7 +51,7 @@
 [x] 2026-10-31 contrat de travail intermittent -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-intermittent/
 [x] 2026-10-31 contrat de travail saisonnier -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-saisonnier/
 [x] 2026-10-31 contrat d'extra -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-extra/
-contrat de télétravail
+[x] 2026-10-31 contrat de télétravail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-teletravail/
 charte de télétravail
 avenant de télétravail
 clause de non-concurrence
