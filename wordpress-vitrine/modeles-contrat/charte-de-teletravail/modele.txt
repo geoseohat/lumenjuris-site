@@ -1,0 +1,297 @@
+# CHARTE DE TÉLÉTRAVAIL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : la charte est un acte unilatéral de l'employeur. Elle n'est utilisable qu'en l'absence d'accord collectif d'entreprise sur le télétravail (article L. 1222-9 du Code du travail). Lorsqu'un comité social et économique (CSE) existe, son avis doit être recueilli avant l'entrée en vigueur de la charte. Vérifiez aussi l'accord de branche applicable et l'accord national interprofessionnel du 26 novembre 2020 : la charte ne peut pas être moins favorable que les dispositions conventionnelles obligatoires pour l'entreprise.
+
+ÉMETTEUR DE LA CHARTE :
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction], ayant tous pouvoirs à cet effet,
+
+ci-après « l'Entreprise ».
+
+PRÉAMBULE
+
+L'Entreprise souhaite permettre aux salariés dont l'activité s'y prête de travailler une partie de leur temps hors de ses locaux, dans des conditions qui préservent la qualité du travail, le collectif, la santé des salariés et la sécurité des données.
+
+La présente charte est établie en application de l'article L. 1222-9 du Code du travail, en l'absence d'accord collectif d'entreprise portant sur le télétravail.
+
+[Le comité social et économique a été consulté et a rendu son avis le [date]. / L'Entreprise ne dispose pas de comité social et économique à la date d'adoption de la présente charte.]
+
+## ARTICLE 1 – OBJET ET CHAMP D'APPLICATION
+
+La présente charte fixe les conditions de mise en œuvre du télétravail au sein de l'Entreprise. Elle s'applique à [l'ensemble des établissements de l'Entreprise / l'établissement de [ville]].
+
+Le télétravail désigne toute forme d'organisation du travail dans laquelle un travail qui aurait également pu être exécuté dans les locaux de l'Entreprise est effectué par un salarié hors de ces locaux, de façon volontaire, en utilisant les technologies de l'information et de la communication.
+
+La charte encadre deux formes de télétravail :
+- le télétravail régulier, organisé selon un rythme fixé à l'avance ;
+- le télétravail occasionnel, accordé ponctuellement pour répondre à un besoin particulier du salarié ou de l'Entreprise.
+
+Elle ne concerne pas le travail en déplacement chez un client ou un fournisseur, qui relève de l'organisation habituelle du poste.
+
+## ARTICLE 2 – PRINCIPE DU VOLONTARIAT
+
+Le télétravail repose sur le volontariat du salarié et l'accord de l'Entreprise.
+
+Le refus d'un salarié d'accepter un poste en télétravail ne constitue pas un motif de rupture de son contrat de travail ni une faute.
+
+Le télétravail ne peut être imposé au salarié qu'en cas de circonstances exceptionnelles, notamment de menace d'épidémie, ou en cas de force majeure, dans les conditions prévues à l'article 13.
+
+## ARTICLE 3 – CONDITIONS D'ÉLIGIBILITÉ
+
+### 3.1 Postes éligibles
+
+Sont éligibles au télétravail les postes dont les tâches peuvent être exercées à distance, en tout ou partie, sans nuire au fonctionnement du service. La liste des postes ou familles de postes éligibles figure en annexe 1.
+
+Ne sont pas éligibles les activités qui exigent par nature une présence physique permanente, notamment : [accueil du public / manipulation de matériel ou de marchandises sur site / travail sur des données classées confidentielles ne pouvant sortir des locaux / autre à préciser].
+
+> Note de rédaction : définissez l'éligibilité par des critères objectifs liés aux tâches, et non à la personne. Un critère fondé sur l'âge, le sexe, la situation de famille ou l'état de santé serait discriminatoire.
+
+### 3.2 Conditions liées au salarié
+
+Le salarié qui demande à télétravailler doit :
+- [avoir achevé sa période d'essai / justifier d'une ancienneté de [nombre] mois dans le poste] ;
+- disposer d'une autonomie suffisante dans son poste, appréciée par son responsable ;
+- [travailler à temps plein ou à temps partiel d'au moins [nombre] % / aucune condition de durée du travail] ;
+- disposer au lieu de télétravail d'un espace adapté et d'une connexion internet permettant l'exercice de ses fonctions ;
+- remettre l'attestation prévue à l'article 9.
+
+> Option : les alternants et stagiaires peuvent être admis au télétravail dans la limite de [nombre] jour(s) par semaine, à condition que leur tuteur ou maître d'apprentissage soit joignable pendant ces journées.
+
+## ARTICLE 4 – PASSAGE EN TÉLÉTRAVAIL ET ACCEPTATION PAR LE SALARIÉ
+
+### 4.1 Demande
+
+Le salarié adresse sa demande à son responsable hiérarchique [par écrit / par courriel / via l'outil de gestion des ressources humaines], au moyen du formulaire figurant en annexe 2. L'Entreprise peut également proposer le télétravail à un salarié, qui reste libre de refuser.
+
+### 4.2 Réponse de l'Entreprise
+
+Le responsable répond dans un délai de [un mois] à compter de la réception de la demande, après un entretien avec le salarié si nécessaire.
+
+Lorsque le salarié occupe un poste éligible au sens de l'article 3, tout refus est motivé par écrit. Les motifs peuvent notamment tenir à l'organisation du service, à la sécurité des données, à l'absence de conditions matérielles adaptées ou à un nombre trop élevé de demandes simultanées dans une même équipe.
+
+### 4.3 Acceptation des conditions par le salarié
+
+L'accord des parties est formalisé par [la signature par le salarié du formulaire d'acceptation figurant en annexe 2 / un avenant au contrat de travail]. Ce document précise le rythme retenu, les jours de télétravail, le ou les lieux de télétravail, les plages de contact et la date de début.
+
+En signant ce document, le salarié déclare avoir pris connaissance de la présente charte et en accepter les conditions de mise en œuvre.
+
+### 4.4 Période d'adaptation
+
+Une période d'adaptation de [trois] mois s'applique au début du télétravail régulier. Pendant cette période, l'Entreprise ou le salarié peut y mettre fin par écrit, en respectant un délai de prévenance de [quinze] jours, sauf accord des deux parties sur un délai plus court. Le salarié retrouve alors son poste dans les locaux de l'Entreprise.
+
+## ARTICLE 5 – PUBLICS PRIORITAIRES
+
+### 5.1 Travailleurs handicapés
+
+Le salarié reconnu travailleur handicapé peut demander à bénéficier du télétravail, y compris au-delà du rythme prévu à l'article 6, lorsque cette organisation facilite son maintien dans l'emploi. Le médecin du travail peut être sollicité pour avis sur l'aménagement du poste. Le refus de l'Entreprise est motivé.
+
+### 5.2 Salariées enceintes
+
+La salariée enceinte qui en fait la demande peut bénéficier [d'un jour supplémentaire de télétravail par semaine / d'un télétravail jusqu'à [nombre] jours par semaine], à compter de la déclaration de sa grossesse et jusqu'au début de son congé de maternité, si son poste est éligible.
+
+### 5.3 Salariés aidants
+
+Le salarié aidant d'un enfant, d'un parent ou d'un proche peut bénéficier [d'un rythme de télétravail renforcé / d'un télétravail occasionnel facilité, sur simple demande adressée [nombre] jours à l'avance], pendant la durée de la situation d'aide, s'il en justifie par tout moyen.
+
+## ARTICLE 6 – RYTHME ET ORGANISATION
+
+### 6.1 Télétravail régulier
+
+Le télétravail régulier est limité à [deux] jour(s) par semaine pour un salarié à temps plein. Ce nombre est réduit à due proportion pour les salariés à temps partiel.
+
+[Les jours de télétravail sont fixes et définis dans le formulaire d'acceptation. / Le salarié dispose d'un nombre de [nombre] jours par mois, qu'il positionne en accord avec son responsable au moins [nombre] jours à l'avance.]
+
+Les jours de télétravail non pris ne sont ni reportables d'une semaine sur l'autre ni indemnisables.
+
+> Option : présence minimale sur site d'une journée commune à toute l'équipe, fixée au [jour de la semaine], afin de préserver les échanges collectifs.
+
+### 6.2 Télétravail occasionnel
+
+Le salarié éligible peut demander à télétravailler de façon ponctuelle, notamment en cas de grève des transports, d'intempéries ou de contrainte personnelle temporaire, dans la limite de [nombre] jours par an. La demande est adressée au responsable [par courriel] au moins [vingt-quatre heures] à l'avance, sauf urgence.
+
+### 6.3 Épisode de pollution
+
+En cas d'épisode de pollution déclenchant des mesures préfectorales au sens de l'article L. 223-1 du Code de l'environnement, les salariés occupant un poste éligible peuvent télétravailler [sur simple information de leur responsable / à la demande de l'Entreprise], pendant la durée de ces mesures, même si leur rythme habituel est déjà atteint.
+
+### 6.4 Retours ponctuels sur site
+
+L'Entreprise peut demander au salarié d'être présent sur site un jour normalement télétravaillé pour une réunion, une formation ou une nécessité de service, en le prévenant au moins [quarante-huit heures] à l'avance, sauf urgence. Le jour ainsi perdu est [reporté dans la même semaine / non reporté].
+
+## ARTICLE 7 – LIEU DU TÉLÉTRAVAIL
+
+Le télétravail s'exerce à la résidence principale du salarié, dont l'adresse est communiquée à l'Entreprise.
+
+[Le salarié peut aussi télétravailler dans un autre lieu situé en France métropolitaine (résidence secondaire, espace de travail partagé), à condition de l'avoir déclaré au préalable à son responsable et que ce lieu remplisse les conditions de l'article 9. / Aucun autre lieu n'est autorisé.]
+
+Le télétravail depuis l'étranger n'est possible qu'avec l'accord écrit préalable de la direction des ressources humaines, après vérification des règles de sécurité sociale, de fiscalité et de droit du travail applicables.
+
+Les frais de déplacement entre le lieu de télétravail et les locaux de l'Entreprise restent régis par les règles habituelles de l'Entreprise.
+
+## ARTICLE 8 – TEMPS DE TRAVAIL, CHARGE DE TRAVAIL ET DÉCONNEXION
+
+### 8.1 Durée du travail
+
+Le salarié en télétravail reste soumis à la même durée du travail que lorsqu'il travaille dans les locaux. Les règles relatives aux durées maximales de travail et aux temps de repos quotidien et hebdomadaire s'appliquent pleinement.
+
+Les heures supplémentaires ne peuvent être accomplies qu'à la demande expresse du responsable.
+
+### 8.2 Contrôle du temps de travail et régulation de la charge
+
+Le temps de travail est décompté [au moyen du logiciel de gestion des temps de l'Entreprise / par une déclaration hebdomadaire du salarié / selon les modalités prévues par la convention de forfait en jours du salarié].
+
+La charge de travail en télétravail doit être équivalente à celle d'une journée travaillée sur site. Le responsable veille à fixer des objectifs et des délais compatibles avec les horaires habituels. Le salarié signale sans délai toute surcharge ou difficulté, qui donne lieu à un échange dans les [huit] jours.
+
+Aucun dispositif de surveillance permanente du salarié (activation imposée de la caméra, enregistrement des frappes au clavier, captures d'écran automatiques) n'est mis en place. Tout dispositif de contrôle de l'activité est porté préalablement à la connaissance des salariés et soumis, le cas échéant, à l'information et à la consultation du CSE.
+
+### 8.3 Plages horaires de contact
+
+L'Entreprise peut habituellement contacter le salarié en télétravail [de 9 h 30 à 12 h et de 14 h à 17 h / pendant les plages fixées dans le formulaire d'acceptation]. En dehors de ces plages, le salarié n'est pas tenu de répondre.
+
+### 8.4 Droit à la déconnexion
+
+Le salarié n'est pas tenu de consulter ni de répondre aux courriels, messages et appels professionnels en dehors de son temps de travail, pendant ses congés et ses temps de repos. Aucun reproche ne peut lui être adressé pour ce motif. [Les règles de l'Entreprise relatives au droit à la déconnexion, établies le [date], s'appliquent au télétravail.]
+
+## ARTICLE 9 – ÉQUIPEMENT, CONFORMITÉ DU LIEU ET ASSURANCE
+
+### 9.1 Matériel fourni
+
+L'Entreprise fournit au salarié le matériel nécessaire à son activité en télétravail : [ordinateur portable, casque, écran, accès sécurisé au réseau (VPN), téléphone professionnel / autre]. Elle en assure la maintenance et le remplacement en cas de panne.
+
+Le matériel reste la propriété de l'Entreprise. Il est réservé à un usage professionnel et restitué à la fin du télétravail ou du contrat de travail.
+
+En cas de panne ou de dysfonctionnement empêchant le travail, le salarié prévient immédiatement [le service informatique]. Si la panne ne peut être résolue rapidement, il peut être demandé au salarié de revenir travailler sur site.
+
+### 9.2 Conformité du lieu et assurance
+
+Le salarié remet, avant le début du télétravail régulier, une attestation sur l'honneur indiquant :
+- que l'espace de travail permet d'exercer ses fonctions dans de bonnes conditions d'ergonomie, d'éclairage et de calme ;
+- que l'installation électrique est en bon état ;
+- qu'il a informé son assureur de l'exercice d'une activité professionnelle à son domicile et que son contrat d'assurance habitation couvre cette situation.
+
+> Note de rédaction : l'Entreprise peut proposer une visite du lieu de télétravail par le service de prévention et de santé au travail ou par un membre de la commission santé, sécurité et conditions de travail, mais uniquement avec l'accord préalable du salarié, puisqu'il s'agit de son domicile.
+
+## ARTICLE 10 – PRISE EN CHARGE DES FRAIS
+
+Les frais engagés par le salarié pour les besoins de son activité en télétravail sont pris en charge par l'Entreprise selon l'une des formules suivantes :
+
+[Option A – Allocation forfaitaire : une allocation de [montant] euros par jour de télétravail, dans la limite de [montant] euros par mois, versée avec le salaire. Ce montant est fixé dans les limites d'exonération de cotisations admises par l'URSSAF.]
+
+[Option B – Remboursement sur justificatifs : remboursement des frais réels engagés (part de l'abonnement internet, consommation d'électricité ou de chauffage, petites fournitures), sur présentation de justificatifs, selon la procédure de notes de frais de l'Entreprise.]
+
+[Option C – Prise en charge d'un équipement de confort : participation de [montant] euros, versée une seule fois, à l'achat d'un siège ergonomique ou d'un équipement de bureau, sur justificatif.]
+
+> Note de rédaction : vérifiez qu'un accord de branche ne fixe pas un montant minimal d'indemnité. L'allocation forfaitaire n'est exonérée de cotisations que dans les limites du barème publié chaque année par l'URSSAF ; au-delà, l'Entreprise doit pouvoir justifier les frais réels.
+
+## ARTICLE 11 – PROTECTION DES DONNÉES ET CONFIDENTIALITÉ
+
+Le salarié respecte la politique de sécurité informatique de l'Entreprise, dont il reconnaît avoir reçu un exemplaire. Il est informé des restrictions à l'usage des équipements, outils informatiques et services de communication électronique, ainsi que des sanctions encourues en cas de manquement.
+
+Il s'engage notamment à :
+- utiliser exclusivement l'accès sécurisé fourni pour se connecter au réseau de l'Entreprise ;
+- ne pas laisser le matériel ni les documents professionnels accessibles à des tiers, y compris aux membres de son foyer ;
+- ne pas utiliser de réseau Wi-Fi public non sécurisé ;
+- ne pas imprimer de documents confidentiels hors des locaux, sauf autorisation ;
+- signaler sans délai toute perte, tout vol ou tout incident de sécurité.
+
+Les données personnelles des salariés traitées dans le cadre du télétravail (adresse du lieu de télétravail, jours télétravaillés, attestations) sont utilisées uniquement pour la gestion du télétravail, conformément au règlement général sur la protection des données.
+
+## ARTICLE 12 – SANTÉ, SÉCURITÉ ET ACCIDENT DU TRAVAIL
+
+Le salarié en télétravail bénéficie des mêmes droits et avantages que les salariés travaillant dans les locaux, notamment en matière d'accès à la formation, de déroulement de carrière, d'information de l'Entreprise et d'accès aux représentants du personnel.
+
+L'accident survenu sur le lieu de télétravail pendant l'exercice de l'activité professionnelle est présumé être un accident du travail. Le salarié le déclare à l'Entreprise dans les mêmes délais que s'il travaillait dans les locaux, en précisant l'heure, le lieu et les circonstances.
+
+Les risques liés au télétravail, notamment l'isolement, les troubles musculosquelettiques et l'usage intensif des écrans, sont intégrés au document unique d'évaluation des risques.
+
+Afin de prévenir l'isolement, le responsable organise des points réguliers avec le salarié, au moins [une fois par semaine].
+
+Chaque année, l'Entreprise organise avec le salarié en télétravail un entretien portant notamment sur ses conditions d'activité et sa charge de travail. Cet entretien peut avoir lieu en même temps que l'entretien annuel.
+
+## ARTICLE 13 – CIRCONSTANCES EXCEPTIONNELLES
+
+En cas de circonstances exceptionnelles, notamment de menace d'épidémie, ou en cas de force majeure, l'Entreprise peut imposer le télétravail aux salariés occupant un poste compatible, sans leur accord, lorsque cet aménagement est nécessaire pour permettre la continuité de l'activité et garantir la protection des salariés.
+
+Les salariés sont informés par écrit, par tout moyen, de la date de début et, si possible, de la durée prévisible de cette organisation. Le CSE est informé dans les meilleurs délais. Les articles 8 à 12 de la présente charte s'appliquent pendant cette période, avec les adaptations rendues nécessaires par la situation.
+
+## ARTICLE 14 – RETOUR À UNE EXÉCUTION SANS TÉLÉTRAVAIL
+
+### 14.1 À l'initiative du salarié
+
+Après la période d'adaptation, le salarié peut à tout moment demander à mettre fin au télétravail régulier, par écrit, en respectant un délai de prévenance de [un mois]. Il retrouve alors un poste dans les locaux de l'Entreprise, avec les mêmes fonctions.
+
+Le salarié en télétravail qui souhaite occuper ou reprendre un poste sans télétravail correspondant à ses qualifications et compétences professionnelles bénéficie d'une priorité pour l'obtenir. L'Entreprise porte à sa connaissance la disponibilité de tout poste de cette nature.
+
+### 14.2 À l'initiative de l'Entreprise
+
+Après la période d'adaptation, l'Entreprise peut mettre fin au télétravail régulier par une décision écrite et motivée, en respectant un délai de prévenance de [un mois], pour un motif objectif : changement de poste ou de fonctions, réorganisation du service, non-respect des règles de la présente charte, difficultés constatées dans l'exercice des missions à distance.
+
+> Note de rédaction : si le télétravail a été prévu dès l'embauche dans le contrat de travail, il constitue un élément du contrat. L'Entreprise ne peut alors y mettre fin unilatéralement qu'en respectant les règles applicables à la modification du contrat de travail, sauf clause de réversibilité expressément acceptée par le salarié.
+
+### 14.3 Suspension temporaire
+
+Le télétravail peut être suspendu temporairement, par l'une ou l'autre partie, en cas de nécessité ponctuelle (formation, projet exigeant une présence, travaux au domicile, panne durable du matériel), avec un délai de prévenance de [huit] jours sauf urgence.
+
+## ARTICLE 15 – ENTRÉE EN VIGUEUR, DURÉE, RÉVISION ET COMMUNICATION
+
+La présente charte entre en vigueur le [date] pour une durée [indéterminée / déterminée de [nombre] ans, renouvelable par tacite reconduction].
+
+Elle peut être modifiée ou dénoncée par l'Entreprise, après avis du CSE s'il existe. Les salariés sont informés de toute modification au moins [un mois] avant son entrée en vigueur. Les formulaires d'acceptation en cours restent applicables jusqu'à leur terme ou jusqu'à leur mise en conformité.
+
+La charte cesse de s'appliquer de plein droit à la date d'entrée en vigueur d'un accord collectif d'entreprise portant sur le télétravail, qui s'y substitue.
+
+Un bilan de la mise en œuvre du télétravail est présenté chaque année [au CSE / à la direction], portant notamment sur le nombre de demandes, d'acceptations et de refus.
+
+La présente charte est communiquée à chaque salarié par [affichage / publication sur l'intranet / remise individuelle] et remise à tout nouveau salarié lors de son embauche.
+
+Fait à [ville], le [date].
+
+Pour l'Entreprise,
+[nom, prénom, fonction]
+[signature]
+
+## ANNEXE 1 – POSTES ET FAMILLES DE POSTES ÉLIGIBLES
+
+- [Famille de postes 1, par exemple : fonctions administratives et comptables] : [nombre maximal de jours par semaine]
+- [Famille de postes 2, par exemple : fonctions commerciales sédentaires] : [nombre maximal de jours par semaine]
+- [Famille de postes 3] : [nombre maximal de jours par semaine]
+
+Postes non éligibles : [liste].
+
+## ANNEXE 2 – FORMULAIRE DE DEMANDE ET D'ACCEPTATION DU TÉLÉTRAVAIL
+
+Nom et prénom du salarié : [nom, prénom]
+Poste occupé : [intitulé]
+Service et responsable : [service, nom du responsable]
+
+Forme demandée : [télétravail régulier / télétravail occasionnel]
+Rythme : [nombre] jour(s) par semaine – jours retenus : [jours]
+Lieu de télétravail : [adresse]
+Plages horaires de contact : [horaires]
+Date de début souhaitée : [date]
+Situation particulière (facultatif) : [travailleur handicapé / grossesse / salarié aidant / aucune]
+
+Décision du responsable : [acceptée / refusée]
+Motif en cas de refus : [motif]
+Date de début retenue : [date]
+
+Le salarié déclare avoir reçu et lu la charte de télétravail de l'Entreprise et en accepter les conditions de mise en œuvre. Il joint l'attestation prévue à l'article 9.2.
+
+Fait à [ville], le [date].
+
+Le salarié : [signature]
+Le responsable : [signature]
+
+## ANNEXE 3 – ATTESTATION SUR L'HONNEUR DU SALARIÉ
+
+Je soussigné(e) [nom, prénom], atteste sur l'honneur que :
+- mon espace de télétravail situé [adresse] permet d'exercer mes fonctions dans de bonnes conditions ;
+- l'installation électrique de ce lieu est en bon état ;
+- j'ai informé mon assureur de l'exercice d'une activité professionnelle à ce domicile et mon assurance habitation couvre cette situation.
+
+Je m'engage à informer l'Entreprise de tout changement de lieu de télétravail.
+
+Fait à [ville], le [date].
+
+[signature]

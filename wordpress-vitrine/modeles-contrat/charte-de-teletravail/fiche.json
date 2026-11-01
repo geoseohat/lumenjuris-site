@@ -1,0 +1,101 @@
+{
+  "slug": "charte-de-teletravail",
+  "nom": "Charte de télétravail",
+  "nom_court": "charte de télétravail",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle charte de télétravail",
+  "mots_cles_secondaires": [
+    "charte télétravail",
+    "charte de télétravail entreprise",
+    "charte télétravail CSE",
+    "politique de télétravail entreprise",
+    "charte télétravail obligatoire",
+    "règles de télétravail en entreprise"
+  ],
+  "titre_h1": "Modèle de charte de télétravail gratuit (Word et PDF)",
+  "titre_seo": "Charte de télétravail 2026 : modèle gratuit pour l'entreprise",
+  "meta_description": "Modèle de charte de télétravail conforme au Code du travail : postes éligibles, rythme, publics prioritaires, frais, avis du CSE et retour sur site.",
+  "chapo": "La charte de télétravail fixe, pour toute l'entreprise, les règles du télétravail quand aucun accord collectif n'existe. Notre modèle gratuit reprend les sept points imposés par la loi, avec un formulaire de demande et une attestation du salarié en annexe.",
+  "public": "Employeurs, services RH et membres du CSE",
+  "gratuit": true,
+  "fichier_base": "modele-charte-de-teletravail-lumen-juris",
+  "date_publication": "2026-11-01",
+  "date_mise_a_jour": "2026-11-01",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Relations sociales en entreprise"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier qu'aucun accord ne s'applique",
+      "Assurez-vous qu'il n'existe pas d'accord d'entreprise sur le télétravail et repérez les règles de votre accord de branche et de l'accord national de 2020."
+    ],
+    [
+      "Lister les postes éligibles",
+      "Classez les postes selon des critères liés aux tâches et fixez pour chaque famille le nombre maximal de jours en annexe 1."
+    ],
+    [
+      "Régler les publics prioritaires",
+      "Choisissez les aménagements offerts aux travailleurs handicapés, aux salariées enceintes et aux salariés aidants."
+    ],
+    [
+      "Choisir la prise en charge des frais",
+      "Retenez l'allocation forfaitaire, le remboursement sur justificatifs ou l'aide à l'équipement, en vérifiant les limites URSSAF."
+    ],
+    [
+      "Recueillir l'avis du CSE et diffuser",
+      "Transmettez le projet au CSE, puis communiquez la charte à tous les salariés avec le formulaire de demande."
+    ]
+  ],
+  "faq": [
+    [
+      "La charte de télétravail est-elle obligatoire ?",
+      "Non. L'employeur peut organiser le télétravail par un accord collectif, par une charte ou par simple accord avec chaque salarié. Mais dès qu'il choisit la charte, celle-ci doit contenir les mentions prévues par l'article L. 1222-9 du Code du travail."
+    ],
+    [
+      "Faut-il consulter le CSE avant d'adopter la charte ?",
+      "Oui, lorsque l'entreprise a un comité social et économique, la charte est élaborée après son avis. L'employeur n'est pas tenu de suivre cet avis, mais il doit le recueillir avant l'entrée en vigueur. Dans une entreprise sans CSE, aucune consultation n'est exigée."
+    ],
+    [
+      "Une charte peut-elle remplacer un accord collectif existant ?",
+      "Non. La charte n'est possible qu'à défaut d'accord collectif sur le télétravail. Si un accord d'entreprise est signé après la charte, il s'y substitue."
+    ],
+    [
+      "L'employeur peut-il modifier la charte seul ?",
+      "Oui, puisqu'il s'agit d'un acte unilatéral, mais il doit à nouveau recueillir l'avis du CSE s'il existe et informer les salariés. Les situations prévues dans le contrat de travail lui-même ne peuvent pas être modifiées par ce biais sans l'accord du salarié."
+    ],
+    [
+      "Le salarié doit-il signer la charte ?",
+      "Il ne signe pas la charte elle-même, qui s'applique à tous. Il accepte en revanche les conditions de son propre télétravail selon les modalités qu'elle prévoit, par exemple un formulaire signé ou un avenant."
+    ],
+    [
+      "Que se passe-t-il si un salarié éligible essuie un refus ?",
+      "Le refus doit être motivé lorsque le poste est éligible selon la charte. Une réponse sans motif ou fondée sur un critère discriminatoire peut être contestée devant le conseil de prud'hommes."
+    ],
+    [
+      "Une charte de télétravail peut-elle prévoir des sanctions ?",
+      "Elle peut rappeler que le non-respect des règles de sécurité informatique expose à des sanctions disciplinaires. Si elle crée elle-même des règles de discipline, elle risque d'être traitée comme une adjonction au règlement intérieur, avec la procédure de dépôt et de transmission qui va avec."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1222-9 à L. 1222-11 (contenu de la charte, droits du télétravailleur, circonstances exceptionnelles) et L. 1321-5 (adjonctions au règlement intérieur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de l'environnement, article L. 223-1 (épisodes de pollution)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074220"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "charte-teletravail"
+  }
+}
