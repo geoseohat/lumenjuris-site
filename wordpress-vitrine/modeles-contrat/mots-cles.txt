@@ -56,7 +56,7 @@
 [x] 2026-11-01 avenant de télétravail -> écarté : même intention que contrat-de-teletravail : la page existante est déjà un modèle d'avenant de télétravail et cible « avenant de télétravail »
 [x] 2026-11-01 clause de non-concurrence -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-non-concurrence/
 [x] 2026-11-01 clause de confidentialité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-confidentialite/
-clause de mobilité
+[x] 2026-11-01 clause de mobilité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-mobilite/
 clause d'exclusivité
 accord transactionnel
 protocole transactionnel

@@ -1,0 +1,101 @@
+{
+  "slug": "clause-de-mobilite",
+  "nom": "Clause de mobilité",
+  "nom_court": "clause de mobilité",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle clause de mobilité",
+  "mots_cles_secondaires": [
+    "clause de mobilité contrat de travail",
+    "clause de mobilité géographique",
+    "refus clause de mobilité",
+    "délai de prévenance clause de mobilité",
+    "lettre de mutation clause de mobilité",
+    "clause de mobilité valable"
+  ],
+  "titre_h1": "Modèle de clause de mobilité gratuit (Word et PDF)",
+  "titre_seo": "Clause de mobilité 2026 : modèle gratuit et lettre de mutation",
+  "meta_description": "Modèle de clause de mobilité géographique pour contrat de travail : zone précise, délai de prévenance, frais de déménagement, refus et lettre de mutation.",
+  "chapo": "La clause de mobilité permet de changer le lieu de travail d'un salarié dans une zone fixée à l'avance, à condition de respecter les règles posées par les juges. Notre modèle gratuit, sous forme d'avenant, encadre la zone, le délai de prévenance et l'accompagnement, avec une lettre de mutation prête à l'emploi.",
+  "public": "Employeurs et salariés",
+  "gratuit": true,
+  "fichier_base": "modele-clause-de-mobilite-lumen-juris",
+  "date_publication": "2026-11-01",
+  "date_mise_a_jour": "2026-11-01",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Relations individuelles de travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Délimiter la zone",
+      "Choisissez entre une liste de départements ou de régions et une liste fermée d'établissements existants."
+    ],
+    [
+      "Expliquer le besoin",
+      "Décrivez dans le préambule pourquoi le poste peut exiger un changement de site : chantiers, agences, secteurs commerciaux."
+    ],
+    [
+      "Fixer le délai de prévenance",
+      "Prévoyez un délai plus long lorsque la mutation oblige le salarié à déménager, et vérifiez le minimum de la convention collective."
+    ],
+    [
+      "Chiffrer l'accompagnement",
+      "Indiquez les frais de déménagement, de logement provisoire ou de trajet supplémentaire pris en charge."
+    ],
+    [
+      "Préparer la lettre de mutation",
+      "Le moment venu, tenez un entretien, puis adressez la lettre de l'annexe en précisant le motif et la date de prise de poste."
+    ]
+  ],
+  "faq": [
+    [
+      "Un salarié peut-il refuser une mutation prévue par sa clause de mobilité ?",
+      "Il peut refuser si la clause est nulle, si la mutation sort de la zone prévue ou si elle est abusive : délai trop court, absence d'intérêt pour l'entreprise, atteinte excessive à sa vie familiale. Dans les autres cas, son refus est un manquement qui peut justifier un licenciement."
+    ],
+    [
+      "Le refus d'appliquer une clause de mobilité est-il une faute grave ?",
+      "Pas automatiquement. Les juges considèrent en général qu'il s'agit d'une cause réelle et sérieuse de licenciement, qui laisse au salarié son préavis et son indemnité. La faute grave n'est retenue que dans des circonstances particulières."
+    ],
+    [
+      "Quel délai de prévenance respecter avant une mutation ?",
+      "Aucun délai légal n'existe, mais il doit être raisonnable au regard de la distance et de la situation du salarié. Un délai d'un mois au moins, porté à deux ou trois mois en cas de déménagement, est une pratique prudente. La convention collective peut imposer un minimum."
+    ],
+    [
+      "L'employeur doit-il payer le déménagement ?",
+      "La loi ne l'impose pas, sauf disposition de la convention collective. Une prise en charge prévue dans la clause facilite toutefois l'acceptation de la mutation et la rend plus difficile à contester."
+    ],
+    [
+      "Une clause de mobilité peut-elle couvrir toute la France ?",
+      "Oui, une zone correspondant à la France métropolitaine est considérée comme précise. Mais l'employeur doit pouvoir justifier une mutation lointaine par les besoins du poste, et la mise en œuvre reste soumise au respect de la vie personnelle et familiale."
+    ],
+    [
+      "Peut-on muter un salarié dans une autre société du groupe ?",
+      "Non, pas sur le seul fondement de la clause. Changer de société revient à changer d'employeur, ce qui exige l'accord du salarié au moment du transfert, sauf dans les cas de transfert automatique prévus par la loi."
+    ],
+    [
+      "Un déménagement de l'entreprise impose-t-il d'avoir une clause de mobilité ?",
+      "Non, si le nouveau site se trouve dans le même secteur géographique : le salarié doit suivre. Si le nouveau site est plus éloigné, sans clause, il s'agit d'une modification du contrat que le salarié peut refuser."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1121-1 (restrictions proportionnées aux libertés), L. 1222-6 (modification du contrat pour motif économique) et L. 2254-2 (accord de performance collective)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, article 1103 (force obligatoire du contrat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "clause-mobilite"
+  }
+}
