@@ -1,0 +1,135 @@
+# CLAUSE DE CONFIDENTIALITÉ – CONTRAT DE TRAVAIL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce document se présente sous la forme d'un avenant au contrat de travail. Pour une embauche, reprenez directement les articles 1 à 9 dans le contrat de travail. Pour protéger des informations échangées entre deux entreprises avant ou en dehors de tout contrat, utilisez plutôt un accord de confidentialité autonome. Une variante pour un contrat commercial figure en annexe 2.
+
+ENTRE LES SOUSSIGNÉS :
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction],
+
+ci-après « l'Employeur »,
+
+ET
+
+[Madame / Monsieur] [nom, prénom], demeurant [adresse], occupant le poste de [intitulé du poste], salarié(e) de l'Employeur depuis le [date],
+
+ci-après « le Salarié »,
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Dans le cadre de ses fonctions, le Salarié a ou aura accès à des informations dont la divulgation pourrait nuire à l'Employeur, à ses clients ou à ses partenaires, notamment [données clients / tarifs et marges / procédés techniques / code source / projets de développement / données financières non publiées].
+
+Le Salarié est déjà tenu, pendant l'exécution de son contrat, à une obligation générale de loyauté et de discrétion. Les parties souhaitent préciser le contenu de cette obligation et la prolonger après la fin du contrat de travail, dans les limites ci-après.
+
+Il a été convenu ce qui suit.
+
+## ARTICLE 1 – OBJET
+
+Le présent avenant complète le contrat de travail conclu le [date] par une clause de confidentialité. Les autres clauses du contrat de travail restent inchangées.
+
+## ARTICLE 2 – INFORMATIONS CONFIDENTIELLES
+
+Sont considérées comme confidentielles les informations suivantes, quel que soit leur support (écrit, oral, numérique), dont le Salarié a connaissance à l'occasion de ses fonctions :
+- les fichiers et données relatifs aux clients, prospects et fournisseurs, ainsi que les conditions commerciales qui leur sont consenties ;
+- les prix de revient, marges, tarifs non publiés et offres en cours de négociation ;
+- les procédés, méthodes, savoir-faire, plans, formules, logiciels et codes sources de l'Employeur ;
+- les projets de développement, de recherche, d'acquisition ou de réorganisation non rendus publics ;
+- les données financières, comptables et stratégiques non publiées ;
+- les informations confiées à l'Employeur par ses clients ou partenaires sous le sceau de la confidentialité ;
+- [autres catégories propres à l'activité].
+
+Les documents portant la mention « Confidentiel » sont présumés relever du présent article, sans que l'absence de cette mention suffise à exclure une information de la liste ci-dessus.
+
+## ARTICLE 3 – INFORMATIONS EXCLUES
+
+Ne sont pas couvertes par la présente clause :
+- les informations déjà accessibles au public, ou qui le deviennent sans faute du Salarié ;
+- les connaissances générales, compétences et expérience professionnelle acquises par le Salarié, qu'il reste libre d'utiliser au service d'un autre employeur ;
+- les informations que le Salarié détenait légitimement avant son entrée dans l'entreprise ;
+- les informations relatives à sa propre rémunération et à ses conditions de travail.
+
+## ARTICLE 4 – OBLIGATIONS DU SALARIÉ
+
+Le Salarié s'engage à :
+- ne divulguer aucune information confidentielle à un tiers, y compris à ses proches, sauf aux personnes de l'entreprise ou aux prestataires qui ont besoin de la connaître pour leur mission ;
+- utiliser ces informations exclusivement pour l'exécution de ses fonctions ;
+- ne pas copier, transférer ou conserver d'informations confidentielles sur un support personnel, une messagerie personnelle ou un service de stockage non autorisé par l'Employeur ;
+- respecter la politique de sécurité informatique de l'Employeur et signaler sans délai toute perte ou fuite d'informations dont il a connaissance.
+
+## ARTICLE 5 – LIMITES DE LA CLAUSE
+
+La présente clause ne fait pas obstacle :
+- au signalement ou à la divulgation d'informations dans les conditions prévues par la loi relative à la protection des lanceurs d'alerte, auprès des canaux internes, des autorités compétentes ou, le cas échéant, du public ;
+- à la communication d'informations à un représentant du personnel ou à un délégué syndical, dans le cadre de leurs missions, ces derniers étant eux-mêmes tenus à une obligation de discrétion ;
+- au témoignage en justice, aux réponses à une autorité administrative ou judiciaire, ni à l'exercice des droits de la défense du Salarié ;
+- à l'exercice par le Salarié de sa liberté d'expression, y compris sur ses conditions de travail, en dehors de tout abus ;
+- à la communication d'informations à l'inspection du travail, au médecin du travail ou à un conseil tenu au secret professionnel.
+
+> Note de rédaction : une clause qui interdirait ces communications serait inopposable au Salarié. La directive européenne de 2023 sur la transparence des rémunérations, en cours de transposition en France, interdit en outre d'empêcher un salarié de révéler sa rémunération pour faire respecter l'égalité salariale : n'insérez pas d'interdiction sur ce point.
+
+## ARTICLE 6 – DURÉE
+
+L'obligation de confidentialité s'applique pendant toute la durée du contrat de travail.
+
+Elle se poursuit après la fin du contrat, quelle qu'en soit la cause, pendant [trois] ans. [Pour les procédés et savoir-faire constituant un secret des affaires, elle dure aussi longtemps que ces informations restent secrètes.]
+
+> Note de rédaction : l'obligation de confidentialité après le départ n'exige pas de contrepartie financière, à la différence de la clause de non-concurrence, à condition qu'elle se limite à interdire la divulgation et l'utilisation d'informations précises. Si elle aboutit en pratique à empêcher le Salarié de travailler dans son métier, le juge peut la requalifier en clause de non-concurrence, nulle faute de contrepartie.
+
+## ARTICLE 7 – RESTITUTION DES DOCUMENTS ET DONNÉES
+
+À la fin du contrat de travail, ou à tout moment sur demande de l'Employeur, le Salarié restitue l'ensemble des documents, fichiers, supports et matériels contenant des informations confidentielles, ainsi que leurs copies.
+
+Il supprime les informations confidentielles qui se trouveraient, malgré l'article 4, sur un équipement ou un compte personnel, et en atteste par écrit au plus tard le jour de son départ effectif.
+
+## ARTICLE 8 – CONSÉQUENCES D'UN MANQUEMENT
+
+Pendant l'exécution du contrat, tout manquement à la présente clause peut donner lieu à une sanction disciplinaire proportionnée à sa gravité, pouvant aller jusqu'au licenciement, dans le respect de la procédure disciplinaire.
+
+Après la fin du contrat, le Salarié qui viole son obligation engage sa responsabilité et peut être condamné à réparer le préjudice subi par l'Employeur. L'Employeur peut aussi demander en justice toute mesure propre à faire cesser l'atteinte.
+
+Ces conséquences s'appliquent sans préjudice des sanctions pénales prévues en cas de révélation d'un secret de fabrique (article L. 1227-1 du Code du travail) et des actions ouvertes en cas d'atteinte au secret des affaires (articles L. 151-1 et suivants du Code de commerce).
+
+> Note de rédaction : les sanctions pécuniaires (amendes, retenues sur salaire) sont interdites pendant le contrat de travail. Une clause pénale ne peut donc viser qu'un manquement commis après la fin du contrat.
+
+> Option : clause pénale après le départ. En cas de violation de son obligation après la fin du contrat, le Salarié versera à l'Employeur une somme forfaitaire de [montant] euros par manquement constaté, sans préjudice de dommages et intérêts complémentaires. Le juge peut modérer ou augmenter cette somme si elle est manifestement excessive ou dérisoire.
+
+## ARTICLE 9 – PROTECTION DES DONNÉES PERSONNELLES
+
+Lorsque les informations confidentielles comprennent des données personnelles, le Salarié les traite conformément aux instructions de l'Employeur et au règlement général sur la protection des données. Il ne les utilise que pour les finalités prévues par l'Employeur.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un remis au Salarié.
+
+Pour l'Employeur,
+[nom, prénom, fonction]
+[signature]
+
+Le Salarié,
+[nom, prénom]
+[signature précédée de la mention « Lu et approuvé »]
+
+## ANNEXE 1 – ATTESTATION DE RESTITUTION AU DÉPART DU SALARIÉ
+
+Je soussigné(e) [nom, prénom], atteste avoir restitué le [date] à [dénomination de l'Employeur] l'ensemble des documents, fichiers et matériels contenant des informations confidentielles, à savoir : [liste du matériel et des supports restitués].
+
+J'atteste ne conserver aucune copie de ces informations sur un support ou un compte personnel, et avoir supprimé celles qui s'y trouvaient.
+
+Je reconnais rester tenu(e) à l'obligation de confidentialité dans les conditions prévues à l'article 6 de l'avenant du [date].
+
+Fait à [ville], le [date].
+
+[signature]
+
+## ANNEXE 2 – VARIANTE POUR UN CONTRAT COMMERCIAL
+
+> Note de rédaction : cette variante s'insère dans un contrat de prestation, de sous-traitance ou de partenariat entre professionnels. Elle remplace les articles 1 à 9, qui ne valent que pour un salarié.
+
+ARTICLE [n] – CONFIDENTIALITÉ
+
+[n].1 Chaque partie s'engage à garder strictement confidentielles les informations de toute nature, notamment techniques, commerciales et financières, communiquées par l'autre partie pour l'exécution du présent contrat et désignées comme confidentielles, ou dont le caractère confidentiel résulte de leur nature.
+
+[n].2 Chaque partie ne les utilise que pour l'exécution du contrat et ne les communique qu'aux membres de son personnel et à ses sous-traitants qui ont besoin de les connaître, après leur avoir imposé une obligation de confidentialité au moins équivalente. Elle répond du respect de cette obligation par ces personnes.
+
+[n].3 Ne sont pas confidentielles les informations tombées dans le domaine public sans faute de la partie qui les reçoit, déjà connues d'elle avant leur communication, reçues régulièrement d'un tiers non tenu au secret ou développées par elle de manière indépendante. Une partie peut aussi communiquer une information confidentielle si la loi, une décision de justice ou une autorité l'y oblige, en informant l'autre partie lorsque c'est permis.
+
+[n].4 Cette obligation s'applique pendant toute la durée du contrat et pendant [cinq] ans après sa fin, quelle qu'en soit la cause. À la fin du contrat, chaque partie restitue ou détruit, au choix de l'autre, les informations confidentielles reçues, sous réserve des copies qu'elle doit conserver en vertu d'une obligation légale.

@@ -1068,27 +1068,53 @@
     "clause-de-non-concurrence": {
       "fichiers": {
         "docx": {
-          "id": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o1.id}}",
-          "url": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o1.source_url}}",
+          "id": 3391,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-clause-de-non-concurrence-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "b8e6c3c17ce1e496c57b7f4238a189682eefc134e0330a1d2b1b2d58f7b18732"
         },
         "pdf": {
-          "id": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o2.id}}",
-          "url": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o2.source_url}}",
+          "id": 3392,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-clause-de-non-concurrence-lumen-juris.pdf",
           "taille": "103 Ko",
           "empreinte": "b8e6c3c17ce1e496c57b7f4238a189682eefc134e0330a1d2b1b2d58f7b18732"
         }
       },
       "image": {
-        "id": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o3.id}}",
-        "url": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o3.source_url}}",
+        "id": 3393,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-clause-de-non-concurrence-lumen-juris.png",
         "taille": "293 Ko",
         "empreinte": "37eccc32b0d890dc2ee28556823f087cf0b9202e4490fd426ed81e6f67c31fb4"
       },
       "statut": "publish",
-      "id": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o7.id}}",
-      "lien": "{{20261101-092002-publier-en-ligne-clause-de-non-concurrence.o7.link}}",
+      "id": 3394,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-non-concurrence/",
+      "gabarit": "2026-10-23"
+    },
+    "clause-de-confidentialite": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o1.id}}",
+          "url": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "d2ceec0cff3ae3ef59f2bbda174e666594558e07315bf82dfec2ba445667fd9d"
+        },
+        "pdf": {
+          "id": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o2.id}}",
+          "url": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o2.source_url}}",
+          "taille": "94 Ko",
+          "empreinte": "d2ceec0cff3ae3ef59f2bbda174e666594558e07315bf82dfec2ba445667fd9d"
+        }
+      },
+      "image": {
+        "id": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o3.id}}",
+        "url": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o3.source_url}}",
+        "taille": "291 Ko",
+        "empreinte": "013abb79297756416aa44edc7004e28c7e76d32e9a3d8d1ca062a9e58f44e854"
+      },
+      "statut": "publish",
+      "id": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o7.id}}",
+      "lien": "{{20261101-092235-publier-en-ligne-clause-de-confidentialite.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1097,6 +1123,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261101-092002-publier-en-ligne-clause-de-non-concurrence"
+    "20261101-092235-publier-en-ligne-clause-de-confidentialite"
   ]
 }

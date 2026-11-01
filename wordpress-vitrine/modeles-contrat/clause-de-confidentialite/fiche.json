@@ -1,0 +1,104 @@
+{
+  "slug": "clause-de-confidentialite",
+  "nom": "Clause de confidentialité",
+  "nom_court": "clause de confidentialité",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle clause de confidentialité",
+  "mots_cles_secondaires": [
+    "clause de confidentialité contrat de travail",
+    "clause de confidentialité salarié",
+    "obligation de confidentialité après rupture du contrat",
+    "clause de discrétion contrat de travail",
+    "modèle clause de confidentialité"
+  ],
+  "titre_h1": "Modèle de clause de confidentialité gratuit (Word et PDF)",
+  "titre_seo": "Clause de confidentialité 2026 : modèle pour contrat de travail",
+  "meta_description": "Modèle de clause de confidentialité pour salarié : informations protégées, exclusions, durée après le départ, restitution, limites légales et sanctions.",
+  "chapo": "La clause de confidentialité précise ce qu'un salarié doit garder secret et prolonge cette obligation après son départ. Notre modèle gratuit, sous forme d'avenant, distingue les informations protégées et celles qui restent libres, et propose une variante pour un contrat commercial.",
+  "public": "Employeurs et salariés",
+  "gratuit": true,
+  "fichier_base": "modele-clause-de-confidentialite-lumen-juris",
+  "date_publication": "2026-11-01",
+  "date_mise_a_jour": "2026-11-01",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Secret des affaires"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Recenser les informations sensibles",
+      "Listez avec le responsable du poste les catégories d'informations auxquelles le salarié a réellement accès."
+    ],
+    [
+      "Prévoir les exclusions",
+      "Conservez la liste des informations libres, notamment le savoir-faire général du salarié et sa propre rémunération."
+    ],
+    [
+      "Fixer la durée après le départ",
+      "Choisissez une durée raisonnable, par exemple trois ans, et une durée plus longue seulement pour les véritables secrets de fabrication."
+    ],
+    [
+      "Organiser la restitution",
+      "Préparez l'inventaire du matériel et des supports à rendre et faites signer l'attestation de l'annexe 1 au départ."
+    ],
+    [
+      "Faire signer l'avenant",
+      "Remettez le texte au salarié, laissez-lui un temps de réflexion et conservez un exemplaire signé par les deux parties."
+    ]
+  ],
+  "faq": [
+    [
+      "Une clause de confidentialité doit-elle être payée au salarié ?",
+      "Non. À la différence de la clause de non-concurrence, elle n'exige pas de contrepartie financière. Elle doit seulement rester limitée à des informations précises et ne pas empêcher le salarié de travailler dans son métier."
+    ],
+    [
+      "Un salarié sans clause écrite peut-il divulguer les informations de l'entreprise ?",
+      "Non, pendant le contrat il reste tenu à une obligation de loyauté et de discrétion. Après son départ, en l'absence de clause, seules les règles générales s'appliquent, notamment celles sur le secret des affaires, la concurrence déloyale et le secret de fabrique."
+    ],
+    [
+      "Combien de temps dure l'obligation de confidentialité après le départ ?",
+      "Le temps prévu par la clause. Une durée de deux à cinq ans est fréquente pour les informations commerciales. Pour un procédé qui reste secret, la clause peut prévoir que l'obligation dure tant que l'information n'est pas devenue publique."
+    ],
+    [
+      "La clause empêche-t-elle de parler de son salaire à ses collègues ?",
+      "Elle ne devrait pas le faire. La directive européenne de 2023 sur la transparence des rémunérations prévoit que les salariés ne peuvent pas être empêchés de révéler leur rémunération pour faire respecter l'égalité salariale. Notre modèle exclut donc cette information."
+    ],
+    [
+      "Un salarié qui dénonce une fraude viole-t-il sa clause ?",
+      "Non, s'il respecte les conditions du statut de lanceur d'alerte : signalement de bonne foi, sans contrepartie financière directe, par les canaux prévus par la loi. Une clause de confidentialité ne lui est alors pas opposable."
+    ],
+    [
+      "Peut-on licencier un salarié pour une fuite d'informations ?",
+      "Oui, la violation de la clause est une faute qui peut justifier un licenciement, voire pour faute grave selon la gravité. La procédure disciplinaire doit être respectée et la preuve de la fuite apportée par l'employeur."
+    ],
+    [
+      "La clause s'applique-t-elle pendant la période d'essai et après une rupture en cours d'essai ?",
+      "Oui, elle s'applique dès la signature. Si le contrat prend fin pendant l'essai, l'obligation se poursuit pour la durée prévue après le départ, comme pour toute autre rupture."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1121-1 (restrictions proportionnées aux libertés), L. 1222-1 (exécution de bonne foi), L. 1227-1 (secret de fabrique) et L. 1331-2 (interdiction des sanctions pécuniaires)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de commerce, articles L. 151-1 et suivants (protection du secret des affaires)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, article 1231-5 (clause pénale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "clause-confidentialite"
+  }
+}
