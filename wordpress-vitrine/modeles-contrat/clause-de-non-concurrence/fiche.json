@@ -1,0 +1,105 @@
+{
+  "slug": "clause-de-non-concurrence",
+  "nom": "Clause de non-concurrence",
+  "nom_court": "clause de non-concurrence",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle clause de non-concurrence",
+  "mots_cles_secondaires": [
+    "clause de non-concurrence contrat de travail",
+    "contrepartie financière clause de non-concurrence",
+    "renonciation clause de non-concurrence",
+    "clause de non-concurrence salarié",
+    "indemnité de non-concurrence",
+    "lettre de renonciation clause de non-concurrence"
+  ],
+  "titre_h1": "Modèle de clause de non-concurrence gratuit (Word et PDF)",
+  "titre_seo": "Clause de non-concurrence 2026 : modèle gratuit pour salarié",
+  "meta_description": "Modèle de clause de non-concurrence pour contrat de travail : activité, zone, durée, contrepartie, délais de renonciation et lettre de levée de la clause.",
+  "chapo": "La clause de non-concurrence empêche un salarié de rejoindre un concurrent après son départ, à condition de respecter des règles strictes fixées par les juges. Notre modèle gratuit, rédigé sous forme d'avenant, réunit les cinq conditions de validité et fournit la lettre de renonciation.",
+  "public": "Employeurs et salariés",
+  "gratuit": true,
+  "fichier_base": "modele-clause-de-non-concurrence-lumen-juris",
+  "date_publication": "2026-11-01",
+  "date_mise_a_jour": "2026-11-01",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Justifier l'intérêt de l'entreprise",
+      "Décrivez dans le préambule ce que le poste donne à connaître : clients, prix, procédés, et pourquoi un concurrent pourrait s'en servir."
+    ],
+    [
+      "Délimiter l'activité interdite",
+      "Nommez l'activité précise ou la liste des concurrents visés, en laissant au salarié la possibilité d'exercer son métier ailleurs."
+    ],
+    [
+      "Fixer zone et durée",
+      "Choisissez un territoire qui correspond au secteur réel du salarié et une durée proportionnée, en général de six mois à deux ans."
+    ],
+    [
+      "Chiffrer la contrepartie",
+      "Vérifiez le minimum de la convention collective, puis fixez un pourcentage du salaire moyen identique quel que soit le motif du départ."
+    ],
+    [
+      "Programmer la renonciation",
+      "Inscrivez la faculté de renonciation et ses délais, et préparez la lettre de levée dès que la rupture est envisagée."
+    ]
+  ],
+  "faq": [
+    [
+      "Une clause de non-concurrence sans contrepartie financière est-elle valable ?",
+      "Non. Depuis 2002, la Cour de cassation exige une contrepartie financière pour toute clause de non-concurrence du salarié. Sans elle, la clause est nulle et le salarié peut librement rejoindre un concurrent."
+    ],
+    [
+      "L'employeur peut-il ajouter une clause de non-concurrence en cours de contrat ?",
+      "Seulement avec l'accord écrit du salarié, car la clause modifie son contrat de travail. Le salarié peut refuser sans que ce refus constitue une faute."
+    ],
+    [
+      "Le salarié qui démissionne est-il tenu par la clause ?",
+      "Oui, la clause s'applique quel que soit le mode de rupture, sauf si elle prévoit le contraire. Le salarié démissionnaire perçoit alors la même indemnité qu'un salarié licencié."
+    ],
+    [
+      "Que risque un salarié qui ne respecte pas sa clause ?",
+      "Il perd le droit à l'indemnité pour la période qui suit la violation et peut être condamné à indemniser son ancien employeur. Le juge peut aussi lui ordonner de cesser l'activité concurrente. Le nouvel employeur qui l'embauche en connaissance de cause peut lui aussi être poursuivi."
+    ],
+    [
+      "Que faire si la clause de non-concurrence est nulle ?",
+      "Le salarié n'est pas tenu de la respecter. S'il l'a respectée, il peut demander des dommages et intérêts, en démontrant le préjudice subi, par exemple un emploi refusé chez un concurrent."
+    ],
+    [
+      "L'employeur peut-il renoncer à la clause après le départ du salarié ?",
+      "Non, sauf accord du salarié. La renonciation doit intervenir dans le délai prévu par le contrat ou la convention collective, et au plus tard au départ effectif en cas de dispense de préavis ou à la date fixée en cas de rupture conventionnelle."
+    ],
+    [
+      "Le juge peut-il réduire une clause trop large ?",
+      "Oui. Lorsque la clause empêche le salarié de travailler normalement, le juge peut en limiter la durée, la zone ou les activités visées au lieu de l'annuler entièrement."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, article L. 1121-1 (restrictions aux libertés justifiées et proportionnées) et article L. 1221-1 (contrat de travail)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, articles 1103 (force obligatoire des contrats) et 1231-5 (clause pénale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 134-14 (agent commercial) et L. 341-2 (réseaux de distribution)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "clause-non-concurrence"
+  }
+}

@@ -53,8 +53,8 @@
 [x] 2026-10-31 contrat d'extra -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-extra/
 [x] 2026-10-31 contrat de télétravail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-teletravail/
 [x] 2026-11-01 charte de télétravail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/charte-de-teletravail/
-avenant de télétravail
-clause de non-concurrence
+[x] 2026-11-01 avenant de télétravail -> écarté : même intention que contrat-de-teletravail : la page existante est déjà un modèle d'avenant de télétravail et cible « avenant de télétravail »
+[x] 2026-11-01 clause de non-concurrence -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-non-concurrence/
 clause de confidentialité
 clause de mobilité
 clause d'exclusivité

@@ -1,0 +1,157 @@
+# CLAUSE DE NON-CONCURRENCE – CONTRAT DE TRAVAIL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce document se présente sous la forme d'un avenant au contrat de travail. Pour une embauche, reprenez directement les articles 1 à 9 dans le contrat de travail. Ajouter une clause de non-concurrence en cours de contrat modifie le contrat : le salarié est libre de refuser, et son refus ne peut pas être sanctionné. Vérifiez avant toute chose la convention collective applicable : beaucoup fixent un montant minimal de contrepartie, une durée maximale ou des conditions de renonciation, qui s'imposent si elles sont plus favorables au salarié.
+
+ENTRE LES SOUSSIGNÉS :
+
+La société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction],
+
+ci-après « l'Employeur »,
+
+ET
+
+[Madame / Monsieur] [nom, prénom], demeurant [adresse], occupant le poste de [intitulé du poste], statut [cadre / non-cadre], salarié(e) de l'Employeur depuis le [date],
+
+ci-après « le Salarié »,
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Dans le cadre de ses fonctions de [intitulé du poste], le Salarié [a accès aux fichiers clients, aux conditions tarifaires et à la stratégie commerciale de l'Employeur / participe au développement de procédés techniques propres à l'Employeur / entretient une relation directe et personnelle avec la clientèle du secteur [secteur]].
+
+L'activité de l'Employeur, qui consiste en [description de l'activité], s'exerce sur un marché où [quelques entreprises concurrentes se disputent une clientèle limitée / la connaissance des clients et des prix constitue l'essentiel de la valeur].
+
+Les parties reconnaissent que la protection de ces intérêts justifie une obligation de non-concurrence après la fin du contrat de travail, dans les limites définies ci-après.
+
+Il a été convenu ce qui suit.
+
+## ARTICLE 1 – OBJET
+
+Le présent avenant a pour objet d'insérer dans le contrat de travail du Salarié conclu le [date] une clause de non-concurrence applicable après la rupture de ce contrat. Les autres clauses du contrat de travail restent inchangées.
+
+## ARTICLE 2 – ACTIVITÉS INTERDITES
+
+À compter de la fin effective de son contrat de travail, quelle qu'en soit la cause, le Salarié s'interdit :
+- d'exercer, directement ou par personne interposée, comme salarié, mandataire social, agent ou travailleur indépendant, une activité de [description précise de l'activité concurrente, par exemple : commercialisation de logiciels de gestion destinés aux cabinets comptables] ;
+- de créer ou de prendre une participation dans une entreprise exerçant cette activité, à l'exception de la détention de titres d'une société cotée à titre de simple placement.
+
+L'interdiction porte uniquement sur des fonctions comparables à celles exercées par le Salarié au cours des [vingt-quatre] derniers mois, ou qui permettraient d'utiliser les informations auxquelles il a eu accès.
+
+> Option : liste nominative. L'interdiction est limitée aux entreprises suivantes et à leurs filiales : [liste des concurrents directs]. Cette formule, plus étroite, est plus facile à défendre en justice.
+
+Le Salarié reste libre d'exercer toute autre activité correspondant à sa formation et à son expérience professionnelle, y compris dans le même secteur pour des fonctions différentes.
+
+> Note de rédaction : la clause ne doit pas empêcher le Salarié de retrouver un emploi conforme à sa formation et à son expérience. Une activité décrite de façon trop large (« toute activité dans le secteur informatique ») expose à l'annulation de la clause ou à une réduction de sa portée par le juge.
+
+## ARTICLE 3 – ZONE GÉOGRAPHIQUE
+
+L'interdiction s'applique sur le territoire suivant : [départements [numéros] / région [nom] / rayon de [nombre] kilomètres autour de l'établissement de [ville] / secteur commercial confié au Salarié au cours des [douze] derniers mois].
+
+> Note de rédaction : la zone doit correspondre au territoire où le Salarié pourrait réellement nuire à l'Employeur : son secteur, la clientèle qu'il a suivie, la zone d'activité de l'établissement. Une interdiction étendue à toute la France ou à l'Europe n'est admise que si le poste et le marché le justifient vraiment.
+
+## ARTICLE 4 – DURÉE
+
+L'interdiction s'applique pendant [douze] mois à compter de la fin effective du contrat de travail, c'est-à-dire :
+- à l'expiration du préavis, s'il est exécuté ;
+- au départ effectif du Salarié de l'entreprise, si le préavis n'est pas exécuté, en tout ou partie, ou en cas de dispense ;
+- à la date de rupture fixée par la convention, en cas de rupture conventionnelle.
+
+> Note de rédaction : la durée de un à deux ans est la plus courante. Au-delà, elle doit être justifiée par le poste et vérifiée au regard de la convention collective.
+
+## ARTICLE 5 – CONTREPARTIE FINANCIÈRE
+
+### 5.1 Montant
+
+En contrepartie de cette obligation, le Salarié perçoit, pendant toute la durée de l'interdiction, une indemnité mensuelle égale à [trente] % de sa rémunération brute mensuelle moyenne des [douze] derniers mois précédant la fin du contrat.
+
+La rémunération de référence comprend le salaire de base, les primes et la part variable perçues au cours de cette période, à l'exclusion des remboursements de frais.
+
+> Note de rédaction : le montant doit être sérieux. Une contrepartie dérisoire équivaut à une absence de contrepartie et rend la clause nulle. Vérifiez le minimum fixé par la convention collective, qui s'impose s'il est plus élevé.
+
+### 5.2 Versement
+
+L'indemnité est versée chaque mois, à la date habituelle de paie, pendant toute la durée de l'interdiction. [Option : elle est versée en une seule fois au départ effectif du Salarié.]
+
+Elle a la nature d'un salaire et est soumise aux cotisations et contributions sociales. Un bulletin de paie est remis au Salarié pour chaque versement.
+
+### 5.3 Montant identique quel que soit le motif de la rupture
+
+L'indemnité est due dans les mêmes conditions quel que soit le mode ou le motif de la rupture du contrat : démission, licenciement, y compris pour faute grave ou lourde, rupture conventionnelle, départ ou mise à la retraite, rupture pendant la période d'essai.
+
+> Note de rédaction : une clause qui réduit ou supprime la contrepartie selon le motif de la rupture (par exemple en cas de démission ou de faute grave) est illicite : la réduction est réputée non écrite et l'indemnité reste due en totalité.
+
+> Option : exclusion de la rupture pendant la période d'essai. La présente clause ne s'applique pas en cas de rupture du contrat pendant la période d'essai, l'obligation et l'indemnité prenant fin ensemble.
+
+## ARTICLE 6 – RENONCIATION PAR L'EMPLOYEUR
+
+L'Employeur peut libérer le Salarié de son obligation de non-concurrence, et se dispenser corrélativement du versement de l'indemnité, en l'informant par lettre recommandée avec avis de réception ou par lettre remise en main propre contre décharge :
+- dans un délai de [quinze] jours à compter de la notification de la rupture du contrat, lorsque le préavis est exécuté ;
+- au plus tard à la date du départ effectif du Salarié, lorsque celui-ci est dispensé de tout ou partie de son préavis ;
+- au plus tard à la date de rupture fixée par la convention, en cas de rupture conventionnelle.
+
+La renonciation doit être expresse et porter sur toute la durée et toute la zone de l'interdiction. Elle ne peut être ni partielle ni conditionnelle.
+
+Passé ces délais, l'Employeur ne peut plus renoncer à la clause sans l'accord écrit du Salarié, et l'indemnité est due pour toute la durée prévue.
+
+> Note de rédaction : si le contrat de travail et la convention collective ne prévoient aucune faculté de renonciation, l'Employeur ne peut pas renoncer seul à la clause. Conservez donc cet article.
+
+## ARTICLE 7 – INFORMATION DU NOUVEL EMPLOYEUR ET JUSTIFICATIFS
+
+Pendant la durée de l'interdiction, le Salarié informe l'Employeur, dans les [quinze] jours de leur début, de toute nouvelle activité professionnelle, en indiquant le nom de la nouvelle entreprise et la nature des fonctions exercées.
+
+L'Employeur peut demander au Salarié, au plus une fois par trimestre, une attestation sur l'honneur certifiant qu'il respecte la présente clause. L'absence de réponse ne suspend pas le versement de l'indemnité tant que la violation de la clause n'est pas établie.
+
+## ARTICLE 8 – CONSÉQUENCES DE LA VIOLATION DE LA CLAUSE
+
+En cas de violation établie de la présente clause :
+- l'Employeur cesse de verser l'indemnité à compter de la date de la violation ; les sommes versées pour la période pendant laquelle la clause a été respectée restent acquises au Salarié ;
+- le Salarié pourra être condamné à réparer le préjudice subi par l'Employeur ;
+- l'Employeur pourra demander en justice qu'il soit ordonné au Salarié de cesser l'activité concurrente.
+
+> Option : clause pénale. En cas de violation, le Salarié versera à l'Employeur une somme forfaitaire de [montant] euros [par infraction constatée / correspondant à [nombre] mois d'indemnité]. Le juge peut modérer ou augmenter cette somme si elle est manifestement excessive ou dérisoire (article 1231-5 du Code civil).
+
+> Note de rédaction : un salarié ne peut pas être sanctionné par une amende ou une sanction pécuniaire pendant l'exécution du contrat. La clause pénale ne joue qu'après la rupture, pour une violation de l'obligation de non-concurrence.
+
+## ARTICLE 9 – RAPPORT AVEC LES AUTRES OBLIGATIONS
+
+La présente clause s'ajoute à l'obligation de loyauté du Salarié pendant l'exécution du contrat et à son obligation de confidentialité, qui demeurent applicables.
+
+> Option : clause de non-sollicitation du personnel. Pendant la même durée, le Salarié s'interdit de démarcher, directement ou indirectement, les salariés de l'Employeur en vue de les faire travailler pour une entreprise concurrente.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un remis au Salarié.
+
+Pour l'Employeur,
+[nom, prénom, fonction]
+[signature]
+
+Le Salarié,
+[nom, prénom]
+[signature précédée de la mention « Lu et approuvé »]
+
+## ANNEXE – MODÈLE DE LETTRE DE RENONCIATION À LA CLAUSE DE NON-CONCURRENCE
+
+[Dénomination de l'Employeur]
+[Adresse]
+
+[Madame / Monsieur] [nom, prénom]
+[Adresse]
+
+Lettre recommandée avec avis de réception / remise en main propre contre décharge
+
+Objet : renonciation à la clause de non-concurrence
+
+[Madame / Monsieur],
+
+Votre contrat de travail prend fin le [date de fin effective]. Conformément à l'article 6 de l'avenant du [date] relatif à la clause de non-concurrence, nous vous informons que nous renonçons au bénéfice de cette clause.
+
+Vous êtes donc libre, dès votre départ effectif, d'exercer toute activité professionnelle de votre choix, sans restriction de durée ni de zone. En conséquence, l'indemnité de non-concurrence ne vous sera pas versée.
+
+Cette renonciation ne modifie pas votre obligation de confidentialité.
+
+Veuillez agréer, [Madame / Monsieur], l'expression de nos salutations distinguées.
+
+Fait à [ville], le [date].
+
+[nom, prénom, fonction]
+[signature]
