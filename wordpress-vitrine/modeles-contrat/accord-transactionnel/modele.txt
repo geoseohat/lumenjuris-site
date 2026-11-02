@@ -1,0 +1,132 @@
+# ACCORD TRANSACTIONNEL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : une transaction n'est valable que si chaque partie fait une vraie concession. Décrivez précisément le litige, les positions de chacun et ce que chacun abandonne : c'est ce que le juge vérifiera en cas de contestation. Pour un litige entre un employeur et un salarié, lisez les notes signalées « Salarié » : la transaction ne peut être signée qu'après la notification du licenciement par lettre recommandée avec accusé de réception.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Pour une société : la société [dénomination sociale], [forme juridique] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro], représentée par [nom, prénom, fonction], dûment habilité(e) à cet effet]
+
+[Pour une personne physique : [Madame / Monsieur] [nom, prénom], né(e) le [date] à [lieu], demeurant [adresse]]
+
+ci-après « la Partie A »,
+
+ET
+
+[identité complète, selon le même modèle]
+
+ci-après « la Partie B »,
+
+ci-après ensemble « les Parties ».
+
+## ARTICLE 1 – EXPOSÉ DU DIFFÉREND
+
+### 1.1 Les faits
+
+[Décrire de façon neutre et chronologique les faits à l'origine du différend : contrat conclu le [date], prestation livrée le [date], facture n° [numéro] du [date] d'un montant de [montant] euros, réclamation du [date], etc.]
+
+### 1.2 La position de la Partie A
+
+La Partie A soutient que [exposer ses prétentions], et réclame à ce titre [montant ou demande].
+
+### 1.3 La position de la Partie B
+
+La Partie B conteste [exposer sa position], et soutient que [prétentions de la Partie B].
+
+### 1.4 État de la procédure
+
+[Option A – Aucune action n'a été engagée à ce jour. Les Parties souhaitent prévenir la contestation à naître.]
+
+[Option B – La Partie [A / B] a saisi le [tribunal / conseil de prud'hommes] de [ville] par [assignation / requête] du [date], enregistrée sous le numéro [numéro de RG]. L'affaire est [en attente d'audience / fixée au [date]].]
+
+> Salarié : indiquez la date de l'entretien préalable, la date d'envoi et de réception de la lettre de licenciement, et le motif invoqué. Le salarié conteste ce motif ; l'employeur le maintient.
+
+Afin de mettre fin à ce différend, les Parties se sont rapprochées et sont convenues, après discussion et concessions réciproques, de conclure la présente transaction, régie par les articles 2044 et suivants du Code civil.
+
+## ARTICLE 2 – CONCESSIONS DE LA PARTIE A
+
+La Partie A [renonce à [une partie de sa demande / sa demande de dommages-intérêts / l'application des pénalités de retard] / accepte de [décrire la concession]].
+
+## ARTICLE 3 – CONCESSIONS DE LA PARTIE B
+
+La Partie B s'engage à verser à la Partie A, à titre d'indemnité transactionnelle, forfaitaire et définitive, la somme de [montant en chiffres] euros ([montant en lettres] euros).
+
+> Salarié : précisez que cette indemnité s'ajoute aux sommes déjà dues au titre de la rupture (indemnité légale ou conventionnelle de licenciement, préavis, congés payés, salaire), qui restent dues en tout état de cause et ne peuvent pas constituer la concession de l'employeur. Le régime social et fiscal de l'indemnité dépend de sa nature : faites-le vérifier avant de fixer le montant net.
+
+[Option : la Partie B s'engage en outre à [décrire une autre concession : reprendre le matériel, livrer, établir une attestation, retirer un avis en ligne]].
+
+## ARTICLE 4 – MODALITÉS DE PAIEMENT
+
+La somme prévue à l'article 3 est payée par virement sur le compte bancaire de la Partie A, dont les coordonnées figurent en annexe :
+
+[Option A – en une seule fois, au plus tard le [date ou : dans les [quinze] jours suivant la signature du présent accord].]
+
+[Option B – en [nombre] échéances de [montant] euros, payables le [jour] de chaque mois, la première le [date].]
+
+À défaut de paiement d'une échéance à sa date, et [quinze] jours après une mise en demeure restée sans effet, la totalité des sommes restant dues devient immédiatement exigible.
+
+## ARTICLE 5 – DÉSISTEMENT
+
+> Note de rédaction : à conserver si une procédure est en cours (option B de l'article 1.4) ; à supprimer sinon.
+
+Dans les [huit] jours suivant [la signature du présent accord / l'encaissement complet de la somme prévue à l'article 3], la Partie [A / B] se désiste de l'instance et de l'action engagées devant le [juridiction] sous le numéro [numéro de RG], et la Partie [B / A] accepte ce désistement. Chaque Partie conserve la charge de ses propres frais de procédure.
+
+## ARTICLE 6 – RENONCIATIONS ET EFFETS
+
+Sous réserve de l'exécution complète du présent accord, les Parties renoncent réciproquement à toute réclamation, instance ou action ayant pour objet le différend décrit à l'article 1, et à toute demande de dommages-intérêts ou de frais qui s'y rattache.
+
+Conformément à l'article 2052 du Code civil, la présente transaction fait obstacle à l'introduction ou à la poursuite entre les Parties d'une action en justice ayant le même objet.
+
+Ces renonciations ne s'étendent pas aux droits et actions sans lien avec ce différend, ni à l'exécution du présent accord.
+
+> Salarié : une formule de renonciation « à tout droit né ou à naître au titre du contrat de travail » est possible, mais elle doit rester cohérente avec le différend exposé. Mieux vaut énumérer les demandes visées (contestation du motif du licenciement, rappels de salaire, heures supplémentaires, etc.) que rester vague.
+
+## ARTICLE 7 – CONFIDENTIALITÉ
+
+> Option : à conserver si les Parties le souhaitent.
+
+Les Parties s'engagent à garder confidentiels l'existence et le contenu du présent accord, sauf pour l'exécuter, pour répondre à une obligation légale ou à une demande d'une administration, ou pour le communiquer à leurs conseils et experts-comptables tenus au secret.
+
+## ARTICLE 8 – NON-DÉNIGREMENT
+
+> Option : à conserver si les Parties le souhaitent.
+
+Chaque Partie s'abstient de tenir, par quelque moyen que ce soit, des propos dénigrants sur l'autre Partie au sujet du différend.
+
+## ARTICLE 9 – INEXÉCUTION
+
+Si l'une des Parties n'exécute pas ses obligations, l'autre peut, à son choix, en poursuivre l'exécution forcée ou demander la résolution du présent accord dans les conditions des articles 1217 et suivants du Code civil. En cas de résolution, chaque Partie retrouve le droit de faire valoir ses prétentions initiales, et les sommes déjà versées sont restituées ou imputées sur les sommes dues.
+
+[Option : en cas de retard de paiement, les sommes dues portent intérêt au taux légal à compter de la mise en demeure.]
+
+## ARTICLE 10 – FORCE EXÉCUTOIRE
+
+Chaque Partie peut, si elle le souhaite, demander au juge compétent d'homologuer le présent accord afin de lui donner force exécutoire. Les Parties s'engagent à ne pas s'opposer à cette demande.
+
+## ARTICLE 11 – DÉCLARATIONS DES PARTIES
+
+Chaque Partie déclare :
+
+- avoir disposé d'un délai de réflexion suffisant avant de signer, le projet lui ayant été remis le [date] ;
+- avoir eu la possibilité de se faire conseiller ;
+- signer librement, en connaissance de cause, et avoir la capacité de transiger sur les droits concernés.
+
+## ARTICLE 12 – DROIT APPLICABLE ET LITIGES
+
+Le présent accord est soumis au droit français. Toute difficulté relative à son interprétation ou à son exécution est portée devant [la juridiction compétente selon les règles de droit commun / le tribunal de commerce de [ville], si les deux Parties sont commerçantes].
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un remis à chaque Partie.
+
+Pour la Partie A
+[nom, prénom, qualité]
+Signature précédée de la mention manuscrite « Bon pour transaction, renonciation à toute instance et action relative au différend exposé »
+
+Pour la Partie B
+[nom, prénom, qualité]
+Signature précédée de la mention manuscrite « Bon pour transaction, renonciation à toute instance et action relative au différend exposé »
+
+## ANNEXE – COORDONNÉES BANCAIRES ET PIÈCES
+
+- Coordonnées bancaires (RIB) de la Partie A ;
+- [liste des pièces utiles : contrat, factures, courriers échangés, lettre de licenciement].

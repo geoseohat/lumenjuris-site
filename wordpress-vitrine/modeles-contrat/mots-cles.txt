@@ -58,7 +58,7 @@
 [x] 2026-11-01 clause de confidentialité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-confidentialite/
 [x] 2026-11-01 clause de mobilité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-de-mobilite/
 [x] 2026-11-02 clause d'exclusivité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/clause-d-exclusivite/
-accord transactionnel
+[x] 2026-11-02 accord transactionnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-transactionnel/
 protocole transactionnel
 lettre de licenciement
 lettre de démission

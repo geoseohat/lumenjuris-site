@@ -1,0 +1,102 @@
+{
+  "slug": "accord-transactionnel",
+  "nom": "Accord transactionnel",
+  "nom_court": "accord transactionnel",
+  "categorie": "Litiges et accords amiables",
+  "mot_cle": "modèle accord transactionnel",
+  "mots_cles_secondaires": [
+    "protocole transactionnel",
+    "protocole d'accord transactionnel",
+    "transaction amiable",
+    "accord amiable litige",
+    "transaction après licenciement",
+    "indemnité transactionnelle",
+    "modèle de transaction"
+  ],
+  "titre_h1": "Modèle d'accord transactionnel gratuit (Word et PDF)",
+  "titre_seo": "Accord transactionnel : modèle gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit d'accord transactionnel pour régler un litige à l'amiable : concessions, paiement, désistement, renonciations et règles après licenciement.",
+  "chapo": "L'accord transactionnel met fin à un litige, ou le prévient, grâce à des concessions réciproques, et empêche ensuite d'aller au tribunal pour la même affaire. Ce modèle couvre les litiges entre entreprises, entre particuliers ou après un licenciement, avec un paiement échelonné, un désistement et des options de confidentialité.",
+  "public": "Entreprises, particuliers, employeurs et salariés",
+  "gratuit": true,
+  "fichier_base": "modele-accord-transactionnel-lumen-juris",
+  "date_publication": "2026-11-02",
+  "date_mise_a_jour": "2026-11-02",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit du travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Décrire le différend sans parti pris",
+      "Rédigez les faits dans l'ordre chronologique, puis la demande de chaque partie, avec les montants réclamés et les pièces. Indiquez si un procès est déjà engagé et devant quelle juridiction."
+    ],
+    [
+      "Chiffrer les concessions de chacun",
+      "Notez ce que chaque partie abandonne par rapport à sa demande de départ. Vérifiez qu'aucune concession n'est dérisoire, et, après un licenciement, que l'indemnité s'ajoute aux sommes déjà dues."
+    ],
+    [
+      "Fixer le paiement et ses garanties",
+      "Choisissez un versement unique ou un échéancier, la date limite et le délai de mise en demeure avant l'exigibilité de la totalité."
+    ],
+    [
+      "Délimiter les renonciations",
+      "Énumérez les demandes auxquelles chacun renonce, en restant dans le périmètre du litige, et prévoyez le désistement si une procédure est en cours."
+    ],
+    [
+      "Laisser un délai de réflexion puis signer",
+      "Remettez le projet à l'autre partie plusieurs jours avant la signature, notez cette date à l'article 11, puis signez avec la mention manuscrite prévue."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle différence entre un accord transactionnel et un protocole transactionnel ?",
+      "Aucune sur le plan juridique : les deux expressions désignent la transaction des articles 2044 et suivants du Code civil. « Protocole » est simplement l'usage courant dans les entreprises et en droit du travail."
+    ],
+    [
+      "Peut-on contester un accord transactionnel après l'avoir signé ?",
+      "C'est difficile, car la transaction empêche toute action en justice sur le même objet. Elle peut toutefois être annulée en cas de vice du consentement (erreur, tromperie, pression), d'absence de concessions réciproques ou, après un licenciement, si elle a été signée avant la notification par lettre recommandée."
+    ],
+    [
+      "Un accord transactionnel doit-il être homologué par un juge ?",
+      "Non, il est valable dès la signature. L'homologation est seulement utile si vous voulez pouvoir le faire exécuter par un commissaire de justice sans nouveau procès, en cas de non-paiement."
+    ],
+    [
+      "Un accord transactionnel peut-il être signé avant le licenciement ?",
+      "Non. La jurisprudence exige que le licenciement ait été notifié par lettre recommandée avec accusé de réception avant la signature. Une transaction conclue avant est nulle, même si le salarié était d'accord."
+    ],
+    [
+      "La transaction met-elle fin aux poursuites pénales ?",
+      "Non. On peut transiger sur la réparation financière d'une infraction, mais le procureur reste libre de poursuivre. La transaction peut seulement régler la demande de dommages-intérêts de la victime."
+    ],
+    [
+      "Quel délai de réflexion prévoir avant de signer une transaction ?",
+      "La loi n'impose aucun délai fixe pour une transaction ordinaire. Laisser au moins quelques jours entre la remise du projet et la signature, et l'écrire dans l'accord, réduit fortement le risque d'une contestation pour consentement précipité."
+    ],
+    [
+      "Qui paie les frais de procédure quand on transige en cours de procès ?",
+      "C'est aux parties d'en décider dans l'accord. Le plus souvent, chacune garde ses propres frais, comme le prévoit le modèle, mais l'accord peut aussi mettre une partie des frais à la charge de l'une d'elles."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 2044 à 2052 (transaction), 1128 à 1144 (consentement et vices du consentement) et 1217 et suivants (inexécution)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de procédure civile, livre V (homologation des accords amiables)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "accord-transactionnel"
+  }
+}
