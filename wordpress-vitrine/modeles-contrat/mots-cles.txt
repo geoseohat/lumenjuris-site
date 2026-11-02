@@ -61,7 +61,7 @@
 [x] 2026-11-02 accord transactionnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-transactionnel/
 [x] 2026-11-02 protocole transactionnel -> écarté : même intention que accord-transactionnel : « protocole transactionnel » désigne la même transaction (art. 2044 C. civ.), déjà ciblé en mot-clé secondaire
 [x] 2026-11-02 lettre de licenciement -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-licenciement/
-lettre de démission
+[x] 2026-11-02 lettre de démission -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-demission/
 lettre de rupture de période d'essai
 convocation à entretien préalable
 contrat de cession d'actions
