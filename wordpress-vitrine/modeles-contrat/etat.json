@@ -1172,27 +1172,53 @@
     "accord-transactionnel": {
       "fichiers": {
         "docx": {
-          "id": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o1.id}}",
-          "url": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o1.source_url}}",
+          "id": 3485,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-accord-transactionnel-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "fcea547ae5b233808d6a66756c22f8ba434d9fec733a19f906f170804073d5f2"
         },
         "pdf": {
-          "id": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o2.id}}",
-          "url": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o2.source_url}}",
+          "id": 3486,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-accord-transactionnel-lumen-juris.pdf",
           "taille": "92 Ko",
           "empreinte": "fcea547ae5b233808d6a66756c22f8ba434d9fec733a19f906f170804073d5f2"
         }
       },
       "image": {
-        "id": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o3.id}}",
-        "url": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o3.source_url}}",
+        "id": 3487,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-accord-transactionnel-lumen-juris.png",
         "taille": "290 Ko",
         "empreinte": "37f29a5cc3bc38eee3e35b277eda102f926f286b22aeee93176feb34ef11d479"
       },
       "statut": "publish",
-      "id": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o7.id}}",
-      "lien": "{{20261102-092210-publier-en-ligne-accord-transactionnel.o7.link}}",
+      "id": 3488,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/accord-transactionnel/",
+      "gabarit": "2026-10-23"
+    },
+    "lettre-de-licenciement": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o1.id}}",
+          "url": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "c31c514812f64c14b93c82f6e4161dbdca369c5e3543d87736d6c73f223f9b46"
+        },
+        "pdf": {
+          "id": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o2.id}}",
+          "url": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o2.source_url}}",
+          "taille": "82 Ko",
+          "empreinte": "c31c514812f64c14b93c82f6e4161dbdca369c5e3543d87736d6c73f223f9b46"
+        }
+      },
+      "image": {
+        "id": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o3.id}}",
+        "url": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o3.source_url}}",
+        "taille": "288 Ko",
+        "empreinte": "74cb5c7a3a10fbaf940a4b8011518e819bd46488a1a6303ebd8503c5f8519d5d"
+      },
+      "statut": "publish",
+      "id": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o7.id}}",
+      "lien": "{{20261102-092447-publier-en-ligne-lettre-de-licenciement.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1201,6 +1227,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261102-092210-publier-en-ligne-accord-transactionnel"
+    "20261102-092447-publier-en-ligne-lettre-de-licenciement"
   ]
 }

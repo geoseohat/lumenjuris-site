@@ -1,0 +1,101 @@
+{
+  "slug": "lettre-de-licenciement",
+  "nom": "Lettre de licenciement",
+  "nom_court": "lettre de licenciement",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle lettre de licenciement",
+  "mots_cles_secondaires": [
+    "lettre de licenciement pour faute grave",
+    "lettre de licenciement pour faute",
+    "lettre de licenciement pour insuffisance professionnelle",
+    "notification de licenciement",
+    "lettre de licenciement motif personnel",
+    "délai envoi lettre de licenciement"
+  ],
+  "titre_h1": "Modèle de lettre de licenciement gratuit (Word et PDF)",
+  "titre_seo": "Lettre de licenciement : modèle gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de lettre de licenciement pour faute, faute grave ou insuffisance professionnelle : délais, motifs, préavis, documents de fin de contrat.",
+  "chapo": "La lettre de licenciement notifie la rupture du contrat et énonce ses motifs, qui seront les seuls examinés par le juge en cas de contestation. Ce modèle couvre le licenciement pour faute, pour faute grave et pour insuffisance professionnelle, avec le calendrier à respecter et des exemples de rédaction.",
+  "public": "Employeurs",
+  "gratuit": true,
+  "fichier_base": "modele-lettre-de-licenciement-lumen-juris",
+  "date_publication": "2026-11-02",
+  "date_mise_a_jour": "2026-11-02",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Rupture du contrat de travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier les délais de la procédure",
+      "Contrôlez la date de connaissance des faits, celle de la convocation et celle de l'entretien. Calculez la première date d'envoi possible et, pour une faute, la date limite d'un mois."
+    ],
+    [
+      "Choisir le motif et sa qualification",
+      "Retenez une seule option : faute, faute grave ou insuffisance professionnelle, selon ce que vous pouvez prouver et ce qui a été discuté pendant l'entretien."
+    ],
+    [
+      "Rédiger chaque grief avec sa date",
+      "Pour chaque fait, indiquez la date, le lieu, ce qui s'est passé et ses conséquences, en vous appuyant sur les pièces que vous pourriez produire."
+    ],
+    [
+      "Compléter préavis, sommes dues et non-concurrence",
+      "Indiquez la durée du préavis prévue par la loi ou la convention collective, s'il est effectué ou non, et votre décision sur une éventuelle clause de non-concurrence."
+    ],
+    [
+      "Signer et envoyer en recommandé",
+      "Faites signer par une personne habilitée, envoyez en recommandé avec accusé de réception et conservez la copie, la preuve de dépôt et l'avis de réception."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel délai entre l'entretien préalable et l'envoi de la lettre de licenciement ?",
+      "La lettre ne peut pas être envoyée moins de deux jours ouvrables après l'entretien. Pour un licenciement disciplinaire, elle doit en outre partir au plus tard un mois après la date de l'entretien, sinon le licenciement est injustifié."
+    ],
+    [
+      "Peut-on remettre la lettre de licenciement en main propre ?",
+      "Le Code du travail prévoit l'envoi en recommandé avec accusé de réception. Une remise en main propre contre décharge est admise par les juges comme preuve de la notification, mais le recommandé reste la voie la plus sûre, notamment si une transaction est envisagée ensuite."
+    ],
+    [
+      "L'employeur peut-il ajouter un motif après l'envoi de la lettre ?",
+      "Non. Il peut seulement préciser les motifs déjà énoncés, de lui-même ou à la demande du salarié, dans les quinze jours suivant la notification. Un grief nouveau ne pourra pas être invoqué devant le conseil de prud'hommes."
+    ],
+    [
+      "Le salarié licencié pour faute grave touche-t-il ses congés payés ?",
+      "Oui. L'indemnité compensatrice de congés payés est due quel que soit le motif du licenciement, y compris en cas de faute grave ou lourde. En revanche, la faute grave prive du préavis et de l'indemnité de licenciement."
+    ],
+    [
+      "À partir de quand court le préavis de licenciement ?",
+      "Le préavis commence à la date de première présentation de la lettre recommandée au domicile du salarié, même s'il ne la retire pas. Si l'employeur dispense le salarié de l'effectuer, il doit quand même le payer."
+    ],
+    [
+      "Combien de temps le salarié a-t-il pour contester son licenciement ?",
+      "Le salarié dispose de douze mois à compter de la notification pour saisir le conseil de prud'hommes et contester la rupture. Certaines demandes, comme celles fondées sur un harcèlement ou une discrimination, obéissent à d'autres délais."
+    ],
+    [
+      "Faut-il indiquer dans la lettre les voies de recours du salarié ?",
+      "Ce n'est pas une mention obligatoire pour un licenciement pour motif personnel. Rappeler la possibilité de demander des précisions sur les motifs est en revanche une pratique utile, que le modèle intègre."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1232-2 à L. 1232-6 (entretien préalable et lettre), L. 1332-2 et L. 1332-4 (procédure disciplinaire), L. 1234-1 à L. 1234-9 (préavis et indemnité), L. 1235-2 et R. 1232-13 (précision des motifs), L. 1471-1 (délai de contestation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 911-8 (maintien de la complémentaire santé et de la prévoyance après la rupture)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "lettre-licenciement"
+  }
+}

@@ -1,0 +1,102 @@
+# LETTRE DE LICENCIEMENT POUR MOTIF PERSONNEL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant envoi.
+
+> Note de rédaction : ce modèle concerne le licenciement pour motif personnel (faute, insuffisance professionnelle). Il ne convient pas au licenciement pour motif économique, ni au licenciement pour inaptitude, qui exigent des mentions propres. Il ne convient pas non plus à un salarié protégé (représentant du personnel, par exemple) sans autorisation préalable de l'inspection du travail. La lettre fixe les limites du litige : un motif qui n'y figure pas ne pourra pas être invoqué plus tard devant le conseil de prud'hommes.
+
+> Note de rédaction : la lettre est envoyée en recommandé avec accusé de réception, au plus tôt deux jours ouvrables après la date de l'entretien préalable. Pour un licenciement disciplinaire, elle doit aussi être envoyée au plus tard un mois après cette date. Vérifiez votre convention collective : elle peut prévoir des délais ou une procédure supplémentaires (conseil de discipline, par exemple).
+
+[Dénomination de l'Employeur]
+[Adresse du siège ou de l'établissement]
+[Numéro SIRET]
+
+[Madame / Monsieur] [nom, prénom]
+[Adresse du salarié]
+
+Lettre recommandée avec accusé de réception n° [numéro]
+
+À [ville], le [date]
+
+Objet : notification de licenciement [pour faute / pour faute grave / pour insuffisance professionnelle]
+
+[Madame / Monsieur],
+
+## ARTICLE 1 – RAPPEL DE LA PROCÉDURE
+
+Par lettre [recommandée / remise en main propre contre décharge] du [date], nous vous avons convoqué(e) à un entretien préalable à une éventuelle mesure de licenciement, qui s'est tenu le [date de l'entretien]. [Vous étiez assisté(e) de [nom, qualité]. / Vous vous êtes présenté(e) seul(e). / Vous ne vous êtes pas présenté(e) à cet entretien.]
+
+[Option – mise à pied conservatoire : cette convocation était accompagnée d'une mise à pied conservatoire notifiée le [date].]
+
+Les explications [recueillies au cours de cet entretien / que vous nous avez données] ne nous ont pas permis de modifier notre appréciation des faits. Nous vous notifions donc par la présente votre licenciement pour les motifs suivants.
+
+## ARTICLE 2 – MOTIFS DU LICENCIEMENT
+
+> Note de rédaction : choisissez une seule option. Décrivez des faits précis, datés et vérifiables : qui, quoi, quand, où, avec quelles conséquences. Évitez les formules générales (« comportement inadapté », « perte de confiance »), qui ne constituent pas un motif. Pour une faute, les faits ne doivent pas avoir été connus de l'employeur depuis plus de deux mois avant l'engagement de la procédure, sauf poursuites pénales.
+
+### Option A – Faute (cause réelle et sérieuse)
+
+Nous vous reprochons les faits suivants :
+
+- le [date], [description précise du fait, de son contexte et de ses conséquences] ;
+- le [date], [description précise] ;
+
+> Option : ajoutez « Ces faits font suite à [un avertissement / une mise à pied disciplinaire] du [date], portant sur [objet]. »
+
+Ces faits constituent un manquement à vos obligations professionnelles, en particulier [citer l'obligation : consignes de sécurité, horaires, règlement intérieur, article [n] du contrat de travail], qui rend impossible la poursuite de notre collaboration.
+
+### Option B – Faute grave
+
+Nous vous reprochons les faits suivants :
+
+- le [date], [description précise du fait, de son contexte et de ses conséquences] ;
+- [autre fait daté].
+
+Ces faits constituent une faute grave, qui rend impossible votre maintien dans l'entreprise, y compris pendant la durée du préavis.
+
+### Option C – Insuffisance professionnelle
+
+Depuis votre prise de poste de [intitulé] le [date], nous constatons que vous ne parvenez pas à exercer vos fonctions de manière satisfaisante, malgré [la formation suivie du [date] au [date] / l'accompagnement de [nom ou fonction] / les points réguliers organisés les [dates]]. En particulier :
+
+- [élément objectif : objectifs réalistes fixés le [date] et résultats constatés, erreurs répétées et datées, réclamations de clients du [date]] ;
+- [autre élément objectif].
+
+Cette insuffisance, qui n'est pas fautive, rend impossible la poursuite de votre contrat de travail.
+
+## ARTICLE 3 – PRÉAVIS ET FIN DU CONTRAT
+
+[Option A ou C – Avec préavis : votre préavis, d'une durée de [durée], débutera à la date de première présentation de cette lettre. [Vous l'effectuerez dans les conditions habituelles. / Nous vous dispensons de l'effectuer : il vous sera néanmoins payé, sous la forme d'une indemnité compensatrice, aux échéances habituelles de la paie.] Votre contrat prendra fin le [date].]
+
+[Option B – Faute grave, sans préavis : compte tenu de la gravité des faits, votre licenciement prend effet immédiatement, à la date d'envoi de la présente lettre, sans préavis ni indemnité de licenciement. [La période de mise à pied conservatoire ne vous sera pas rémunérée.]]
+
+> Note de rédaction : la durée du préavis est au minimum d'un mois entre six mois et deux ans d'ancienneté, et de deux mois au-delà, sauf dispositions plus favorables de la convention collective, du contrat ou des usages. En dessous de six mois, elle est fixée par la convention collective ou les usages.
+
+## ARTICLE 4 – SOMMES DUES
+
+[Option A ou C : vous percevrez, à la fin de votre contrat, l'indemnité [légale / conventionnelle] de licenciement si vous remplissez les conditions pour en bénéficier, ainsi que l'indemnité compensatrice de congés payés pour les congés acquis et non pris.]
+
+[Option B : vous percevrez, à la date de rupture, votre salaire jusqu'à cette date et l'indemnité compensatrice de congés payés pour les congés acquis et non pris.]
+
+> Note de rédaction : l'indemnité légale de licenciement est due à partir de huit mois d'ancienneté ininterrompue (sauf faute grave ou lourde). Elle ne peut être inférieure à un quart de mois de salaire par année d'ancienneté jusqu'à dix ans, puis un tiers de mois par année au-delà. Vérifiez si votre convention collective prévoit une indemnité plus élevée.
+
+## ARTICLE 5 – DOCUMENTS DE FIN DE CONTRAT
+
+À la fin de votre contrat, nous tiendrons à votre disposition votre certificat de travail, votre reçu pour solde de tout compte et votre attestation destinée à France Travail. [Ils vous seront adressés par courrier. / Vous pourrez les retirer au service du personnel.]
+
+Vous pouvez conserver, dans les conditions prévues par la loi et le contrat, les garanties de [complémentaire santé et de prévoyance] dont vous bénéficiez dans l'entreprise. Les détails figureront sur votre certificat de travail.
+
+## ARTICLE 6 – RESTITUTION ET CLAUSES APRÈS LE DÉPART
+
+Nous vous remercions de restituer, au plus tard à la fin de votre contrat, [le matériel, les badges, les clés, le véhicule et les documents] appartenant à l'entreprise.
+
+[Option – clause de non-concurrence : nous vous rappelons que votre contrat de travail comporte une clause de non-concurrence [que vous devrez respecter, en contrepartie de laquelle vous percevrez l'indemnité prévue / à laquelle nous renonçons, conformément aux conditions prévues par votre contrat ou la convention collective].]
+
+## ARTICLE 7 – PRÉCISION DES MOTIFS
+
+Vous pouvez, dans les quinze jours suivant la notification de cette lettre, nous demander par lettre recommandée avec accusé de réception ou remise contre récépissé de préciser les motifs de votre licenciement. Nous disposerons alors de quinze jours pour vous répondre.
+
+Veuillez agréer, [Madame / Monsieur], l'expression de nos salutations distinguées.
+
+[Nom, prénom et fonction du signataire]
+Signature
+
+> Note de rédaction : la lettre est signée par l'employeur ou par une personne de l'entreprise ayant le pouvoir de licencier (directeur des ressources humaines, directeur d'établissement). Conservez une copie de la lettre, la preuve de dépôt et l'accusé de réception.
