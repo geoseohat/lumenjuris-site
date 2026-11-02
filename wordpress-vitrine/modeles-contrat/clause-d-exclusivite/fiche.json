@@ -1,0 +1,105 @@
+{
+  "slug": "clause-d-exclusivite",
+  "nom": "Clause d'exclusivité",
+  "nom_court": "clause d'exclusivité",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle clause d'exclusivité",
+  "mots_cles_secondaires": [
+    "clause d'exclusivité contrat de travail",
+    "clause d'exclusivité salarié",
+    "clause d'exclusivité temps partiel",
+    "clause d'exclusivité création d'entreprise",
+    "cumul d'emplois clause d'exclusivité",
+    "clause d'exclusivité validité"
+  ],
+  "titre_h1": "Modèle de clause d'exclusivité gratuit (Word et PDF)",
+  "titre_seo": "Clause d'exclusivité : modèle gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de clause d'exclusivité pour contrat de travail : deux formules au choix, création d'entreprise, temps partiel, durées maximales. Word et PDF.",
+  "chapo": "La clause d'exclusivité interdit à un salarié d'exercer une autre activité professionnelle pendant son contrat, mais elle n'est valable que si elle est justifiée et limitée. Ce modèle d'avenant propose deux formules, rappelle les cas où la clause ne joue pas et inclut un formulaire de demande d'autorisation.",
+  "public": "Employeurs et salariés à temps complet",
+  "gratuit": true,
+  "fichier_base": "modele-clause-d-exclusivite-lumen-juris",
+  "date_publication": "2026-11-02",
+  "date_mise_a_jour": "2026-11-02",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Relations individuelles de travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que le poste justifie la clause",
+      "Listez ce qui, dans les fonctions du salarié, rend une autre activité gênante : accès à des informations sensibles, contact avec les clients, disponibilité. Si rien de concret n'apparaît, l'obligation de loyauté suffit."
+    ],
+    [
+      "Écarter les salariés à temps partiel",
+      "Vérifiez la durée du travail prévue au contrat. Pour un salarié à temps partiel, ou qui va le devenir, n'utilisez pas la clause."
+    ],
+    [
+      "Choisir entre exclusivité sectorielle et autorisation préalable",
+      "Retenez l'option A pour viser un secteur ou des concurrents précis, ou l'option B pour soumettre toute activité à un accord motivé, avec un délai de réponse."
+    ],
+    [
+      "Lister les activités qui restent libres",
+      "Complétez l'article 4 avec les activités propres à votre salarié (enseignement, mandat local, activité artistique) pour éviter tout litige ultérieur."
+    ],
+    [
+      "Faire signer l'avenant et remettre l'annexe",
+      "Faites signer deux exemplaires, remettez-en un au salarié avec le formulaire de demande d'autorisation, et conservez l'avenant dans son dossier."
+    ]
+  ],
+  "faq": [
+    [
+      "Un employeur peut-il interdire à son salarié d'avoir un deuxième emploi ?",
+      "Seulement avec une clause d'exclusivité valable, justifiée par la nature des fonctions et limitée à ce qui est nécessaire. Sans clause, un salarié à temps complet peut cumuler deux emplois, à condition de rester loyal envers son employeur et de respecter les durées maximales de travail."
+    ],
+    [
+      "La clause d'exclusivité est-elle valable pour un salarié à temps partiel ?",
+      "En pratique, non. Les juges estiment qu'elle l'empêcherait de compléter ses revenus et la déclarent inopposable, sauf circonstances exceptionnelles. Seule l'obligation de loyauté s'applique alors."
+    ],
+    [
+      "Peut-on créer une micro-entreprise malgré une clause d'exclusivité ?",
+      "Oui, pendant un an à compter de la création ou de la reprise : l'article L. 1222-5 du Code du travail empêche l'employeur d'opposer la clause pendant cette période. Le salarié ne doit toutefois ni concurrencer son employeur ni détourner sa clientèle."
+    ],
+    [
+      "Faut-il verser une contrepartie financière pour une clause d'exclusivité ?",
+      "Non, la loi ne l'exige pas, car la clause ne s'applique que pendant le contrat et le salarié est déjà rémunéré. C'est la différence avec la clause de non-concurrence, qui joue après le départ et doit être indemnisée. Une prime d'exclusivité reste possible."
+    ],
+    [
+      "Un salarié qui travaille ailleurs malgré la clause peut-il être licencié ?",
+      "Si la clause est valable, l'employeur peut prononcer une sanction disciplinaire proportionnée, pouvant aller jusqu'au licenciement selon la gravité. Si la clause est nulle ou inopposable, aucune sanction n'est possible sur ce fondement."
+    ],
+    [
+      "L'employeur peut-il ajouter une clause d'exclusivité en cours de contrat ?",
+      "Oui, mais uniquement par un avenant que le salarié accepte et signe. Le salarié peut refuser, et ce refus ne constitue pas une faute."
+    ],
+    [
+      "La clause d'exclusivité continue-t-elle après la démission ou le licenciement ?",
+      "Non. Elle prend fin avec le contrat de travail. Pour limiter la concurrence après le départ, il faut une clause de non-concurrence distincte, avec ses propres conditions."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1121-1 (restrictions justifiées et proportionnées), L. 1222-5 (création ou reprise d'entreprise) et L. 8261-1 (cumul d'emplois et durées maximales)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de commerce, article L. 330-1 (durée des clauses d'exclusivité entre professionnels)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, article 1103 (force obligatoire du contrat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "clause-exclusivite"
+  }
+}
