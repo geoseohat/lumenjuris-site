@@ -1,0 +1,100 @@
+{
+  "slug": "promesse-de-cession-d-actions",
+  "nom": "Promesse de cession d'actions",
+  "nom_court": "promesse de cession d'actions",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle promesse de cession d'actions",
+  "mots_cles_secondaires": [
+    "promesse unilatérale de vente d'actions",
+    "promesse d'achat d'actions",
+    "promesse de rachat d'actions entre associés",
+    "levée d'option cession d'actions",
+    "promesse de cession d'actions SAS"
+  ],
+  "titre_h1": "Modèle de promesse de cession d'actions gratuit (Word et PDF)",
+  "titre_seo": "Promesse de cession d'actions : modèle gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de promesse unilatérale de vente ou d'achat d'actions de SAS : délai d'option, prix ou formule, indemnité, conditions et réalisation.",
+  "chapo": "La promesse de cession d'actions engage dès aujourd'hui un associé à vendre ou à acheter des actions, tandis que l'autre partie garde le choix de lever l'option. Ce modèle couvre la promesse de vente et la promesse d'achat, avec le délai d'option, trois façons de fixer le prix et les conditions de réalisation.",
+  "public": "Associés, investisseurs et repreneurs de SAS",
+  "gratuit": true,
+  "fichier_base": "modele-promesse-de-cession-d-actions-lumen-juris",
+  "date_publication": "2026-11-03",
+  "date_mise_a_jour": "2026-11-03",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir le sens de la promesse",
+      "Déterminez qui s'engage : le futur vendeur (promesse de vente) ou le futur acheteur (promesse d'achat), et qui garde le choix de lever l'option."
+    ],
+    [
+      "Fixer la période d'exercice",
+      "Indiquez une date limite ou un événement déclencheur précis, comme le départ d'un dirigeant ou un changement de contrôle."
+    ],
+    [
+      "Rendre le prix calculable",
+      "Retenez un prix fixe, une formule fondée sur des comptes identifiés ou une expertise avec méthode imposée, pour éviter toute renégociation."
+    ],
+    [
+      "Prévoir agrément et préemption",
+      "Intégrez comme conditions suspensives les clauses des statuts et du pacte, avec une date limite pour chacune."
+    ],
+    [
+      "Organiser la levée et la réalisation",
+      "Précisez la forme de la levée d'option, la date qui fait foi, puis le délai pour signer l'acte de cession et l'ordre de mouvement."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle différence entre une promesse de cession et un contrat de cession d'actions ?",
+      "La promesse n'engage qu'une partie : l'autre décide plus tard si la vente aura lieu. Le contrat de cession constate une vente déjà décidée par les deux parties. Une fois l'option levée, les parties signent en général un acte de cession et l'ordre de mouvement."
+    ],
+    [
+      "Une promesse de cession d'actions doit-elle être enregistrée ?",
+      "En règle générale, non : les droits d'enregistrement sont dus lors de la cession, pas lors de la promesse. Des règles particulières existent pour certaines sociétés immobilières, pour lesquelles une promesse unilatérale non enregistrée dans les dix jours peut être nulle."
+    ],
+    [
+      "Le promettant peut-il vendre ses actions à quelqu'un d'autre pendant le délai ?",
+      "Il s'y engage en signant la promesse. S'il le fait quand même, la vente à un tiers qui connaissait la promesse est nulle. Si le tiers était de bonne foi, le bénéficiaire peut seulement obtenir des dommages et intérêts."
+    ],
+    [
+      "Une indemnité d'immobilisation est-elle obligatoire ?",
+      "Non. Elle rémunère le promettant pour avoir immobilisé ses actions pendant le délai d'option, et s'impute sur le prix si l'option est levée. Dans un pacte d'associés, la promesse a souvent d'autres contreparties et ne comporte pas d'indemnité."
+    ],
+    [
+      "Peut-on garantir un prix minimum de rachat à un associé ?",
+      "La jurisprudence admet en principe la promesse d'achat à prix plancher entre associés, notamment lorsqu'elle organise la sortie d'un investisseur. Elle peut être contestée si elle revient à exonérer totalement un associé de toute contribution aux pertes."
+    ],
+    [
+      "Que se passe-t-il si le délai d'option expire sans levée ?",
+      "La promesse devient caduque et chacun reprend sa liberté. L'indemnité d'immobilisation éventuelle reste acquise au promettant, sauf si la non-levée résulte de l'échec d'une condition suspensive prévue au contrat."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1124 (promesse unilatérale), 1589 (promesse de vente) et 1591 et 1592 (prix déterminé ou fixé par un tiers)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 227-14 et L. 227-15 (agrément et nullité des cessions dans la SAS), L. 23-10-1 et suivants (information des salariés)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code général des impôts, article 726 (droits d'enregistrement sur les cessions de droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "promesse-cession-actions"
+  }
+}

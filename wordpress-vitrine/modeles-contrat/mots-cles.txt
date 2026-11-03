@@ -65,7 +65,7 @@
 [x] 2026-11-03 lettre de rupture de période d'essai -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-rupture-de-periode-d-essai/
 [x] 2026-11-03 convocation à entretien préalable -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convocation-a-entretien-prealable/
 [x] 2026-11-03 contrat de cession d'actions -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-d-actions/
-promesse de cession d'actions
+[x] 2026-11-03 promesse de cession d'actions -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-de-cession-d-actions/
 promesse de cession de parts sociales
 pacte d'associés
 pacte d'actionnaires

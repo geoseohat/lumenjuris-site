@@ -1,0 +1,109 @@
+# PROMESSE UNILATÉRALE DE CESSION D'ACTIONS
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle permet à une partie, le Promettant, de s'engager dès aujourd'hui à vendre (option A) ou à acheter (option B) des actions d'une SAS ou d'une SA non cotée, tandis que l'autre partie, le Bénéficiaire, reste libre de lever l'option ou non pendant un délai fixé. Il ne s'agit pas d'un compromis : si les deux parties s'engagent fermement, l'accord sur les actions et le prix vaut déjà vente, et c'est un contrat de cession sous conditions qu'il faut rédiger. Vérifiez avant signature les clauses d'agrément et de préemption des statuts et du pacte d'associés. Pour une société dont l'actif est surtout immobilier, des règles particulières de forme et d'enregistrement peuvent s'appliquer : faites relire l'acte.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Prénom, nom, date et lieu de naissance, adresse] / [Dénomination, forme, capital, siège, numéro RCS, représentée par [nom et qualité]],
+
+ci-après « le Promettant »,
+
+ET
+
+[Prénom, nom, date et lieu de naissance, adresse] / [Dénomination, forme, capital, siège, numéro RCS, représentée par [nom et qualité]],
+
+ci-après « le Bénéficiaire ».
+
+Les actions concernées sont émises par [dénomination de la société], [société par actions simplifiée / société anonyme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro] (ci-après « la Société »).
+
+## ARTICLE 1 – OBJET DE LA PROMESSE
+
+[Option A – Promesse de vente : le Promettant s'engage irrévocablement à céder au Bénéficiaire, si celui-ci en fait la demande dans les conditions ci-après, [nombre] actions de la Société, d'une valeur nominale de [montant] euros, [numérotées de [n°] à [n°]], représentant [pourcentage] % du capital (ci-après « les Actions »).]
+
+[Option B – Promesse d'achat : le Promettant s'engage irrévocablement à acquérir du Bénéficiaire, si celui-ci en fait la demande dans les conditions ci-après, [nombre] actions de la Société, d'une valeur nominale de [montant] euros, [numérotées de [n°] à [n°]], représentant [pourcentage] % du capital (ci-après « les Actions »).]
+
+Le Bénéficiaire accepte la présente promesse en tant que promesse, sans prendre l'engagement de lever l'option.
+
+> Note de rédaction : la promesse d'achat est souvent consentie par un associé majoritaire à un associé minoritaire ou à un investisseur, pour lui garantir une sortie. La promesse de vente est souvent consentie par un associé partant ou par un dirigeant au profit des autres associés.
+
+## ARTICLE 2 – DÉLAI ET LEVÉE DE L'OPTION
+
+### 2.1 Période d'exercice
+
+L'option peut être levée [à tout moment jusqu'au [date] inclus / pendant la période allant du [date] au [date] inclus / dans les [nombre] jours suivant la survenance de l'un des événements suivants : [cessation des fonctions de [nom] au sein de la Société / changement de contrôle de la Société / autre événement précis]].
+
+> Note de rédaction : fixez toujours une date limite. Une promesse sans délai peut être dénoncée par le Promettant à tout moment, sous réserve de laisser au Bénéficiaire un délai raisonnable pour lever l'option, ce qui lui ôte une grande partie de son intérêt.
+
+### 2.2 Forme de la levée
+
+La levée de l'option est notifiée au Promettant par lettre recommandée avec accusé de réception ou par acte de commissaire de justice, à l'adresse indiquée en tête des présentes. Elle indique le nombre d'Actions concernées [, qui ne peut être inférieur à [nombre] / qui doit porter sur la totalité des Actions].
+
+L'option est réputée levée à la date de [première présentation de la lettre / l'envoi de la lettre / la signification]. À défaut de levée dans le délai, la promesse devient caduque de plein droit, sans formalité.
+
+## ARTICLE 3 – PRIX
+
+[Option A – Prix fixe : le prix est fixé à [montant] euros par Action, soit [montant] euros pour l'ensemble des Actions.]
+
+[Option B – Prix déterminé selon une formule : le prix par Action est égal à [formule précise, par exemple « la valeur des capitaux propres de la Société figurant dans les derniers comptes annuels approuvés avant la levée de l'option, divisée par le nombre total d'actions »]. Le calcul est établi par [l'expert-comptable de la Société / la partie la plus diligente] et communiqué à l'autre partie dans les [quinze] jours de la levée de l'option.]
+
+[Option C – Prix fixé par un tiers : à défaut d'accord entre les parties dans les [trente] jours de la levée de l'option, le prix est fixé par un expert désigné d'un commun accord ou, à défaut, par [le président du tribunal de commerce de [ville] statuant à la demande de la partie la plus diligente]. L'expert appliquera la méthode suivante : [méthode]. Ses honoraires sont partagés par moitié.]
+
+> Note de rédaction : le prix doit être déterminé ou déterminable sans nouvel accord des parties : une formule vague (« prix à convenir », « valeur de marché ») rend la promesse fragile. Dans une promesse d'achat à prix garanti entre associés, veillez à ce que la clause organise une sortie et ne revienne pas à exclure totalement un associé de toute contribution aux pertes.
+
+## ARTICLE 4 – INDEMNITÉ D'IMMOBILISATION
+
+[Option – En contrepartie de l'engagement du Promettant, le Bénéficiaire lui verse une indemnité d'immobilisation de [montant] euros, payable [ce jour / le [date]]. Si l'option est levée, cette somme s'impute sur le prix. Si elle ne l'est pas, elle reste acquise au Promettant, sauf si la non-levée résulte de la défaillance d'une condition suspensive de l'article 5.]
+
+[Option – Aucune indemnité d'immobilisation n'est stipulée, la présente promesse s'inscrivant dans [le pacte d'associés du [date] / l'opération d'ensemble suivante : [description]].]
+
+## ARTICLE 5 – CONDITIONS SUSPENSIVES
+
+La réalisation de la cession après levée de l'option est subordonnée à :
+- [l'agrément du cessionnaire selon l'article [numéro] des statuts] ;
+- [la renonciation des associés titulaires d'un droit de préemption à l'exercer] ;
+- [l'obtention par le Bénéficiaire d'un financement de [montant] euros au plus tard le [date]] ;
+- [autre condition objective].
+
+Si l'une de ces conditions n'est pas réalisée au plus tard le [date], chaque partie reprend sa liberté, sans indemnité de part et d'autre.
+
+## ARTICLE 6 – ENGAGEMENTS DU PROMETTANT PENDANT LE DÉLAI
+
+[Option A – Promesse de vente : jusqu'à l'expiration du délai d'option, le Promettant s'interdit de céder, donner, apporter ou nantir les Actions, ou de consentir sur elles un droit à un tiers. Il s'engage à exercer ses droits d'associé de manière à ne pas modifier substantiellement la consistance des Actions, sauf accord écrit du Bénéficiaire.]
+
+[Option B – Promesse d'achat : jusqu'à l'expiration du délai d'option, le Promettant s'engage à rester en mesure de payer le prix et à informer le Bénéficiaire de tout événement qui pourrait l'en empêcher.]
+
+La révocation de la promesse par le Promettant pendant le délai d'option n'empêche pas la formation de la cession si le Bénéficiaire lève l'option. Une cession conclue avec un tiers qui connaissait l'existence de la promesse est nulle.
+
+## ARTICLE 7 – RÉALISATION DE LA CESSION
+
+Dans les [quinze] jours qui suivent la levée de l'option et la réalisation des conditions de l'article 5, les parties signent un acte de cession reprenant les termes de la présente promesse, et le cédant remet à la Société un ordre de mouvement signé. Le prix est payé [comptant le jour de la signature de l'ordre de mouvement / selon les modalités suivantes : [modalités]].
+
+Le transfert de propriété des Actions résulte de leur inscription au compte du cessionnaire dans le registre des mouvements de titres de la Société.
+
+Si l'une des parties refuse de signer l'acte ou l'ordre de mouvement, l'autre partie peut en demander l'exécution forcée en justice, sans préjudice de dommages et intérêts.
+
+> Note de rédaction : à la date de la cession, vérifiez si une information préalable des salariés est requise (société de moins de 250 salariés, cession de plus de la moitié du capital) et prévoyez-la dans le calendrier. Les droits d'enregistrement sont dus sur la cession, pas sur la promesse.
+
+## ARTICLE 8 – TRANSMISSION DE LA PROMESSE
+
+[Option A – Le bénéfice de la présente promesse est personnel au Bénéficiaire et ne peut être cédé ni transmis.]
+
+[Option B – Le Bénéficiaire peut se substituer toute personne de son choix, en restant garant du paiement du prix, à condition d'en informer le Promettant par écrit au moment de la levée de l'option.]
+
+En cas de décès du Promettant, la promesse s'impose à ses héritiers. [En cas de décès du Bénéficiaire avant la levée de l'option, la promesse devient caduque / ses héritiers peuvent lever l'option dans le délai restant à courir.]
+
+## ARTICLE 9 – FRAIS
+
+Les frais et droits liés à la cession sont à la charge du [cessionnaire / cédant / partagés par moitié]. Chaque partie supporte les honoraires de ses propres conseils.
+
+## ARTICLE 10 – DROIT APPLICABLE ET LITIGES
+
+La présente promesse est soumise au droit français. Les parties s'efforceront de régler à l'amiable tout différend relatif à son interprétation ou à son exécution. À défaut d'accord dans un délai de [trente] jours, le litige sera porté devant [le tribunal compétent / le tribunal de commerce de [ville], si les deux parties sont commerçantes ou sociétés commerciales].
+
+Fait à [ville], le [date], en [deux] exemplaires originaux, dont un pour chaque partie.
+
+Le Promettant : [signature précédée de la mention « Bon pour promesse [de vente / d'achat] de [nombre] actions »]
+
+Le Bénéficiaire : [signature précédée de la mention « Bon pour acceptation de la promesse »]
