@@ -1,0 +1,105 @@
+{
+  "slug": "lettre-de-rupture-de-periode-d-essai",
+  "nom": "Lettre de rupture de période d'essai",
+  "nom_court": "lettre de rupture de période d'essai",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle lettre de rupture de période d'essai",
+  "mots_cles_secondaires": [
+    "lettre fin de période d'essai employeur",
+    "rupture période d'essai à l'initiative du salarié",
+    "délai de prévenance période d'essai",
+    "rupture période d'essai CDD",
+    "mettre fin à une période d'essai",
+    "lettre rupture période d'essai remise en main propre"
+  ],
+  "titre_h1": "Modèle de lettre de rupture de période d'essai gratuit (Word et PDF)",
+  "titre_seo": "Lettre de rupture de période d'essai : modèle 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de lettre de rupture de période d'essai, par l'employeur ou le salarié : délais de prévenance, CDI ou CDD, documents de fin de contrat.",
+  "chapo": "Cette lettre met fin au contrat de travail pendant la période d'essai et fixe le point de départ du délai de prévenance. Le modèle propose une version employeur et une version salarié, avec le calcul des délais et les pièges qui transforment la rupture en licenciement.",
+  "public": "Employeurs et salariés en période d'essai",
+  "gratuit": true,
+  "fichier_base": "modele-lettre-de-rupture-de-periode-d-essai-lumen-juris",
+  "date_publication": "2026-11-03",
+  "date_mise_a_jour": "2026-11-03",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Rupture du contrat de travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que l'essai est toujours en cours",
+      "Relisez le contrat ou la lettre d'engagement : la période d'essai doit y figurer, et sa date de fin, renouvellement compris, ne doit pas être dépassée."
+    ],
+    [
+      "Compter le temps de présence du salarié",
+      "Calculez depuis combien de jours ou de mois le salarié travaille dans l'entreprise : c'est ce qui fixe le délai de prévenance de 24 heures à un mois."
+    ],
+    [
+      "Calculer la date de fin du contrat",
+      "Ajoutez le délai de prévenance à la date de remise prévue de la lettre. Si le résultat dépasse la fin de l'essai, retenez la fin de l'essai et prévoyez l'indemnité."
+    ],
+    [
+      "Choisir la version et les options",
+      "Gardez la version employeur ou salarié, et ajoutez si besoin la dispense de travail ou la demande de départ anticipé."
+    ],
+    [
+      "Remettre la lettre contre preuve datée",
+      "Remettez-la en main propre contre décharge datée, avec l'heure si le délai est court, ou envoyez-la en recommandé suffisamment tôt avant la fin de l'essai."
+    ]
+  ],
+  "faq": [
+    [
+      "L'employeur doit-il justifier la rupture de la période d'essai ?",
+      "Non, aucun motif n'est exigé par la loi. Mais la rupture ne doit pas être fondée sur un motif étranger aux compétences professionnelles, comme la suppression du poste, l'état de santé ou une grossesse. Dans ce cas, le salarié peut la contester devant le conseil de prud'hommes."
+    ],
+    [
+      "Peut-on rompre une période d'essai par SMS ou par e-mail ?",
+      "La loi n'impose aucune forme, donc la rupture n'est pas nulle pour autant. Mais un SMS prouve mal la date et l'auteur du message. Une lettre remise contre décharge ou envoyée en recommandé reste la solution la plus sûre."
+    ],
+    [
+      "La rupture doit-elle être reçue avant la fin de la période d'essai ?",
+      "Elle doit être notifiée au plus tard le dernier jour de l'essai. Pour une lettre recommandée, retenez la date d'envoi, mais anticipez : si le salarié continue de travailler après la fin de l'essai, le contrat est devenu définitif."
+    ],
+    [
+      "Le salarié a-t-il droit au chômage après la rupture de sa période d'essai ?",
+      "Si la rupture vient de l'employeur, il s'agit d'une perte involontaire d'emploi : le salarié peut être indemnisé s'il remplit les conditions habituelles. Si c'est le salarié qui rompt, les règles de l'assurance chômage sont plus strictes : il doit se renseigner auprès de France Travail."
+    ],
+    [
+      "Peut-on rompre la période d'essai d'un salarié en arrêt maladie ?",
+      "Oui, si la rupture n'a aucun lien avec la maladie, ce que l'employeur doit pouvoir démontrer. L'arrêt prolonge la période d'essai d'autant. En cas d'accident du travail, la rupture pendant l'arrêt est beaucoup plus encadrée."
+    ],
+    [
+      "Le délai de prévenance doit-il être travaillé ?",
+      "En principe oui, et il est payé normalement. L'employeur peut dispenser le salarié de travailler, mais il doit alors lui verser son salaire jusqu'au terme du délai."
+    ],
+    [
+      "Faut-il une indemnité en cas de rupture de la période d'essai ?",
+      "Aucune indemnité de licenciement ni de fin de CDD n'est due. Le salarié perçoit son salaire jusqu'à la fin du contrat, l'indemnité de congés payés et, si le délai de prévenance n'a pas pu être respecté, une indemnité qui le compense."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1221-19 à L. 1221-26 (durée, renouvellement, stage antérieur et délais de prévenance de la période d'essai)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, article L. 1242-10 (période d'essai du contrat à durée déterminée)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1132-1 (discrimination) et L. 1225-1 (grossesse et rupture pendant la période d'essai)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "lettre-rupture-periode-essai"
+  }
+}

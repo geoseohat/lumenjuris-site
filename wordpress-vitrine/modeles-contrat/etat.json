@@ -1224,27 +1224,53 @@
     "lettre-de-demission": {
       "fichiers": {
         "docx": {
-          "id": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o1.id}}",
-          "url": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o1.source_url}}",
+          "id": 3497,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-demission-lumen-juris.docx",
           "taille": "38 Ko",
           "empreinte": "5d6aeec6739c9358cc11d00b927cd0180e19cfc675c0a4428539f7e5ec0ff9ff"
         },
         "pdf": {
-          "id": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o2.id}}",
-          "url": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o2.source_url}}",
+          "id": 3498,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-demission-lumen-juris.pdf",
           "taille": "58 Ko",
           "empreinte": "5d6aeec6739c9358cc11d00b927cd0180e19cfc675c0a4428539f7e5ec0ff9ff"
         }
       },
       "image": {
-        "id": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o3.id}}",
-        "url": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o3.source_url}}",
+        "id": 3499,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-demission-lumen-juris.png",
         "taille": "286 Ko",
         "empreinte": "2974a2f7940b18124aae351440682a393932c5301d7abdaa90da4999ffd553db"
       },
       "statut": "publish",
-      "id": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o7.id}}",
-      "lien": "{{20261102-092641-publier-en-ligne-lettre-de-demission.o7.link}}",
+      "id": 3500,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-demission/",
+      "gabarit": "2026-10-23"
+    },
+    "lettre-de-rupture-de-periode-d-essai": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o1.id}}",
+          "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o1.source_url}}",
+          "taille": "39 Ko",
+          "empreinte": "6eaea96544a95b305a0051df8b8d59518ae1b2f9c4a0a13a3088f6d11bffae35"
+        },
+        "pdf": {
+          "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o2.id}}",
+          "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o2.source_url}}",
+          "taille": "72 Ko",
+          "empreinte": "6eaea96544a95b305a0051df8b8d59518ae1b2f9c4a0a13a3088f6d11bffae35"
+        }
+      },
+      "image": {
+        "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o3.id}}",
+        "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o3.source_url}}",
+        "taille": "297 Ko",
+        "empreinte": "3e774a5482c9e2a103c3de345ba77521f551432fbeab83dc4a8ebc87501d2a18"
+      },
+      "statut": "publish",
+      "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o7.id}}",
+      "lien": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1253,6 +1279,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261102-092641-publier-en-ligne-lettre-de-demission"
+    "20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai"
   ]
 }
