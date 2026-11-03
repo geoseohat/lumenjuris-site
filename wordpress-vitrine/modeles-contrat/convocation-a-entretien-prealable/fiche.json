@@ -1,0 +1,105 @@
+{
+  "slug": "convocation-a-entretien-prealable",
+  "nom": "Convocation à entretien préalable",
+  "nom_court": "convocation à entretien préalable",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle convocation à entretien préalable",
+  "mots_cles_secondaires": [
+    "convocation entretien préalable licenciement",
+    "lettre convocation entretien préalable sanction disciplinaire",
+    "convocation entretien préalable mise à pied conservatoire",
+    "délai convocation entretien préalable",
+    "convocation entretien préalable licenciement économique",
+    "convocation entretien préalable conseiller du salarié"
+  ],
+  "titre_h1": "Modèle de convocation à entretien préalable gratuit (Word et PDF)",
+  "titre_seo": "Convocation à entretien préalable : modèle 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de convocation à entretien préalable : sanction, licenciement personnel ou économique, délai de 5 jours ouvrables, assistance, mise à pied.",
+  "chapo": "La convocation à l'entretien préalable ouvre la procédure de sanction ou de licenciement : un délai trop court ou une mention oubliée suffit à la rendre irrégulière. Ce modèle couvre la procédure disciplinaire, l'insuffisance professionnelle et le motif économique, avec l'option de mise à pied conservatoire.",
+  "public": "Employeurs et services RH",
+  "gratuit": true,
+  "fichier_base": "modele-convocation-a-entretien-prealable-lumen-juris",
+  "date_publication": "2026-11-03",
+  "date_mise_a_jour": "2026-11-03",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Procédure disciplinaire et licenciement"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Qualifier la mesure envisagée",
+      "Déterminez s'il s'agit d'une sanction disciplinaire, d'un licenciement pour un motif personnel non fautif ou d'un licenciement économique : le choix commande les délais et les mentions."
+    ],
+    [
+      "Vérifier la date de connaissance des faits",
+      "En matière disciplinaire, notez le jour où vous avez appris les faits et assurez-vous que la convocation partira avant deux mois."
+    ],
+    [
+      "Fixer la date de l'entretien",
+      "Comptez cinq jours ouvrables complets après la présentation prévue de la lettre, sans le dimanche ni les jours fériés, puis gardez une marge pour les délais postaux."
+    ],
+    [
+      "Rédiger la mention d'assistance",
+      "Indiquez si le salarié peut être assisté seulement par un membre du personnel, ou aussi par un conseiller du salarié, avec les adresses de la mairie et de l'inspection du travail."
+    ],
+    [
+      "Envoyer en recommandé ou remettre contre décharge",
+      "Choisissez l'un de ces deux modes, conservez l'avis de réception ou l'exemplaire signé et datez soigneusement la remise."
+    ]
+  ],
+  "faq": [
+    [
+      "Le salarié est-il obligé de se rendre à l'entretien préalable ?",
+      "Non. L'entretien est un droit pour le salarié, pas une obligation. S'il ne vient pas, l'employeur peut poursuivre la procédure et notifier sa décision en respectant les délais habituels."
+    ],
+    [
+      "Peut-on convoquer un salarié en arrêt maladie à un entretien préalable ?",
+      "Oui, l'arrêt de travail n'empêche pas d'engager une procédure. Le salarié peut demander un report ou envoyer ses explications par écrit. Si l'arrêt résulte d'un accident du travail ou d'une maladie professionnelle, le licenciement est en revanche fortement limité pendant la suspension du contrat."
+    ],
+    [
+      "Faut-il indiquer les motifs dans la convocation ?",
+      "Non, la loi ne l'exige pas. Les motifs sont exposés oralement au salarié pendant l'entretien, qui doit pouvoir y répondre. Ils figureront ensuite dans la lettre notifiant la décision."
+    ],
+    [
+      "La convocation peut-elle être envoyée par e-mail ?",
+      "Pour un licenciement, le Code du travail prévoit seulement la lettre recommandée et la remise en main propre contre décharge. Un courriel ne permet pas de prouver la date de présentation, qui fait courir le délai de cinq jours ouvrables."
+    ],
+    [
+      "Qui peut assister le salarié pendant l'entretien ?",
+      "Un membre du personnel de l'entreprise choisi par le salarié, élu ou non. Si l'entreprise n'a pas de représentants du personnel et qu'un licenciement est envisagé, il peut aussi choisir un conseiller du salarié inscrit sur la liste départementale."
+    ],
+    [
+      "L'employeur peut-il reporter l'entretien préalable ?",
+      "Oui, mais il doit alors envoyer une nouvelle convocation qui respecte à nouveau le délai de cinq jours ouvrables. En matière disciplinaire, le report à l'initiative de l'employeur ne repousse pas le délai d'un mois pour notifier la sanction."
+    ],
+    [
+      "Un avertissement nécessite-t-il un entretien préalable ?",
+      "Non, pour une sanction qui n'a pas d'incidence immédiate sur la présence, la fonction, la carrière ou la rémunération du salarié, comme un avertissement, l'entretien n'est pas obligatoire. Votre convention collective ou le règlement intérieur peut toutefois en prévoir un."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1232-2 à L. 1232-4 et R. 1232-1 (convocation, délai de cinq jours ouvrables, assistance du salarié)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1332-1 à L. 1332-4 (procédure disciplinaire, mise à pied conservatoire, prescription de deux mois)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1233-11 et L. 1233-15 (entretien et notification du licenciement économique individuel), L. 1235-2 (irrégularité de procédure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "convocation-entretien-prealable"
+  }
+}

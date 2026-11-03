@@ -1250,27 +1250,53 @@
     "lettre-de-rupture-de-periode-d-essai": {
       "fichiers": {
         "docx": {
-          "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o1.id}}",
-          "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o1.source_url}}",
+          "id": 3502,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-rupture-de-periode-d-essai-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "6eaea96544a95b305a0051df8b8d59518ae1b2f9c4a0a13a3088f6d11bffae35"
         },
         "pdf": {
-          "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o2.id}}",
-          "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o2.source_url}}",
+          "id": 3503,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-rupture-de-periode-d-essai-lumen-juris.pdf",
           "taille": "72 Ko",
           "empreinte": "6eaea96544a95b305a0051df8b8d59518ae1b2f9c4a0a13a3088f6d11bffae35"
         }
       },
       "image": {
-        "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o3.id}}",
-        "url": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o3.source_url}}",
+        "id": 3504,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-de-rupture-de-periode-d-essai-lumen-juris.png",
         "taille": "297 Ko",
         "empreinte": "3e774a5482c9e2a103c3de345ba77521f551432fbeab83dc4a8ebc87501d2a18"
       },
       "statut": "publish",
-      "id": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o7.id}}",
-      "lien": "{{20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai.o7.link}}",
+      "id": 3505,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-rupture-de-periode-d-essai/",
+      "gabarit": "2026-10-23"
+    },
+    "convocation-a-entretien-prealable": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o1.id}}",
+          "url": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o1.source_url}}",
+          "taille": "39 Ko",
+          "empreinte": "ae9f80b2897a5f6e1e62066a635320d3b896cb1a077541d1e71afb449945a893"
+        },
+        "pdf": {
+          "id": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o2.id}}",
+          "url": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o2.source_url}}",
+          "taille": "67 Ko",
+          "empreinte": "ae9f80b2897a5f6e1e62066a635320d3b896cb1a077541d1e71afb449945a893"
+        }
+      },
+      "image": {
+        "id": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o3.id}}",
+        "url": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o3.source_url}}",
+        "taille": "299 Ko",
+        "empreinte": "332c6645783b87ad30bb6fa3680cf2d82289ca34f310dc455ccce205f89febda"
+      },
+      "statut": "publish",
+      "id": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o7.id}}",
+      "lien": "{{20261103-091615-publier-en-ligne-convocation-a-entretien-prealable.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1279,6 +1305,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261103-091418-publier-en-ligne-lettre-de-rupture-de-periode-d-essai"
+    "20261103-091615-publier-en-ligne-convocation-a-entretien-prealable"
   ]
 }
