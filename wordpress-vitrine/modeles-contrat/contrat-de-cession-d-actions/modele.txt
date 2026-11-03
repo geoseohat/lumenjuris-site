@@ -1,0 +1,145 @@
+# CONTRAT DE CESSION D'ACTIONS
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle vise la cession d'actions d'une société par actions simplifiée (SAS ou SASU) non cotée, entre un vendeur et un acheteur. Il peut servir pour une société anonyme non cotée, en vérifiant les clauses des statuts. Avant de l'utiliser, relisez les statuts et l'éventuel pacte d'associés : clause d'agrément, droit de préemption, inaliénabilité ou sortie conjointe. Une cession faite en violation d'une clause statutaire de SAS est nulle. Pour une société à prépondérance immobilière, une cession de contrôle avec reprise de dettes importantes ou un prix calculé sur des comptes futurs, faites relire l'acte.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Prénom, nom, date et lieu de naissance, nationalité, adresse, régime matrimonial] / [Dénomination, forme, capital, siège, numéro RCS, représentée par [nom et qualité]],
+
+ci-après « le Cédant »,
+
+ET
+
+[Prénom, nom, date et lieu de naissance, nationalité, adresse] / [Dénomination, forme, capital, siège, numéro RCS, représentée par [nom et qualité]],
+
+ci-après « le Cessionnaire »,
+
+EN PRÉSENCE DE :
+
+[Dénomination de la société], société par actions simplifiée au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de président,
+
+ci-après « la Société ».
+
+## ARTICLE 1 – OBJET
+
+Le Cédant cède au Cessionnaire, qui l'accepte, [nombre] actions [ordinaires / de préférence de catégorie [X]] de la Société, d'une valeur nominale de [montant] euros chacune, [numérotées de [n°] à [n°]], entièrement libérées, représentant [pourcentage] % du capital et des droits de vote de la Société (ci-après « les Actions »).
+
+Les Actions sont cédées avec tous les droits qui y sont attachés, y compris le droit aux dividendes dont la mise en distribution sera décidée à compter de la date de transfert de propriété.
+
+## ARTICLE 2 – ORIGINE DE PROPRIÉTÉ
+
+Le Cédant est propriétaire des Actions pour les avoir [souscrites lors de la constitution de la Société le [date] / souscrites lors de l'augmentation de capital du [date] / acquises de [nom] le [date] / reçues par [donation / succession] le [date]].
+
+## ARTICLE 3 – PRIX ET PAIEMENT
+
+### 3.1 Prix
+
+Les Actions sont cédées moyennant le prix global de [montant en chiffres] euros ([montant en lettres] euros), soit [montant] euros par action.
+
+> Note de rédaction : indiquez dans une annexe la méthode de valorisation retenue (actif net, multiple de résultat, dernier tour de financement). Un prix manifestement sous-évalué expose à un redressement fiscal et, entre proches, à une requalification en donation.
+
+### 3.2 Paiement
+
+[Option A – Paiement comptant : le prix est payé ce jour par virement sur le compte du Cédant, qui en donne quittance sous réserve de son encaissement.]
+
+[Option B – Paiement échelonné : le prix est payé à hauteur de [montant] euros ce jour, et le solde de [montant] euros en [nombre] échéances de [montant] euros le [jour] de chaque [mois / trimestre], à compter du [date]. Les sommes restant dues porteront intérêt au taux de [taux] % l'an. À défaut de paiement d'une échéance quinze jours après une mise en demeure restée sans effet, la totalité du solde deviendra immédiatement exigible.]
+
+[Option C – Complément de prix : un complément de prix sera versé au Cédant si [critère objectif et vérifiable, par exemple le chiffre d'affaires de l'exercice clos le [date]] atteint [seuil]. Son montant est égal à [formule de calcul]. Il sera payé dans les [nombre] jours de l'approbation des comptes de cet exercice.]
+
+> Note de rédaction : en cas de paiement échelonné, prévoyez une garantie pour le Cédant (caution, nantissement des Actions cédées au profit du Cédant). Pour un complément de prix, définissez les règles comptables applicables et les cas de calcul anticipé (cession par le Cessionnaire, changement de méthode comptable).
+
+## ARTICLE 4 – CONDITIONS PRÉALABLES
+
+[Option – Si les statuts ou le pacte le prévoient : la présente cession est soumise à [l'agrément du Cessionnaire par [l'assemblée des associés / le président / le comité]] [et à la renonciation des associés titulaires d'un droit de préemption à l'exercer], conformément à l'article [numéro] des statuts [et à l'article [numéro] du pacte d'associés du [date]]. À défaut de réalisation de ces conditions au plus tard le [date], le présent contrat sera caduc, sans indemnité de part et d'autre.]
+
+[Option – Si aucune clause ne s'applique : le Cédant déclare que les statuts de la Société et, le cas échéant, le pacte d'associés ne soumettent la présente cession à aucun agrément, droit de préemption ou autre restriction, ou que celles-ci ont été levées, comme en justifient les pièces annexées.]
+
+## ARTICLE 5 – TRANSFERT DE PROPRIÉTÉ
+
+Le transfert de propriété des Actions résulte de leur inscription au compte du Cessionnaire dans le registre des mouvements de titres de la Société. À cette fin, le Cédant remet ce jour au président de la Société un ordre de mouvement signé, conforme à l'annexe 1, que la Société s'oblige à inscrire [le jour même / dans un délai de [nombre] jours / dès la réalisation des conditions de l'article 4].
+
+Le Cessionnaire est propriétaire des Actions et en a la jouissance à compter de cette inscription. Les risques lui sont transférés à la même date.
+
+## ARTICLE 6 – INFORMATION PRÉALABLE DES SALARIÉS
+
+[Option – Société de moins de 50 salariés, cession portant sur plus de la moitié du capital : le Cédant déclare que les salariés de la Société ont été informés le [date] de la présente cession et de la possibilité de présenter une offre, soit au moins deux mois avant la signature des présentes, conformément au Code de commerce, ou que chaque salarié a fait connaître sa décision de ne pas présenter d'offre.]
+
+[Option – Société de 50 à 249 salariés, cession portant sur plus de la moitié du capital : le Cédant déclare que les salariés de la Société ont été informés le [date] de la présente cession et de la possibilité de présenter une offre, au plus tard en même temps que l'information et la consultation du comité social et économique, conformément au Code de commerce.]
+
+> Note de rédaction : l'information peut être faite par tout moyen donnant date certaine (réunion d'information avec émargement, lettre recommandée, courrier électronique avec accusé). Son omission expose le Cédant à une amende civile. Elle ne s'applique pas notamment en cas de succession, de liquidation d'un régime matrimonial ou de cession à un conjoint, ascendant ou descendant.
+
+[Option – Hors champ de cette obligation : les parties constatent que la présente cession n'entre pas dans le champ de l'obligation d'information préalable des salariés, la Société [employant 250 salariés ou plus / la cession ne portant pas sur la majorité du capital / la cession intervenant au profit d'un conjoint, d'un ascendant ou d'un descendant].]
+
+## ARTICLE 7 – DÉCLARATIONS DU CÉDANT
+
+Le Cédant déclare et garantit au Cessionnaire que :
+- il a la pleine capacité de signer le présent contrat et n'est soumis à aucune procédure collective ou mesure de protection ;
+- il est seul propriétaire des Actions, qui sont libres de tout nantissement, saisie, droit d'un tiers ou engagement de conservation ;
+- les Actions sont entièrement libérées ;
+- la Société est régulièrement constituée, n'est pas en état de cessation des paiements et ne fait l'objet d'aucune procédure collective ;
+- les derniers comptes approuvés de la Société, annexés au présent contrat, sont réguliers et sincères ;
+- il n'a connaissance d'aucun litige, contrôle fiscal ou social en cours, ni d'aucun fait susceptible d'en provoquer un, autres que ceux listés en annexe 2.
+
+Le Cessionnaire déclare avoir reçu les statuts à jour, les comptes des [trois] derniers exercices et les documents listés en annexe 3, et avoir pu poser ses questions sur la situation de la Société.
+
+## ARTICLE 8 – GARANTIE D'ACTIF ET DE PASSIF
+
+[Option A – Garantie intégrée : le Cédant garantit le Cessionnaire contre toute augmentation du passif ou diminution de l'actif de la Société ayant une cause antérieure à la date de transfert de propriété et non révélée dans les comptes ou les annexes. La garantie est limitée à [montant] euros, ne joue que pour un préjudice supérieur à [franchise] euros, et peut être mise en œuvre jusqu'au [date, généralement à l'expiration des délais de prescription fiscale et sociale]. Le Cessionnaire informe le Cédant de toute réclamation dans les [trente] jours de sa connaissance et le laisse participer à la défense.]
+
+[Option B – Garantie séparée : une convention de garantie d'actif et de passif est signée ce jour entre les parties et forme un tout indissociable avec le présent contrat.]
+
+[Option C – Pas de garantie : le Cessionnaire, dûment informé, renonce à toute garantie d'actif et de passif, sans préjudice des garanties légales et des déclarations de l'article 7.]
+
+## ARTICLE 9 – COMPTE COURANT ET MANDAT SOCIAL
+
+[Option – Compte courant : le compte courant d'associé du Cédant, d'un montant de [montant] euros à ce jour, sera [remboursé par la Société le [date] / cédé au Cessionnaire pour sa valeur nominale, soit [montant] euros, payable [modalités]].]
+
+[Option – Mandat social : le Cédant, président de la Société, remet ce jour sa démission de ses fonctions, avec effet au [date]. Les associés sont appelés à nommer son successeur à la même date.]
+
+## ARTICLE 10 – NON-CONCURRENCE ET NON-SOLLICITATION
+
+[Option : pendant [durée, par exemple deux ans] à compter de la date de transfert de propriété, le Cédant s'interdit, sur le territoire de [zone géographique], d'exercer directement ou indirectement une activité concurrente de [description précise de l'activité de la Société], et de solliciter les salariés ou les clients de la Société pour son compte ou celui d'un tiers.]
+
+> Note de rédaction : l'engagement doit être limité dans le temps, dans l'espace et quant à l'activité visée, et proportionné à l'intérêt du Cessionnaire. S'il est aussi salarié de la Société, une clause de non-concurrence liée au contrat de travail suppose en plus une contrepartie financière.
+
+## ARTICLE 11 – FRAIS, DROITS ET FORMALITÉS
+
+Les droits d'enregistrement dus sur la présente cession sont à la charge du [Cessionnaire / Cédant / partagés par moitié]. Le présent acte sera présenté à l'enregistrement dans le mois de sa signature.
+
+Chaque partie supporte les honoraires de ses propres conseils. Le Cédant fait son affaire de la déclaration et de l'imposition de l'éventuelle plus-value de cession.
+
+Tous pouvoirs sont donnés au président de la Société pour inscrire la cession au registre des mouvements de titres et accomplir les formalités utiles, notamment la mise à jour de la déclaration des bénéficiaires effectifs si la cession modifie l'identité des personnes qui contrôlent la Société.
+
+## ARTICLE 12 – CONFIDENTIALITÉ
+
+Les parties s'engagent à garder confidentiels les termes du présent contrat, sauf obligation légale ou nécessité de faire valoir leurs droits.
+
+## ARTICLE 13 – DROIT APPLICABLE ET LITIGES
+
+Le présent contrat est soumis au droit français. Les parties s'efforceront de régler à l'amiable tout différend relatif à son exécution. À défaut d'accord dans un délai de [trente] jours, le litige sera porté devant [le tribunal compétent / le tribunal de commerce de [ville], si les deux parties sont commerçantes ou sociétés commerciales].
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un pour chaque partie, un pour la Société et un pour l'enregistrement.
+
+Le Cédant : [signature précédée de la mention « Bon pour cession de [nombre] actions »]
+
+Le Cessionnaire : [signature précédée de la mention « Bon pour acceptation de la cession de [nombre] actions »]
+
+Pour la Société : [nom et signature du président]
+
+## ANNEXE 1 – ORDRE DE MOUVEMENT DE TITRES
+
+Je soussigné(e) [nom du Cédant], titulaire de [nombre] actions de la société [dénomination], donne l'ordre au président de la Société de virer [nombre] actions [numérotées de [n°] à [n°]] de mon compte au compte de [nom du Cessionnaire].
+
+Fait à [ville], le [date].
+
+Signature du Cédant : [signature]
+
+## ANNEXE 2 – LITIGES ET CONTRÔLES DÉCLARÉS
+
+[Liste, ou mention « Néant »]
+
+## ANNEXE 3 – DOCUMENTS REMIS AU CESSIONNAIRE
+
+[Statuts à jour, comptes annuels, pacte d'associés, extrait Kbis, liste des contrats importants, méthode de valorisation, autres]

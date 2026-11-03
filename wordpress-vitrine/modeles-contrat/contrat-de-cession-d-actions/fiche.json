@@ -1,0 +1,109 @@
+{
+  "slug": "contrat-de-cession-d-actions",
+  "nom": "Contrat de cession d'actions",
+  "nom_court": "contrat de cession d'actions",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de cession d'actions",
+  "mots_cles_secondaires": [
+    "acte de cession d'actions SAS",
+    "contrat de cession d'actions SASU",
+    "ordre de mouvement de titres",
+    "cession d'actions non cotées",
+    "droits d'enregistrement cession d'actions",
+    "vente d'actions SAS"
+  ],
+  "titre_h1": "Modèle de contrat de cession d'actions gratuit (Word et PDF)",
+  "titre_seo": "Contrat de cession d'actions SAS : modèle 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de cession d'actions de SAS : prix, paiement échelonné, garantie de passif, ordre de mouvement, information des salariés.",
+  "chapo": "Le contrat de cession d'actions organise la vente de titres d'une SAS ou d'une SASU : prix, transfert de propriété, déclarations du vendeur et garantie de passif. Ce modèle inclut l'ordre de mouvement de titres et les clauses à vérifier dans les statuts avant de signer.",
+  "public": "Associés de SAS, vendeurs et acheteurs d'actions",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-cession-d-actions-lumen-juris",
+  "date_publication": "2026-11-03",
+  "date_mise_a_jour": "2026-11-03",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Cessions de titres"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Relire les statuts et le pacte",
+      "Repérez les clauses d'agrément, de préemption, d'inaliénabilité ou de sortie conjointe, et obtenez par écrit les accords ou renonciations nécessaires."
+    ],
+    [
+      "Informer les salariés si besoin",
+      "Si vous cédez plus de la moitié du capital d'une société de moins de 250 salariés, informez-les avant la signature, dans les délais prévus."
+    ],
+    [
+      "Fixer le prix et son paiement",
+      "Choisissez entre paiement comptant, échelonné avec garantie, ou complément de prix fondé sur un critère chiffré, et joignez la méthode de valorisation."
+    ],
+    [
+      "Choisir le niveau de garantie",
+      "Décidez si le vendeur garantit le passif dans le contrat, dans une convention séparée, ou si l'acheteur y renonce en connaissance de cause."
+    ],
+    [
+      "Signer l'ordre de mouvement et enregistrer",
+      "Faites inscrire la cession au registre des mouvements de titres, puis présentez l'acte à l'enregistrement dans le mois et payez les droits."
+    ]
+  ],
+  "faq": [
+    [
+      "Un acte écrit est-il obligatoire pour céder des actions de SAS ?",
+      "Non, la loi n'impose pas d'acte écrit : le transfert résulte de l'ordre de mouvement et de l'inscription au registre. Mais sans contrat, ni le prix, ni les déclarations du vendeur, ni les modalités de paiement ne sont prouvés. Les droits d'enregistrement restent dus, par une déclaration spéciale."
+    ],
+    [
+      "Quel est le montant des droits d'enregistrement sur une cession d'actions ?",
+      "Le taux est de 0,1 % du prix pour les actions d'une SAS ou d'une SA. Il passe à 5 % si la société est à prépondérance immobilière. Les droits sont en principe payés par l'acheteur, sauf clause contraire."
+    ],
+    [
+      "Qu'est-ce qu'un ordre de mouvement de titres ?",
+      "C'est le document signé par le vendeur qui demande à la société de transférer les actions de son compte vers celui de l'acheteur. Son inscription au registre des mouvements de titres rend l'acheteur propriétaire."
+    ],
+    [
+      "Mon conjoint doit-il signer la cession de mes actions ?",
+      "La loi ne l'exige pas pour des actions, contrairement aux parts sociales de SARL, car elles sont négociables. Si les actions sont des biens communs et représentent une part importante du patrimoine du couple, l'accord écrit du conjoint évite toutefois des contestations."
+    ],
+    [
+      "Peut-on vendre des actions de SAS à un tiers sans l'accord des autres associés ?",
+      "Oui, sauf si les statuts ou un pacte prévoient une clause d'agrément ou un droit de préemption. Dans une SAS, ces clauses sont fréquentes et une cession qui ne les respecte pas est nulle."
+    ],
+    [
+      "La garantie d'actif et de passif est-elle obligatoire ?",
+      "Non, elle est conventionnelle. Elle protège l'acheteur contre les dettes ou pertes dont la cause est antérieure à la cession. Sans elle, il ne peut agir que sur le terrain des garanties légales, plus difficiles à mettre en œuvre."
+    ],
+    [
+      "Comment est imposée la plus-value du vendeur ?",
+      "Pour un particulier, le gain réalisé est imposé au titre des plus-values de cession de valeurs mobilières, avec des régimes particuliers selon la situation, par exemple un départ à la retraite du dirigeant. Pour une société cédante, il est intégré à son résultat imposable. Vérifiez votre cas avant de fixer le prix."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 227-13 à L. 227-15 (inaliénabilité, agrément et nullité des cessions dans la SAS), L. 228-1 (inscription en compte des valeurs mobilières), L. 23-10-1 et suivants (information des salariés en cas de cession)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code monétaire et financier, article L. 211-17 (transfert de propriété par inscription au compte de l'acheteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ],
+    [
+      "Code général des impôts, article 726 (droits d'enregistrement sur les cessions de droits sociaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ],
+    [
+      "Code civil, articles 1582 et suivants (vente) et 1424 (actes nécessitant l'accord des deux époux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-cession-actions"
+  }
+}
