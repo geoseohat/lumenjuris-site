@@ -1,0 +1,119 @@
+# PROCÈS-VERBAL DE [L'ASSEMBLÉE GÉNÉRALE DES ASSOCIÉS / DES DÉCISIONS DE L'ASSOCIÉ UNIQUE] DU [DATE] – CHANGEMENT DE GÉRANT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle sert à remplacer le gérant d'une SARL ou d'une EURL. Le gérant de SARL est obligatoirement une personne physique. Les majorités indiquées sont celles de la loi : vérifiez si vos statuts prévoient une majorité plus forte, et appliquez-la. Si l'ancien gérant est nommé dans les statuts, la mise à jour de l'article correspondant doit être votée à la majorité requise pour modifier les statuts.
+
+[DÉNOMINATION SOCIALE]
+Société à responsabilité limitée [à associé unique] au capital de [montant] euros
+Siège social : [adresse]
+[numéro] RCS [ville]
+
+## 1 – RÉUNION ET COMPOSITION
+
+[Option A – SARL : le [date], à [heure], les associés de la société [dénomination] (ci-après « la Société ») se sont réunis en assemblée générale [ordinaire / mixte] [au siège social / à [adresse] / par visioconférence, conformément à l'article [n°] des statuts], sur convocation adressée par [le gérant / [nom], associé, en application de l'article [n°] des statuts / le mandataire désigné par ordonnance du [date]] le [date].]
+
+[Option B – EURL : [prénom, nom], associé unique de la société [dénomination] (ci-après « la Société »), a pris le [date] les décisions suivantes, consignées dans le registre des décisions.]
+
+Sont présents ou représentés :
+
+- [Nom], titulaire de [nombre] parts sociales, [présent(e) / représenté(e) par [nom], en vertu d'un pouvoir annexé] ;
+- [Nom], titulaire de [nombre] parts sociales, [présent(e) / représenté(e) par [nom]] ;
+- [Nom], titulaire de [nombre] parts sociales, [présent(e) / représenté(e) par [nom]].
+
+Les associés présents ou représentés détiennent [nombre] parts sur les [nombre] composant le capital, soit [pourcentage] %.
+
+L'assemblée est présidée par [nom], [gérant / associé présent détenant le plus grand nombre de parts / autre désignation prévue par les statuts].
+
+> Note de rédaction : dans une SARL, l'assemblée est en principe convoquée par le gérant. Si le gérant est démissionnaire, empêché ou refuse de convoquer, les associés qui détiennent une part suffisante du capital peuvent demander la réunion d'une assemblée, et tout associé peut demander en justice la désignation d'un mandataire chargé de la convoquer. Vérifiez aussi ce que prévoient vos statuts.
+
+Le président de séance rappelle l'ordre du jour :
+
+- [prise d'acte de la démission de [nom] / révocation de [nom] de ses fonctions de gérant] ;
+- nomination d'un nouveau gérant ;
+- rémunération du nouveau gérant ;
+- [modification corrélative de l'article [n°] des statuts ;]
+- pouvoirs pour les formalités.
+
+## 2 – DÉPART DU GÉRANT EN FONCTION
+
+[Option A – Démission : [nom] a informé les associés de sa démission de ses fonctions de gérant par lettre du [date], avec effet au [date]. Les associés en prennent acte. [Ils lui donnent quitus de sa gestion / Ils réservent leur décision sur le quitus jusqu'à l'approbation des comptes de l'exercice en cours.]]
+
+> Note de rédaction : la démission ne nécessite pas l'accord des associés, mais elle doit respecter le préavis éventuellement prévu par les statuts. Une démission brutale, sans motif et au plus mauvais moment pour la Société, peut engager la responsabilité du gérant démissionnaire.
+
+> Option B – Révocation : conservez les deux paragraphes suivants et supprimez l'option A.
+
+L'assemblée générale, après avoir entendu les observations de [nom], [présent(e) / régulièrement convoqué(e) et informé(e) des motifs envisagés], décide de le (la) révoquer de ses fonctions de gérant à compter de [ce jour / le [date]], pour les motifs suivants : [motifs].
+
+Cette décision est adoptée par des associés représentant [nombre] parts, soit plus de la moitié des parts sociales.
+
+Vote : pour [nombre] parts, contre [nombre] parts, abstention [nombre] parts.
+
+> Note de rédaction : la révocation du gérant de SARL est décidée par un ou plusieurs associés représentant plus de la moitié des parts sociales, sans seconde consultation possible, sauf majorité plus forte prévue par les statuts. Le gérant associé peut prendre part au vote. Si la révocation intervient sans juste motif, elle peut donner lieu à des dommages et intérêts : le gérant doit avoir été informé des motifs et mis en mesure de s'expliquer avant la décision.
+
+## 3 – NOMINATION DU NOUVEAU GÉRANT
+
+L'assemblée générale [L'associé unique] décide de nommer en qualité de gérant de la Société, à compter du [date], pour [une durée indéterminée / une durée de [nombre] ans] :
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], [associé(e) de la Société, titulaire de [nombre] parts / non associé(e)].
+
+Vote : pour [nombre] parts, contre [nombre] parts, abstention [nombre] parts. Cette décision, adoptée par des associés représentant plus de la moitié des parts sociales, est [adoptée / rejetée].
+
+> Note de rédaction : la nomination d'un gérant est décidée par un ou plusieurs associés représentant plus de la moitié des parts sociales. Si cette majorité n'est pas obtenue, et sauf clause contraire des statuts, une seconde consultation a lieu et la décision est prise à la majorité des votes émis.
+
+[Option – Co-gérance : [prénom, nom] exercera ses fonctions conjointement avec [nom], gérant(e) en fonction. Chacun des gérants dispose seul des pouvoirs de représentation de la Société.]
+
+## 4 – POUVOIRS ET LIMITATIONS INTERNES
+
+Dans les rapports avec les tiers, le gérant est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société, sous réserve des pouvoirs que la loi attribue expressément aux associés.
+
+[Option – Dans les rapports entre associés, le gérant ne pourra, sans l'accord préalable des associés statuant à la majorité de [majorité], [contracter un emprunt supérieur à [montant] euros / céder ou nantir le fonds de commerce / acquérir un bien immobilier / se porter caution au nom de la Société / autre acte].]
+
+> Note de rédaction : les limitations de pouvoirs décidées par les associés ou prévues par les statuts ne sont pas opposables aux tiers, même s'ils en ont connaissance. Leur non-respect peut toutefois justifier la révocation du gérant et engager sa responsabilité envers la Société.
+
+## 5 – RÉMUNÉRATION
+
+[Option A – Le gérant exerce ses fonctions à titre gratuit. Les frais qu'il expose dans l'intérêt de la Société lui sont remboursés sur justificatifs.]
+
+[Option B – Le gérant perçoit, en rémunération de ses fonctions, une somme [fixe] de [montant] euros [bruts] par [mois / an] [, et une part variable égale à [formule précise]]. Ses frais de déplacement et de représentation lui sont remboursés sur justificatifs.]
+
+[Option – Le gérant nommé, associé, a pris part au vote sur sa rémunération.]
+
+> Note de rédaction : le régime social du gérant dépend de sa part du capital, en comptant les parts de son conjoint, de son partenaire de PACS, de ses enfants mineurs et des autres gérants. Un gérant majoritaire relève du régime des travailleurs indépendants ; un gérant minoritaire, égalitaire ou non associé, s'il est rémunéré, est assimilé salarié. Selon la Cour de cassation, la fixation de la rémunération du gérant ne relève pas de la procédure des conventions réglementées : le gérant associé peut donc voter sur sa propre rémunération.
+
+Vote : pour [nombre] parts, contre [nombre] parts, abstention [nombre] parts. Cette décision est [adoptée / rejetée].
+
+## 6 – MODIFICATION DES STATUTS (le cas échéant)
+
+> Option : à conserver seulement si l'ancien gérant est nommé dans les statuts.
+
+L'ancien gérant étant désigné à l'article [n°] des statuts, l'assemblée générale, statuant aux conditions requises pour la modification des statuts, décide de rédiger ainsi cet article : « [Le gérant de la Société est [prénom, nom], nommé par décision des associés du [date]. / Le premier gérant de la Société a été désigné lors de sa constitution. Les gérants suivants sont nommés par décision des associés.] »
+
+Vote : pour [nombre] parts, contre [nombre] parts, abstention [nombre] parts. Cette décision est [adoptée / rejetée].
+
+> Note de rédaction : dans les SARL constituées depuis la loi du 2 août 2005, les modifications des statuts sont décidées par les associés détenant au moins les deux tiers des parts des associés présents ou représentés, sous réserve d'un quorum et d'une majorité plus forte prévus par les statuts. Pour les SARL plus anciennes, vérifiez la clause de vos statuts. Rédiger l'article sans nommer le gérant évite de modifier les statuts lors du prochain changement.
+
+## 7 – POUVOIRS POUR LES FORMALITÉS
+
+L'assemblée générale [L'associé unique] confère tous pouvoirs au nouveau gérant, ou au porteur d'une copie ou d'un extrait du présent procès-verbal, pour publier l'avis de changement de gérant dans un support d'annonces légales et déposer la demande d'inscription modificative au registre du commerce et des sociétés par le guichet unique des formalités des entreprises.
+
+Vote : pour [nombre] parts, contre [nombre] parts, abstention [nombre] parts. Cette décision est [adoptée / rejetée].
+
+## 8 – ACCEPTATION ET CLÔTURE
+
+[Madame / Monsieur] [nom], présent(e), déclare accepter les fonctions de gérant(e) qui viennent de lui être confiées et n'être sous le coup d'aucune interdiction, déchéance ou incompatibilité l'empêchant de gérer une société commerciale.
+
+[Signature du nouveau gérant, précédée de la mention « Bon pour acceptation des fonctions de gérant »]
+
+L'ordre du jour étant épuisé, la séance est levée à [heure]. Le présent procès-verbal est signé par [le gérant / le président de séance / l'associé unique] et retranscrit sur le registre des délibérations de la Société.
+
+[Noms et signatures]
+
+> Note de rédaction : la demande d'inscription modificative doit être déposée dans le mois du changement. Joignez une copie certifiée conforme du procès-verbal, la déclaration sur l'honneur de non-condamnation et de filiation du nouveau gérant, une copie de sa pièce d'identité, l'attestation de parution de l'annonce légale et, si les statuts ont été modifiés, leur version mise à jour.
+
+## ANNEXES
+
+- Annexe 1 : feuille de présence
+- Annexe 2 : pouvoirs des associés représentés
+- Annexe 3 : [le cas échéant, lettre de démission de l'ancien gérant]
+- Annexe 4 : [le cas échéant, statuts mis à jour]

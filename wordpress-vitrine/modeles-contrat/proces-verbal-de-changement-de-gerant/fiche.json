@@ -1,0 +1,101 @@
+{
+  "slug": "proces-verbal-de-changement-de-gerant",
+  "nom": "Procès-verbal de changement de gérant",
+  "nom_court": "procès-verbal de changement de gérant",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle procès-verbal de changement de gérant",
+  "mots_cles_secondaires": [
+    "PV changement de gérant SARL",
+    "procès-verbal nomination gérant SARL",
+    "PV démission gérant et nomination nouveau gérant",
+    "procès-verbal révocation gérant SARL",
+    "changement de gérant EURL",
+    "décision associé unique nomination gérant"
+  ],
+  "titre_h1": "Modèle de procès-verbal de changement de gérant gratuit (Word et PDF)",
+  "titre_seo": "PV de changement de gérant de SARL : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de procès-verbal de changement de gérant de SARL ou d'EURL : démission ou révocation, nomination, majorités, rémunération et formalités.",
+  "chapo": "Le procès-verbal de changement de gérant constate le départ de l'ancien gérant de SARL ou d'EURL et la nomination de son successeur. Ce modèle couvre la démission et la révocation, les majorités légales, la rémunération, la mise à jour éventuelle des statuts et les pièces à fournir au guichet unique.",
+  "public": "Associés et gérants de SARL et d'EURL",
+  "gratuit": true,
+  "fichier_base": "modele-proces-verbal-de-changement-de-gerant-lumen-juris",
+  "date_publication": "2026-11-07",
+  "date_mise_a_jour": "2026-11-07",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit de la sécurité sociale"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Qualifier le départ",
+      "Distinguez la démission, dont les associés prennent acte, de la révocation, qui suppose un vote et un échange préalable avec le gérant."
+    ],
+    [
+      "Convoquer les associés",
+      "Faites convoquer l'assemblée par le gérant en fonction, ou demandez la désignation d'un mandataire si personne ne peut convoquer."
+    ],
+    [
+      "Calculer les majorités",
+      "Comptez les parts de chaque associé et vérifiez si les statuts exigent plus que la moitié des parts pour nommer ou révoquer."
+    ],
+    [
+      "Mesurer le statut social du successeur",
+      "Additionnez ses parts avec celles de sa famille proche pour savoir s'il sera gérant majoritaire ou assimilé salarié."
+    ],
+    [
+      "Accomplir les formalités dans le mois",
+      "Publiez l'annonce légale, puis déposez le procès-verbal, la déclaration de non-condamnation et, si besoin, les statuts mis à jour."
+    ]
+  ],
+  "faq": [
+    [
+      "Une société peut-elle être gérante d'une SARL ?",
+      "Non. Le gérant de SARL est obligatoirement une personne physique, associée ou non. Si vous souhaitez qu'une holding dirige la société, il faut envisager une transformation en SAS."
+    ],
+    [
+      "Le gérant majoritaire peut-il être révoqué par les autres associés ?",
+      "Pas par un vote, puisqu'il peut voter sur sa propre révocation et détient plus de la moitié des parts. Les autres associés peuvent toutefois demander au tribunal de le révoquer pour une cause légitime."
+    ],
+    [
+      "Les associés doivent-ils accepter la démission du gérant ?",
+      "Non, la démission produit ses effets sans accord des associés, qui se contentent d'en prendre acte. Le gérant doit cependant respecter le préavis des statuts et ne pas partir dans des conditions qui nuisent gravement à la société."
+    ],
+    [
+      "Faut-il modifier les statuts à chaque changement de gérant ?",
+      "Uniquement si l'ancien gérant est nommé dans le texte des statuts. Dans ce cas, la modification se vote à la majorité requise pour modifier les statuts. Profitez-en pour rédiger l'article sans nom, afin d'éviter cette étape la prochaine fois."
+    ],
+    [
+      "Que risque-t-on en révoquant un gérant sans juste motif ?",
+      "La révocation reste valable, mais la société peut être condamnée à verser des dommages et intérêts au gérant. Le juste motif peut être une faute de gestion ou un désaccord grave sur la stratégie compromettant l'intérêt social."
+    ],
+    [
+      "Le nouveau gérant sera-t-il travailleur indépendant ou assimilé salarié ?",
+      "Cela dépend de la part du capital qu'il détient avec son conjoint ou partenaire de PACS, ses enfants mineurs et les autres gérants. Au-delà de la moitié des parts, il est travailleur indépendant ; sinon, et s'il est rémunéré, il est assimilé salarié."
+    ],
+    [
+      "Combien de temps a-t-on pour déclarer le nouveau gérant ?",
+      "La demande d'inscription modificative doit être déposée dans le mois du changement, par le guichet unique des formalités des entreprises, avec l'attestation de parution de l'annonce légale."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 223-18 (nomination et pouvoirs du gérant), L. 223-22 (responsabilité), L. 223-25 (révocation), L. 223-27, L. 223-29 et L. 223-30 (assemblées et majorités), R. 123-66 (délai d'inscription modificative)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 311-3 (affiliation des gérants minoritaires ou égalitaires au régime général)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "proces-verbal-changement-gerant"
+  }
+}

@@ -1406,27 +1406,53 @@
     "proces-verbal-de-nomination-du-president-sas": {
       "fichiers": {
         "docx": {
-          "id": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o1.id}}",
-          "url": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o1.source_url}}",
+          "id": 3542,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-nomination-du-president-sas-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "63dd9670dcc4e913c4627464e5fa24166c408e423fba95fb09dcbea75692fbf4"
         },
         "pdf": {
-          "id": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o2.id}}",
-          "url": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o2.source_url}}",
+          "id": 3543,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-nomination-du-president-sas-lumen-juris.pdf",
           "taille": "103 Ko",
           "empreinte": "63dd9670dcc4e913c4627464e5fa24166c408e423fba95fb09dcbea75692fbf4"
         }
       },
       "image": {
-        "id": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o3.id}}",
-        "url": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o3.source_url}}",
+        "id": 3544,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-nomination-du-president-sas-lumen-juris.png",
         "taille": "306 Ko",
         "empreinte": "d9d97435a50fc3de30619070ebd026f7fb00add38fe0220ff597b985426f1ad6"
       },
       "statut": "publish",
-      "id": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o7.id}}",
-      "lien": "{{20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas.o7.link}}",
+      "id": 3545,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-nomination-du-president-sas/",
+      "gabarit": "2026-10-23"
+    },
+    "proces-verbal-de-changement-de-gerant": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o1.id}}",
+          "url": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "cda907689b014312f39c62a342be161c0ae2ff5418d225fc8eb683a52d8a8551"
+        },
+        "pdf": {
+          "id": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o2.id}}",
+          "url": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o2.source_url}}",
+          "taille": "110 Ko",
+          "empreinte": "cda907689b014312f39c62a342be161c0ae2ff5418d225fc8eb683a52d8a8551"
+        }
+      },
+      "image": {
+        "id": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o3.id}}",
+        "url": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o3.source_url}}",
+        "taille": "301 Ko",
+        "empreinte": "4996c79705feab306621cb5c185b4134e2209c7a45556b9e956c2df1953e747d"
+      },
+      "statut": "publish",
+      "id": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o7.id}}",
+      "lien": "{{20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1435,6 +1461,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261107-091406-publier-en-ligne-proces-verbal-de-nomination-du-president-sas"
+    "20261107-091630-publier-en-ligne-proces-verbal-de-changement-de-gerant"
   ]
 }

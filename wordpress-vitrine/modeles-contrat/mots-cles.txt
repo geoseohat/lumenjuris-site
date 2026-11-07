@@ -71,7 +71,7 @@
 [x] 2026-11-07 pacte d'actionnaires -> écarté : même intention que pacte-d-associes : cette page cible déjà la recherche « pacte d'actionnaires », même document
 [x] 2026-11-07 procès-verbal d'assemblée générale -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-d-assemblee-generale/
 [x] 2026-11-07 procès-verbal de nomination du président SAS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-nomination-du-president-sas/
-procès-verbal de changement de gérant
+[x] 2026-11-07 procès-verbal de changement de gérant -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-changement-de-gerant/
 convention de compte courant d'associé
 contrat d'investissement
 contrat de prêt entre entreprises
