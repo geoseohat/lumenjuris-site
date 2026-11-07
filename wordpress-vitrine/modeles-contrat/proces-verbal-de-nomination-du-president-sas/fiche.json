@@ -1,0 +1,101 @@
+{
+  "slug": "proces-verbal-de-nomination-du-president-sas",
+  "nom": "Procès-verbal de nomination du président SAS",
+  "nom_court": "procès-verbal de nomination du président SAS",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle procès-verbal de nomination du président SAS",
+  "mots_cles_secondaires": [
+    "PV changement de président SAS",
+    "procès-verbal nomination président SASU",
+    "décision de l'associé unique nomination président",
+    "changement de dirigeant SAS",
+    "PV nomination nouveau président SAS",
+    "nomination président personne morale SAS"
+  ],
+  "titre_h1": "Modèle de procès-verbal de nomination du président SAS gratuit (Word et PDF)",
+  "titre_seo": "PV de nomination du président de SAS : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de procès-verbal de nomination du président de SAS ou SASU : décision, pouvoirs, rémunération, acceptation et formalités au guichet unique.",
+  "chapo": "Le procès-verbal de nomination du président de SAS constate la désignation d'un nouveau dirigeant après une démission, une révocation ou la fin d'un mandat. Ce modèle couvre la décision des associés ou de l'associé unique, les pouvoirs, la rémunération, l'acceptation des fonctions et les pièces à déposer.",
+  "public": "Associés et dirigeants de SAS et de SASU",
+  "gratuit": true,
+  "fichier_base": "modele-proces-verbal-de-nomination-du-president-sas-lumen-juris",
+  "date_publication": "2026-11-07",
+  "date_mise_a_jour": "2026-11-07",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit de la sécurité sociale"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Relire l'article des statuts sur le président",
+      "Repérez l'organe qui nomme, la majorité requise, la durée du mandat et la forme de décision autorisée."
+    ],
+    [
+      "Organiser le départ du président sortant",
+      "Fixez la date d'effet de sa démission ou de sa révocation, en lui laissant présenter ses observations, et alignez-la sur la nomination."
+    ],
+    [
+      "Choisir le futur président",
+      "Décidez s'il s'agit d'une personne physique ou d'une société, puis réunissez son identité complète ou son extrait Kbis."
+    ],
+    [
+      "Fixer les pouvoirs et la rémunération",
+      "Indiquez les actes soumis à autorisation interne et le montant éventuel de la rémunération, en mesurant ses effets sociaux."
+    ],
+    [
+      "Faire accepter et déclarer le changement",
+      "Faites signer l'acceptation des fonctions, publiez l'avis légal et déposez le dossier au guichet unique dans le mois."
+    ]
+  ],
+  "faq": [
+    [
+      "Faut-il modifier les statuts quand on change de président de SAS ?",
+      "Seulement si le nom du président figure dans le texte des statuts. Beaucoup de statuts désignent le premier président dans un article à part, ou dans un acte séparé, pour éviter cette modification à chaque changement."
+    ],
+    [
+      "Une société peut-elle être présidente d'une SAS ?",
+      "Oui, la loi le permet expressément. Ses propres dirigeants sont alors soumis aux mêmes obligations et responsabilités civile et pénale que s'ils étaient eux-mêmes présidents."
+    ],
+    [
+      "Le président d'une SAS cotise-t-il à l'assurance chômage ?",
+      "Non au titre de son mandat. S'il est rémunéré, il relève du régime général comme assimilé salarié, avec la même protection sociale qu'un salarié, à l'exception du chômage."
+    ],
+    [
+      "Dans quel délai déclarer un changement de président ?",
+      "La modification doit être déclarée au registre du commerce et des sociétés dans le mois qui suit la décision, par le guichet unique des formalités des entreprises."
+    ],
+    [
+      "Une annonce légale est-elle obligatoire pour un changement de président ?",
+      "Oui. L'avis est publié dans un support d'annonces légales du département du siège social, et l'attestation de parution est jointe au dossier de modification."
+    ],
+    [
+      "Les associés peuvent-ils limiter les pouvoirs du nouveau président ?",
+      "Oui, par les statuts ou par une décision collective, en soumettant certains actes à leur accord préalable. Ces limites engagent le président envers la société, mais un tiers qui traite avec lui n'est pas concerné par elles."
+    ],
+    [
+      "Qui signe le procès-verbal de nomination ?",
+      "Ceux que les statuts désignent, en général le président de séance, ou tous les associés en cas d'acte unanime, ou l'associé unique. Le nouveau président signe en plus la mention d'acceptation de ses fonctions."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 227-1, L. 227-5 à L. 227-10 (organisation, président, décisions collectives et conventions de la SAS), R. 123-66 (délai de déclaration des modifications)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 311-3 (affiliation des présidents de SAS au régime général)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "proces-verbal-nomination-president-sas"
+  }
+}

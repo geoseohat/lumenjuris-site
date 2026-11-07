@@ -70,7 +70,7 @@
 [x] 2026-11-07 pacte d'associés -> doublon : le modèle existe déjà (https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/pacte-d-associes/)
 [x] 2026-11-07 pacte d'actionnaires -> écarté : même intention que pacte-d-associes : cette page cible déjà la recherche « pacte d'actionnaires », même document
 [x] 2026-11-07 procès-verbal d'assemblée générale -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-d-assemblee-generale/
-procès-verbal de nomination du président SAS
+[x] 2026-11-07 procès-verbal de nomination du président SAS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-nomination-du-president-sas/
 procès-verbal de changement de gérant
 convention de compte courant d'associé
 contrat d'investissement

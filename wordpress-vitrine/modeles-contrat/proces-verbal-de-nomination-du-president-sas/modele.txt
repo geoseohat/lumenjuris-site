@@ -1,0 +1,106 @@
+# PROCÈS-VERBAL DES DÉCISIONS [COLLECTIVES DES ASSOCIÉS / DE L'ASSOCIÉ UNIQUE] DU [DATE] – NOMINATION D'UN NOUVEAU PRÉSIDENT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : dans une SAS, ce sont les statuts qui désignent l'organe compétent pour nommer le président (associés, associé unique, comité) et la majorité requise. Relisez l'article des statuts consacré au président avant de remplir ce modèle, et reprenez exactement la procédure qu'il prévoit. Si le nom du président figure dans le corps des statuts, ceux-ci doivent aussi être modifiés, en principe par une décision prise aux conditions prévues pour la modification des statuts.
+
+[DÉNOMINATION SOCIALE]
+Société par actions simplifiée [à associé unique] au capital de [montant] euros
+Siège social : [adresse]
+[numéro] RCS [ville]
+
+## 1 – MODALITÉS DE LA DÉCISION
+
+[Option A – Assemblée : le [date], à [heure], les associés de la société [dénomination] (ci-après « la Société ») se sont réunis [au siège social / à [adresse] / par visioconférence], sur convocation de [nom et qualité] adressée le [date] conformément à l'article [n°] des statuts.]
+
+[Option B – Acte signé par tous les associés : les associés de la Société, agissant à l'unanimité et conformément à l'article [n°] des statuts, ont pris par acte sous signature privée les décisions suivantes.]
+
+[Option C – Associé unique : [nom ou dénomination], associé unique de la Société, a pris le [date] les décisions suivantes, conformément à l'article [n°] des statuts.]
+
+[Option D – Consultation écrite : par lettre du [date], [nom et qualité] a consulté les associés par écrit, conformément à l'article [n°] des statuts. Le présent procès-verbal constate leurs réponses, reçues dans le délai fixé.]
+
+Les associés [présents, représentés ou ayant répondu] détiennent [nombre] actions sur les [nombre] composant le capital social, soit [pourcentage] %. Les conditions de quorum et de majorité prévues par l'article [n°] des statuts sont réunies.
+
+[Option – La séance est présidée par [nom], en sa qualité de [président sortant / associé désigné par l'assemblée].]
+
+## 2 – EXPOSÉ PRÉALABLE
+
+[Option A – Démission : [nom], président de la Société, a fait part de sa démission par lettre du [date], avec effet au [date].]
+
+[Option B – Révocation : par décision [de ce jour / du [date]], les associés ont mis fin au mandat de président de [nom], dans les conditions prévues par l'article [n°] des statuts.]
+
+[Option C – Expiration du mandat : le mandat de président de [nom] arrive à son terme le [date].]
+
+[Option D – Décès : [nom], président de la Société, est décédé le [date].]
+
+Il convient en conséquence de désigner un nouveau président.
+
+> Note de rédaction : la révocation du président obéit aux règles des statuts (révocation libre ou pour juste motif, préavis, indemnité). Le président concerné doit pouvoir présenter ses observations avant la décision : une révocation brutale ou vexatoire peut donner lieu à des dommages et intérêts, même si elle est régulière sur le fond.
+
+## 3 – DÉCISIONS
+
+### Première décision – Nomination du président
+
+[Les associés décident / L'associé unique décide] de nommer en qualité de président de la Société, à compter du [date] :
+
+[Option A – Personne physique : [Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse].]
+
+[Option B – Personne morale : la société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité].]
+
+Le président est nommé pour [une durée indéterminée / une durée de [nombre] ans, expirant à l'issue de la décision des associés statuant sur les comptes de l'exercice clos le [date]].
+
+> Note de rédaction : lorsqu'une personne morale est nommée président, ses propres dirigeants sont soumis aux mêmes conditions et obligations et encourent les mêmes responsabilités civile et pénale que s'ils étaient président en leur nom propre.
+
+Résultat du vote : [nombre] voix pour, [nombre] voix contre, [nombre] abstentions. Cette décision est [adoptée / rejetée].
+
+### Deuxième décision – Pouvoirs du président
+
+Le président représente la Société à l'égard des tiers. Il est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société, dans la limite de l'objet social.
+
+[Option – À titre de règle interne, le président doit obtenir l'autorisation préalable [des associés / du comité [nom]] pour les actes suivants : [acquisition ou cession d'un fonds de commerce ou d'une participation / emprunt supérieur à [montant] euros / embauche d'un salarié dont la rémunération annuelle dépasse [montant] euros / constitution de sûretés / autre acte].]
+
+> Note de rédaction : les limitations prévues par les statuts ou par une décision des associés ne sont pas opposables aux tiers. Si le président les dépasse, la Société reste engagée envers le cocontractant ; le président engage seulement sa responsabilité à l'égard de la Société.
+
+Résultat du vote : [nombre] voix pour, [nombre] voix contre, [nombre] abstentions. Cette décision est [adoptée / rejetée].
+
+### Troisième décision – Rémunération
+
+[Option A – Le président exerce son mandat à titre gratuit. Il est remboursé, sur justificatifs, des frais exposés dans l'intérêt de la Société.]
+
+[Option B – En rémunération de son mandat, le président perçoit une somme [fixe] de [montant] euros [bruts] par [mois / an] [, à laquelle s'ajoute une part variable égale à [formule précise]]. Il est remboursé, sur justificatifs, des frais exposés dans l'intérêt de la Société. Cette rémunération pourra être révisée par décision [des associés / du comité [nom]].]
+
+> Note de rédaction : un président personne physique rémunéré pour son mandat relève du régime général de la sécurité sociale en qualité d'assimilé salarié, sans droit à l'assurance chômage au titre du mandat. Un éventuel contrat de travail distinct suppose des fonctions techniques séparées, un lien de subordination effectif et une rémunération distincte : faites relire ce montage.
+
+Résultat du vote : [nombre] voix pour, [nombre] voix contre, [nombre] abstentions. Cette décision est [adoptée / rejetée].
+
+### [Option – Quatrième décision – Modification des statuts]
+
+[Les associés décident / L'associé unique décide], en conséquence de la décision qui précède, de modifier l'article [n°] des statuts, dont la rédaction devient : « [nouvelle rédaction] ». Cette décision est prise aux conditions de majorité prévues par l'article [n°] des statuts pour les décisions modifiant les statuts.
+
+Résultat du vote : [nombre] voix pour, [nombre] voix contre, [nombre] abstentions. Cette décision est [adoptée / rejetée].
+
+### Cinquième décision – Pouvoirs pour les formalités
+
+[Les associés donnent / L'associé unique donne] tous pouvoirs au président nouvellement nommé, ou au porteur d'une copie ou d'un extrait du présent procès-verbal, pour accomplir les formalités de publicité, de dépôt et d'inscription modificative au registre du commerce et des sociétés par l'intermédiaire du guichet unique.
+
+Résultat du vote : [nombre] voix pour, [nombre] voix contre, [nombre] abstentions. Cette décision est [adoptée / rejetée].
+
+## 4 – ACCEPTATION DES FONCTIONS
+
+[Madame / Monsieur] [nom] / La société [dénomination], représentée par [nom], déclare accepter les fonctions de président de la Société. [Il / Elle] déclare n'être frappé(e) d'aucune incapacité, interdiction ou incompatibilité susceptible de l'empêcher d'exercer ces fonctions.
+
+[Signature du président nommé, précédée de la mention « Bon pour acceptation des fonctions de président »]
+
+## 5 – CLÔTURE ET SIGNATURES
+
+De tout ce qui précède, il a été dressé le présent procès-verbal, signé par [le président de séance et [nom] / l'ensemble des associés / l'associé unique], et retranscrit dans le registre des décisions de la Société.
+
+[Nom et signature de chaque signataire]
+
+> Note de rédaction : dans le mois qui suit la nomination, déposez la demande de modification sur le guichet unique des formalités des entreprises, avec une copie certifiée conforme du procès-verbal, la déclaration sur l'honneur de non-condamnation et la filiation du nouveau président personne physique, la copie de sa pièce d'identité, l'attestation de parution de l'avis dans un support d'annonces légales et, le cas échéant, les statuts mis à jour.
+
+## ANNEXES
+
+- Annexe 1 : [le cas échéant, lettre de démission du précédent président]
+- Annexe 2 : [le cas échéant, extrait Kbis de moins de trois mois de la personne morale nommée]
+- Annexe 3 : [le cas échéant, statuts mis à jour]
