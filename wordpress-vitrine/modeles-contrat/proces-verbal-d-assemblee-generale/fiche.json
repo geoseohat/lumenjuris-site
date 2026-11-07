@@ -1,0 +1,101 @@
+{
+  "slug": "proces-verbal-d-assemblee-generale",
+  "nom": "Procès-verbal d'assemblée générale",
+  "nom_court": "procès-verbal d'assemblée générale",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle procès-verbal d'assemblée générale",
+  "mots_cles_secondaires": [
+    "procès-verbal d'approbation des comptes",
+    "PV d'assemblée générale ordinaire SARL",
+    "PV AGO approbation des comptes SAS",
+    "procès-verbal affectation du résultat",
+    "PV d'assemblée générale annuelle",
+    "décision de l'associé unique approbation des comptes"
+  ],
+  "titre_h1": "Modèle de procès-verbal d'assemblée générale gratuit (Word et PDF)",
+  "titre_seo": "PV d'assemblée générale (approbation des comptes) : modèle 2026",
+  "meta_description": "Modèle gratuit de procès-verbal d'assemblée générale ordinaire annuelle de SARL ou SAS : approbation des comptes, affectation du résultat et conventions.",
+  "chapo": "Le procès-verbal d'assemblée générale ordinaire constate l'approbation annuelle des comptes et l'affectation du résultat d'une SARL ou d'une SAS. Ce modèle reprend les mentions exigées pour la SARL, les cinq résolutions courantes et les règles de majorité, de réserve légale et de dépôt au greffe.",
+  "public": "Gérants de SARL, présidents de SAS et leurs associés",
+  "gratuit": true,
+  "fichier_base": "modele-proces-verbal-d-assemblee-generale-lumen-juris",
+  "date_publication": "2026-11-07",
+  "date_mise_a_jour": "2026-11-07",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit comptable"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier le calendrier",
+      "Comptez six mois après la clôture de l'exercice et, pour une SARL, prévoyez l'envoi des convocations et des comptes au moins quinze jours avant la réunion."
+    ],
+    [
+      "Établir la feuille de présence",
+      "Listez chaque associé, le nombre de parts ou d'actions détenues et, pour les absents, le pouvoir donné à un mandataire."
+    ],
+    [
+      "Rédiger les résolutions",
+      "Reportez le résultat exact des comptes, calculez la dotation à la réserve légale et rappelez les dividendes des trois exercices précédents."
+    ],
+    [
+      "Résumer fidèlement la séance",
+      "Notez les questions posées, les réponses du dirigeant et le décompte des voix pour, contre et abstention de chaque résolution."
+    ],
+    [
+      "Signer, transcrire et déposer",
+      "Faites signer le procès-verbal, recopiez-le sur le registre des assemblées et déposez les comptes au greffe dans le mois, ou deux mois en ligne."
+    ]
+  ],
+  "faq": [
+    [
+      "Dans quel délai faut-il approuver les comptes d'une SARL ?",
+      "Dans les six mois qui suivent la clôture de l'exercice. Si ce n'est pas possible, le gérant peut demander une prolongation au président du tribunal de commerce par requête, à présenter avant la fin du délai."
+    ],
+    [
+      "Qui signe le procès-verbal d'assemblée générale d'une SARL ?",
+      "Le gérant signe le procès-verbal, ainsi que le président de séance s'il s'agit d'une autre personne. Le document est ensuite retranscrit sur le registre des procès-verbaux de la société."
+    ],
+    [
+      "Peut-on approuver les comptes sans réunir les associés ?",
+      "Dans une SARL, la consultation écrite est possible si les statuts la prévoient, mais pas pour l'approbation annuelle des comptes, qui exige une assemblée. Dans une SAS, les statuts fixent librement la forme des décisions. Dans une EURL ou une SASU, l'associé unique décide seul."
+    ],
+    [
+      "Que se passe-t-il si la majorité n'est pas atteinte en SARL ?",
+      "Sauf clause contraire des statuts, les associés sont consultés une seconde fois. La décision est alors adoptée à la majorité des votes émis, quel que soit le nombre de votants."
+    ],
+    [
+      "Faut-il déposer le procès-verbal au greffe ?",
+      "Ce sont les comptes annuels qui sont déposés, avec la proposition d'affectation du résultat et la résolution votée. Le dépôt a lieu dans le mois de l'approbation, ou dans les deux mois s'il est fait par voie électronique."
+    ],
+    [
+      "Le quitus donné au gérant le protège-t-il ?",
+      "Non. La loi prévoit qu'aucune décision de l'assemblée ne peut éteindre une action en responsabilité contre le gérant pour une faute commise dans sa gestion. Le quitus a surtout une valeur symbolique."
+    ],
+    [
+      "Une société en perte doit-elle quand même tenir son assemblée annuelle ?",
+      "Oui, l'obligation existe quel que soit le résultat. L'assemblée affecte alors la perte, généralement au report à nouveau, et doit être vigilante si les capitaux propres deviennent inférieurs à la moitié du capital."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 223-26 à L. 223-31 (assemblées et décisions dans la SARL), L. 223-19 (conventions réglementées), L. 227-9 et L. 227-10 (décisions collectives et conventions dans la SAS), L. 232-10 à L. 232-13 (réserve légale et dividendes), L. 232-22 et L. 232-23 (dépôt des comptes), R. 223-18 à R. 223-24 (convocation et procès-verbaux de SARL)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code général des impôts, article 243 bis (rappel des dividendes des trois exercices précédents)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "proces-verbal-assemblee-generale"
+  }
+}

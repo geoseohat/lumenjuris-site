@@ -1,0 +1,146 @@
+# PROCÈS-VERBAL DE L'ASSEMBLÉE GÉNÉRALE ORDINAIRE ANNUELLE DU [DATE]
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle constate l'assemblée annuelle qui approuve les comptes d'une SARL ou d'une SAS comptant plusieurs associés. Dans une SAS, la forme de la consultation, le quorum et la majorité sont fixés par les statuts : remplacez les règles indiquées ici par celles de vos statuts. Pour une EURL ou une SASU, la décision est prise par l'associé unique et consignée dans le registre des décisions : adaptez l'intitulé en « Décisions de l'associé unique ». Ce modèle ne convient pas à une association ni à une copropriété.
+
+[DÉNOMINATION SOCIALE]
+[Société à responsabilité limitée / Société par actions simplifiée] au capital de [montant] euros
+Siège social : [adresse]
+[numéro] RCS [ville]
+
+## 1 – OUVERTURE DE LA SÉANCE
+
+Le [date], à [heure], les associés de la société [dénomination] (ci-après « la Société ») se sont réunis en assemblée générale ordinaire annuelle [au siège social / à l'adresse suivante : [adresse] / par visioconférence, conformément à l'article [n°] des statuts], sur convocation du [gérant / président] adressée à chacun d'eux par [lettre recommandée / courrier électronique / autre mode prévu par les statuts] le [date].
+
+> Note de rédaction : dans une SARL, les associés sont convoqués au moins quinze jours avant la réunion, par lettre recommandée, ou par voie électronique si les statuts le permettent. Les comptes annuels, le rapport de gestion et le texte des résolutions leur sont adressés au moins quinze jours avant. Dans une SAS, suivez les délais des statuts.
+
+La séance est présidée par [nom], [gérant / président de la Société / associé désigné par l'assemblée].
+
+[Option – [Nom] est désigné(e) en qualité de secrétaire de séance.]
+
+## 2 – PRÉSENCES ET QUORUM
+
+Sont présents ou représentés :
+
+- [Nom], titulaire de [nombre] [parts / actions], présent(e) ;
+- [Nom], titulaire de [nombre] [parts / actions], représenté(e) par [nom], en vertu d'un pouvoir annexé au présent procès-verbal ;
+- [Nom], titulaire de [nombre] [parts / actions], [présent(e) / représenté(e)].
+
+Est absent et non représenté : [nom], titulaire de [nombre] [parts / actions].
+
+Les associés présents ou représentés détiennent ensemble [nombre] [parts / actions] sur les [nombre] composant le capital, soit [pourcentage] %.
+
+[Option – Assiste également à la réunion [nom], commissaire aux comptes, régulièrement convoqué(e) / Le commissaire aux comptes, régulièrement convoqué, est absent et excusé.]
+
+[Option – Assiste également à la réunion [nom], expert-comptable de la Société, sans voix délibérative.]
+
+> Note de rédaction : dans une SARL, les décisions ordinaires sont adoptées par un ou plusieurs associés représentant plus de la moitié des parts sociales. Si cette majorité n'est pas atteinte, et sauf clause contraire des statuts, les associés sont consultés une seconde fois et la décision est prise à la majorité des votes émis.
+
+Le président de séance constate que l'assemblée peut valablement délibérer.
+
+## 3 – DOCUMENTS MIS À LA DISPOSITION DES ASSOCIÉS
+
+Le président de séance dépose sur le bureau et met à la disposition de l'assemblée :
+
+- la copie des convocations adressées aux associés [et au commissaire aux comptes] ;
+- les pouvoirs des associés représentés ;
+- les comptes annuels de l'exercice clos le [date] (bilan, compte de résultat [et annexe]) ;
+- le rapport de gestion du [gérant / président] ;
+- [le rapport du commissaire aux comptes sur les comptes annuels ;]
+- [le rapport sur les conventions conclues entre la Société et l'un de ses dirigeants ou associés ;]
+- l'inventaire ;
+- le texte des projets de résolutions.
+
+Il déclare que ces documents ont été adressés ou tenus à la disposition des associés dans les délais légaux et statutaires. L'assemblée lui en donne acte.
+
+## 4 – ORDRE DU JOUR
+
+Le président rappelle que l'assemblée est appelée à statuer sur l'ordre du jour suivant :
+
+- lecture du rapport de gestion [et du rapport du commissaire aux comptes] ;
+- approbation des comptes de l'exercice clos le [date] ;
+- affectation du résultat ;
+- approbation des conventions visées par le rapport spécial ;
+- [rémunération du gérant pour l'exercice en cours ;]
+- [renouvellement du mandat de [fonction] ;]
+- pouvoirs pour les formalités.
+
+## 5 – DÉBATS
+
+Après lecture des rapports, le président ouvre la discussion. [Résumé des débats : questions posées par les associés et réponses apportées, par exemple sur l'évolution du chiffre d'affaires, la trésorerie ou les perspectives de l'exercice.]
+
+Personne ne demandant plus la parole, le président met successivement aux voix les résolutions suivantes.
+
+> Note de rédaction : dans une SARL, le procès-verbal doit comporter un résumé des débats. Évitez la formule « aucune question n'a été posée » si ce n'est pas exact : le procès-verbal fait preuve de ce qui s'est passé.
+
+## 6 – RÉSOLUTIONS
+
+### Première résolution – Approbation des comptes
+
+L'assemblée générale, après avoir pris connaissance du rapport de gestion [et du rapport du commissaire aux comptes], approuve les comptes annuels de l'exercice clos le [date], tels qu'ils lui ont été présentés, faisant apparaître [un bénéfice / une perte] de [montant] euros.
+
+[Option – Elle approuve également les dépenses et charges non déductibles fiscalement visées à l'article 39-4 du Code général des impôts, d'un montant de [montant] euros.]
+
+Vote : pour [nombre] [parts / actions], contre [nombre], abstention [nombre]. Cette résolution est [adoptée / rejetée].
+
+### Deuxième résolution – Affectation du résultat
+
+> Option A – Bénéfice : conservez le paragraphe suivant et supprimez l'option B.
+
+L'assemblée générale décide d'affecter le bénéfice de l'exercice, soit [montant] euros, de la manière suivante :
+- à la réserve légale : [montant] euros ;
+- [au report à nouveau : [montant] euros ;]
+- [aux autres réserves : [montant] euros ;]
+- [aux associés, à titre de dividendes : [montant] euros, soit [montant] euros par [part / action], mis en paiement le [date].]
+
+> Option B – Perte : conservez le paragraphe suivant et supprimez l'option A.
+
+L'assemblée générale décide d'affecter la perte de l'exercice, soit [montant] euros, au compte « report à nouveau », qui est ainsi porté à [montant] euros.
+
+> Note de rédaction : tant que la réserve légale n'atteint pas le dixième du capital, au moins 5 % du bénéfice, diminué des pertes antérieures, doit y être affecté. Les dividendes ne peuvent être prélevés que sur le bénéfice distribuable et doivent être mis en paiement au plus tard neuf mois après la clôture, sauf prolongation par le juge.
+
+Conformément à l'article 243 bis du Code général des impôts, l'assemblée rappelle que les dividendes distribués au titre des trois exercices précédents ont été les suivants : [exercice [année] : [montant] euros / néant].
+
+Vote : pour [nombre], contre [nombre], abstention [nombre]. Cette résolution est [adoptée / rejetée].
+
+### Troisième résolution – Conventions réglementées
+
+L'assemblée générale, après avoir entendu la lecture du rapport sur les conventions intervenues directement ou par personne interposée entre la Société et l'un de ses [gérants ou associés / dirigeants ou associés disposant de plus de 10 % des droits de vote], [approuve les conventions qui y sont mentionnées / prend acte qu'aucune convention de ce type n'a été conclue au cours de l'exercice].
+
+[Option SARL – [Nom], associé(e) intéressé(e), n'a pas pris part au vote et ses parts n'ont pas été prises en compte pour le calcul de la majorité.]
+
+> Note de rédaction : dans une SARL, l'associé intéressé ne vote pas sur la convention qui le concerne. Dans une SAS, les associés statuent sur le rapport dans les conditions des statuts : vérifiez si ceux-ci excluent l'intéressé du vote.
+
+Vote : pour [nombre], contre [nombre], abstention [nombre]. Cette résolution est [adoptée / rejetée].
+
+### Quatrième résolution – [Option – Rémunération du gérant]
+
+[L'assemblée générale fixe la rémunération de [nom], gérant(e), pour l'exercice en cours à [montant] euros [bruts mensuels / annuels], à laquelle s'ajoute [le remboursement des frais engagés sur justificatifs / autre élément].]
+
+Vote : pour [nombre], contre [nombre], abstention [nombre]. Cette résolution est [adoptée / rejetée].
+
+### Cinquième résolution – Pouvoirs pour les formalités
+
+L'assemblée générale donne tous pouvoirs [au gérant / au président / au porteur d'une copie ou d'un extrait du présent procès-verbal] pour accomplir les formalités de dépôt et de publicité prévues par la loi, et notamment le dépôt des comptes annuels au greffe du tribunal de commerce.
+
+Vote : pour [nombre], contre [nombre], abstention [nombre]. Cette résolution est [adoptée / rejetée].
+
+## 7 – CLÔTURE
+
+L'ordre du jour étant épuisé, la séance est levée à [heure].
+
+De tout ce qui précède, il a été dressé le présent procès-verbal, qui a été signé par [le gérant / le président de séance / le président et le secrétaire de séance] et sera reporté sur le registre des procès-verbaux des assemblées de la Société.
+
+Le [gérant / président de séance] : [nom et signature]
+
+[Le secrétaire de séance : [nom et signature]]
+
+> Note de rédaction : dans une SARL, le procès-verbal est signé par le gérant et, le cas échéant, par le président de séance. Il est retranscrit sur un registre spécial coté et paraphé, ou tenu sous forme électronique dans les conditions réglementaires. Le dépôt des comptes au greffe doit avoir lieu dans le mois de l'approbation, ou dans les deux mois en cas de dépôt par voie électronique, avec la résolution d'affectation du résultat.
+
+## ANNEXES
+
+- Annexe 1 : feuille de présence signée par les associés présents
+- Annexe 2 : pouvoirs des associés représentés
+- Annexe 3 : comptes annuels approuvés
+- Annexe 4 : [le cas échéant, rapport du commissaire aux comptes]
