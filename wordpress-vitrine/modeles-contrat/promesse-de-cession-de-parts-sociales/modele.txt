@@ -1,0 +1,166 @@
+# PROMESSE UNILATÉRALE DE CESSION DE PARTS SOCIALES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne les parts sociales d'une SARL ou d'une EURL. Une seule partie, le Promettant, s'oblige dès la signature : soit à vendre ses parts (option A), soit à racheter celles du Bénéficiaire (option B). Le Bénéficiaire décide plus tard s'il lève l'option. Les parts de SCI, de SNC ou de société civile professionnelle obéissent à d'autres règles d'agrément : n'utilisez pas ce modèle tel quel pour ces sociétés. Si la société possède surtout des immeubles, faites relire l'acte : certaines promesses portant sur des parts de sociétés immobilières doivent être enregistrées dans les dix jours, à peine de nullité.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse], [marié(e) sous le régime de [régime] / lié(e) par un pacte civil de solidarité / célibataire],
+
+ou
+
+La société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité], dûment habilité(e),
+
+ci-après « le Promettant »,
+
+ET
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse] / La société [dénomination], [forme], siège [adresse], RCS [ville] [numéro], représentée par [nom et qualité],
+
+ci-après « le Bénéficiaire ».
+
+EN PRÉSENCE DE :
+
+[Madame / Monsieur] [prénom, nom], conjoint(e) commun(e) en biens de [nom de la partie qui cède les parts], demeurant [adresse], qui intervient à l'acte pour donner son consentement à la cession éventuelle des parts dépendant de la communauté.
+
+> Note de rédaction : les parts sociales sont des droits sociaux non négociables. Lorsqu'elles dépendent de la communauté, l'un des époux ne peut pas les céder sans l'accord de l'autre. Supprimez ce paragraphe si le cédant est célibataire, pacsé, marié sous un régime séparatiste, ou si les parts lui sont propres (reçues par donation ou succession, ou acquises avant le mariage).
+
+## PRÉAMBULE
+
+La société [dénomination], société à responsabilité limitée [à associé unique] au capital de [montant] euros, divisé en [nombre] parts sociales de [montant] euros chacune, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro] (ci-après « la Société »), a pour gérant [nom].
+
+[Le Promettant / Le Bénéficiaire] est titulaire de [nombre] parts sociales de la Société, numérotées de [n°] à [n°] (ci-après « les Parts »), représentant [pourcentage] % du capital.
+
+Les parties souhaitent [permettre au Bénéficiaire d'acquérir les Parts s'il le décide / garantir au Bénéficiaire la possibilité de céder ses Parts au Promettant] dans le contexte suivant : [départ d'un associé / entrée d'un repreneur / sortie d'un investisseur / autre contexte].
+
+## ARTICLE 1 – OBJET
+
+[Option A – Promesse de vente : le Promettant s'engage, de manière ferme et irrévocable, à céder les Parts au Bénéficiaire, si celui-ci lève l'option dans les conditions prévues à l'article 2.]
+
+[Option B – Promesse d'achat : le Promettant s'engage, de manière ferme et irrévocable, à acquérir les Parts du Bénéficiaire, si celui-ci lève l'option dans les conditions prévues à l'article 2.]
+
+Le Bénéficiaire prend acte de cet engagement et l'accepte en tant que promesse. Il reste libre de lever ou non l'option.
+
+## ARTICLE 2 – DURÉE DE LA PROMESSE ET LEVÉE DE L'OPTION
+
+### 2.1 Délai d'option
+
+L'option peut être levée [jusqu'au [date] à minuit / entre le [date] et le [date] / dans les [soixante] jours qui suivent [la cessation des fonctions de gérant de [nom] / la réception des comptes de l'exercice clos le [date] / autre événement précis]].
+
+### 2.2 Modalités de la levée
+
+Le Bénéficiaire lève l'option par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice, adressé au Promettant à son adresse indiquée ci-dessus. La levée porte sur la totalité des Parts.
+
+La date retenue est celle de [l'envoi de la lettre, le cachet de la poste faisant foi / la première présentation de la lettre]. Faute de levée dans le délai, la promesse prend fin automatiquement, sans indemnité ni formalité, sous réserve de l'article 4.
+
+## ARTICLE 3 – PRIX DES PARTS
+
+[Option A – Prix ferme : le prix est fixé à [montant] euros par Part, soit [montant] euros pour la totalité des Parts.]
+
+[Option B – Prix calculé : le prix par Part est égal à [la valeur des capitaux propres de la Société figurant au bilan du dernier exercice clos avant la levée de l'option, divisée par le nombre de parts composant le capital / autre formule précise]. L'expert-comptable de la Société établit le calcul et l'adresse aux deux parties dans les [vingt] jours de la levée de l'option.]
+
+[Option C – Prix fixé par un expert : si les parties ne s'accordent pas sur le prix dans les [trente] jours de la levée de l'option, celui-ci est fixé par un expert choisi d'un commun accord ou, faute d'accord, désigné par [le président du tribunal de commerce de [ville]]. L'expert retient la méthode suivante : [méthode]. Ses honoraires sont supportés [par moitié / par le cessionnaire].]
+
+> Note de rédaction : le prix doit pouvoir être déterminé sans nouvelle négociation. Une formule floue (« prix de marché », « prix à convenir ») prive la promesse d'une grande partie de sa force.
+
+Le prix est payé [comptant, le jour de la signature de l'acte de cession / pour [montant] euros le jour de la signature de l'acte de cession et le solde en [nombre] échéances de [montant] euros, le [jour] de chaque mois].
+
+## ARTICLE 4 – INDEMNITÉ D'IMMOBILISATION
+
+[Option A – Le Bénéficiaire verse au Promettant, [ce jour / au plus tard le [date]], une indemnité d'immobilisation de [montant] euros. Elle vient en déduction du prix si l'option est levée. Dans le cas contraire, elle reste acquise au Promettant, sauf si l'option n'a pas pu être levée ou la cession réalisée en raison du refus d'agrément ou de la défaillance d'une autre condition prévue à l'article 5.]
+
+[Option B – Aucune indemnité d'immobilisation n'est due, la présente promesse étant consentie en contrepartie de [l'engagement d'investissement du Bénéficiaire / la convention conclue entre les parties le [date] / autre contrepartie].]
+
+## ARTICLE 5 – AGRÉMENT ET AUTRES CONDITIONS SUSPENSIVES
+
+### 5.1 Situation au regard de l'agrément
+
+[Option A – Le cessionnaire est déjà associé de la Société [ou conjoint, ascendant ou descendant du cédant] et les statuts ne soumettent pas cette cession à agrément : aucune autorisation n'est requise.]
+
+[Option B – Le cessionnaire n'est pas associé de la Société [ou les statuts imposent l'agrément de toute cession] : la réalisation de la cession est soumise à l'agrément des associés dans les conditions prévues par la loi et par l'article [n°] des statuts.]
+
+[Option C – La Société est une EURL dont le Promettant est l'associé unique : aucune procédure d'agrément n'est requise.]
+
+### 5.2 Procédure
+
+Dans le cas de l'option B, le cédant notifie le projet de cession à la Société et à chacun des associés, par acte de commissaire de justice ou par lettre recommandée avec demande d'avis de réception, au plus tard [huit] jours après [la signature des présentes / la levée de l'option]. Cette notification indique l'identité du cessionnaire, le nombre de Parts et le prix.
+
+Si la Société n'a pas fait connaître sa décision dans le délai de trois mois à compter de la dernière des notifications, l'agrément est réputé acquis.
+
+En cas de refus d'agrément, la loi organise le rachat ou la réduction de capital dans les conditions de l'article L. 223-14 du Code de commerce. Les parties conviennent alors que [la promesse devient caduque et l'indemnité d'immobilisation est restituée au Bénéficiaire / le Bénéficiaire peut, dans les [quinze] jours du refus, renoncer à la cession sans indemnité].
+
+> Note de rédaction : vérifiez la majorité exigée par les statuts, qui peut être plus forte que la majorité légale. Le cédant qui détient ses parts depuis moins de deux ans ne peut pas, sauf exceptions légales (succession, liquidation de communauté, donation à un proche), imposer leur rachat aux autres associés en cas de refus : relisez ce point si la société est récente.
+
+### 5.3 Autres conditions
+
+La cession est également subordonnée à : [l'obtention par le Bénéficiaire d'un prêt de [montant] euros au plus tard le [date] / la renonciation des titulaires d'un droit de préemption prévu par [les statuts / le pacte d'associés] / autre condition]. Chaque condition doit être réalisée au plus tard le [date] ; à défaut, la promesse est caduque, sauf renonciation écrite de la partie dans l'intérêt de laquelle la condition est stipulée.
+
+## ARTICLE 6 – OBLIGATIONS PENDANT LE DÉLAI D'OPTION
+
+Jusqu'à l'expiration du délai d'option, le titulaire des Parts s'interdit de les céder, de les apporter, de les donner ou de les nantir, ou de consentir sur elles un quelconque droit au profit d'un tiers.
+
+[Option A – Promesse de vente : le Promettant s'engage à ne pas voter de décision modifiant substantiellement la valeur des Parts, notamment une distribution exceptionnelle de réserves, une réduction de capital ou la cession d'un actif essentiel, sans l'accord écrit du Bénéficiaire.]
+
+[Option B – Promesse d'achat : le Promettant s'engage à disposer, à la date de réalisation, des fonds nécessaires au paiement du prix, et à prévenir sans délai le Bénéficiaire de tout événement de nature à l'en empêcher.]
+
+Conformément à l'article 1124 du Code civil, si le Promettant revient sur son engagement pendant le délai d'option, la cession se forme néanmoins dès la levée de l'option. Un contrat conclu en violation de la promesse avec un tiers qui en avait connaissance est nul.
+
+## ARTICLE 7 – DÉCLARATIONS DU CÉDANT
+
+Le cédant déclare que :
+
+- les Parts sont intégralement libérées et lui appartiennent ;
+- elles sont libres de tout nantissement, saisie ou droit d'un tiers ;
+- il a la capacité de les céder et, le cas échéant, l'accord de son conjoint ;
+- à sa connaissance, la Société n'est pas en état de cessation des paiements et ne fait l'objet d'aucune procédure collective ;
+- il a communiqué au Bénéficiaire les statuts à jour et les trois derniers bilans de la Société.
+
+[Option – Les parties conviennent de conclure une convention de garantie d'actif et de passif lors de la réalisation, selon les principes suivants : [plafond, franchise, durée].]
+
+## ARTICLE 8 – RÉALISATION DE LA CESSION
+
+Dans les [trente] jours qui suivent la levée de l'option et la réalisation de la dernière condition de l'article 5, les parties signent un acte écrit de cession des Parts reprenant les termes des présentes, et le prix est payé selon l'article 3.
+
+L'acte de cession est rendu opposable à la Société par le dépôt d'un original au siège social contre remise par le gérant d'une attestation de dépôt, ou par sa signification à la Société. Il devient opposable aux tiers après le dépôt au greffe du tribunal de commerce de l'acte et des statuts mis à jour.
+
+Le cessionnaire fait enregistrer l'acte de cession auprès du service des impôts dans le mois de sa signature, sauf stipulation contraire de l'article 10.
+
+> Note de rédaction : si la Société emploie moins de 250 salariés et que la cession porte sur plus de la moitié du capital, les salariés doivent en principe être informés au plus tard deux mois avant la cession, afin de leur permettre de présenter une offre. Le non-respect de cette obligation est sanctionné par une amende civile pouvant atteindre 2 % du prix. Intégrez ce délai dans le calendrier de réalisation.
+
+Si une partie refuse de signer l'acte de cession après la levée régulière de l'option, l'autre partie peut demander au juge de constater la cession ou d'en ordonner l'exécution, sans préjudice de dommages et intérêts.
+
+## ARTICLE 9 – DÉCÈS OU SUBSTITUTION
+
+En cas de décès du Promettant, ses héritiers et ayants droit sont tenus de la présente promesse. [En cas de décès du Bénéficiaire avant la levée de l'option, la promesse prend fin / ses héritiers peuvent lever l'option pendant le délai restant à courir].
+
+[Option A – Le bénéfice de la promesse est strictement personnel au Bénéficiaire.]
+
+[Option B – Le Bénéficiaire peut se substituer une personne de son choix, à condition de le notifier au Promettant en même temps que la levée de l'option. Il reste alors garant solidaire du paiement du prix. Si le substitué n'est pas associé, l'agrément de l'article 5 porte sur le substitué.]
+
+## ARTICLE 10 – FRAIS ET IMPÔTS
+
+Les droits d'enregistrement dus sur la cession sont à la charge du [cessionnaire / cédant / partagés par moitié]. L'éventuel impôt sur la plus-value reste à la charge du cédant. Chaque partie conserve à sa charge les frais de ses propres conseils.
+
+## ARTICLE 11 – CONFIDENTIALITÉ
+
+Les parties s'engagent à garder confidentiels l'existence et le contenu de la présente promesse, sauf à l'égard de la Société et des associés pour les besoins de l'agrément, de leurs conseils, des établissements de crédit sollicités pour le financement, et des autorités qui en feraient la demande.
+
+## ARTICLE 12 – DROIT APPLICABLE ET LITIGES
+
+La présente promesse est régie par le droit français. Avant toute action en justice, les parties chercheront une solution amiable pendant [trente] jours à compter de la demande écrite de l'une d'elles. À défaut, le litige sera soumis au [tribunal compétent selon les règles de droit commun / tribunal de commerce de [ville], si toutes les parties sont commerçantes ou sociétés commerciales].
+
+Fait à [ville], le [date], en [trois] exemplaires originaux, dont un pour chaque partie [et un pour le conjoint intervenant].
+
+Le Promettant : [signature précédée de la mention manuscrite « Bon pour promesse [de vente / d'achat] de [nombre] parts sociales »]
+
+Le Bénéficiaire : [signature précédée de la mention « Lu et accepté en tant que promesse »]
+
+[Le conjoint intervenant : signature précédée de la mention « Bon pour consentement à la cession des parts »]
+
+## ANNEXES
+
+- Annexe 1 : statuts à jour de la Société
+- Annexe 2 : derniers comptes annuels approuvés
+- Annexe 3 : [le cas échéant, modèle de lettre de levée d'option]
+- Annexe 4 : [le cas échéant, principes de la garantie d'actif et de passif]

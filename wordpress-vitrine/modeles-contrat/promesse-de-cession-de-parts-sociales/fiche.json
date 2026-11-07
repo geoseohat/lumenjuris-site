@@ -1,0 +1,106 @@
+{
+  "slug": "promesse-de-cession-de-parts-sociales",
+  "nom": "Promesse de cession de parts sociales",
+  "nom_court": "promesse de cession de parts sociales",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle promesse de cession de parts sociales",
+  "mots_cles_secondaires": [
+    "promesse de vente de parts sociales",
+    "promesse d'achat de parts sociales SARL",
+    "promesse unilatérale de cession de parts sociales",
+    "promesse de cession de parts EURL",
+    "compromis de cession de parts sociales",
+    "levée d'option parts sociales"
+  ],
+  "titre_h1": "Modèle de promesse de cession de parts sociales gratuit (Word et PDF)",
+  "titre_seo": "Promesse de cession de parts sociales : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de promesse de vente ou d'achat de parts de SARL ou d'EURL : délai d'option, prix, agrément des associés, accord du conjoint et formalités.",
+  "chapo": "La promesse de cession de parts sociales réserve des parts de SARL ou d'EURL à un acquéreur, ou garantit leur rachat, le temps de réunir l'agrément et le financement. Ce modèle traite les deux sens de la promesse et les règles propres aux parts sociales : agrément, accord du conjoint et acte écrit de cession.",
+  "public": "Associés de SARL et d'EURL, repreneurs et investisseurs",
+  "gratuit": true,
+  "fichier_base": "modele-promesse-de-cession-de-parts-sociales-lumen-juris",
+  "date_publication": "2026-11-07",
+  "date_mise_a_jour": "2026-11-07",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit des contrats",
+      "Droit patrimonial de la famille"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifier le statut du bénéficiaire",
+      "Vérifiez s'il est déjà associé, proche parent du cédant ou extérieur à la société : cela décide s'il faut un agrément et à quelle majorité."
+    ],
+    [
+      "Faire intervenir le conjoint si besoin",
+      "Si les parts ont été acquises pendant le mariage sous un régime de communauté, faites signer le conjoint dès la promesse."
+    ],
+    [
+      "Caler le délai d'option sur l'agrément",
+      "Prévoyez un délai qui couvre la notification du projet, les trois mois de réponse possibles et l'obtention du prêt."
+    ],
+    [
+      "Choisir la méthode de prix",
+      "Retenez un prix ferme, une formule sur les capitaux propres ou un expert, et précisez l'échéancier de paiement."
+    ],
+    [
+      "Préparer l'acte de cession et le dépôt",
+      "Après la levée, signez l'acte écrit, déposez-en un original au siège, enregistrez-le dans le mois et mettez les statuts à jour au greffe."
+    ]
+  ],
+  "faq": [
+    [
+      "Peut-on signer une promesse de cession de parts avant l'agrément des associés ?",
+      "Oui. La loi soumet à agrément la cession elle-même, pas la promesse. Le modèle fait donc de l'agrément une condition suspensive : si les associés refusent, la promesse tombe selon ce que les parties ont prévu."
+    ],
+    [
+      "Mon conjoint doit-il signer la promesse de vente de mes parts sociales ?",
+      "Si les parts dépendent de la communauté, oui en pratique : un époux ne peut pas céder seul des droits sociaux non négociables communs. Faire signer le conjoint dès la promesse évite qu'il conteste ensuite la vente. Ce n'est pas nécessaire pour des parts propres ou sous séparation de biens."
+    ],
+    [
+      "Combien de temps les associés ont-ils pour se prononcer sur l'agrément ?",
+      "La société a trois mois à compter de la dernière notification du projet de cession. Sans réponse dans ce délai, l'agrément est considéré comme donné."
+    ],
+    [
+      "Que devient la promesse si les associés refusent l'acquéreur ?",
+      "Les associés doivent alors racheter les parts ou les faire racheter dans les trois mois, sauf si le cédant renonce à vendre ou détient ses parts depuis moins de deux ans. La promesse prévoit si le bénéficiaire récupère alors son indemnité d'immobilisation."
+    ],
+    [
+      "La promesse de cession de parts sociales doit-elle être enregistrée ?",
+      "En règle générale, non : ce sont les droits sur l'acte de cession qui sont dus, au taux de 3 % après abattement. Une exception vise certaines sociétés immobilières, pour lesquelles une promesse unilatérale non enregistrée dans les dix jours est nulle."
+    ],
+    [
+      "Un associé d'EURL a-t-il besoin d'un agrément pour promettre ses parts ?",
+      "Non, puisqu'il est seul associé. Mais s'il ne promet qu'une partie de ses parts, la société deviendra une SARL à plusieurs associés et les cessions suivantes suivront la procédure d'agrément."
+    ],
+    [
+      "Le bénéficiaire peut-il désigner quelqu'un d'autre pour acheter les parts ?",
+      "Seulement si la promesse prévoit une faculté de substitution. Si la personne désignée n'est pas associée, c'est elle qui doit être agréée par les associés."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1124 (promesse unilatérale), 1424 (cession de droits sociaux non négociables communs), 1589-2 (promesses portant sur des titres de sociétés immobilières) et 1843-4 (prix fixé par expert)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 223-13 à L. 223-17 (cession des parts de SARL et agrément), L. 221-14 (forme et opposabilité de la cession), L. 23-10-1 et suivants (information des salariés)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code général des impôts, article 726 (droits d'enregistrement sur les cessions de parts sociales)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "promesse-cession-parts-sociales"
+  }
+}

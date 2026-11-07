@@ -66,7 +66,7 @@
 [x] 2026-11-03 convocation à entretien préalable -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convocation-a-entretien-prealable/
 [x] 2026-11-03 contrat de cession d'actions -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-d-actions/
 [x] 2026-11-03 promesse de cession d'actions -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-de-cession-d-actions/
-promesse de cession de parts sociales
+[x] 2026-11-07 promesse de cession de parts sociales -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-de-cession-de-parts-sociales/
 pacte d'associés
 pacte d'actionnaires
 procès-verbal d'assemblée générale
