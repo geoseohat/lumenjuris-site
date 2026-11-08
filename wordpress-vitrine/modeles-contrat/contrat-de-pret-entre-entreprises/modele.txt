@@ -1,0 +1,156 @@
+# CONTRAT DE PRÊT ENTRE ENTREPRISES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : en France, prêter de l'argent contre intérêts à titre habituel est en principe réservé aux banques. Une entreprise ne peut prêter à une autre que dans les cas prévus par le Code monétaire et financier. Ce modèle couvre les deux cas les plus courants : le prêt à un partenaire économique (option A de l'article 2) et le prêt entre sociétés d'un même groupe (option B). Vérifiez que votre situation entre bien dans l'un d'eux avant de signer. Si aucun ne s'applique, le prêt peut exposer le prêteur à des sanctions pénales.
+
+ENTRE LES SOUSSIGNÉES :
+
+La société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité], dûment habilité(e) [en vertu de [la décision / l'autorisation] du [date]],
+
+ci-après « le Prêteur »,
+
+ET
+
+La société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité], dûment habilité(e),
+
+ci-après « l'Emprunteur »,
+
+ci-après ensemble « les Parties ».
+
+## PRÉAMBULE
+
+L'Emprunteur souhaite financer [l'achat de [équipement] / le développement de [activité] / un besoin de trésorerie ponctuel lié à [cause] / autre objet précis].
+
+Les Parties entretiennent les relations suivantes : [l'Emprunteur est [client / fournisseur / sous-traitant / distributeur] du Prêteur depuis le [date], dans le cadre de [contrat ou relation] / le Prêteur détient [pourcentage] % du capital de l'Emprunteur / les Parties sont toutes deux contrôlées par la société [dénomination]].
+
+Le Prêteur accepte de consentir un prêt à l'Emprunteur dans les conditions ci-après.
+
+## ARTICLE 1 – OBJET
+
+Le Prêteur prête à l'Emprunteur, qui l'accepte, une somme d'argent remboursable avec intérêts, dans les conditions du présent contrat. Le prêt est consenti à titre accessoire à l'activité principale du Prêteur.
+
+## ARTICLE 2 – CADRE LÉGAL DU PRÊT
+
+[Option A – Prêt à un partenaire économique : le prêt est consenti en application de l'article L. 511-6, 3 bis du Code monétaire et financier. Le Prêteur déclare que ses comptes font l'objet d'une certification par un commissaire aux comptes et que le prêt respecte les plafonds réglementaires applicables. L'Emprunteur déclare être une microentreprise, une petite ou moyenne entreprise ou une entreprise de taille intermédiaire, au sens de la réglementation, et entretenir avec le Prêteur les liens économiques décrits au préambule. La durée du prêt est inférieure à trois ans.]
+
+[Option B – Prêt entre sociétés d'un même groupe : le prêt constitue une opération de trésorerie entre sociétés ayant entre elles des liens de capital conférant à l'une d'elles un pouvoir de contrôle effectif sur l'autre, au sens de l'article L. 511-7 du Code monétaire et financier.]
+
+> Note de rédaction : dans l'option A, le prêt doit en outre être mentionné dans le rapport de gestion du Prêteur et fait l'objet d'une attestation de son commissaire aux comptes. Il ne doit pas avoir pour effet d'imposer à l'Emprunteur des conditions abusives. Ces conditions, ainsi que la liste des liens économiques admis, sont précisées par voie réglementaire : vérifiez-les à la date de signature.
+
+## ARTICLE 3 – MONTANT ET MISE À DISPOSITION
+
+### 3.1 Montant
+
+Le montant du prêt est de [montant en chiffres] euros ([montant en lettres] euros).
+
+### 3.2 Mise à disposition
+
+[Option A – Le montant est versé en une seule fois, au plus tard le [date], par virement sur le compte bancaire de l'Emprunteur n° [IBAN].]
+
+[Option B – Le montant est versé en [nombre] tirages, sur demande écrite de l'Emprunteur adressée au moins [dix] jours ouvrés à l'avance, jusqu'au [date limite de tirage]. Le montant non tiré à cette date est annulé.]
+
+### 3.3 Conditions préalables
+
+Le versement est subordonné à la remise par l'Emprunteur des documents suivants : un extrait Kbis de moins de trois mois, ses derniers comptes annuels approuvés, [la décision de son organe compétent autorisant l'emprunt], [les garanties prévues à l'article 7].
+
+### 3.4 Affectation
+
+L'Emprunteur affecte les fonds exclusivement à l'objet décrit au préambule. Il en justifie à première demande du Prêteur.
+
+## ARTICLE 4 – DURÉE
+
+Le prêt est consenti pour une durée de [nombre] mois à compter de la date du [premier] versement. [Dans le cadre de l'option A de l'article 2, cette durée doit rester inférieure à trois ans, prorogations comprises.]
+
+## ARTICLE 5 – INTÉRÊTS
+
+### 5.1 Taux
+
+Le prêt porte intérêt au taux [fixe de [taux] % l'an / variable égal à [indice de référence, par exemple l'Euribor 3 mois] majoré de [marge] %, révisé le [date] de chaque [trimestre / année]]. Les intérêts sont calculés sur le capital restant dû, au prorata du nombre de jours écoulés, sur la base d'une année de [365] jours.
+
+### 5.2 Taux effectif global
+
+Compte tenu des frais énumérés ci-après, le taux annuel effectif global du prêt est de [taux] %, soit un taux de période de [taux] % pour une période de [durée]. Frais inclus dans ce calcul : [frais de dossier de [montant] euros / frais de garantie / aucun].
+
+> Note de rédaction : le taux d'intérêt d'un prêt d'argent doit être fixé par écrit. Indiquer le taux effectif global est une précaution recommandée : son omission ou son erreur peut entraîner la perte d'une partie des intérêts.
+
+### 5.3 Paiement
+
+Les intérêts sont payables [mensuellement / trimestriellement / annuellement] à terme échu, [en même temps que les échéances de capital / à chaque date anniversaire du versement].
+
+> Note de rédaction : si le Prêteur est associé ou lié à l'Emprunteur, la part des intérêts qui dépasse le taux maximal fixé par l'administration fiscale peut ne pas être déductible pour l'Emprunteur. Un taux trop bas, ou un prêt sans intérêt, peut à l'inverse être regardé par l'administration comme un avantage consenti sans contrepartie. Faites valider le taux par vos experts-comptables.
+
+## ARTICLE 6 – REMBOURSEMENT
+
+### 6.1 Échéancier
+
+[Option A – Remboursement in fine : le capital est remboursé en une seule fois à la date d'échéance du prêt.]
+
+[Option B – Amortissement constant : le capital est remboursé en [nombre] échéances [mensuelles / trimestrielles] de [montant] euros, selon le tableau d'amortissement figurant en annexe 1.]
+
+### 6.2 Remboursement anticipé
+
+L'Emprunteur peut rembourser tout ou partie du prêt avant son terme, à tout moment, en prévenant le Prêteur par écrit [trente] jours à l'avance. [Ce remboursement anticipé ne donne lieu à aucune indemnité. / Il donne lieu à une indemnité égale à [pourcentage] % du capital remboursé par anticipation.]
+
+### 6.3 Imputation des paiements
+
+Les paiements s'imputent d'abord sur les frais et accessoires, puis sur les intérêts échus, puis sur le capital.
+
+## ARTICLE 7 – GARANTIES
+
+> Option : en garantie du remboursement, [la société [dénomination] / M. ou Mme [nom], dirigeant de l'Emprunteur] se porte caution de l'Emprunteur par acte séparé, dans la limite de [montant] euros, pour une durée de [durée].
+
+> Option : l'Emprunteur consent au Prêteur un nantissement sur [son fonds de commerce / le matériel financé / ses comptes bancaires] par acte séparé, soumis aux formalités de publicité applicables.
+
+> Note de rédaction : un cautionnement donné par une personne physique doit respecter des règles de forme protectrices (mention écrite de sa main ou par voie électronique, limite du montant). Utilisez un acte séparé et faites-le relire.
+
+## ARTICLE 8 – ENGAGEMENTS DE L'EMPRUNTEUR
+
+Pendant toute la durée du prêt, l'Emprunteur s'engage à :
+- communiquer au Prêteur ses comptes annuels dans les [trente] jours de leur approbation ;
+- informer le Prêteur, sans délai, de tout événement de nature à affecter sa capacité de remboursement, notamment l'ouverture d'une procédure de prévention ou d'une procédure collective ;
+- [ne pas consentir de sûreté sur [biens] au profit d'un autre prêteur sans en informer préalablement le Prêteur] ;
+- informer le Prêteur de toute modification de son contrôle.
+
+## ARTICLE 9 – EXIGIBILITÉ ANTICIPÉE
+
+Le Prêteur peut prononcer l'exigibilité immédiate du capital restant dû, des intérêts courus et des accessoires, par lettre recommandée avec demande d'avis de réception, dans les cas suivants :
+- défaut de paiement d'une échéance, non régularisé [quinze] jours après une mise en demeure restée sans effet ;
+- affectation des fonds à un autre objet que celui prévu ;
+- fausse déclaration de l'Emprunteur ayant déterminé l'accord du Prêteur ;
+- [disparition des liens économiques ou de capital qui justifient le prêt, avec un délai de [trois] mois pour rembourser].
+
+Cette clause s'applique sous réserve des règles d'ordre public en matière de procédures de prévention et de procédures collectives, qui peuvent suspendre ou interdire l'exigibilité anticipée.
+
+## ARTICLE 10 – RETARD DE PAIEMENT
+
+Toute somme non payée à son échéance porte intérêt de plein droit, à compter de cette échéance et jusqu'au paiement, au taux du prêt majoré de [deux] points. Les intérêts de retard dus pour une année entière au moins sont capitalisés.
+
+## ARTICLE 11 – CONVENTIONS RÉGLEMENTÉES
+
+[Si les Parties ont un dirigeant commun, ou si l'une détient plus de 10 % des droits de vote de l'autre, le présent contrat est soumis à la procédure des conventions réglementées applicable à chacune d'elles, sauf s'il porte sur une opération courante conclue à des conditions normales.]
+
+## ARTICLE 12 – CESSION DU CONTRAT
+
+L'Emprunteur ne peut céder ses droits et obligations au titre du contrat sans l'accord écrit du Prêteur. Le Prêteur ne peut céder sa créance qu'à une entité autorisée à la détenir au regard du Code monétaire et financier, et en informe l'Emprunteur.
+
+## ARTICLE 13 – FRAIS
+
+Les frais de constitution des garanties sont à la charge de [l'Emprunteur / chaque Partie pour moitié]. Chaque Partie conserve à sa charge les frais de ses propres conseils.
+
+## ARTICLE 14 – DROIT APPLICABLE ET LITIGES
+
+Le présent contrat est régi par le droit français. Avant toute action en justice, les Parties chercheront une solution amiable pendant [trente] jours à compter de la demande écrite de l'une d'elles. À défaut, tout litige relatif au contrat sera soumis au tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un pour chaque Partie.
+
+Pour le Prêteur : [nom et qualité du représentant, signature]
+
+Pour l'Emprunteur : [nom et qualité du représentant, signature]
+
+## ANNEXES
+
+- Annexe 1 : tableau d'amortissement
+- Annexe 2 : extrait Kbis et derniers comptes annuels de l'Emprunteur
+- Annexe 3 : [le cas échéant, justificatif des liens économiques ou de capital entre les Parties]
+- Annexe 4 : [le cas échéant, actes de cautionnement ou de nantissement]

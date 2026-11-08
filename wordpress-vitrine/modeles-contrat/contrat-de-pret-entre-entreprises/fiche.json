@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-pret-entre-entreprises",
+  "nom": "Contrat de prêt entre entreprises",
+  "nom_court": "contrat de prêt entre entreprises",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de prêt entre entreprises",
+  "mots_cles_secondaires": [
+    "prêt interentreprises",
+    "contrat de prêt entre sociétés",
+    "convention de prêt intragroupe",
+    "prêt entre société mère et filiale",
+    "prêt à un partenaire économique",
+    "contrat de prêt entre deux sociétés"
+  ],
+  "titre_h1": "Modèle de contrat de prêt entre entreprises gratuit (Word et PDF)",
+  "titre_seo": "Contrat de prêt entre entreprises : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de contrat de prêt entre entreprises : prêt intragroupe ou à un partenaire, taux, échéancier, garanties et conditions du monopole bancaire.",
+  "chapo": "Une entreprise ne peut prêter de l'argent à une autre que dans des cas précis, comme le prêt intragroupe ou le prêt à un partenaire économique. Ce modèle de contrat organise le versement, les intérêts, le remboursement et les garanties dans ces deux cadres.",
+  "public": "Dirigeants et directeurs financiers de sociétés commerciales",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-pret-entre-entreprises-lumen-juris",
+  "date_publication": "2026-11-08",
+  "date_mise_a_jour": "2026-11-08",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit bancaire et financier",
+      "Droit des sociétés",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifier l'exception applicable",
+      "Vérifiez s'il existe un lien de contrôle entre les sociétés ou un lien économique avec un prêteur doté d'un commissaire aux comptes."
+    ],
+    [
+      "Calibrer montant et durée",
+      "Respectez les plafonds réglementaires et, pour un partenaire, une durée totale inférieure à trois ans."
+    ],
+    [
+      "Fixer le taux et calculer le TEG",
+      "Choisissez un taux fixe ou indexé, recensez les frais et indiquez le taux effectif global."
+    ],
+    [
+      "Prévoir les garanties",
+      "Faites signer par acte séparé la caution ou le nantissement avant le versement des fonds."
+    ],
+    [
+      "Accomplir les formalités internes",
+      "Suivez la procédure des conventions réglementées si besoin et signalez le prêt au commissaire aux comptes."
+    ]
+  ],
+  "faq": [
+    [
+      "Une société peut-elle prêter de l'argent à une autre société ?",
+      "Oui, mais seulement dans les cas prévus par le Code monétaire et financier. Les principaux sont le prêt entre sociétés d'un même groupe et le prêt à une entreprise avec laquelle le prêteur a des liens économiques. En dehors de ces cas, le prêt peut enfreindre le monopole bancaire."
+    ],
+    [
+      "Quelle est la durée maximale d'un prêt interentreprises ?",
+      "Pour le prêt à un partenaire économique, la durée doit être inférieure à trois ans. Le prêt intragroupe n'est pas soumis à cette limite légale. Le contrat doit fixer une échéance précise dans les deux cas."
+    ],
+    [
+      "Faut-il un commissaire aux comptes pour prêter à un partenaire ?",
+      "Oui. Le prêteur doit avoir des comptes certifiés par un commissaire aux comptes, éventuellement nommé volontairement. Ce dernier atteste chaque année du montant des prêts consentis à ce titre."
+    ],
+    [
+      "Un prêt sans intérêt entre deux sociétés est-il possible ?",
+      "Juridiquement, oui. Fiscalement, l'administration peut considérer que le prêteur a renoncé sans contrepartie à des revenus et réintégrer les intérêts non perçus dans son résultat. Il faut pouvoir justifier d'un intérêt propre du prêteur à aider l'emprunteur."
+    ],
+    [
+      "Le taux de l'usure s'applique-t-il à un prêt entre entreprises ?",
+      "Non lorsque l'emprunteur est une personne morale exerçant une activité commerciale, industrielle, artisanale, agricole ou professionnelle non commerciale, sauf pour les découverts en compte. Le taux reste toutefois soumis aux règles fiscales de déductibilité."
+    ],
+    [
+      "Que se passe-t-il si l'entreprise emprunteuse est placée en redressement judiciaire ?",
+      "Les paiements sont suspendus et le prêteur doit déclarer sa créance au mandataire judiciaire. Il sera remboursé selon le plan arrêté par le tribunal, ou selon son rang en cas de liquidation. Ses garanties restent utiles, dans les limites prévues par la procédure."
+    ],
+    [
+      "Une filiale peut-elle prêter à sa société mère ?",
+      "Oui, dans le cadre des opérations de trésorerie intragroupe, si les liens de capital donnent un contrôle effectif. Le prêt doit cependant servir l'intérêt de la filiale et ne pas mettre sa trésorerie en péril, sous peine d'engager la responsabilité de ses dirigeants."
+    ]
+  ],
+  "sources": [
+    [
+      "Code monétaire et financier, articles L. 511-5 (monopole bancaire), L. 511-6, 3 bis (prêt à un partenaire économique), L. 511-7 (opérations de trésorerie intragroupe) et L. 313-5-1 (usure et personnes morales)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ],
+    [
+      "Code civil, articles 1892 et suivants (prêt de consommation), 1907 (taux conventionnel écrit) et 1343-2 (capitalisation des intérêts)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 225-38, L. 227-10 et L. 223-19 (conventions réglementées)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code général des impôts, articles 39, 1-3° et 212 (déductibilité des intérêts entre sociétés liées)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-pret-entre-entreprises"
+  }
+}
