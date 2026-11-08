@@ -1,0 +1,110 @@
+{
+  "slug": "convention-de-compte-courant-d-associe",
+  "nom": "Convention de compte courant d'associé",
+  "nom_court": "convention de compte courant d'associé",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle convention de compte courant d'associé",
+  "mots_cles_secondaires": [
+    "convention d'avance en compte courant",
+    "contrat de compte courant d'associé",
+    "avance en compte courant d'associé",
+    "compte courant bloqué",
+    "prêt d'un associé à sa société",
+    "rémunération compte courant d'associé"
+  ],
+  "titre_h1": "Modèle de convention de compte courant d'associé gratuit (Word et PDF)",
+  "titre_seo": "Convention de compte courant d'associé : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de convention de compte courant d'associé : montant, taux d'intérêt déductible, blocage des fonds, remboursement et conventions réglementées.",
+  "chapo": "La convention de compte courant d'associé encadre l'argent qu'un associé prête à sa société, hors capital. Ce modèle fixe le montant, la rémunération et les conditions de remboursement, avec une option de blocage des fonds demandée par les banques.",
+  "public": "Associés et dirigeants de SARL, SAS, SA et SCI",
+  "gratuit": true,
+  "fichier_base": "modele-convention-de-compte-courant-d-associe-lumen-juris",
+  "date_publication": "2026-11-08",
+  "date_mise_a_jour": "2026-11-08",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit fiscal des entreprises",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que l'associé peut prêter",
+      "Assurez-vous qu'il détient au moins 5 % du capital ou qu'il dirige la société, sauf autre exception légale."
+    ],
+    [
+      "Fixer le montant et le versement",
+      "Indiquez la somme, le compte bancaire de la société et, si besoin, l'échéancier des versements."
+    ],
+    [
+      "Choisir le taux d'intérêt",
+      "Optez pour une avance gratuite ou un taux qui ne dépasse pas le plafond fiscal du trimestre en cours."
+    ],
+    [
+      "Décider du blocage et du préavis",
+      "Alignez la date de fin de blocage sur le prêt bancaire et gardez un préavis de remboursement réaliste."
+    ],
+    [
+      "Suivre la procédure si l'associé est dirigeant",
+      "Faites approuver la convention par les associés lors de l'approbation des comptes, l'associé concerné ne votant pas."
+    ]
+  ],
+  "faq": [
+    [
+      "Une convention de compte courant d'associé est-elle obligatoire ?",
+      "Non, la loi n'impose pas d'écrit pour ouvrir un compte courant. Mais sans convention, l'associé peut exiger son remboursement à tout moment, et la preuve du prêt est plus difficile. L'écrit est donc vivement conseillé dès que la somme est importante."
+    ],
+    [
+      "L'associé peut-il récupérer son compte courant quand il veut ?",
+      "Oui, sauf si une convention prévoit un blocage, un préavis ou un échéancier. C'est la jurisprudence qui pose ce principe de remboursement à tout moment. La convention permet d'y déroger pour protéger la trésorerie de la société."
+    ],
+    [
+      "Quel taux d'intérêt appliquer à un compte courant d'associé ?",
+      "Les parties choisissent librement le taux, y compris zéro. Pour que la société déduise les intérêts, le taux ne doit pas dépasser le plafond publié chaque trimestre par l'administration fiscale, et le capital doit être entièrement libéré."
+    ],
+    [
+      "Un associé minoritaire peut-il faire une avance en compte courant ?",
+      "En principe, il doit détenir au moins 5 % du capital ou être dirigeant de la société. En dessous, l'avance pourrait être regardée comme une réception de fonds remboursables du public, réservée aux banques. Des exceptions existent, notamment pour les salariés dans certains cas."
+    ],
+    [
+      "Que devient le compte courant en cas de cession des parts ?",
+      "Le compte courant ne suit pas automatiquement les titres. L'acte de cession doit prévoir s'il est remboursé au cédant ou racheté par l'acquéreur. Le modèle rend le solde exigible au départ de l'associé, sauf reprise par le cessionnaire."
+    ],
+    [
+      "Que se passe-t-il si la société est en liquidation judiciaire ?",
+      "L'associé devient un créancier chirographaire, sans priorité. Il doit déclarer sa créance au mandataire ou au liquidateur dans le délai légal. Il n'est payé qu'après les créanciers privilégiés, souvent de manière partielle."
+    ],
+    [
+      "Peut-on transformer un compte courant en capital ?",
+      "Oui, par une augmentation de capital par compensation avec une créance liquide et exigible. Elle suppose une décision des associés et un arrêté de compte, certifié par le commissaire aux comptes dans les sociétés par actions. Le compte courant disparaît alors au profit de nouvelles parts ou actions."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1892 et suivants (prêt de consommation), 1343-2 (capitalisation des intérêts) et 1359 (preuve par écrit)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 223-19 à L. 223-21 (SARL), L. 227-10 et L. 227-12 (SAS), L. 225-38 et L. 225-43 (SA) : conventions réglementées et interdiction des découverts",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code monétaire et financier, articles L. 312-2 (fonds remboursables du public et exception des associés détenant au moins 5 % du capital)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ],
+    [
+      "Code général des impôts, article 39, 1-3° (déductibilité des intérêts servis aux associés)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "convention-compte-courant-associe"
+  }
+}

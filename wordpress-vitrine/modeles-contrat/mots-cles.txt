@@ -72,7 +72,7 @@
 [x] 2026-11-07 procès-verbal d'assemblée générale -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-d-assemblee-generale/
 [x] 2026-11-07 procès-verbal de nomination du président SAS -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-nomination-du-president-sas/
 [x] 2026-11-07 procès-verbal de changement de gérant -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-changement-de-gerant/
-convention de compte courant d'associé
+[x] 2026-11-08 convention de compte courant d'associé -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-compte-courant-d-associe/
 contrat d'investissement
 contrat de prêt entre entreprises
 contrat de prêt entre particuliers

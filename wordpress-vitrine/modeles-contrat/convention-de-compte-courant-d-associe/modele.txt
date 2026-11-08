@@ -1,0 +1,152 @@
+# CONVENTION DE COMPTE COURANT D'ASSOCIÉ
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : cette convention encadre les sommes qu'un associé met à la disposition de sa société, en dehors du capital. Elle précise le montant, la rémunération éventuelle et surtout les conditions de remboursement. Sans écrit, l'associé peut en principe exiger à tout moment le remboursement de son compte courant, ce qui peut mettre la trésorerie de la société en difficulté. Si l'associé prêteur est aussi gérant, président, directeur général ou administrateur, la convention relève en principe de la procédure des conventions réglementées (voir article 10).
+
+ENTRE LES SOUSSIGNÉS :
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+ou
+
+La société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité], dûment habilité(e),
+
+ci-après « l'Associé »,
+
+ET
+
+La société [dénomination], [SARL / SAS / SA / SCI / autre forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [gérant / président / directeur général], dûment habilité(e) aux fins des présentes [en vertu de [la décision des associés / du conseil] du [date]],
+
+ci-après « la Société ».
+
+## PRÉAMBULE
+
+L'Associé détient [nombre] [parts sociales / actions] de la Société, représentant [pourcentage] % de son capital social. [Il exerce les fonctions de [gérant / président / administrateur] de la Société. / Il n'exerce aucune fonction de direction dans la Société.]
+
+La Société a besoin d'un financement de [montant] euros afin de [financer son besoin en fonds de roulement / acquérir [désignation du bien] / faire face à un décalage de trésorerie / autre objet]. L'Associé accepte de mettre ces fonds à sa disposition sous la forme d'une avance en compte courant, dans les conditions définies ci-après.
+
+> Note de rédaction : sauf exceptions, seuls les associés détenant au moins 5 % du capital, les dirigeants et quelques autres personnes visées par le Code monétaire et financier peuvent consentir des avances en compte courant sans enfreindre le monopole bancaire. Vérifiez la situation de l'Associé avant de signer.
+
+## ARTICLE 1 – OBJET
+
+La présente convention a pour objet de fixer les conditions dans lesquelles l'Associé consent à la Société une avance en compte courant, ainsi que les conditions de sa rémunération et de son remboursement.
+
+Elle s'applique [uniquement à l'avance prévue à l'article 2 / à l'avance prévue à l'article 2 ainsi qu'à toute avance complémentaire que l'Associé consentirait ultérieurement, sauf accord écrit contraire].
+
+## ARTICLE 2 – MONTANT ET VERSEMENT DES FONDS
+
+### 2.1 Montant
+
+L'Associé met à la disposition de la Société la somme de [montant en chiffres] euros ([montant en lettres] euros).
+
+### 2.2 Modalités de versement
+
+[Option A – Versement unique : les fonds sont versés en une seule fois, au plus tard le [date], par virement sur le compte bancaire de la Société n° [IBAN].]
+
+[Option B – Versements échelonnés : les fonds sont versés en [nombre] fois, aux dates et pour les montants suivants : [échéancier]. La Société peut demander chaque versement par écrit, avec un préavis de [quinze] jours.]
+
+[Option C – Incorporation d'une créance existante : la somme correspond à [des dividendes dont la distribution a été décidée le [date] / une rémunération due à l'Associé au titre de [nature]], que l'Associé accepte de laisser à la disposition de la Société.]
+
+### 2.3 Inscription en comptabilité
+
+La Société inscrit chaque versement au crédit d'un compte courant ouvert au nom de l'Associé dans ses livres. Elle adresse à l'Associé, à sa demande et au moins une fois par an après la clôture de l'exercice, un relevé du solde de ce compte et des intérêts courus.
+
+## ARTICLE 3 – RÉMUNÉRATION DE L'AVANCE
+
+[Option A – Avance non rémunérée : l'avance ne porte pas intérêt.]
+
+[Option B – Avance rémunérée : l'avance porte intérêt au taux annuel de [taux] %, calculé sur le solde créditeur du compte courant au prorata du nombre de jours, sur la base d'une année de 365 jours.]
+
+Les intérêts sont [payés à l'Associé le [date] de chaque année / payés trimestriellement à terme échu / capitalisés et inscrits au crédit du compte courant à la clôture de chaque exercice].
+
+> Note de rédaction : pour que la Société puisse déduire les intérêts de son résultat imposable, son capital doit être entièrement libéré et le taux ne doit pas dépasser le plafond fiscal publié chaque trimestre par l'administration (article 39, 1-3° du Code général des impôts), sous réserve des règles particulières applicables aux sociétés liées. La part d'intérêts qui dépasse ce plafond reste due à l'Associé mais n'est pas déductible pour la Société. Des intérêts ne peuvent eux-mêmes produire intérêt que s'ils sont dus pour une année entière au moins et si le contrat le prévoit : la capitalisation annuelle proposée ci-dessus respecte cette règle.
+
+Les intérêts versés à l'Associé personne physique sont soumis à l'impôt sur le revenu et aux prélèvements sociaux. La Société opère, lors du paiement, les prélèvements à la source prévus par la loi et délivre à l'Associé l'imprimé fiscal unique.
+
+## ARTICLE 4 – DURÉE ET BLOCAGE DES FONDS
+
+[Option A – Avance librement remboursable : l'avance est consentie pour une durée indéterminée. L'Associé peut en demander le remboursement total ou partiel à tout moment, dans les conditions de préavis de l'article 5.]
+
+[Option B – Avance bloquée : l'Associé s'interdit de demander le remboursement de tout ou partie de l'avance avant le [date] (ci-après « la Période de blocage »). À l'expiration de la Période de blocage, l'avance devient remboursable dans les conditions de l'article 5.]
+
+[Option C – Remboursement selon un échéancier : l'avance est remboursée selon l'échéancier figurant en annexe 1.]
+
+> Note de rédaction : un blocage est souvent demandé par la banque qui finance la Société, ou exigé par un investisseur. Dans ce cas, reportez la date de fin de blocage sur celle de la dernière échéance du prêt bancaire, et joignez la lettre de la banque en annexe 2.
+
+## ARTICLE 5 – REMBOURSEMENT
+
+### 5.1 Demande de remboursement
+
+Hors Période de blocage, l'Associé demande le remboursement par lettre recommandée avec demande d'avis de réception adressée au siège de la Société. Le remboursement intervient dans un délai de [trois] mois à compter de la réception de la demande.
+
+### 5.2 Remboursement anticipé à l'initiative de la Société
+
+La Société peut rembourser tout ou partie de l'avance à tout moment, sans pénalité, en informant l'Associé [quinze] jours à l'avance. [Pendant la Période de blocage, ce remboursement anticipé suppose l'accord écrit de [l'établissement prêteur / l'investisseur] mentionné en annexe 2.]
+
+### 5.3 Cas d'exigibilité immédiate
+
+Nonobstant toute Période de blocage, le solde du compte courant devient immédiatement exigible :
+- en cas de cession par l'Associé de la totalité de ses [parts / actions] ou de perte de sa qualité d'associé pour toute autre cause, [sauf si le cessionnaire reprend le compte courant dans l'acte de cession] ;
+- en cas de dissolution amiable de la Société ;
+- [autre événement précis convenu entre les parties].
+
+Ces stipulations s'appliquent sous réserve des règles d'ordre public applicables en cas de procédure de sauvegarde, de redressement ou de liquidation judiciaires.
+
+### 5.4 Imputation
+
+Les remboursements s'imputent d'abord sur les intérêts échus, puis sur le capital de l'avance.
+
+## ARTICLE 6 – SITUATION FINANCIÈRE DE LA SOCIÉTÉ
+
+La Société informe l'Associé, sans délai, de tout événement susceptible d'affecter sa capacité à rembourser l'avance, notamment toute ouverture d'une procédure de prévention ou d'une procédure collective.
+
+> Option : clause de subordination. L'Associé accepte que le remboursement de son compte courant ne soit effectué qu'après le complet remboursement des sommes dues à [nom de l'établissement de crédit] au titre du prêt n° [numéro] du [date].
+
+> Note de rédaction : en cas de procédure collective de la Société, l'Associé est un créancier comme un autre. Il doit déclarer sa créance de compte courant au mandataire judiciaire dans le délai légal, faute de quoi elle ne pourra pas être opposée à la procédure.
+
+## ARTICLE 7 – ABANDON DE CRÉANCE AVEC CLAUSE DE RETOUR À MEILLEURE FORTUNE
+
+> Option : si la Société traverse des difficultés, l'Associé peut renoncer à tout ou partie de son compte courant par un avenant distinct, en prévoyant que la créance renaîtra si la situation de la Société s'améliore (par exemple lorsque les capitaux propres redeviennent supérieurs à [montant ou proportion du capital]). Le traitement fiscal d'un tel abandon dépend de sa nature commerciale ou financière : faites-le examiner par l'expert-comptable de la Société avant de le signer.
+
+## ARTICLE 8 – CESSION DE LA CRÉANCE
+
+L'Associé ne peut céder sa créance de compte courant à un tiers qu'avec l'accord préalable de la Société, [sauf au profit du cessionnaire de ses [parts / actions]]. Toute cession est notifiée à la Société.
+
+## ARTICLE 9 – COMPENSATION
+
+Les parties conviennent que le solde du compte courant ne pourra jamais devenir débiteur du fait de l'Associé. La Société s'interdit de consentir à l'Associé un découvert ou une avance par ce compte.
+
+> Note de rédaction : il est interdit aux gérants et associés personnes physiques d'une SARL, aux administrateurs et directeurs généraux d'une SA et aux dirigeants d'une SAS (ainsi qu'à certains de leurs proches) de se faire consentir un découvert par la société. Un compte courant débiteur peut en outre caractériser un abus de biens sociaux.
+
+## ARTICLE 10 – CONVENTIONS RÉGLEMENTÉES
+
+[Option A – La Société est une SAS ou une SA, et l'Associé n'en est ni dirigeant ni actionnaire disposant de plus de 10 % des droits de vote, ni la société qui la contrôle : la présente convention n'entre pas dans le champ des conventions réglementées.]
+
+[Option B – La présente convention, conclue entre la Société et [un de ses associés ou gérants, s'agissant d'une SARL / un de ses dirigeants, un actionnaire disposant de plus de 10 % des droits de vote ou la société qui la contrôle, s'agissant d'une SAS ou d'une SA], est soumise à la procédure des conventions réglementées prévue par [l'article L. 223-19 (SARL) / l'article L. 227-10 (SAS) / les articles L. 225-38 et suivants (SA)] du Code de commerce. [Elle a été autorisée par le conseil d'administration le [date].] Elle sera soumise à l'approbation [des associés / de l'assemblée générale] lors de l'approbation des comptes de l'exercice en cours.]
+
+> Note de rédaction : dans une SARL, la procédure vise tout associé, quelle que soit sa participation. Une avance non rémunérée, consentie à des conditions normales, peut constituer une convention courante dispensée de cette procédure. Une avance rémunérée consentie par un dirigeant doit en revanche, par prudence, suivre la procédure.
+
+## ARTICLE 11 – DURÉE DE LA CONVENTION
+
+La présente convention prend effet à la date de sa signature. Elle prend fin lorsque le compte courant de l'Associé est intégralement remboursé, intérêts compris, et au plus tard le [date ou « sans terme précis »].
+
+## ARTICLE 12 – MODIFICATIONS
+
+Toute modification de la présente convention, notamment du taux d'intérêt, de la Période de blocage ou du montant de l'avance, fait l'objet d'un avenant écrit signé par les deux parties.
+
+## ARTICLE 13 – DROIT APPLICABLE ET LITIGES
+
+La présente convention est régie par le droit français. Avant toute action en justice, les parties chercheront une solution amiable pendant [trente] jours à compter de la demande écrite de l'une d'elles. À défaut, le litige sera porté devant [le tribunal compétent selon les règles de droit commun / le tribunal de commerce de [ville], si l'Associé est commerçant ou société commerciale].
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un pour chaque partie.
+
+Pour l'Associé : [nom, signature]
+
+Pour la Société : [nom et qualité du représentant, signature]
+
+## ANNEXES
+
+- Annexe 1 : [le cas échéant, échéancier de remboursement]
+- Annexe 2 : [le cas échéant, lettre de l'établissement de crédit ou de l'investisseur exigeant le blocage]
+- Annexe 3 : [le cas échéant, extrait de la décision autorisant la convention]
