@@ -1,0 +1,104 @@
+# CONTRAT DE PRÊT D'ARGENT ENTRE PARTICULIERS
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle sert à un prêt ponctuel entre deux personnes physiques qui agissent à titre privé : un parent qui aide un enfant, un ami qui dépanne un ami, des membres d'une même famille. Il ne convient pas à une personne qui prête de l'argent à titre habituel, activité réservée aux établissements de crédit, ni à un prêt consenti à une entreprise. Si le prêt finance l'achat d'un logement en même temps qu'un crédit bancaire, prévenez la banque : elle demande souvent à connaître ce prêt.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse], [marié(e) sous le régime de [régime] / lié(e) par un pacte civil de solidarité / célibataire],
+
+ci-après « le Prêteur »,
+
+ET
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+ci-après « l'Emprunteur ».
+
+[Lien entre les parties, le cas échéant : [l'Emprunteur est [le fils / la fille / le neveu / l'ami(e)] du Prêteur].]
+
+> Note de rédaction : si le Prêteur est marié sous un régime de communauté et que la somme prêtée est importante au regard du patrimoine du couple, faites intervenir son conjoint à l'acte pour éviter toute contestation ultérieure.
+
+## ARTICLE 1 – OBJET ET MONTANT DU PRÊT
+
+Le Prêteur prête à l'Emprunteur, qui l'accepte, la somme de [montant en chiffres] euros ([montant en lettres] euros).
+
+[Option – Ce prêt est destiné à [l'achat de [bien] / le financement de [projet] / faire face à [dépense]]. L'Emprunteur s'engage à l'utiliser à cette fin.]
+
+## ARTICLE 2 – REMISE DES FONDS
+
+La somme est remise à l'Emprunteur :
+- [par virement bancaire du compte du Prêteur n° [IBAN] vers le compte de l'Emprunteur n° [IBAN], effectué le [date] / qui sera effectué au plus tard le [date]] ;
+- [par chèque n° [numéro] tiré sur [banque], remis ce jour].
+
+L'Emprunteur reconnaît, par la signature du présent contrat, avoir reçu la somme prêtée [ou s'engage à en accuser réception par écrit le jour du virement].
+
+> Note de rédaction : évitez la remise en espèces. Un virement ou un chèque laisse une trace qui prouve que l'argent a bien été remis, ce que le contrat seul ne prouve pas toujours.
+
+## ARTICLE 3 – INTÉRÊTS
+
+[Option A – Prêt sans intérêt : le prêt est consenti sans intérêt. L'Emprunteur ne remboursera que le capital prêté.]
+
+[Option B – Prêt avec intérêts : le prêt porte intérêt au taux fixe de [taux] % par an, calculé sur le capital restant dû. Le taux annuel effectif global du prêt, compte tenu de [aucun frais / frais de [nature et montant]], est de [taux] %.]
+
+> Note de rédaction : des intérêts ne sont dus que si leur taux est écrit dans le contrat. Le taux ne doit pas dépasser le taux de l'usure publié chaque trimestre par la Banque de France pour la catégorie de prêt concernée, sous peine de sanctions pénales et de restitution des intérêts excessifs. Les intérêts perçus par le Prêteur sont des revenus imposables qu'il doit déclarer.
+
+## ARTICLE 4 – REMBOURSEMENT
+
+### 4.1 Modalités
+
+[Option A – Remboursement en une fois : l'Emprunteur rembourse la totalité de la somme prêtée [et des intérêts] au plus tard le [date].]
+
+[Option B – Remboursement échelonné : l'Emprunteur rembourse le prêt en [nombre] mensualités de [montant] euros, payables le [jour] de chaque mois, à compter du [date] et jusqu'au [date], selon le tableau d'amortissement joint en annexe.]
+
+Les remboursements sont effectués par virement sur le compte du Prêteur n° [IBAN] [ou par virement permanent mis en place par l'Emprunteur].
+
+### 4.2 Remboursement anticipé
+
+L'Emprunteur peut rembourser tout ou partie du prêt avant le terme, à tout moment, sans frais ni indemnité. Les intérêts cessent de courir sur la part remboursée.
+
+### 4.3 Report d'échéances
+
+En cas de difficulté passagère de l'Emprunteur (perte d'emploi, maladie, autre événement), les parties peuvent convenir par écrit d'un report ou d'une réduction des échéances. Ce report ne modifie pas le montant total dû, sauf accord contraire.
+
+## ARTICLE 5 – RETARD ET DÉFAUT DE PAIEMENT
+
+Si une échéance n'est pas payée à sa date, le Prêteur adresse à l'Emprunteur une mise en demeure par lettre recommandée avec demande d'avis de réception. Les sommes dues portent alors intérêt au taux légal à compter de cette mise en demeure.
+
+[Option – Si [deux] échéances consécutives restent impayées [trente] jours après la mise en demeure, le Prêteur peut exiger le remboursement immédiat de la totalité du capital restant dû.]
+
+## ARTICLE 6 – DÉCÈS DE L'UNE DES PARTIES
+
+En cas de décès du Prêteur, la créance de remboursement fait partie de sa succession et ses héritiers en deviennent titulaires dans les mêmes conditions.
+
+En cas de décès de l'Emprunteur, la dette est transmise à ses héritiers qui acceptent la succession, dans les mêmes conditions.
+
+> Option : en cas de décès du Prêteur, le solde restant dû est [remis à l'Emprunteur à titre de libéralité / remboursé selon l'échéancier initial]. Une remise de dette au décès est une donation : elle est soumise aux règles des successions et, le cas échéant, aux droits de mutation. Faites relire cette option par un notaire.
+
+> Note de rédaction : lorsque le Prêteur aide l'un de ses enfants, prévoyez avec soin le sort du prêt à sa succession, afin de traiter équitablement ses autres enfants.
+
+## ARTICLE 7 – DÉCLARATION FISCALE
+
+Lorsque le montant du prêt, ou le total des prêts consentis entre les mêmes parties au cours d'une même année, dépasse 5 000 euros, le prêt doit être déclaré à l'administration fiscale au moyen du formulaire n° 2062, avec la déclaration des revenus de l'année au cours de laquelle il a été conclu. Les parties conviennent que cette déclaration est effectuée par [l'Emprunteur / le Prêteur], qui en remet une copie à l'autre partie.
+
+## ARTICLE 8 – CARACTÈRE DE PRÊT
+
+Les parties déclarent que la remise de la somme constitue un prêt, et non une donation. L'Emprunteur s'engage à rembourser selon les modalités ci-dessus, et le Prêteur entend être remboursé.
+
+## ARTICLE 9 – LITIGES
+
+Le présent contrat est régi par le droit français. En cas de désaccord, les parties chercheront d'abord une solution amiable, le cas échéant avec l'aide d'un conciliateur de justice, avant de saisir le tribunal compétent.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un pour chaque partie.
+
+Le Prêteur : [signature]
+
+L'Emprunteur : [mention écrite de sa main : « Je reconnais devoir à [nom du Prêteur] la somme de [montant en lettres] euros ([montant en chiffres] euros), que je m'engage à rembourser selon les conditions du présent contrat. »] [signature]
+
+> Note de rédaction : la mention de la somme en chiffres et en lettres, écrite par l'Emprunteur lui-même, est indispensable pour que l'acte prouve la dette. En cas de différence entre les deux, la somme écrite en lettres prévaut. Signé électroniquement, l'acte doit comporter une mention équivalente saisie par l'Emprunteur.
+
+## ANNEXE
+
+- [Le cas échéant, tableau d'amortissement]
+- [Copie de l'ordre de virement ou du chèque]

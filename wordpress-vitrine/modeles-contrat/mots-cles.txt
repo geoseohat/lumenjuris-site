@@ -75,7 +75,7 @@
 [x] 2026-11-08 convention de compte courant d'associé -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-de-compte-courant-d-associe/
 [x] 2026-11-08 contrat d'investissement -> écarté : ligne trop générale et trop risquée : « contrat d'investissement » recouvre des actes très différents (souscription à une augmentation de capital, BSA AIR, pacte d'associés déjà traité par pacte-d-associes, placements soumis à la réglementation de l'offre au public et de l'AMF) ; enjeu financier fort, presque toujours sur mesure
 [x] 2026-11-08 contrat de prêt entre entreprises -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-pret-entre-entreprises/
-contrat de prêt entre particuliers
+[x] 2026-11-08 contrat de prêt entre particuliers -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-pret-entre-particuliers/
 reconnaissance de dette
 contrat de location
 contrat de location meublée

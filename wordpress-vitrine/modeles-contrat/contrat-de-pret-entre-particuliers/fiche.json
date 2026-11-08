@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-pret-entre-particuliers",
+  "nom": "Contrat de prêt entre particuliers",
+  "nom_court": "contrat de prêt entre particuliers",
+  "categorie": "Litiges et accords amiables",
+  "mot_cle": "modèle contrat de prêt entre particuliers",
+  "mots_cles_secondaires": [
+    "contrat de prêt d'argent entre particuliers",
+    "prêt familial",
+    "contrat de prêt familial",
+    "prêt d'argent entre amis",
+    "prêt sans intérêt entre particuliers",
+    "contrat de prêt sous seing privé"
+  ],
+  "titre_h1": "Modèle de contrat de prêt entre particuliers gratuit (Word et PDF)",
+  "titre_seo": "Contrat de prêt entre particuliers : modèle gratuit 2026",
+  "meta_description": "Modèle gratuit de contrat de prêt d'argent entre particuliers : montant, intérêts, échéancier, mention manuscrite, déclaration 2062 et sort du prêt au décès.",
+  "chapo": "Le contrat de prêt entre particuliers encadre l'argent prêté à un enfant, un parent ou un ami, et sert de preuve en cas de désaccord. Ce modèle prévoit le montant, les intérêts éventuels, l'échéancier, la déclaration fiscale et le sort du prêt en cas de décès.",
+  "public": "Particuliers qui prêtent ou empruntent de l'argent à un proche",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-pret-entre-particuliers-lumen-juris",
+  "date_publication": "2026-11-08",
+  "date_mise_a_jour": "2026-11-08",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit patrimonial de la famille",
+      "Fiscalité des particuliers"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Fixer le montant et l'usage",
+      "Indiquez la somme exacte et, si vous le souhaitez, ce qu'elle doit financer."
+    ],
+    [
+      "Choisir prêt gratuit ou avec intérêts",
+      "Si vous prévoyez des intérêts, écrivez le taux et vérifiez qu'il reste sous le taux de l'usure."
+    ],
+    [
+      "Établir l'échéancier",
+      "Choisissez un remboursement en une fois ou par mensualités et mettez en place un virement permanent."
+    ],
+    [
+      "Faire écrire la mention par l'emprunteur",
+      "L'emprunteur écrit lui-même la somme en chiffres et en lettres avant de signer."
+    ],
+    [
+      "Déclarer le prêt de plus de 5 000 euros",
+      "Remplissez le formulaire 2062 avec la déclaration de revenus de l'année du prêt."
+    ]
+  ],
+  "faq": [
+    [
+      "Un prêt d'argent entre particuliers doit-il être écrit ?",
+      "La loi n'interdit pas un prêt oral, mais au-delà de 1 500 euros il se prouve en principe par écrit. Sans écrit, le prêteur aura du mal à obtenir son remboursement en justice. Le contrat évite aussi les malentendus entre proches."
+    ],
+    [
+      "À partir de quel montant faut-il déclarer un prêt familial ?",
+      "Lorsque le prêt dépasse 5 000 euros, ou que plusieurs prêts entre les mêmes personnes dépassent ce total sur une année. La déclaration se fait avec le formulaire 2062, joint à la déclaration de revenus. C'est en principe l'emprunteur qui la remplit."
+    ],
+    [
+      "Peut-on prêter de l'argent sans intérêt à son enfant ?",
+      "Oui, un prêt entre particuliers peut être gratuit. Il faut toutefois que les remboursements aient réellement lieu, sinon le prêt peut être requalifié en donation. Gardez une trace de chaque remboursement."
+    ],
+    [
+      "Quel taux d'intérêt peut-on appliquer entre particuliers ?",
+      "Le taux est libre, à condition d'être écrit et de ne pas dépasser le taux de l'usure publié chaque trimestre par la Banque de France. Au-delà, le prêteur s'expose à des sanctions pénales. Les intérêts perçus sont imposables."
+    ],
+    [
+      "Que devient le prêt si le prêteur décède ?",
+      "La somme restant due fait partie de sa succession : l'emprunteur doit la rembourser aux héritiers. Si l'emprunteur est lui-même héritier, cette dette est prise en compte dans le partage. Une remise de dette au décès doit être prévue avec soin, car c'est une donation."
+    ],
+    [
+      "Combien de temps a-t-on pour réclamer un prêt non remboursé ?",
+      "En principe cinq ans à compter de la date à laquelle le remboursement était dû. Pour des mensualités, le délai court échéance par échéance. Une mise en demeure par lettre recommandée est la première étape."
+    ],
+    [
+      "Faut-il passer chez le notaire pour un prêt entre particuliers ?",
+      "Ce n'est pas obligatoire : un contrat sous signature privée suffit. Un acte notarié est utile pour une somme importante ou un prêt garanti sur un bien immobilier. Il permet de saisir les biens de l'emprunteur sans jugement en cas d'impayé."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1892 et suivants (prêt de consommation), 1900 (délai fixé par le juge), 1907 (intérêts écrits), 1359 et 1376 (preuve par écrit et mention de la somme) et 2224 (prescription)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, articles L. 314-6 et suivants (taux de l'usure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code général des impôts, article 242 ter (déclaration des contrats de prêt)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-pret-entre-particuliers"
+  }
+}
