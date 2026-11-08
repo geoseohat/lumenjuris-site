@@ -1,0 +1,98 @@
+# RECONNAISSANCE DE DETTE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : la reconnaissance de dette est un acte par lequel une personne, le débiteur, reconnaît devoir une somme d'argent à une autre, le créancier. Elle est signée par le débiteur seul. Elle peut constater une dette de toute origine : prêt déjà versé, loyers ou factures impayés, réparation d'un dommage, avance de frais, solde d'un partage. Pour organiser un prêt qui n'a pas encore été versé, préférez un contrat de prêt signé par les deux parties.
+
+Je soussigné(e),
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse],
+
+ou
+
+La société [dénomination], [forme] au capital de [montant] euros, dont le siège est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom], en qualité de [qualité],
+
+ci-après « le Débiteur »,
+
+reconnais devoir à :
+
+[Madame / Monsieur] [prénom, nom], né(e) le [date] à [lieu], demeurant [adresse] / La société [dénomination], [forme], siège [adresse], RCS [ville] [numéro],
+
+ci-après « le Créancier »,
+
+la somme de [montant en chiffres] euros ([montant en lettres] euros), ci-après « la Dette ».
+
+## ARTICLE 1 – ORIGINE DE LA DETTE
+
+La Dette a pour origine :
+
+[Option A – un prêt d'argent que le Créancier m'a consenti le [date], par [virement / chèque n° [numéro]], que j'ai bien reçu.]
+
+[Option B – des [loyers / charges / factures] impayé(e)s au titre de [contrat ou relation], pour la période du [date] au [date], détaillé(e)s en annexe.]
+
+[Option C – la réparation du dommage causé le [date] à [bien ou personne], dont le montant a été convenu entre nous.]
+
+[Option D – [autre origine précise : avance de frais, solde de compte, soulte de partage].]
+
+> Note de rédaction : la loi n'exige pas d'indiquer l'origine de la dette. L'indiquer est cependant fortement conseillé : cela facilite le recouvrement, évite les contestations et permet, le cas échéant, de vérifier qu'il n'y a pas de double paiement.
+
+## ARTICLE 2 – INTÉRÊTS
+
+[Option A – La Dette ne porte pas intérêt, sauf en cas de retard dans les conditions de l'article 4.]
+
+[Option B – La Dette porte intérêt au taux fixe de [taux] % par an à compter du [date], calculé sur le capital restant dû.]
+
+> Note de rédaction : un taux d'intérêt conventionnel doit être écrit. S'agissant d'un prêt à un particulier, il ne doit pas dépasser le taux de l'usure publié chaque trimestre.
+
+## ARTICLE 3 – MODALITÉS DE REMBOURSEMENT
+
+Je m'engage à rembourser la Dette au Créancier selon les modalités suivantes :
+
+[Option A – en une seule fois, au plus tard le [date].]
+
+[Option B – en [nombre] versements [mensuels] de [montant] euros chacun, le [jour] de chaque mois, du [date] au [date], le dernier versement étant ajusté pour solder la Dette.]
+
+Les paiements seront faits par virement sur le compte du Créancier n° [IBAN], ou par tout autre moyen laissant une trace écrite.
+
+Je peux rembourser tout ou partie de la Dette par anticipation, à tout moment et sans frais.
+
+## ARTICLE 4 – RETARD DE PAIEMENT
+
+En cas de retard, et après une mise en demeure par lettre recommandée avec demande d'avis de réception restée sans effet pendant [quinze] jours, les sommes dues porteront intérêt au taux légal.
+
+[Option – Le défaut de paiement de [deux] échéances, après cette mise en demeure, rendra immédiatement exigible la totalité du solde restant dû.]
+
+## ARTICLE 5 – EFFET SUR LA PRESCRIPTION
+
+Je reconnais que la présente reconnaissance de dette interrompt le délai de prescription de l'action du Créancier en paiement de la Dette. Un nouveau délai de même durée court à compter de ce jour.
+
+## ARTICLE 6 – SOLIDARITÉ
+
+> Option : la Dette est reconnue conjointement par [nom du second débiteur], qui signe également le présent acte. Les débiteurs sont tenus solidairement : le Créancier peut réclamer la totalité de la Dette à l'un ou à l'autre.
+
+> Note de rédaction : la solidarité ne se présume pas. Elle doit être écrite. Supprimez cet article si le Débiteur est seul.
+
+## ARTICLE 7 – QUITTANCES
+
+À chaque paiement, le Créancier remet au Débiteur, à sa demande, un reçu indiquant la date, le montant versé et le solde restant dû. Lorsque la Dette est entièrement remboursée, le Créancier restitue l'original de la présente reconnaissance de dette ou remet une quittance pour solde de tout compte.
+
+## ARTICLE 8 – DROIT APPLICABLE ET LITIGES
+
+Le présent acte est régi par le droit français. En cas de difficulté, le Débiteur et le Créancier chercheront une solution amiable, le cas échéant avec l'aide d'un conciliateur de justice, avant toute action en justice.
+
+Fait à [ville], le [date], en [deux] exemplaires originaux, dont un remis au Créancier [et un conservé par le Débiteur].
+
+Mention à écrire par le Débiteur lui-même : « Bon pour reconnaissance de dette de la somme de [montant en lettres] euros ([montant en chiffres] euros). »
+
+Le Débiteur : [signature]
+
+[Le second débiteur, le cas échéant : même mention et signature]
+
+[Option – Le Créancier, pour acceptation des modalités de remboursement : [signature]]
+
+> Note de rédaction : la mention de la somme doit être écrite par le Débiteur lui-même, en chiffres et en lettres. Si elle est absente ou incomplète, l'acte ne constitue qu'un commencement de preuve par écrit, qu'il faudra compléter par d'autres éléments. Le Créancier peut signer pour accepter l'échéancier : cela fixe aussi ses propres engagements.
+
+## ANNEXE
+
+- [Le cas échéant, détail des sommes dues ou copie des factures]
+- [Le cas échéant, copie du virement ou du chèque à l'origine de la Dette]

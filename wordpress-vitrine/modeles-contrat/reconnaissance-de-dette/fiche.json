@@ -1,0 +1,102 @@
+{
+  "slug": "reconnaissance-de-dette",
+  "nom": "Reconnaissance de dette",
+  "nom_court": "reconnaissance de dette",
+  "categorie": "Litiges et accords amiables",
+  "mot_cle": "modèle reconnaissance de dette",
+  "mots_cles_secondaires": [
+    "modèle reconnaissance de dette gratuit",
+    "reconnaissance de dette manuscrite",
+    "reconnaissance de dette avec échéancier",
+    "reconnaissance de dette entre particuliers",
+    "reconnaissance de dette loyers impayés",
+    "attestation de dette"
+  ],
+  "titre_h1": "Modèle de reconnaissance de dette gratuit (Word et PDF)",
+  "titre_seo": "Reconnaissance de dette : modèle gratuit 2026 (Word et PDF)",
+  "meta_description": "Modèle gratuit de reconnaissance de dette : origine de la dette, échéancier, intérêts, mention écrite du débiteur, prescription et recouvrement en cas d'impayé.",
+  "chapo": "La reconnaissance de dette est l'écrit par lequel un débiteur admet devoir une somme précise, quelle qu'en soit l'origine : prêt, loyers, factures ou dommage. Ce modèle fixe le montant, l'échéancier et les intérêts, et rappelle la mention que le débiteur doit écrire lui-même.",
+  "public": "Particuliers et entreprises qui constatent une dette existante",
+  "gratuit": true,
+  "fichier_base": "modele-reconnaissance-de-dette-lumen-juris",
+  "date_publication": "2026-11-08",
+  "date_mise_a_jour": "2026-11-08",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit de la preuve",
+      "Procédures de recouvrement"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Chiffrer la dette précisément",
+      "Additionnez les sommes dues à une date donnée et joignez le détail en annexe."
+    ],
+    [
+      "Décrire l'origine de la dette",
+      "Indiquez s'il s'agit d'un prêt, d'impayés, d'un dommage ou d'une avance, avec les dates."
+    ],
+    [
+      "Convenir d'un échéancier réaliste",
+      "Fixez des versements que le débiteur peut tenir, et une date de fin."
+    ],
+    [
+      "Faire écrire la mention par le débiteur",
+      "Le débiteur écrit lui-même le montant en chiffres et en lettres avant de signer."
+    ],
+    [
+      "Conserver l'original et les reçus",
+      "Le créancier garde l'original et remet un reçu à chaque paiement."
+    ]
+  ],
+  "faq": [
+    [
+      "Une reconnaissance de dette doit-elle être manuscrite ?",
+      "Non, l'acte peut être tapé à l'ordinateur. En revanche, le débiteur doit écrire lui-même le montant en chiffres et en lettres, puis signer. Signé électroniquement, l'acte doit comporter une mention équivalente saisie par le débiteur."
+    ],
+    [
+      "Une reconnaissance de dette a-t-elle une valeur juridique sans notaire ?",
+      "Oui. Signée par le débiteur avec la mention de la somme, elle prouve la dette devant le juge. Elle ne permet toutefois pas de saisir directement les biens : il faut obtenir une décision, par exemple une injonction de payer."
+    ],
+    [
+      "Faut-il des témoins pour signer une reconnaissance de dette ?",
+      "Non, la loi n'exige pas de témoin. La signature et la mention du débiteur suffisent. Des témoins peuvent seulement aider à prouver que l'acte a été signé librement."
+    ],
+    [
+      "Combien de temps une reconnaissance de dette est-elle valable ?",
+      "Elle interrompt la prescription : le créancier dispose d'un nouveau délai, en principe de cinq ans entre particuliers, à compter de sa signature ou de chaque échéance impayée. Passé ce délai sans paiement ni nouvelle reconnaissance, l'action en paiement peut être prescrite."
+    ],
+    [
+      "Peut-on contester une reconnaissance de dette ?",
+      "Oui, mais c'est au débiteur de prouver que la dette n'existe pas ou qu'il a signé sous la contrainte ou par erreur. La simple signature fait présumer que la dette est réelle. Une dette déjà payée peut aussi être contestée, d'où l'importance des reçus."
+    ],
+    [
+      "Que faire si le débiteur ne respecte pas l'échéancier ?",
+      "Adressez d'abord au débiteur une mise en demeure écrite, idéalement en recommandé. Sans réaction de sa part, demandez une injonction de payer au tribunal en joignant la reconnaissance de dette. Un conciliateur de justice peut aussi être saisi gratuitement."
+    ],
+    [
+      "Faut-il déclarer une reconnaissance de dette aux impôts ?",
+      "Si elle constate un prêt de plus de 5 000 euros entre particuliers, le prêt doit être déclaré avec le formulaire 2062. Une dette d'une autre origine, comme des factures impayées, n'a pas à être déclarée à ce titre."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1359 et 1376 (preuve par écrit et mention de la somme par celui qui s'engage), 1310 (solidarité), 2224 et 2240 (prescription et interruption par la reconnaissance du débiteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de procédure civile, articles 1405 et suivants (injonction de payer)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "reconnaissance-dette"
+  }
+}
