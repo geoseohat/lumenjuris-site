@@ -1,0 +1,103 @@
+{
+  "slug": "contrat-de-location-meublee",
+  "nom": "Contrat de location meublée",
+  "nom_court": "contrat de location meublée",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de location meublée",
+  "mots_cles_secondaires": [
+    "bail meublé",
+    "modèle bail location meublée",
+    "contrat de location meublée gratuit",
+    "bail meublé étudiant 9 mois",
+    "bail meublé word",
+    "bail location meublée résidence principale",
+    "contrat location meublée pdf"
+  ],
+  "titre_h1": "Modèle de contrat de location meublée gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de location meublée gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de bail meublé pour résidence principale en Word ou PDF : durée d'un an ou 9 mois étudiant, mobilier obligatoire, charges, dépôt et congé.",
+  "chapo": "Le contrat de location meublée encadre la location d'un logement équipé que le locataire occupe comme résidence principale, pour un an ou neuf mois s'il est étudiant. Voici un modèle gratuit suivant le contrat type, avec l'inventaire du mobilier et les options courantes.",
+  "public": "Propriétaires bailleurs et locataires de logements meublés",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-location-meublee-lumen-juris",
+  "date_publication": "2026-11-09",
+  "date_mise_a_jour": "2026-11-09",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Baux d'habitation",
+      "Droit immobilier",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez le mobilier",
+      "Contrôlez que le logement contient chaque élément de la liste réglementaire, de la literie aux rideaux occultants, avant de le proposer comme meublé."
+    ],
+    [
+      "Choisissez la durée",
+      "Retenez un an reconductible, ou neuf mois sans reconduction si votre locataire est étudiant ; pour un besoin de un à dix mois, préférez un bail mobilité."
+    ],
+    [
+      "Fixez loyer, charges et dépôt",
+      "Indiquez le loyer en respectant l'encadrement local s'il existe, choisissez entre forfait et provisions pour les charges et limitez le dépôt à deux mois hors charges."
+    ],
+    [
+      "Rassemblez les annexes",
+      "Joignez les diagnostics, la notice d'information, les extraits du règlement de copropriété et, le cas échéant, l'acte de cautionnement séparé."
+    ],
+    [
+      "Dressez l'inventaire à la remise des clés",
+      "Établissez ensemble l'état des lieux et l'inventaire détaillé du mobilier, signez-les et conservez un exemplaire chacun avec le bail."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la durée d'un bail meublé ?",
+      "Un an au minimum, reconduit tacitement chaque année si personne ne donne congé. Lorsque le locataire est étudiant, la durée peut être ramenée à neuf mois ; le bail prend alors fin à son terme, sans reconduction."
+    ],
+    [
+      "Quel préavis pour quitter une location meublée ?",
+      "Le locataire peut partir à tout moment avec un préavis d'un mois, sans avoir à se justifier. Il envoie son congé par lettre recommandée avec avis de réception, par commissaire de justice ou le remet en main propre contre récépissé."
+    ],
+    [
+      "Quels meubles sont obligatoires dans une location meublée ?",
+      "Un décret impose une liste minimale : literie avec couette ou couverture, occultation des fenêtres des chambres, plaques de cuisson, four ou micro-ondes, réfrigérateur avec compartiment congélation, vaisselle, ustensiles de cuisine, table et sièges, étagères, luminaires et matériel d'entretien ménager."
+    ],
+    [
+      "Le propriétaire d'un meublé peut-il récupérer son logement ?",
+      "Oui, mais seulement à l'échéance du bail, avec trois mois de préavis, pour l'habiter lui-même ou y loger un proche, pour le vendre, ou pour un motif légitime et sérieux. Le motif doit figurer dans le congé, faute de quoi celui-ci peut être annulé."
+    ],
+    [
+      "Les charges d'une location meublée peuvent-elles être forfaitaires ?",
+      "Oui. Le bail choisit entre un forfait, payé chaque mois sans régularisation, et des provisions régularisées une fois par an sur justificatifs. Le forfait peut être révisé chaque année comme le loyer, mais il ne doit pas être manifestement disproportionné par rapport aux charges réelles."
+    ],
+    [
+      "Peut-on louer en meublé un logement mal classé au DPE ?",
+      "Un logement classé G n'est plus considéré comme décent pour les baux signés ou renouvelés depuis le 1er janvier 2025, et ce sera le cas des logements classés F en 2028. Le loyer d'un logement classé F ou G ne peut pas non plus être augmenté."
+    ],
+    [
+      "Que se passe-t-il si un meuble obligatoire manque ?",
+      "Le locataire peut demander au juge de requalifier le contrat en location vide. Il bénéficie alors d'un bail de trois ans et d'un préavis du bailleur de six mois. Le bailleur a donc intérêt à vérifier la liste avant la signature et à la reporter dans l'inventaire."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 89-462 du 6 juillet 1989, titre Ier bis (articles 25-3 à 25-11 : logements meublés loués à titre de résidence principale), notamment 25-4 (définition), 25-5 (inventaire), 25-6 (dépôt de garantie), 25-7 (durée), 25-8 (congé) et 25-10 (charges) ; articles 4 (clauses interdites), 8-1 (colocation), 22 (restitution du dépôt) et 24 (clause résolutoire)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ],
+    [
+      "Code civil, articles 1709 et suivants (louage de choses) et 1714 et suivants (baux des maisons et des biens ruraux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-location-meublee"
+  }
+}

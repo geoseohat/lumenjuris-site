@@ -1536,27 +1536,53 @@
     "reconnaissance-de-dette": {
       "fichiers": {
         "docx": {
-          "id": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o1.id}}",
-          "url": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o1.source_url}}",
+          "id": 3586,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-reconnaissance-de-dette-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "82f8bb66883c92b5e9688175a34f77e6d75e9e2a02a15b162c5815a084a6f398"
         },
         "pdf": {
-          "id": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o2.id}}",
-          "url": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o2.source_url}}",
+          "id": 3587,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-reconnaissance-de-dette-lumen-juris.pdf",
           "taille": "77 Ko",
           "empreinte": "82f8bb66883c92b5e9688175a34f77e6d75e9e2a02a15b162c5815a084a6f398"
         }
       },
       "image": {
-        "id": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o3.id}}",
-        "url": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o3.source_url}}",
+        "id": 3588,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-reconnaissance-de-dette-lumen-juris.png",
         "taille": "292 Ko",
         "empreinte": "ac16c21750348e47229055aa9eb169ec0a039606e2240616c55d17c0d0dfd2e1"
       },
       "statut": "publish",
-      "id": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o7.id}}",
-      "lien": "{{20261108-092127-publier-en-ligne-reconnaissance-de-dette.o7.link}}",
+      "id": 3589,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/reconnaissance-de-dette/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-location-meublee": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o1.id}}",
+          "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o1.source_url}}",
+          "taille": "44 Ko",
+          "empreinte": "59221c5605a2f63c22bab036e84df27c5d5793678f1e848734551deaf02b9edb"
+        },
+        "pdf": {
+          "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o2.id}}",
+          "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o2.source_url}}",
+          "taille": "166 Ko",
+          "empreinte": "59221c5605a2f63c22bab036e84df27c5d5793678f1e848734551deaf02b9edb"
+        }
+      },
+      "image": {
+        "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o3.id}}",
+        "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o3.source_url}}",
+        "taille": "293 Ko",
+        "empreinte": "20bbfe162b5f10a00aede72e5f7a57371f4864b5033f1bc965a0877c2fc7b07e"
+      },
+      "statut": "publish",
+      "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o7.id}}",
+      "lien": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1565,6 +1591,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261108-092127-publier-en-ligne-reconnaissance-de-dette"
+    "20261109-092039-publier-en-ligne-contrat-de-location-meublee"
   ]
 }
