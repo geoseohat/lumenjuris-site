@@ -1,0 +1,225 @@
+# CONTRAT DE LOCATION D'UN LOGEMENT NON MEUBLÉ (LOCATION VIDE)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne la location d'un logement vide servant de résidence principale au locataire, régie par le titre Ier de la loi n° 89-462 du 6 juillet 1989. Il reprend la structure du contrat type de location non meublée, dans sa version applicable aux baux conclus ou renouvelés à partir du 1er octobre 2026. Pour un logement meublé, une location saisonnière, un logement conventionné ou un local professionnel, utilisez un autre contrat.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Nom et prénom du bailleur personne physique], demeurant [adresse],
+[ou : [dénomination de la société], [société civile immobilière familiale / autre personne morale], dont le siège est situé [adresse], immatriculée sous le numéro [numéro], représentée par [nom et prénom], agissant en qualité de [fonction]],
+[Courriel : [adresse], mention facultative]
+
+> Option : en cas de gestion par un professionnel, mentionnez le nom ou la raison sociale du mandataire, son adresse, l'activité exercée et le numéro et lieu de délivrance de sa carte professionnelle.
+
+Désigné ci-après « le Bailleur »,
+
+ET :
+
+[Nom et prénom du locataire], né(e) le [date] à [lieu], [courriel et téléphone portable, mentions facultatives],
+[Nom et prénom du second locataire ou du conjoint cotitulaire, le cas échéant], né(e) le [date] à [lieu],
+
+Désigné(s) ci-après « le Locataire »,
+
+Ensemble désignés « les Parties ».
+
+LES PARTIES SONT CONVENUES DE CE QUI SUIT :
+
+## ARTICLE 1 – OBJET ET DISPOSITIONS APPLICABLES
+
+Le Bailleur loue au Locataire, qui l'accepte, le logement non meublé décrit à l'article 2, destiné à constituer la résidence principale du Locataire.
+
+Le contrat est régi par le titre Ier de la loi n° 89-462 du 6 juillet 1989, dont les dispositions sont d'ordre public, ainsi que par ses textes d'application. Toute stipulation qui leur serait contraire est réputée non écrite.
+
+Le logement est à usage exclusif d'habitation [ou : à usage mixte d'habitation et d'exercice de l'activité professionnelle suivante : [activité], à l'exclusion de toute activité commerciale, artisanale ou industrielle].
+
+## ARTICLE 2 – DESCRIPTION DU LOGEMENT
+
+### 2.1 Caractéristiques
+
+- Adresse : [adresse, bâtiment, escalier, étage, porte]
+- Identifiant fiscal du logement : [identifiant]
+- Type d'habitat : [collectif / individuel]
+- Régime de l'immeuble : [monopropriété / copropriété]
+- Période de construction : [période]
+- Surface habitable : [nombre] m²
+- Nombre de pièces principales : [nombre]
+- Annexes du logement : [cave, grenier, jardin privatif, balcon, terrasse, etc.]
+- Éléments d'équipement : [cuisine équipée, installations sanitaires, etc.]
+- Chauffage : [individuel ou collectif, énergie utilisée]
+- Eau chaude sanitaire : [individuelle ou collective]
+- Diagnostic de performance énergétique : classe [classe], consommation de [nombre] kWh/m²/an
+
+> Note de rédaction : un logement classé G au diagnostic de performance énergétique ne répond plus au critère de décence depuis le 1er janvier 2025 pour les nouveaux baux et les renouvellements. Les logements classés F seront concernés en 2028 et ceux classés E en 2034.
+
+### 2.2 Accessoires et parties communes
+
+- Locaux et équipements accessoires à usage privatif : [garage, place de stationnement n° …, cave n° …]
+- Locaux, parties et équipements à usage commun : [espaces verts, local poubelles, ascenseur, gardiennage, etc.]
+- Accès aux technologies de l'information et de la communication : [fibre optique, antenne collective, etc.]
+
+### 2.3 Servitude de résidence principale
+
+> Option : uniquement lorsque le plan local d'urbanisme impose, dans le secteur du logement, une affectation à la résidence principale. Dans le cas contraire, supprimez ce point.
+
+Le logement est grevé d'une servitude de résidence principale instituée par le plan local d'urbanisme de [commune]. Le Locataire l'occupe exclusivement à ce titre.
+
+## ARTICLE 3 – DURÉE DU CONTRAT
+
+Le contrat prend effet le [date] pour une durée de [trois ans, si le Bailleur est une personne physique ou une société civile immobilière familiale / six ans, si le Bailleur est une autre personne morale].
+
+À défaut de congé ou d'offre de renouvellement donnés dans les conditions prévues à l'article 10, le contrat parvenu à son terme est reconduit tacitement pour une durée égale à la durée initiale.
+
+> Option (durée réduite) : le Bailleur personne physique peut prévoir une durée inférieure à trois ans, sans pouvoir être inférieure à un an, lorsqu'un événement précis justifie qu'il ait à reprendre le logement pour des raisons professionnelles ou familiales. Indiquez alors : « Le présent contrat est conclu pour une durée de [durée] en raison de l'événement suivant : [événement précis] ». Le Bailleur confirme la réalisation de l'événement au Locataire au moins deux mois avant le terme.
+
+## ARTICLE 4 – LOYER
+
+### 4.1 Loyer initial
+
+Le loyer mensuel est de [montant en chiffres] euros ([montant en lettres] euros), hors charges.
+
+### 4.2 Zone d'encadrement ou zone tendue
+
+> Option : à compléter si le logement se situe dans une commune concernée par l'encadrement du niveau des loyers ou par la limitation de l'évolution des loyers entre deux locataires. Sinon, supprimez ce point.
+
+- Loyer de référence : [montant] euros/m² ; loyer de référence majoré : [montant] euros/m² ;
+- Complément de loyer : [montant] euros, motivé par les caractéristiques suivantes : [caractéristiques] ;
+- Dernier loyer appliqué au précédent locataire, si celui-ci a quitté le logement depuis moins de dix-huit mois : [montant], versé le [date], révisé le [date].
+
+> Note de rédaction : en zone tendue, le loyer d'un nouveau locataire ne peut en principe pas dépasser le dernier loyer appliqué, éventuellement révisé, sauf travaux importants ou loyer manifestement sous-évalué, dans les conditions fixées par décret.
+
+### 4.3 Révision
+
+Le loyer est révisé une fois par an, le [date anniversaire du contrat ou autre date], selon la variation de l'indice de référence des loyers (IRL) publié par l'INSEE. L'indice de base est celui du [trimestre] [année] : [valeur].
+
+Le Bailleur qui ne manifeste pas sa volonté d'appliquer la révision dans l'année suivant sa date de prise d'effet est réputé y avoir renoncé pour cette année. La révision s'applique à compter de la demande, sans rétroactivité.
+
+> Note de rédaction : le loyer d'un logement classé F ou G au diagnostic de performance énergétique ne peut faire l'objet d'aucune révision ni majoration.
+
+### 4.4 Travaux d'amélioration
+
+> Option : les Parties peuvent convenir que le Bailleur réalisera, en cours de bail, les travaux d'amélioration suivants : [nature des travaux], moyennant une majoration du loyer de [montant] euros par mois à compter de leur achèvement.
+
+## ARTICLE 5 – CHARGES
+
+Le Locataire verse chaque mois, en même temps que le loyer, une provision sur charges de [montant] euros.
+
+Les provisions font l'objet d'une régularisation au moins annuelle. Le Bailleur adresse au Locataire, un mois avant cette régularisation, le décompte des charges par nature et, dans un immeuble collectif, le mode de répartition entre les locataires et, le cas échéant, une note d'information sur les modalités de calcul des charges de chauffage et d'eau chaude collectifs. Les pièces justificatives sont tenues à la disposition du Locataire pendant six mois après l'envoi du décompte.
+
+Si la régularisation n'a pas été effectuée dans l'année suivant l'exigibilité des charges, le Locataire peut en demander le paiement échelonné sur douze mois.
+
+Seules sont récupérables les charges énumérées par le décret fixant la liste des charges récupérables.
+
+> Option (colocation) : en cas de colocation sous un contrat unique, les Parties peuvent convenir d'un forfait de charges de [montant] euros par mois, révisable chaque année dans les mêmes conditions que le loyer.
+
+## ARTICLE 6 – PAIEMENT
+
+Le loyer et les provisions sont payables [d'avance, le [jour] de chaque mois / à terme échu, le [jour] du mois suivant], par [virement bancaire / chèque / autre moyen choisi par le Locataire].
+
+Une quittance est délivrée sans frais au Locataire qui en fait la demande, éventuellement par courrier électronique avec son accord. Elle distingue le loyer et les charges.
+
+## ARTICLE 7 – DÉPÔT DE GARANTIE
+
+À la signature, le Locataire remet au Bailleur la somme de [montant] euros à titre de dépôt de garantie. Ce montant ne peut être supérieur à un mois de loyer hors charges. Il n'est pas productif d'intérêts et reste inchangé pendant toute la durée du contrat et de ses renouvellements.
+
+Le Bailleur restitue le dépôt au plus tard un mois après la remise des clés lorsque l'état des lieux de sortie est conforme à celui d'entrée, et au plus tard deux mois après cette remise dans le cas contraire, sous déduction des sommes restant dues et justifiées. Dans un immeuble en copropriété, il peut conserver jusqu'à 20 % du dépôt jusqu'à l'approbation définitive des comptes de l'année.
+
+Tout retard de restitution entraîne une majoration égale à 10 % du loyer mensuel hors charges, par mois de retard commencé. Cette majoration n'est pas due si le Locataire n'a pas communiqué sa nouvelle adresse.
+
+## ARTICLE 8 – ENGAGEMENTS DU BAILLEUR
+
+Le Bailleur s'engage à :
+- délivrer un logement décent et en bon état d'usage et de réparation, ainsi que des équipements en bon état de fonctionnement ;
+- garantir au Locataire une jouissance paisible et le protéger des vices ou défauts qui en empêchent l'usage, hormis ceux consignés dans l'état des lieux ;
+- entretenir le logement et y réaliser toutes les réparations autres que locatives ;
+- ne pas s'opposer aux aménagements du Locataire qui ne transforment pas le logement ;
+- remettre gratuitement les quittances demandées.
+
+## ARTICLE 9 – ENGAGEMENTS DU LOCATAIRE
+
+Le Locataire s'engage à :
+- régler le loyer et les charges aux échéances prévues ;
+- occuper paisiblement le logement conformément à sa destination ;
+- répondre des dégradations et pertes survenues pendant la location, sauf s'il prouve qu'elles résultent de la vétusté, d'une malfaçon, d'un vice de construction, d'un cas de force majeure ou du fait d'un tiers qu'il n'a pas introduit dans le logement ;
+- assurer l'entretien courant du logement et des équipements, les menues réparations et les réparations locatives fixées par décret ;
+- ne pas transformer le logement sans l'accord écrit du Bailleur, à défaut de quoi celui-ci peut exiger la remise en état ou conserver les transformations sans indemnité ;
+- permettre l'accès au logement pour les travaux d'amélioration, d'entretien ou de rénovation énergétique, après notification écrite de leur nature et de leurs modalités ;
+- souscrire une assurance contre les risques locatifs et en justifier à la remise des clés puis chaque année sur demande ;
+- ne pas céder le bail ni sous-louer sans l'accord écrit du Bailleur, notamment sur le loyer de la sous-location.
+
+## ARTICLE 10 – CONGÉ
+
+### 10.1 Congé donné par le Locataire
+
+Le Locataire peut résilier le contrat à tout moment, moyennant un préavis de trois mois.
+
+Le préavis est réduit à un mois lorsque le logement est situé en zone tendue, ou en cas d'obtention d'un premier emploi, de mutation, de perte d'emploi ou de nouvel emploi consécutif à une perte d'emploi, lorsque l'état de santé du Locataire, constaté par certificat médical, justifie un changement de domicile, lorsque le Locataire est bénéficiaire du revenu de solidarité active ou de l'allocation aux adultes handicapés, lorsqu'il se voit attribuer un logement social, ainsi que dans les autres cas prévus par l'article 15 de la loi du 6 juillet 1989. Le Locataire précise le motif invoqué et le justifie lors de l'envoi du congé, à défaut de quoi le préavis de trois mois s'applique.
+
+### 10.2 Congé donné par le Bailleur
+
+Le Bailleur peut donner congé pour le terme du contrat, au moins six mois à l'avance, en le justifiant :
+- soit par sa décision de reprendre le logement pour l'habiter ou y loger un bénéficiaire prévu par la loi (conjoint, partenaire de PACS, concubin notoire depuis au moins un an, ascendants, descendants du Bailleur ou de son conjoint, partenaire ou concubin), en indiquant ses nom et adresse et le lien avec le Bailleur ;
+- soit par sa décision de vendre le logement, le congé valant alors offre de vente au profit du Locataire, aux prix et conditions indiqués, offre valable pendant les deux premiers mois du préavis ;
+- soit par un motif légitime et sérieux, notamment l'inexécution par le Locataire de l'une de ses obligations.
+
+> Note de rédaction : une notice d'information, dont le contenu est fixé par arrêté, est jointe au congé délivré par le Bailleur. Le Locataire âgé de plus de 65 ans dont les ressources sont inférieures à un plafond, ou qui héberge une telle personne, ne peut recevoir congé sans offre de relogement adaptée, sauf si le Bailleur remplit lui-même certaines conditions d'âge ou de ressources.
+
+### 10.3 Modalités
+
+Le congé est adressé par lettre recommandée avec demande d'avis de réception, signifié par acte de commissaire de justice ou remis en main propre contre récépissé ou émargement. Le préavis court à compter du jour de la réception de la lettre, de la signification de l'acte ou de la remise en main propre.
+
+Pendant le préavis, le Locataire doit le loyer et les charges pour toute la durée du délai, sauf si un autre locataire occupe le logement avant son expiration avec l'accord du Bailleur.
+
+## ARTICLE 11 – RÉSILIATION DE PLEIN DROIT
+
+Le contrat est résilié de plein droit, si bon semble au Bailleur :
+- en cas de défaut de paiement de tout ou partie du loyer ou des charges aux termes convenus, ou de non-versement du dépôt de garantie, six semaines après la délivrance d'un commandement de payer demeuré sans effet ;
+- en cas de défaut d'assurance des risques locatifs, un mois après un commandement demeuré infructueux ;
+- en cas de troubles de voisinage constatés par une décision de justice devenue définitive.
+
+> Note de rédaction : le commandement est délivré par commissaire de justice et contient les mentions prévues par la loi. Le juge saisi peut accorder des délais de paiement au Locataire, pendant lesquels les effets de la clause sont suspendus.
+
+## ARTICLE 12 – COLOCATION ET SOLIDARITÉ
+
+> Option : à conserver en cas de pluralité de locataires ou de conjoints cotitulaires.
+
+Les locataires sont tenus solidairement et indivisiblement de l'ensemble des obligations du présent contrat. Lorsqu'un colocataire donne congé, sa solidarité et celle de sa caution cessent dès qu'un nouveau colocataire figure au bail ou, à défaut, à l'expiration d'un délai de six mois suivant la fin de son préavis.
+
+## ARTICLE 13 – GARANTIES
+
+> Option : un cautionnement fait l'objet d'un acte séparé, accompagné d'un exemplaire du présent contrat. Un bailleur ayant souscrit une assurance garantissant les loyers impayés ne peut exiger de cautionnement, sauf au profit d'un étudiant ou d'un apprenti.
+
+[Aucune garantie / Cautionnement de [nom et prénom], selon acte séparé / Garantie Visale n° [numéro]]
+
+## ARTICLE 14 – HONORAIRES DU PROFESSIONNEL
+
+> Option : à compléter lorsqu'un professionnel intervient dans la mise en location. La part à la charge du Locataire est limitée aux prestations de visite, de constitution du dossier, de rédaction du bail et d'état des lieux, sans pouvoir excéder la part du Bailleur ni les plafonds réglementaires par mètre carré.
+
+- Part du Bailleur : [montant] euros, dont [montant] euros au titre de l'état des lieux ;
+- Part du Locataire : [montant] euros, dont [montant] euros au titre de l'état des lieux ;
+- Plafonds réglementaires : [montant] euros/m² (visite, dossier, bail) et [montant] euros/m² (état des lieux).
+
+## ARTICLE 15 – CONDITIONS PARTICULIÈRES
+
+[Travaux effectués depuis la fin du dernier contrat et leur montant, conditions d'usage du jardin, entretien de la chaudière, ramonage, etc.]
+
+> Note de rédaction : sont réputées non écrites, entre autres, les clauses qui imposent un mode de paiement par prélèvement automatique, prévoient des amendes ou pénalités en cas d'infraction au bail, interdisent la détention d'un animal domestique, autorisent le Bailleur à percevoir des frais de quittance ou d'envoi, imposent une compagnie d'assurance choisie par le Bailleur ou engagent la responsabilité collective des locataires pour les dégradations d'une partie commune.
+
+## ARTICLE 16 – PIÈCES ANNEXÉES
+
+Sont joints au présent contrat, dont ils font partie intégrante :
+- l'état des lieux d'entrée, établi contradictoirement au moment de la remise des clés ;
+- le dossier de diagnostic technique (diagnostic de performance énergétique ; constat de risque d'exposition au plomb si l'immeuble date d'avant 1949 ; états des installations intérieures d'électricité et de gaz de plus de quinze ans ; état des risques ; diagnostic bruit le cas échéant) ;
+- la notice d'information sur les droits et obligations des locataires et des bailleurs ;
+- pour un logement en copropriété, les extraits du règlement de copropriété relatifs à la destination de l'immeuble, à la jouissance et à l'usage des parties privatives et communes, et la quote-part du lot dans chacune des catégories de charges ;
+- le cas échéant, l'acte de cautionnement, l'autorisation préalable de mise en location et la grille de vétusté convenue.
+
+Fait à [ville], le [date], en autant d'exemplaires originaux que de Parties.
+
+Le Bailleur
+[Signature précédée de la mention « Lu et approuvé »]
+
+Le ou les Locataires
+[Signature(s) précédée(s) de la mention « Lu et approuvé »]
+
+> Note de rédaction : les pages du contrat et des annexes sont paraphées par chaque Partie. La signature électronique est admise.

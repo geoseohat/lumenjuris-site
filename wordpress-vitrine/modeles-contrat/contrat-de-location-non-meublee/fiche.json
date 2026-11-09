@@ -1,0 +1,102 @@
+{
+  "slug": "contrat-de-location-non-meublee",
+  "nom": "Contrat de location non meublée",
+  "nom_court": "contrat de location non meublée",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de location non meublée",
+  "mots_cles_secondaires": [
+    "bail location vide",
+    "modèle bail vide",
+    "contrat de location vide gratuit",
+    "bail non meublé 3 ans",
+    "bail habitation vide word",
+    "contrat de bail logement vide pdf"
+  ],
+  "titre_h1": "Modèle de contrat de location non meublée gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de location non meublée gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de bail de location vide en Word ou PDF : durée de 3 ou 6 ans, loyer et IRL, provisions sur charges, dépôt d'un mois et congé du bailleur.",
+  "chapo": "Le contrat de location non meublée encadre la location d'un logement vide servant de résidence principale, pour trois ans au moins si le propriétaire est un particulier. Voici un modèle gratuit conforme au contrat type, avec les clauses obligatoires et les options utiles.",
+  "public": "Propriétaires bailleurs et locataires de logements vides",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-location-non-meublee-lumen-juris",
+  "date_publication": "2026-11-09",
+  "date_mise_a_jour": "2026-11-09",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Baux d'habitation",
+      "Droit immobilier",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifiez le bailleur",
+      "Précisez si le logement appartient à un particulier, à une SCI familiale ou à une autre société : la durée minimale passe de trois à six ans dans ce dernier cas."
+    ],
+    [
+      "Vérifiez la décence et le DPE",
+      "Contrôlez la classe énergétique, la surface habitable exacte et l'état des équipements avant de fixer le loyer ; un logement classé G ne peut plus être loué en bail neuf."
+    ],
+    [
+      "Calculez loyer et provisions",
+      "Fixez le loyer en tenant compte de l'encadrement local, indiquez l'indice IRL de référence et une provision de charges fondée sur les dépenses réelles de l'année passée."
+    ],
+    [
+      "Joignez les annexes obligatoires",
+      "Ajoutez le dossier de diagnostics, la notice d'information, les extraits du règlement de copropriété et l'éventuel acte de cautionnement."
+    ],
+    [
+      "Faites l'état des lieux d'entrée",
+      "Visitez le logement pièce par pièce avec le locataire le jour de la remise des clés, notez l'état de chaque élément, puis signez le bail et l'état des lieux."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la durée minimale d'un bail de location vide ?",
+      "Trois ans lorsque le propriétaire est une personne physique ou une société civile immobilière familiale, six ans lorsqu'il s'agit d'une autre personne morale. Une durée comprise entre un et trois ans n'est possible que si un événement professionnel ou familial précis, écrit dans le bail, justifie la reprise du logement."
+    ],
+    [
+      "Quel préavis doit respecter le locataire d'un logement vide ?",
+      "Trois mois en principe. Le délai est ramené à un mois en zone tendue et dans certains cas personnels, comme une mutation, une perte d'emploi, un premier emploi ou un problème de santé, à condition d'en justifier dans la lettre de congé."
+    ],
+    [
+      "Combien peut-on demander de dépôt de garantie pour une location vide ?",
+      "Un mois de loyer hors charges au maximum. Le dépôt ne peut pas être augmenté pendant le bail, même si le loyer est révisé, et il doit être restitué dans un délai d'un mois ou de deux mois après la remise des clés selon l'état du logement."
+    ],
+    [
+      "Le propriétaire peut-il vendre un logement loué vide ?",
+      "Oui. Il peut le vendre occupé, et le bail se poursuit avec l'acheteur. S'il veut le vendre libre, il doit donner congé six mois avant l'échéance du bail : ce congé vaut offre de vente au locataire, qui a deux mois pour l'accepter."
+    ],
+    [
+      "Peut-on prévoir un forfait de charges dans un bail vide ?",
+      "Non, sauf en colocation sous bail unique. Les charges sont réglées par provisions mensuelles, puis régularisées au moins une fois par an au vu des dépenses réelles, avec un décompte communiqué un mois avant."
+    ],
+    [
+      "Que faire si la surface du logement est plus petite qu'annoncée ?",
+      "Si la surface habitable réelle est inférieure de plus d'un vingtième à celle du bail, le locataire peut demander une baisse du loyer proportionnelle à l'écart. Il s'adresse d'abord au propriétaire, puis au juge en l'absence d'accord dans les délais prévus par la loi."
+    ],
+    [
+      "Le bail vide est-il renouvelé automatiquement ?",
+      "Oui. Si ni le locataire ni le propriétaire ne donne congé, le bail est reconduit tacitement pour trois ans, ou six ans si le bailleur est une société, aux mêmes conditions. Le propriétaire qui veut augmenter un loyer manifestement sous-évalué doit faire une proposition au moins six mois avant l'échéance."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 89-462 du 6 juillet 1989, titre Ier (rapports entre bailleurs et locataires), notamment articles 3 et 3-1 (contrat et surface habitable), 4 (clauses interdites), 10 et 11 (durée), 14 (transfert du bail), 15 (congé), 17-1 et 17-2 (révision et renouvellement du loyer), 22 (dépôt de garantie), 23 (charges) et 24 (clause résolutoire)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ],
+    [
+      "Code civil, articles 1709 et suivants (louage de choses)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-location-non-meublee"
+  }
+}

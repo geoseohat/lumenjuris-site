@@ -1562,27 +1562,53 @@
     "contrat-de-location-meublee": {
       "fichiers": {
         "docx": {
-          "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o1.id}}",
-          "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o1.source_url}}",
+          "id": 3595,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-meublee-lumen-juris.docx",
           "taille": "44 Ko",
           "empreinte": "59221c5605a2f63c22bab036e84df27c5d5793678f1e848734551deaf02b9edb"
         },
         "pdf": {
-          "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o2.id}}",
-          "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o2.source_url}}",
+          "id": 3596,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-meublee-lumen-juris.pdf",
           "taille": "166 Ko",
           "empreinte": "59221c5605a2f63c22bab036e84df27c5d5793678f1e848734551deaf02b9edb"
         }
       },
       "image": {
-        "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o3.id}}",
-        "url": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o3.source_url}}",
+        "id": 3597,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-meublee-lumen-juris.png",
         "taille": "293 Ko",
         "empreinte": "20bbfe162b5f10a00aede72e5f7a57371f4864b5033f1bc965a0877c2fc7b07e"
       },
       "statut": "publish",
-      "id": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o7.id}}",
-      "lien": "{{20261109-092039-publier-en-ligne-contrat-de-location-meublee.o7.link}}",
+      "id": 3598,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-meublee/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-location-non-meublee": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o1.id}}",
+          "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o1.source_url}}",
+          "taille": "44 Ko",
+          "empreinte": "ca176c9d5f0ec3fdb44eef8f66a6e33c63d1e67dc723694410f01f1d265ada49"
+        },
+        "pdf": {
+          "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o2.id}}",
+          "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o2.source_url}}",
+          "taille": "147 Ko",
+          "empreinte": "ca176c9d5f0ec3fdb44eef8f66a6e33c63d1e67dc723694410f01f1d265ada49"
+        }
+      },
+      "image": {
+        "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o3.id}}",
+        "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o3.source_url}}",
+        "taille": "296 Ko",
+        "empreinte": "5cfcc0fc504bd16798f3499b12f2b0856b651c73ca4ccd80708d9fe8cdaac58a"
+      },
+      "statut": "publish",
+      "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o7.id}}",
+      "lien": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1591,6 +1617,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261109-092039-publier-en-ligne-contrat-de-location-meublee"
+    "20261109-092322-publier-en-ligne-contrat-de-location-non-meublee"
   ]
 }
