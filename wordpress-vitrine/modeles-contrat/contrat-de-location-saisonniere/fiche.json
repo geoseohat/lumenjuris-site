@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-location-saisonniere",
+  "nom": "Contrat de location saisonnière",
+  "nom_court": "contrat de location saisonnière",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de location saisonnière",
+  "mots_cles_secondaires": [
+    "contrat location vacances",
+    "modèle contrat location saisonnière gratuit",
+    "contrat de location saisonnière word",
+    "contrat location meublé de tourisme",
+    "contrat location gîte",
+    "contrat location saisonnière pdf"
+  ],
+  "titre_h1": "Modèle de contrat de location saisonnière gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de location saisonnière gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de location saisonnière en Word ou PDF : état descriptif, prix, arrhes ou acompte, dépôt de garantie, annulation et taxe de séjour.",
+  "chapo": "Le contrat de location saisonnière encadre la location d'un logement meublé à des vacanciers, pour quatre-vingt-dix jours consécutifs au plus. Voici un modèle gratuit qui fixe le prix, les arrhes ou l'acompte, le dépôt de garantie et les règles d'annulation.",
+  "public": "Propriétaires de logements de vacances et vacanciers",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-location-saisonniere-lumen-juris",
+  "date_publication": "2026-11-09",
+  "date_mise_a_jour": "2026-11-09",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit immobilier",
+      "Droit du tourisme",
+      "Droit de la consommation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Déclarez le logement",
+      "Faites la déclaration du meublé de tourisme en mairie ou sur le téléservice prévu, obtenez le numéro d'enregistrement et vérifiez le règlement de copropriété."
+    ],
+    [
+      "Rédigez l'état descriptif",
+      "Décrivez fidèlement surface, couchages, équipements et environnement, avec des photos récentes ; cette description engage le propriétaire."
+    ],
+    [
+      "Fixez le prix et l'annulation",
+      "Détaillez loyer, charges, ménage et taxe de séjour, puis choisissez entre arrhes et acompte et écrivez les conséquences d'une annulation."
+    ],
+    [
+      "Envoyez le contrat en double exemplaire",
+      "Adressez le contrat au vacancier, qui en renvoie un exemplaire signé avec le versement de réservation ; la réservation devient alors ferme."
+    ],
+    [
+      "Faites l'inventaire à l'arrivée et au départ",
+      "Contrôlez ensemble l'état du logement et l'inventaire, puis restituez le dépôt de garantie dans le délai prévu, en justifiant chaque retenue."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat écrit est-il obligatoire pour une location de vacances ?",
+      "Oui. Le Code du tourisme impose qu'une offre ou un contrat de location saisonnière soit écrit et mentionne le prix et un état descriptif des lieux. Sur une plateforme, les conditions de la plateforme et l'annonce jouent ce rôle, mais un contrat direct reste utile pour fixer le dépôt et l'inventaire."
+    ],
+    [
+      "Quelle est la durée maximale d'une location saisonnière ?",
+      "Quatre-vingt-dix jours consécutifs, sans renouvellement automatique. Au-delà, ou si l'occupant fait du logement sa résidence principale, il faut conclure un bail meublé ou, pour un besoin temporaire lié aux études ou au travail, un bail mobilité."
+    ],
+    [
+      "Le vacancier peut-il récupérer ses arrhes s'il annule ?",
+      "Non. En renonçant au séjour, il abandonne les arrhes, sans avoir à payer davantage. À l'inverse, le propriétaire qui annule doit lui rembourser le double des arrhes versées."
+    ],
+    [
+      "Quel montant de dépôt de garantie demander pour une location saisonnière ?",
+      "La loi ne fixe pas de plafond. Le montant doit rester proportionné à la valeur du logement et de son équipement, et le contrat précise le délai de restitution. Les retenues doivent être justifiées par des factures ou des devis."
+    ],
+    [
+      "Existe-t-il un délai de rétractation pour une location de vacances réservée en ligne ?",
+      "Non, lorsque la réservation porte sur un hébergement à des dates déterminées conclue avec un professionnel : le délai de rétractation de quatorze jours ne s'applique pas. Seules les conditions d'annulation prévues au contrat jouent, d'où l'intérêt d'une assurance annulation."
+    ],
+    [
+      "Combien de jours par an peut-on louer sa résidence principale en saisonnier ?",
+      "Cent vingt jours par an au maximum. La commune peut réduire ce plafond, jusqu'à quatre-vingt-dix jours, depuis la loi du 19 novembre 2024. Une résidence secondaire n'est pas soumise à ce plafond, mais elle doit être déclarée et peut nécessiter une autorisation de changement d'usage."
+    ],
+    [
+      "Qui paie la taxe de séjour ?",
+      "Le vacancier. Le propriétaire la collecte et la reverse à la commune, sauf lorsque la plateforme de réservation la perçoit directement. Son montant par nuit et par personne est fixé par la commune ou l'intercommunalité."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du tourisme, articles L. 324-1 et suivants (meublés de tourisme), notamment L. 324-1-1 (déclaration et enregistrement) et L. 324-2 (contrat écrit, prix et état descriptif)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074073"
+    ],
+    [
+      "Code civil, articles 1709 et suivants (louage de choses) et 1218 (force majeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, articles L. 214-1 (arrhes et acomptes) et L. 221-28 (exceptions au droit de rétractation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-location-saisonniere"
+  }
+}

@@ -1588,27 +1588,53 @@
     "contrat-de-location-non-meublee": {
       "fichiers": {
         "docx": {
-          "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o1.id}}",
-          "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o1.source_url}}",
+          "id": 3601,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-non-meublee-lumen-juris.docx",
           "taille": "44 Ko",
           "empreinte": "ca176c9d5f0ec3fdb44eef8f66a6e33c63d1e67dc723694410f01f1d265ada49"
         },
         "pdf": {
-          "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o2.id}}",
-          "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o2.source_url}}",
+          "id": 3602,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-non-meublee-lumen-juris.pdf",
           "taille": "147 Ko",
           "empreinte": "ca176c9d5f0ec3fdb44eef8f66a6e33c63d1e67dc723694410f01f1d265ada49"
         }
       },
       "image": {
-        "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o3.id}}",
-        "url": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o3.source_url}}",
+        "id": 3603,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-non-meublee-lumen-juris.png",
         "taille": "296 Ko",
         "empreinte": "5cfcc0fc504bd16798f3499b12f2b0856b651c73ca4ccd80708d9fe8cdaac58a"
       },
       "statut": "publish",
-      "id": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o7.id}}",
-      "lien": "{{20261109-092322-publier-en-ligne-contrat-de-location-non-meublee.o7.link}}",
+      "id": 3604,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-non-meublee/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-location-saisonniere": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o1.id}}",
+          "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "aee1186363c4984dbfb5479496b4c8b94410df2246edffda89f5b4adc9bc397f"
+        },
+        "pdf": {
+          "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o2.id}}",
+          "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o2.source_url}}",
+          "taille": "115 Ko",
+          "empreinte": "aee1186363c4984dbfb5479496b4c8b94410df2246edffda89f5b4adc9bc397f"
+        }
+      },
+      "image": {
+        "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o3.id}}",
+        "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o3.source_url}}",
+        "taille": "297 Ko",
+        "empreinte": "7ddd45e27aeab5980004d31fc5a56a7f973c1d928059881c5c922b5995100a87"
+      },
+      "statut": "publish",
+      "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o7.id}}",
+      "lien": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1617,6 +1643,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261109-092322-publier-en-ligne-contrat-de-location-non-meublee"
+    "20261109-092549-publier-en-ligne-contrat-de-location-saisonniere"
   ]
 }

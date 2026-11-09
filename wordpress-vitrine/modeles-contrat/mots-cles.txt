@@ -80,7 +80,7 @@
 [x] 2026-11-09 contrat de location -> écarté : ligne trop générale : recouvre les futurs modèles contrat de location meublée et non meublée, et le bail commercial existe déjà
 [x] 2026-11-09 contrat de location meublée -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-meublee/
 [x] 2026-11-09 contrat de location non meublée -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-non-meublee/
-contrat de location saisonnière
+[x] 2026-11-09 contrat de location saisonnière -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-saisonniere/
 contrat de sous-location
 contrat de bail professionnel
 contrat de bail dérogatoire
