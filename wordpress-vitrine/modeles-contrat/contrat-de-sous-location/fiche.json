@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-sous-location",
+  "nom": "Contrat de sous-location",
+  "nom_court": "contrat de sous-location",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de sous-location",
+  "mots_cles_secondaires": [
+    "contrat de sous-location gratuit",
+    "modèle sous-location appartement",
+    "sous-location chambre contrat",
+    "autorisation de sous-location propriétaire",
+    "sous-louer son appartement légalement",
+    "contrat sous-location word"
+  ],
+  "titre_h1": "Modèle de contrat de sous-location gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de sous-location gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de sous-location de logement en Word ou PDF : accord écrit du propriétaire, loyer plafonné, durée liée au bail principal et préavis.",
+  "chapo": "Le contrat de sous-location permet à un locataire de louer tout ou partie de son logement à une autre personne, avec l'accord écrit du propriétaire. Voici un modèle gratuit qui respecte le plafond de loyer et organise la fin de la sous-location avec le bail principal.",
+  "public": "Locataires, sous-locataires et propriétaires",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-sous-location-lumen-juris",
+  "date_publication": "2026-11-09",
+  "date_mise_a_jour": "2026-11-09",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Baux d'habitation",
+      "Droit immobilier",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Demandez l'autorisation écrite",
+      "Écrivez au propriétaire pour obtenir son accord sur la sous-location, sa durée et le loyer envisagé ; conservez sa réponse signée."
+    ],
+    [
+      "Calculez le loyer maximal",
+      "Divisez votre loyer par la surface habitable du logement, puis appliquez ce prix au mètre carré à la surface sous-louée ; ne dépassez jamais ce plafond."
+    ],
+    [
+      "Alignez la durée sur votre bail",
+      "Vérifiez la date d'échéance de votre bail et toute procédure en cours, puis fixez une fin de sous-location qui ne la dépasse pas."
+    ],
+    [
+      "Remettez les copies obligatoires",
+      "Donnez au sous-locataire une copie de l'autorisation du propriétaire et de votre bail en cours, et annexez-les au contrat."
+    ],
+    [
+      "Faites l'état des lieux avec le sous-locataire",
+      "Constatez ensemble l'état des pièces sous-louées et des pièces partagées, avec l'inventaire des meubles si le logement est meublé."
+    ]
+  ],
+  "faq": [
+    [
+      "A-t-on le droit de sous-louer son appartement ?",
+      "Oui, mais seulement avec l'accord écrit du propriétaire, qui doit aussi porter sur le montant du loyer. Sans cet accord, la sous-location est irrégulière et le propriétaire peut demander la résiliation du bail."
+    ],
+    [
+      "Combien peut-on demander à un sous-locataire ?",
+      "Le prix au mètre carré de la sous-location ne peut pas dépasser celui payé par le locataire principal. Le locataire ne peut donc pas réaliser de bénéfice sur la sous-location d'un logement d'habitation."
+    ],
+    [
+      "Que se passe-t-il pour le sous-locataire si le locataire principal part ?",
+      "Lorsque le bail principal prend fin, la sous-location s'arrête aussi. Le sous-locataire n'a aucun droit à faire valoir contre le propriétaire et doit quitter les lieux, sauf si celui-ci accepte de lui consentir un nouveau bail."
+    ],
+    [
+      "Louer son appartement sur une plateforme pendant les vacances, est-ce de la sous-location ?",
+      "Oui. Le locataire qui loue son logement à des voyageurs, même quelques nuits, le sous-loue. Il lui faut donc l'accord écrit du propriétaire, et les sommes perçues sans autorisation peuvent devoir être reversées à ce dernier."
+    ],
+    [
+      "Le sous-locataire peut-il toucher les aides au logement ?",
+      "Oui, sous conditions de ressources et à condition de fournir à la CAF ou à la MSA un contrat de sous-location et des quittances. Le dossier comporte en pratique l'autorisation du propriétaire."
+    ],
+    [
+      "Le propriétaire peut-il réclamer le loyer au sous-locataire ?",
+      "Oui, si le locataire principal ne le paie plus. Le propriétaire peut demander directement au sous-locataire les sommes que celui-ci doit encore au titre de sa sous-location, dans la limite de leur montant."
+    ],
+    [
+      "Peut-on sous-louer un logement social ?",
+      "En principe non. Le Code de la construction et de l'habitation n'autorise la sous-location d'un logement social que dans des cas limités, par exemple au profit de personnes âgées ou handicapées, avec l'accord du bailleur. Une sous-location interdite peut entraîner la perte du logement."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 89-462 du 6 juillet 1989, article 8 (cession du bail et sous-location : accord écrit du bailleur, plafond du loyer, sort du sous-locataire) et article 25-3 (application aux logements meublés)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ],
+    [
+      "Code civil, articles 1717 (faculté de sous-louer) et 1753 (paiement direct du sous-locataire au propriétaire)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la construction et de l'habitation, articles L. 442-8 et suivants (interdiction de sous-louer un logement social et exceptions)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074096"
+    ],
+    [
+      "Code de commerce, article L. 145-31 (sous-location d'un local commercial)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-sous-location"
+  }
+}

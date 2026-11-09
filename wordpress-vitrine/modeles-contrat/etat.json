@@ -1614,27 +1614,53 @@
     "contrat-de-location-saisonniere": {
       "fichiers": {
         "docx": {
-          "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o1.id}}",
-          "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o1.source_url}}",
+          "id": 3608,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-saisonniere-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "aee1186363c4984dbfb5479496b4c8b94410df2246edffda89f5b4adc9bc397f"
         },
         "pdf": {
-          "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o2.id}}",
-          "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o2.source_url}}",
+          "id": 3609,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-saisonniere-lumen-juris.pdf",
           "taille": "115 Ko",
           "empreinte": "aee1186363c4984dbfb5479496b4c8b94410df2246edffda89f5b4adc9bc397f"
         }
       },
       "image": {
-        "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o3.id}}",
-        "url": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o3.source_url}}",
+        "id": 3610,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-saisonniere-lumen-juris.png",
         "taille": "297 Ko",
         "empreinte": "7ddd45e27aeab5980004d31fc5a56a7f973c1d928059881c5c922b5995100a87"
       },
       "statut": "publish",
-      "id": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o7.id}}",
-      "lien": "{{20261109-092549-publier-en-ligne-contrat-de-location-saisonniere.o7.link}}",
+      "id": 3611,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-saisonniere/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-sous-location": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o1.id}}",
+          "url": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "b1b1bcb6c7b70150e4c1e0d0412b0ecfe26f2f62e72a6e1373d16e89fe34000f"
+        },
+        "pdf": {
+          "id": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o2.id}}",
+          "url": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o2.source_url}}",
+          "taille": "87 Ko",
+          "empreinte": "b1b1bcb6c7b70150e4c1e0d0412b0ecfe26f2f62e72a6e1373d16e89fe34000f"
+        }
+      },
+      "image": {
+        "id": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o3.id}}",
+        "url": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o3.source_url}}",
+        "taille": "291 Ko",
+        "empreinte": "51dbd9b2cf97a75191a0e9a0f47c287789ae1731389fc31037d034c7953c5248"
+      },
+      "statut": "publish",
+      "id": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o7.id}}",
+      "lien": "{{20261109-092742-publier-en-ligne-contrat-de-sous-location.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1643,6 +1669,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261109-092549-publier-en-ligne-contrat-de-location-saisonniere"
+    "20261109-092742-publier-en-ligne-contrat-de-sous-location"
   ]
 }
