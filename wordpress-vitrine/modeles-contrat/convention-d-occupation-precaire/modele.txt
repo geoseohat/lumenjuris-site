@@ -1,0 +1,139 @@
+# CONVENTION D'OCCUPATION PRÉCAIRE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne l'occupation temporaire d'un local à usage commercial, artisanal ou professionnel, justifiée par une circonstance particulière indépendante de la seule volonté des parties (article L. 145-5-1 du Code de commerce). Si aucune circonstance de ce type n'existe, ce contrat risque d'être requalifié en bail commercial : utilisez plutôt un bail dérogatoire. Ce modèle n'est pas adapté à l'occupation d'un logement comme résidence principale.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Nom, prénoms, adresse du propriétaire personne physique] [ou : [dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e)],
+
+Ci-après dénommé(e) « le Propriétaire »,
+
+D'UNE PART,
+
+ET :
+
+[Dénomination sociale ou nom de l'occupant], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e),
+
+Ci-après dénommé(e) « l'Occupant »,
+
+D'AUTRE PART,
+
+Ensemble dénommés « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Les locaux désignés à l'article 2 sont concernés par la circonstance particulière suivante : [description précise et vérifiable, par exemple : l'immeuble doit être démoli dans le cadre d'une opération de rénovation urbaine dont la date n'est pas encore fixée / les locaux font l'objet d'une procédure d'expropriation engagée par [autorité] le [date] / l'immeuble fait l'objet d'un arrêté imposant des travaux de réhabilitation qui exigeront la libération des locaux / une procédure judiciaire relative à la propriété des locaux est en cours devant [juridiction]].
+
+Cette circonstance, extérieure à la seule volonté des Parties, empêche le Propriétaire de consentir un bail d'une durée certaine. Les Parties ont donc décidé de conclure une convention d'occupation précaire, dont le terme est lié à cette circonstance.
+
+Les justificatifs de cette circonstance sont annexés à la présente convention (annexe 1).
+
+> Note de rédaction : cet exposé est le cœur du contrat. En cas de litige, le juge vérifiera si la circonstance existait vraiment lors de la signature et si elle justifiait la précarité. Une formule vague (« dans l'attente d'un projet ») ne suffit pas.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU ET ARRÊTÉ CE QUI SUIT :
+
+## ARTICLE 1 – OBJET ET NATURE DE LA CONVENTION
+
+Le Propriétaire autorise l'Occupant à occuper, à titre précaire et révocable, les locaux désignés à l'article 2.
+
+Conformément à l'article L. 145-5-1 du Code de commerce, la présente convention n'est pas soumise au statut des baux commerciaux. L'Occupant reconnaît qu'il ne bénéficie ni d'un droit au renouvellement, ni d'une indemnité d'éviction, ni d'un droit au maintien dans les lieux au-delà du terme prévu à l'article 4.
+
+## ARTICLE 2 – DÉSIGNATION DES LOCAUX
+
+Les locaux sont situés [adresse complète]. Ils comprennent : [description précise], pour une surface d'environ [nombre] m², donnée à titre indicatif.
+
+L'Occupant déclare bien connaître les locaux et les accepter dans l'état où ils se trouvent, tel que décrit dans l'état des lieux annexé.
+
+## ARTICLE 3 – DESTINATION
+
+Les locaux sont mis à disposition exclusivement pour l'activité suivante : [activité précise]. L'Occupant ne peut y habiter.
+
+## ARTICLE 4 – DURÉE ET FIN DE L'OCCUPATION
+
+### 4.1 Prise d'effet
+
+La convention prend effet le [date].
+
+### 4.2 Terme lié à la circonstance particulière
+
+La convention prend fin de plein droit à la survenance de l'événement suivant : [par exemple : le début des travaux de démolition / la prise de possession par l'autorité expropriante / le début des travaux de réhabilitation / la décision de justice définitive].
+
+Le Propriétaire informe l'Occupant de la survenance de cet événement par lettre recommandée avec demande d'avis de réception. L'Occupant libère les locaux dans un délai de [nombre, par exemple un ou deux] mois à compter de la réception de cette lettre.
+
+### 4.3 Durée maximale
+
+En tout état de cause, la convention prend fin au plus tard le [date], sauf avenant écrit des Parties justifié par le maintien de la circonstance particulière.
+
+> Note de rédaction : une date butoir n'est pas obligatoire. Elle protège l'occupant en lui donnant de la visibilité, mais elle doit rester cohérente avec la circonstance invoquée.
+
+### 4.4 Départ anticipé de l'Occupant
+
+L'Occupant peut mettre fin à la convention à tout moment, en respectant un préavis de [nombre] mois, notifié par lettre recommandée avec demande d'avis de réception.
+
+## ARTICLE 5 – REDEVANCE D'OCCUPATION
+
+En contrepartie de l'occupation, l'Occupant verse une redevance de [montant] euros hors taxes par [mois / trimestre], payable d'avance le [jour] de chaque [mois / trimestre], par [virement / prélèvement].
+
+[La redevance est soumise à la TVA.] [ou : la redevance n'est pas soumise à la TVA.]
+
+> Note de rédaction : les tribunaux voient souvent dans une redevance nettement inférieure à la valeur locative un indice du caractère précaire de l'occupation. Une redevance égale à un loyer de marché n'interdit pas la convention, mais renforce le risque de requalification.
+
+## ARTICLE 6 – CHARGES
+
+L'Occupant rembourse au Propriétaire les consommations et charges suivantes : [liste précise : eau, électricité, chauffage, quote-part des charges de copropriété]. Il verse à ce titre une provision de [montant] euros par [mois / trimestre], régularisée à la fin de l'occupation.
+
+## ARTICLE 7 – DÉPÔT DE GARANTIE
+
+L'Occupant verse un dépôt de garantie de [montant] euros, non productif d'intérêts, restitué dans un délai de [un] mois après la remise des clés, déduction faite des sommes dues et justifiées.
+
+## ARTICLE 8 – ÉTAT DES LIEUX
+
+Un état des lieux est établi contradictoirement par les Parties lors de la remise des clés et lors de leur restitution. Il est annexé à la présente convention (annexe 2).
+
+## ARTICLE 9 – ENTRETIEN ET TRAVAUX
+
+L'Occupant entretient les locaux raisonnablement et prend en charge les réparations locatives. Le Propriétaire conserve à sa charge les grosses réparations.
+
+L'Occupant ne peut réaliser aucuns travaux, hors aménagements légers et démontables, sans l'accord écrit du Propriétaire. Il ne peut prétendre à aucune indemnité pour les aménagements réalisés.
+
+## ARTICLE 10 – ASSURANCES
+
+L'Occupant assure les locaux contre les risques locatifs, ainsi que son matériel et sa responsabilité civile. Il remet une attestation au Propriétaire avant la remise des clés.
+
+## ARTICLE 11 – CARACTÈRE PERSONNEL DE L'OCCUPATION
+
+La présente convention est consentie à l'Occupant à titre personnel. Il ne peut ni la céder, ni sous-louer les locaux, ni les mettre à disposition d'un tiers, même gratuitement.
+
+## ARTICLE 12 – RÉSILIATION POUR MANQUEMENT
+
+En cas de non-paiement de la redevance ou de manquement de l'Occupant à l'une de ses obligations, et un mois après une mise en demeure restée sans effet, adressée par lettre recommandée avec demande d'avis de réception, la convention sera résiliée de plein droit si le Propriétaire le souhaite.
+
+## ARTICLE 13 – RESTITUTION DES LOCAUX ET INDEMNITÉ D'OCCUPATION
+
+À la fin de la convention, l'Occupant restitue les clés et les locaux libres de toute occupation, en bon état de réparations locatives.
+
+S'il se maintient dans les lieux après la fin de la convention, il est redevable d'une indemnité d'occupation égale à [la redevance / montant] par [mois / trimestre], jusqu'à la libération effective des lieux.
+
+## ARTICLE 14 – DIAGNOSTICS
+
+Sont annexés à la présente convention l'état des risques et, le cas échéant, les autres documents techniques exigés par la réglementation en vigueur.
+
+## ARTICLE 15 – LITIGES
+
+En cas de différend, les Parties recherchent une solution amiable. À défaut, le litige est porté devant le tribunal judiciaire du lieu de situation des locaux.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux.
+
+Le Propriétaire
+[Signature]
+
+L'Occupant
+[Signature]
+
+## ANNEXES
+
+- Annexe 1 : justificatifs de la circonstance particulière (arrêté, permis de démolir, acte de procédure, décision administrative, etc.)
+- Annexe 2 : état des lieux d'entrée
+- Annexe 3 : état des risques et diagnostics techniques

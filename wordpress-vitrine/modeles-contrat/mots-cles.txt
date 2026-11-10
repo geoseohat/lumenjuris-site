@@ -84,7 +84,7 @@
 [x] 2026-11-09 contrat de sous-location -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sous-location/
 [x] 2026-11-10 contrat de bail professionnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-professionnel/
 [x] 2026-11-10 contrat de bail dérogatoire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-derogatoire/
-convention d'occupation précaire
+[x] 2026-11-10 convention d'occupation précaire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/convention-d-occupation-precaire/
 contrat de domiciliation
 contrat de dépôt
 contrat de franchise
