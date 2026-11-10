@@ -82,7 +82,7 @@
 [x] 2026-11-09 contrat de location non meublée -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-non-meublee/
 [x] 2026-11-09 contrat de location saisonnière -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-saisonniere/
 [x] 2026-11-09 contrat de sous-location -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sous-location/
-contrat de bail professionnel
+[x] 2026-11-10 contrat de bail professionnel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-professionnel/
 contrat de bail dérogatoire
 convention d'occupation précaire
 contrat de domiciliation

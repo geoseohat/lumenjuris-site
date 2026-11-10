@@ -1,0 +1,193 @@
+# CONTRAT DE BAIL PROFESSIONNEL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne la location d'un local affecté à un usage exclusivement professionnel, régie par l'article 57 A de la loi n° 86-1290 du 23 décembre 1986. Il convient aux activités libérales et, plus largement, aux activités qui ne sont ni commerciales, ni artisanales, ni agricoles. Pour un commerce ou un artisan, utilisez un bail commercial. Pour un local où le locataire habite et travaille, c'est la loi du 6 juillet 1989 (bail mixte) qui s'applique.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Nom, prénoms, date et lieu de naissance, adresse du bailleur personne physique] [ou : [dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e)],
+
+Ci-après dénommé(e) « le Bailleur »,
+
+D'UNE PART,
+
+ET :
+
+[Nom, prénoms, date et lieu de naissance, adresse du locataire], exerçant la profession de [profession], [le cas échéant : inscrit(e) au tableau de l'ordre de [ordre] sous le numéro [numéro]], numéro SIREN [numéro] [ou : [dénomination de la société d'exercice], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction]],
+
+Ci-après dénommé(e) « le Locataire »,
+
+D'AUTRE PART,
+
+Ensemble dénommés « les Parties ».
+
+IL A ÉTÉ CONVENU ET ARRÊTÉ CE QUI SUIT :
+
+## ARTICLE 1 – OBJET ET RÉGIME APPLICABLE
+
+Le Bailleur donne en location au Locataire, qui accepte, les locaux désignés à l'article 2, à usage exclusivement professionnel.
+
+Le présent bail est régi par l'article 57 A de la loi n° 86-1290 du 23 décembre 1986, par les articles 1709 et suivants du Code civil et par les stipulations ci-après.
+
+> Option : les Parties peuvent décider de soumettre le bail au statut des baux commerciaux, comme le permet l'article L. 145-2 du Code de commerce. Dans ce cas, n'utilisez pas ce modèle mais un bail commercial complet, et écrivez cette volonté de façon claire et sans ambiguïté.
+
+## ARTICLE 2 – DÉSIGNATION DES LOCAUX
+
+Les locaux loués sont situés [adresse complète, bâtiment, étage, porte].
+
+Ils comprennent : [description précise : nombre de pièces, salle d'attente, bureaux, sanitaires, cave, place de stationnement, etc.], pour une surface d'environ [nombre] m², donnée à titre indicatif.
+
+[Le cas échéant : les locaux dépendent d'un immeuble en copropriété et correspondent au(x) lot(s) numéro(s) [numéros]. Le Locataire reconnaît avoir reçu les extraits du règlement de copropriété relatifs à la destination de l'immeuble et à l'usage des parties communes.]
+
+Le Locataire déclare bien connaître les locaux pour les avoir visités.
+
+## ARTICLE 3 – DESTINATION DES LOCAUX
+
+Les locaux sont destinés exclusivement à l'exercice de l'activité professionnelle suivante : [activité précise, par exemple : cabinet d'expertise comptable, cabinet de kinésithérapie, agence d'architecture].
+
+Le Locataire ne peut ni y exercer une activité commerciale ou artisanale, ni y habiter, ni changer cette destination sans l'accord écrit et préalable du Bailleur.
+
+Le Bailleur déclare que les locaux peuvent être affectés à cet usage au regard du règlement de copropriété et, le cas échéant, des règles d'urbanisme et de changement d'usage applicables dans la commune.
+
+> Note de rédaction : dans certaines communes (Paris, petite couronne, villes de plus de 200 000 habitants et communes qui l'ont décidé), transformer un logement en local professionnel exige une autorisation préalable de la mairie. Vérifiez ce point avant la signature : un local loué sans autorisation expose le propriétaire à une amende et à la remise des lieux en habitation.
+
+## ARTICLE 4 – DURÉE
+
+Le bail est conclu pour une durée de [six ans au minimum : indiquer la durée] années entières et consécutives, qui commence le [date de prise d'effet] et se termine le [date d'expiration].
+
+À défaut de congé délivré dans les conditions de l'article 5, le bail est reconduit tacitement pour la même durée.
+
+> Note de rédaction : la durée de six ans est un minimum d'ordre public. Si le contrat prévoit moins, le locataire peut se prévaloir de la durée légale de six ans.
+
+## ARTICLE 5 – CONGÉ ET RÉSILIATION
+
+### 5.1 Congé du Locataire
+
+Le Locataire peut, à tout moment, notifier au Bailleur son intention de quitter les locaux, en respectant un délai de préavis de six mois.
+
+### 5.2 Congé du Bailleur
+
+Le Bailleur peut donner congé pour la date d'expiration du bail, en respectant un délai de préavis de six mois. Il n'a pas à justifier d'un motif et aucune indemnité n'est due au Locataire de ce seul fait.
+
+### 5.3 Forme du congé
+
+Le congé est notifié par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice. Le délai de préavis court à compter de la réception de la lettre ou de la signification de l'acte.
+
+## ARTICLE 6 – LOYER
+
+Le loyer annuel est fixé à [montant] euros hors taxes et hors charges.
+
+Il est payable [mensuellement / trimestriellement] et d'avance, le [jour] de chaque [mois / trimestre], par [virement sur le compte indiqué par le Bailleur / prélèvement].
+
+[Option TVA : le Bailleur a opté pour l'assujettissement des loyers à la taxe sur la valeur ajoutée. Le loyer est donc majoré de la TVA au taux en vigueur.] [ou : le loyer n'est pas soumis à la TVA.]
+
+## ARTICLE 7 – RÉVISION DU LOYER
+
+Le loyer est révisé automatiquement chaque année, à la date anniversaire de la prise d'effet du bail, en fonction de la variation de l'indice des loyers des activités tertiaires (ILAT) publié par l'INSEE.
+
+L'indice de référence est celui du [trimestre] [année]. L'indice de comparaison est celui du même trimestre de l'année suivante, puis de chaque année suivante.
+
+Si l'indice cesse d'être publié, il est remplacé par l'indice qui lui est officiellement substitué ou, à défaut, par un indice choisi d'un commun accord, en relation avec l'activité du Locataire ou l'objet du bail.
+
+> Note de rédaction : la clause ne doit prévoir de révision qu'à la hausse comme à la baisse. Une clause qui ne joue qu'à la hausse est réputée non écrite par les tribunaux. La période de variation de l'indice ne doit pas dépasser la durée qui sépare deux révisions.
+
+## ARTICLE 8 – CHARGES, IMPÔTS ET TAXES
+
+### 8.1 Charges
+
+Le Locataire rembourse au Bailleur, en plus du loyer, les charges suivantes : [liste précise : quote-part des charges de copropriété courantes, eau, chauffage collectif, entretien des parties communes, enlèvement des ordures ménagères].
+
+Il verse à ce titre une provision de [montant] euros par [mois / trimestre]. Le Bailleur adresse chaque année au Locataire un décompte des charges réelles, avec les justificatifs, et une régularisation est faite dans le mois qui suit.
+
+Les dépenses de grosses réparations mentionnées à l'article 606 du Code civil restent à la charge du Bailleur.
+
+### 8.2 Impôts et taxes
+
+La taxe foncière reste à la charge du Bailleur [ou : est remboursée par le Locataire au prorata de sa durée d'occupation]. La taxe d'enlèvement des ordures ménagères est remboursée par le Locataire. Le Locataire acquitte la cotisation foncière des entreprises et les impôts dont il est personnellement redevable.
+
+## ARTICLE 9 – DÉPÔT DE GARANTIE
+
+Le Locataire verse ce jour au Bailleur un dépôt de garantie de [montant, par exemple deux ou trois mois de loyer hors taxes et hors charges] euros, qui ne produit pas d'intérêts.
+
+Il est restitué dans un délai de [deux] mois à compter de la remise des clés, déduction faite des sommes restant dues et du coût des réparations locatives justifiées par la comparaison des états des lieux.
+
+## ARTICLE 10 – ÉTAT DES LIEUX
+
+Un état des lieux est établi contradictoirement et amiablement par les Parties lors de la remise des clés et lors de leur restitution. Il est annexé au bail (annexe 1).
+
+À défaut d'accord, il est établi par un commissaire de justice, à frais partagés par moitié entre les Parties.
+
+## ARTICLE 11 – ENTRETIEN, RÉPARATIONS ET TRAVAUX
+
+### 11.1 Obligations du Bailleur
+
+Le Bailleur délivre des locaux en bon état et conformes à leur destination professionnelle. Il assure les grosses réparations et maintient le clos et le couvert.
+
+### 11.2 Obligations du Locataire
+
+Le Locataire utilise les locaux paisiblement et conformément à leur destination. Il prend en charge l'entretien courant et les menues réparations, sauf si elles sont dues à la vétusté, à un vice de construction ou à un cas de force majeure.
+
+### 11.3 Travaux du Locataire
+
+Le Locataire peut réaliser des travaux d'aménagement propres à son activité, sans toucher à la structure ni au gros œuvre, après accord écrit du Bailleur. En fin de bail, les aménagements restent acquis au Bailleur sans indemnité [ou : le Bailleur peut demander la remise des lieux dans leur état d'origine], sauf accord contraire écrit.
+
+### 11.4 Accessibilité et règles propres à l'activité
+
+Le Locataire fait son affaire des autorisations et des normes propres à sa profession. Les travaux de mise en accessibilité des locaux recevant du public sont répartis comme suit : [répartition convenue entre les Parties].
+
+## ARTICLE 12 – ASSURANCES
+
+Le Locataire assure les locaux contre les risques locatifs (incendie, dégât des eaux, explosion), son mobilier et son matériel, ainsi que sa responsabilité civile professionnelle. Il remet une attestation au Bailleur à la remise des clés, puis chaque année à sa demande.
+
+Le Bailleur assure l'immeuble en qualité de propriétaire.
+
+## ARTICLE 13 – CESSION ET SOUS-LOCATION
+
+Le Locataire ne peut céder le présent bail qu'avec l'accord écrit et préalable du Bailleur. Lorsque la cession est faite au successeur dans son activité professionnelle ou à la société d'exercice qu'il constitue, le Bailleur ne peut refuser son accord que pour un motif légitime et sérieux, notamment l'insolvabilité du cessionnaire.
+
+[Option : le Locataire cédant reste garant solidaire du cessionnaire pour le paiement du loyer et des charges pendant [durée, par exemple trois ans au plus] à compter de la cession.]
+
+La sous-location, totale ou partielle, est [interdite / autorisée, avec l'accord écrit du Bailleur, au profit d'un confrère exerçant la même profession].
+
+> Note de rédaction : sans clause, le Code civil permet au locataire de sous-louer et de céder son bail librement. Si vous voulez encadrer ces opérations, gardez une clause écrite.
+
+## ARTICLE 14 – CLAUSE RÉSOLUTOIRE
+
+À défaut de paiement d'un seul terme de loyer ou de charges à son échéance, ou d'exécution de l'une des obligations du bail, et un mois après une mise en demeure restée sans effet, adressée par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice, le bail sera résilié de plein droit si le Bailleur le souhaite.
+
+La mise en demeure reproduit le texte de la présente clause.
+
+## ARTICLE 15 – DIAGNOSTICS ET INFORMATION DU LOCATAIRE
+
+Sont annexés au présent bail : l'état des risques et, le cas échéant, le diagnostic de performance énergétique et les autres documents techniques exigés pour ce local par la réglementation en vigueur à la date de signature.
+
+## ARTICLE 16 – GARANTIE
+
+> Option : [Nom, prénoms, adresse de la caution] se porte caution solidaire du Locataire, dans un acte séparé annexé au bail, dans la limite de [montant] euros et pour une durée de [durée].
+
+## ARTICLE 17 – RESTITUTION DES LOCAUX
+
+À la fin du bail, le Locataire restitue les clés et les locaux en bon état de réparations locatives, compte tenu de l'usure normale. Il justifie du paiement des impôts et taxes dont il est redevable.
+
+## ARTICLE 18 – ÉLECTION DE DOMICILE ET LITIGES
+
+Pour l'exécution du bail, le Bailleur élit domicile à l'adresse indiquée en tête des présentes et le Locataire dans les locaux loués.
+
+En cas de différend, les Parties recherchent d'abord une solution amiable. À défaut, le litige est porté devant le tribunal judiciaire du lieu de situation des locaux.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux.
+
+Le Bailleur
+[Signature]
+
+Le Locataire
+[Signature]
+
+## ANNEXES
+
+- Annexe 1 : état des lieux d'entrée
+- Annexe 2 : plan des locaux
+- Annexe 3 : état des risques et diagnostics techniques
+- Annexe 4 : extraits du règlement de copropriété (le cas échéant)
+- Annexe 5 : acte de cautionnement (le cas échéant)
