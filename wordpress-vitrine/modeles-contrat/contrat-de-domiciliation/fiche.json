@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-domiciliation",
+  "nom": "Contrat de domiciliation",
+  "nom_court": "contrat de domiciliation",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de domiciliation",
+  "mots_cles_secondaires": [
+    "contrat de domiciliation",
+    "modèle contrat de domiciliation",
+    "contrat de domiciliation société",
+    "domiciliation d'entreprise contrat",
+    "contrat de domiciliation commerciale",
+    "attestation de domiciliation siège social"
+  ],
+  "titre_h1": "Modèle de contrat de domiciliation gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de domiciliation gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de domiciliation d'entreprise gratuit (Word, PDF) : agrément, durée de 3 mois minimum, courrier, obligations de chaque partie et résiliation.",
+  "chapo": "Le contrat de domiciliation permet à une entreprise de fixer son siège social chez une société de domiciliation agréée. Téléchargez un modèle conforme à la réglementation et découvrez les mentions obligatoires, les obligations de chacun et la façon de changer d'adresse.",
+  "public": "Créateurs d'entreprise, dirigeants et sociétés de domiciliation",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-domiciliation-lumen-juris",
+  "date_publication": "2026-11-10",
+  "date_mise_a_jour": "2026-11-10",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit commercial",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier l'agrément du domiciliataire",
+      "Demandez le numéro et la date de l'agrément préfectoral du prestataire et vérifiez qu'il est en cours de validité."
+    ],
+    [
+      "Choisir la formule de gestion du courrier",
+      "Décidez si le courrier sera tenu à disposition, réexpédié ou numérisé, et à quelle fréquence."
+    ],
+    [
+      "Réunir les justificatifs",
+      "Préparez les pièces d'identité et justificatifs de domicile des dirigeants, les statuts et la liste des bénéficiaires effectifs."
+    ],
+    [
+      "Fixer la durée et le prix",
+      "Indiquez une durée d'au moins trois mois, la redevance, les services optionnels et le préavis de résiliation."
+    ],
+    [
+      "Signer et joindre le contrat au dossier d'immatriculation",
+      "Signez le contrat et la procuration postale, puis joignez le contrat à votre formalité de création ou de transfert de siège."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la durée minimale d'un contrat de domiciliation ?",
+      "Le contrat de domiciliation doit être conclu pour une durée d'au moins trois mois. Il est ensuite renouvelé par tacite reconduction, sauf résiliation avec le préavis prévu au contrat."
+    ],
+    [
+      "Comment savoir si une société de domiciliation est agréée ?",
+      "Le numéro d'agrément préfectoral doit figurer dans le contrat. Vous pouvez demander une copie de l'agrément au prestataire et interroger la préfecture qui l'a délivré en cas de doute."
+    ],
+    [
+      "Une société domiciliée peut-elle travailler dans les locaux du domiciliataire ?",
+      "Pas au quotidien, sauf si le contrat prévoit en plus la location d'un bureau. La domiciliation donne une adresse, le traitement du courrier et l'accès à une pièce pour les réunions et la consultation des documents."
+    ],
+    [
+      "Que se passe-t-il à la fin du contrat de domiciliation ?",
+      "Le domiciliataire informe le greffe que la domiciliation a pris fin. L'entreprise doit transférer son siège à une nouvelle adresse et accomplir les formalités de modification correspondantes."
+    ],
+    [
+      "Quels documents fournir pour domicilier une entreprise ?",
+      "En général, une pièce d'identité et un justificatif de domicile de chaque dirigeant, les statuts ou le projet de statuts, un extrait d'immatriculation si la société existe déjà, et les informations sur les bénéficiaires effectifs."
+    ],
+    [
+      "Peut-on domicilier sa société chez soi plutôt que chez un domiciliataire ?",
+      "Oui, le dirigeant peut en principe installer le siège à son domicile, mais cette possibilité peut être limitée dans le temps si le bail ou le règlement de copropriété l'interdit. L'adresse personnelle devient alors visible dans les registres publics."
+    ],
+    [
+      "Le domiciliataire peut-il ouvrir mon courrier ?",
+      "Il ne peut l'ouvrir que si le contrat le prévoit, par exemple pour une prestation de numérisation. À défaut, il se limite à le réceptionner et à le remettre ou le réexpédier selon les modalités convenues."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 123-11-2 à L. 123-11-8 (domiciliation et agrément) et R. 123-166-1 et suivants, notamment R. 123-168 (contenu du contrat et obligations des parties)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code monétaire et financier, articles L. 561-2 et suivants (obligations de vigilance contre le blanchiment de capitaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ],
+    [
+      "Règlement (UE) 2016/679 (protection des données personnelles)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-domiciliation"
+  }
+}
