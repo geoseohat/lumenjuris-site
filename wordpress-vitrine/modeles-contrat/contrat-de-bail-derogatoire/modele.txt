@@ -1,0 +1,143 @@
+# BAIL DÉROGATOIRE (BAIL DE COURTE DURÉE)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle concerne un bail conclu, lors de l'entrée dans les lieux, en dérogation au statut des baux commerciaux, comme le permet l'article L. 145-5 du Code de commerce. La durée totale du bail et des éventuels baux successifs ne peut pas dépasser trois ans. Au-delà, ou si le locataire reste dans les lieux plus d'un mois après l'échéance sans opposition du propriétaire, un bail commercial de neuf ans se forme.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Nom, prénoms, adresse du bailleur personne physique] [ou : [dénomination sociale], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e)],
+
+Ci-après dénommé(e) « le Bailleur »,
+
+D'UNE PART,
+
+ET :
+
+[Dénomination sociale ou nom de l'entrepreneur individuel], [forme sociale] au capital de [montant] euros, dont le siège social est situé [adresse], immatriculée sous le numéro [numéro] [ou : en cours d'immatriculation], représentée par [nom et prénom], en qualité de [fonction], dûment habilité(e),
+
+Ci-après dénommé(e) « le Preneur »,
+
+D'AUTRE PART,
+
+Ensemble dénommés « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Preneur souhaite [tester son activité / exercer une activité temporaire / disposer d'un local le temps de [motif]] avant de s'engager, le cas échéant, dans un bail de plus longue durée. Les Parties ont donc décidé, en connaissance de cause, de conclure un bail de courte durée qui n'est pas soumis au statut des baux commerciaux.
+
+Le Preneur déclare entrer dans les lieux à l'occasion du présent bail et n'avoir jamais occupé les locaux auparavant au titre d'un autre contrat. [Ou : le Preneur a précédemment occupé les locaux au titre d'un bail dérogatoire du [date] au [date] ; la durée cumulée des baux reste inférieure ou égale à trois ans.]
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU ET ARRÊTÉ CE QUI SUIT :
+
+## ARTICLE 1 – OBJET ET RÉGIME DU BAIL
+
+Le Bailleur donne à bail au Preneur, qui accepte, les locaux désignés à l'article 2.
+
+Conformément à l'article L. 145-5 du Code de commerce, les Parties déclarent expressément déroger au statut des baux commerciaux. Le Preneur reconnaît qu'il ne bénéficie ni du droit au renouvellement, ni de l'indemnité d'éviction prévus par ce statut.
+
+Le bail est régi par les articles 1709 et suivants du Code civil et par les stipulations ci-après.
+
+## ARTICLE 2 – DÉSIGNATION DES LOCAUX
+
+Les locaux sont situés [adresse complète, bâtiment, étage]. Ils comprennent : [description précise : surface de vente, réserve, bureau, sanitaires, vitrine, etc.], pour une surface d'environ [nombre] m², donnée à titre indicatif.
+
+Le Preneur déclare bien connaître les locaux pour les avoir visités.
+
+## ARTICLE 3 – DESTINATION
+
+Les locaux sont destinés exclusivement à l'activité suivante : [activité précise].
+
+Le Bailleur déclare que cette activité est compatible avec le règlement de copropriété de l'immeuble, s'il en existe un. Le Preneur fait son affaire des autorisations administratives propres à son activité.
+
+## ARTICLE 4 – DURÉE
+
+Le bail est conclu pour une durée de [nombre] mois, qui commence le [date d'entrée dans les lieux] et se termine le [date d'échéance], sans tacite reconduction.
+
+> Note de rédaction : la durée de ce bail, ajoutée à celle des baux dérogatoires précédents portant sur les mêmes locaux et le même preneur, ne doit pas dépasser trois ans. Vérifiez le calcul avant toute prolongation.
+
+## ARTICLE 5 – FIN DU BAIL
+
+### 5.1 Échéance
+
+Le bail prend fin de plein droit à la date d'échéance, sans qu'aucun congé soit nécessaire. Le Preneur doit alors libérer les locaux et restituer les clés.
+
+### 5.2 Intention du Bailleur
+
+Le Bailleur informe le Preneur, par lettre recommandée avec demande d'avis de réception adressée au moins [un] mois avant l'échéance, de son intention de récupérer les locaux à cette date ou de lui proposer un nouveau bail.
+
+> Note de rédaction : cette lettre n'est pas exigée par la loi, mais elle permet de prouver que le bailleur s'est opposé au maintien du preneur. Si le preneur reste et est laissé en possession plus d'un mois après l'échéance, un bail commercial soumis au statut se forme automatiquement.
+
+### 5.3 Résiliation anticipée par le Preneur
+
+[Option 1 : le Preneur peut résilier le bail à tout moment en respectant un préavis de [nombre] mois, notifié par lettre recommandée avec demande d'avis de réception.] [Option 2 : le bail ne peut pas être résilié avant son terme, sauf accord des Parties.]
+
+### 5.4 Maintien dans les lieux
+
+Si le Preneur se maintient dans les locaux après l'échéance malgré l'opposition du Bailleur, il est redevable d'une indemnité d'occupation égale au dernier loyer, charges en sus, jusqu'à la libération effective des lieux, sans préjudice de tous dommages et intérêts.
+
+## ARTICLE 6 – LOYER
+
+Le loyer est fixé à [montant] euros hors taxes et hors charges par [mois / trimestre], payable d'avance le [jour] de chaque [mois / trimestre], par [virement / prélèvement].
+
+[Le loyer est soumis à la TVA, le Bailleur ayant opté pour son assujettissement.] [ou : le loyer n'est pas soumis à la TVA.]
+
+[Option, pour un bail de plus d'un an : le loyer est révisé à la date anniversaire du bail selon la variation de l'indice des loyers commerciaux (ILC) publié par l'INSEE, à la hausse comme à la baisse. Indice de référence : [trimestre] [année].]
+
+## ARTICLE 7 – CHARGES ET IMPÔTS
+
+Le Preneur rembourse au Bailleur les charges suivantes : [liste précise]. Il verse à ce titre une provision de [montant] euros par [mois / trimestre], régularisée à la fin du bail au vu des dépenses réelles et des justificatifs.
+
+La taxe foncière [reste à la charge du Bailleur / est remboursée par le Preneur au prorata de sa durée d'occupation]. Le Preneur acquitte les impôts liés à son activité.
+
+## ARTICLE 8 – DÉPÔT DE GARANTIE
+
+Le Preneur verse un dépôt de garantie de [montant] euros, non productif d'intérêts. Il est restitué dans un délai de [un] mois après la remise des clés, déduction faite des sommes dues et justifiées.
+
+## ARTICLE 9 – ÉTAT DES LIEUX
+
+Un état des lieux est établi contradictoirement et amiablement par les Parties lors de la prise de possession des locaux et lors de leur restitution. Il est annexé au bail. À défaut d'accord, il est établi par un commissaire de justice, à frais partagés par moitié.
+
+## ARTICLE 10 – ENTRETIEN ET TRAVAUX
+
+Le Bailleur délivre les locaux en bon état et assure les grosses réparations mentionnées à l'article 606 du Code civil. Le Preneur assure l'entretien courant et les réparations locatives.
+
+Le Preneur ne peut réaliser que des aménagements légers et démontables, après accord écrit du Bailleur. À la fin du bail, il remet les lieux dans leur état d'origine, sauf accord contraire écrit.
+
+## ARTICLE 11 – ASSURANCES
+
+Le Preneur assure les locaux contre les risques locatifs, ainsi que son matériel, ses marchandises et sa responsabilité civile. Il remet une attestation au Bailleur à l'entrée dans les lieux.
+
+## ARTICLE 12 – CESSION ET SOUS-LOCATION
+
+Le Preneur ne peut ni céder le bail, ni sous-louer tout ou partie des locaux, ni les mettre à disposition d'un tiers, sans l'accord écrit et préalable du Bailleur.
+
+## ARTICLE 13 – CLAUSE RÉSOLUTOIRE
+
+À défaut de paiement d'un terme de loyer ou de charges, ou d'exécution d'une obligation du bail, et un mois après une mise en demeure restée sans effet, adressée par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice, le bail sera résilié de plein droit si le Bailleur le souhaite.
+
+## ARTICLE 14 – DIAGNOSTICS
+
+Sont annexés au présent bail l'état des risques et, le cas échéant, le diagnostic de performance énergétique et les autres documents techniques exigés par la réglementation en vigueur.
+
+## ARTICLE 15 – SUITE ÉVENTUELLE : BAIL COMMERCIAL
+
+Si les Parties souhaitent poursuivre leur relation à l'échéance, elles concluent un bail commercial écrit, soumis au statut, qui prend effet au lendemain de l'échéance du présent bail. [Option : les principales conditions de ce futur bail (loyer de départ, durée, destination) sont indiquées en annexe 3, à titre d'information et sans engagement des Parties.]
+
+## ARTICLE 16 – LITIGES
+
+En cas de différend, les Parties recherchent une solution amiable. À défaut, le litige est porté devant le tribunal judiciaire du lieu de situation des locaux.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux.
+
+Le Bailleur
+[Signature]
+
+Le Preneur
+[Signature précédée de la mention « Lu et approuvé, renonciation au statut des baux commerciaux pour la durée du présent bail »]
+
+## ANNEXES
+
+- Annexe 1 : état des lieux d'entrée
+- Annexe 2 : état des risques et diagnostics techniques
+- Annexe 3 : conditions envisagées pour un éventuel bail commercial (facultatif)

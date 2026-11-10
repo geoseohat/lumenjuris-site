@@ -1,0 +1,103 @@
+{
+  "slug": "contrat-de-bail-derogatoire",
+  "nom": "Contrat de bail dérogatoire",
+  "nom_court": "contrat de bail dérogatoire",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de bail dérogatoire",
+  "mots_cles_secondaires": [
+    "bail dérogatoire",
+    "bail de courte durée",
+    "bail précaire commercial",
+    "modèle bail dérogatoire gratuit",
+    "bail dérogatoire 3 ans",
+    "bail commercial de courte durée",
+    "bail dérogatoire word"
+  ],
+  "titre_h1": "Modèle de contrat de bail dérogatoire gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de bail dérogatoire gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de bail dérogatoire gratuit (Word, PDF) pour louer un local commercial jusqu'à 3 ans sans statut des baux commerciaux : durée, échéance, pièges.",
+  "chapo": "Le bail dérogatoire permet de louer un local commercial pour trois ans au plus, sans droit au renouvellement pour le locataire. Téléchargez un modèle prêt à compléter et découvrez comment éviter qu'il se transforme en bail commercial de neuf ans.",
+  "public": "Propriétaires de locaux commerciaux, commerçants et artisans",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-bail-derogatoire-lumen-juris",
+  "date_publication": "2026-11-10",
+  "date_mise_a_jour": "2026-11-10",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Baux commerciaux",
+      "Droit immobilier",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que le locataire entre dans les lieux",
+      "Assurez-vous que le locataire n'occupe pas déjà le local : la dérogation au statut se décide à l'entrée dans les lieux."
+    ],
+    [
+      "Calculer la durée totale",
+      "Additionnez la durée de ce bail et celle des éventuels baux dérogatoires précédents pour le même local : le total ne doit pas dépasser trois ans."
+    ],
+    [
+      "Choisir les conditions financières et la sortie anticipée",
+      "Fixez le loyer, les charges et le dépôt de garantie, puis décidez si le locataire pourra partir avant le terme."
+    ],
+    [
+      "Faire l'état des lieux et signer",
+      "Établissez l'état des lieux d'entrée ensemble, annexez les diagnostics et faites précéder la signature du locataire de la mention prévue."
+    ],
+    [
+      "Anticiper l'échéance",
+      "Notez la date de fin et, si vous voulez récupérer le local, envoyez votre lettre recommandée avant l'échéance pour éviter la naissance d'un bail commercial."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la durée maximale d'un bail dérogatoire ?",
+      "La durée totale du bail dérogatoire, ou des baux dérogatoires successifs pour le même local et le même locataire, ne peut pas dépasser trois ans. Les parties peuvent choisir une durée plus courte, par exemple six mois ou deux ans."
+    ],
+    [
+      "Que se passe-t-il si le locataire reste après la fin du bail dérogatoire ?",
+      "Si le locataire reste et est laissé en possession plus d'un mois après l'échéance, un nouveau bail soumis au statut des baux commerciaux se forme. Il dure neuf ans et donne au locataire le droit au renouvellement."
+    ],
+    [
+      "Peut-on renouveler un bail dérogatoire ?",
+      "Oui, tant que la durée totale reste dans la limite de trois ans. Au-delà, les parties ne peuvent plus conclure de nouveau bail dérogatoire pour le même local et doivent signer un bail commercial si elles veulent continuer."
+    ],
+    [
+      "Le locataire peut-il partir avant la fin d'un bail dérogatoire ?",
+      "La loi ne prévoit pas de faculté de résiliation anticipée pour ce bail. Le locataire ne peut partir avant le terme que si le contrat le prévoit ou si le propriétaire l'accepte."
+    ],
+    [
+      "Le loyer d'un bail dérogatoire est-il encadré ?",
+      "Non. Le loyer est fixé librement par les parties, car les règles du statut sur la révision et le plafonnement ne s'appliquent pas. Une clause d'indexation peut être prévue pour un bail de plus d'un an."
+    ],
+    [
+      "Un état des lieux est-il obligatoire pour un bail dérogatoire ?",
+      "Oui. Depuis la loi Pinel de 2014, un état des lieux doit être établi de façon contradictoire lors de l'entrée dans les lieux et lors de la restitution du local."
+    ],
+    [
+      "Quelle différence entre bail dérogatoire et bail précaire ?",
+      "Le mot « précaire » est souvent utilisé pour le bail dérogatoire, mais il désigne en droit la convention d'occupation précaire. Celle-ci n'a pas de limite de durée, mais elle n'est valable que si une circonstance particulière, indépendante de la seule volonté des parties, justifie le caractère temporaire de l'occupation."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 145-5 (bail dérogatoire), L. 145-5-1 (convention d'occupation précaire) et L. 145-40-1 (état des lieux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1709 et suivants (louage de choses) et 606 (grosses réparations)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-bail-derogatoire"
+  }
+}
