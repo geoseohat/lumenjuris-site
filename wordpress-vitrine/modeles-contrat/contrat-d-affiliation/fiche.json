@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-d-affiliation",
+  "nom": "Contrat d'affiliation",
+  "nom_court": "contrat d'affiliation",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat d'affiliation",
+  "mots_cles_secondaires": [
+    "contrat d'affiliation",
+    "modèle contrat d'affiliation",
+    "contrat d'affiliation commerce",
+    "affiliation réseau de magasins",
+    "contrat d'enseigne",
+    "différence franchise affiliation"
+  ],
+  "titre_h1": "Modèle de contrat d'affiliation gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat d'affiliation gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat d'affiliation à un réseau de magasins (Word, PDF) : enseigne, centrale d'achat, cotisation, DIP, durée, sortie du réseau et non-réaffiliation.",
+  "chapo": "Le contrat d'affiliation permet à un commerçant indépendant de rejoindre un réseau de magasins et d'en utiliser l'enseigne, les conditions d'achat et la communication, sans transmission d'un savoir-faire comme en franchise. Téléchargez un modèle adapté et découvrez les règles qui encadrent l'entrée dans le réseau et, surtout, la sortie.",
+  "public": "Têtes de réseau, commerçants indépendants et centrales d'achat",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-d-affiliation-lumen-juris",
+  "date_publication": "2026-11-11",
+  "date_mise_a_jour": "2026-11-11",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la distribution",
+      "Droit commercial",
+      "Droit de la concurrence"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Recevoir et étudier le document d'information",
+      "La tête de réseau remet le document d'information précontractuelle et le projet de contrat au moins 20 jours avant la signature. Le commerçant compare les conditions d'achat promises à ses conditions actuelles."
+    ],
+    [
+      "Définir l'enseigne et les services fournis",
+      "Listez précisément ce que fournit le réseau : enseigne, référencement fournisseurs, centrale d'achat, catalogue promotionnel, outils informatiques, formation."
+    ],
+    [
+      "Fixer la cotisation et les engagements d'achat",
+      "Indiquez le montant ou le pourcentage de la cotisation, ce qu'elle finance et, le cas échéant, la part minimale d'achats à réaliser via le réseau."
+    ],
+    [
+      "Aligner les échéances des contrats",
+      "Faites coïncider la fin du contrat d'affiliation avec celle des autres contrats liés au magasin (approvisionnement, location de matériel, logiciel)."
+    ],
+    [
+      "Organiser la sortie du réseau",
+      "Prévoyez le préavis de non-renouvellement, le délai de dépose de l'enseigne et vérifiez que toute clause post-contractuelle respecte l'article L. 341-2 du Code de commerce."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la différence entre affiliation et franchise ?",
+      "En franchise, le franchiseur transmet un savoir-faire secret et testé, et assiste le franchisé de manière continue. En affiliation, la tête de réseau met surtout à disposition une enseigne et des services (achats groupés, publicité), sans savoir-faire spécifique. La contrepartie financière est souvent plus légère, mais les clauses qui protègent le savoir-faire, notamment après la fin du contrat, y sont plus difficiles à justifier."
+    ],
+    [
+      "Le document d'information précontractuelle est-il obligatoire en affiliation ?",
+      "Oui, dès que la tête de réseau met son enseigne ou sa marque à disposition du commerçant en exigeant un engagement d'exclusivité ou de quasi-exclusivité. Le document et le projet de contrat doivent alors être remis au moins 20 jours avant la signature (article L. 330-3 du Code de commerce)."
+    ],
+    [
+      "Un affilié peut-il quitter le réseau avant la fin du contrat ?",
+      "En principe non, sauf manquement grave de la tête de réseau ou accord amiable. S'il part avant le terme sans motif, il s'expose à des dommages et intérêts. Le contrat peut prévoir une faculté de sortie anticipée moyennant un préavis et une indemnité raisonnable."
+    ],
+    [
+      "Une clause de non-réaffiliation est-elle valable après la sortie du réseau ?",
+      "Dans le commerce de détail, elle n'est valable que si elle protège un savoir-faire substantiel, spécifique et secret, se limite au local exploité, porte sur une activité concurrente et ne dépasse pas un an (article L. 341-2 du Code de commerce). Faute de savoir-faire transmis, ce qui est fréquent en affiliation, elle risque d'être réputée non écrite."
+    ],
+    [
+      "L'affilié doit-il acheter toutes ses marchandises auprès du réseau ?",
+      "Pas nécessairement. Le contrat peut imposer une part minimale d'achats auprès de la centrale ou des fournisseurs référencés. Une obligation d'achat exclusif est possible mais ne peut pas dépasser dix ans (article L. 330-1 du Code de commerce), et elle doit rester proportionnée."
+    ],
+    [
+      "Le contrat d'affiliation concerne-t-il l'affiliation sur internet ?",
+      "Non. L'affiliation marketing sur internet, où un éditeur de site touche une commission sur les ventes générées par ses liens, relève d'un autre contrat. Le modèle de cette page vise l'adhésion d'un magasin à un réseau sous enseigne commune."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 330-1, L. 330-3 et R. 330-1 (clauses d'exclusivité, information précontractuelle)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 341-1 et L. 341-2 (réseaux de commerce de détail : échéance commune, clauses post-contractuelles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 441-10 et L. 442-1 (paiement, rupture brutale des relations commerciales)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1112-1, 1123 et 1171 (devoir d'information, pacte de préférence, clauses déséquilibrées)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-affiliation"
+  }
+}
