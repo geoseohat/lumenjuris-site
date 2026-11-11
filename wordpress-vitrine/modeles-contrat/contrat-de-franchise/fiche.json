@@ -1,0 +1,114 @@
+{
+  "slug": "contrat-de-franchise",
+  "nom": "Contrat de franchise",
+  "nom_court": "contrat de franchise",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de franchise",
+  "mots_cles_secondaires": [
+    "contrat de franchise",
+    "modèle contrat de franchise",
+    "contrat de franchise commerciale",
+    "document d'information précontractuelle franchise",
+    "contrat franchiseur franchisé",
+    "clause de non-concurrence franchise"
+  ],
+  "titre_h1": "Modèle de contrat de franchise gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de franchise gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de franchise gratuit (Word, PDF) : DIP 20 jours avant, savoir-faire, marque, redevances, territoire, non-concurrence et fin du contrat.",
+  "chapo": "Le contrat de franchise permet à un commerçant indépendant d'exploiter le concept, la marque et le savoir-faire d'un réseau en contrepartie de redevances. Téléchargez un modèle conforme au Code de commerce et découvrez les étapes obligatoires avant la signature, les clauses qui protègent chaque partie et celles qui sont interdites.",
+  "public": "Franchiseurs, franchisés et créateurs d'entreprise",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-franchise-lumen-juris",
+  "date_publication": "2026-11-11",
+  "date_mise_a_jour": "2026-11-11",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la distribution",
+      "Droit commercial",
+      "Droit de la concurrence"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Remettre le document d'information précontractuelle",
+      "Le franchiseur remet le DIP et le projet de contrat au moins 20 jours avant la signature ou avant tout versement d'argent. Faites signer un accusé de réception daté."
+    ],
+    [
+      "Vérifier le savoir-faire et la marque",
+      "Le futur franchisé contrôle que la marque est bien déposée au nom du franchiseur et que le savoir-faire est décrit, testé et transmis par un manuel opératoire."
+    ],
+    [
+      "Construire le prévisionnel",
+      "Le franchisé établit son propre compte prévisionnel avec un expert-comptable, en tenant compte du droit d'entrée, des redevances et des investissements imposés par le réseau."
+    ],
+    [
+      "Négocier territoire, durée et redevances",
+      "Fixez la zone d'exclusivité, la durée adaptée à l'amortissement des investissements, le taux des redevances et les objectifs éventuels."
+    ],
+    [
+      "Encadrer la fin du contrat",
+      "Prévoyez le préavis de non-renouvellement, le sort du stock et de l'enseigne, et une clause post-contractuelle limitée à ce que permet l'article L. 341-2 du Code de commerce."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel délai entre la remise du DIP et la signature du contrat de franchise ?",
+      "Le document d'information précontractuelle doit être remis au moins 20 jours avant la signature du contrat ou avant le versement de toute somme, par exemple une réservation de zone (article L. 330-3 du Code de commerce). Ce délai permet au candidat de vérifier les informations et de construire son projet. Il ne peut pas être raccourci, même avec l'accord du candidat."
+    ],
+    [
+      "Que contient le document d'information précontractuelle ?",
+      "Son contenu est fixé par l'article R. 330-1 du Code de commerce : présentation du franchiseur et de ses dirigeants, ancienneté et expérience, état du marché local, comptes annuels des deux derniers exercices, liste des entreprises du réseau, établissements ayant quitté le réseau l'année précédente, durée du contrat, conditions de renouvellement, de résiliation et de cession, et étendue des exclusivités."
+    ],
+    [
+      "Le franchiseur peut-il imposer les prix de vente au franchisé ?",
+      "Non. Le franchisé est un commerçant indépendant qui fixe librement ses prix. Le franchiseur peut communiquer des prix conseillés ou fixer un prix maximal, mais imposer un prix de revente minimal est interdit par le Code de commerce et par le droit européen de la concurrence."
+    ],
+    [
+      "Une clause de non-concurrence après la fin d'une franchise est-elle valable ?",
+      "Elle n'est valable dans un réseau de commerce de détail que si elle respecte quatre conditions cumulatives de l'article L. 341-2 du Code de commerce : elle porte sur des biens ou services concurrents, se limite aux locaux et terrains exploités pendant le contrat, est indispensable pour protéger un savoir-faire substantiel, spécifique et secret, et ne dépasse pas un an. À défaut, elle est réputée non écrite."
+    ],
+    [
+      "Le droit d'entrée est-il remboursable si le projet n'aboutit pas ?",
+      "Tout dépend du contrat. Le droit d'entrée rémunère en principe la transmission du savoir-faire et l'assistance au démarrage : il n'est pas remboursable une fois ces prestations fournies. Prévoyez dans le contrat ce qui se passe si le local n'est pas trouvé ou si le financement est refusé, par exemple un remboursement partiel."
+    ],
+    [
+      "Quelle durée choisir pour un contrat de franchise ?",
+      "La loi ne fixe pas de durée, mais la durée doit permettre au franchisé d'amortir ses investissements. Si le contrat comporte une clause d'approvisionnement exclusif, celle-ci ne peut pas dépasser dix ans (article L. 330-1 du Code de commerce). En pratique, les contrats sont souvent conclus pour cinq à sept ans."
+    ],
+    [
+      "Le franchisé peut-il revendre son fonds de commerce ?",
+      "Oui, le fonds appartient au franchisé. Le contrat de franchise, lui, est conclu en considération de sa personne : sa cession à l'acquéreur nécessite en général l'agrément du franchiseur. Le contrat peut aussi prévoir un droit de préférence au profit du franchiseur, à condition d'en préciser les modalités."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 330-1 et L. 330-3, R. 330-1 et R. 330-2 (exclusivité, information précontractuelle des réseaux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 341-1 et L. 341-2 (réseaux de distribution : échéance commune, clauses post-contractuelles)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 441-10 et L. 442-1 (délais de paiement, rupture brutale des relations commerciales)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1112-1, 1130 et suivants (devoir d'information, vices du consentement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la propriété intellectuelle, articles L. 714-1 et suivants (licence de marque)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-franchise"
+  }
+}
