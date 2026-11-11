@@ -1,0 +1,181 @@
+# CONTRAT DE DISTRIBUTION SÉLECTIVE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+La société [dénomination], [forme sociale] au capital de [montant] €, dont le siège social est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro SIREN], représentée par [prénom et nom], en qualité de [fonction], dûment habilité(e),
+
+Ci-après dénommée « le Fournisseur »,
+
+D'UNE PART,
+
+ET :
+
+La société [dénomination], [forme sociale] au capital de [montant] €, dont le siège social est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro SIREN], représentée par [prénom et nom], en qualité de [fonction], dûment habilité(e),
+
+Ci-après dénommée « le Distributeur agréé »,
+
+D'AUTRE PART,
+
+Le Fournisseur et le Distributeur agréé étant ensemble dénommés « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Fournisseur conçoit et commercialise, sous la marque [nom de la marque], des produits de [description des produits] (ci-après « les Produits »). En raison de [leur technicité / leur positionnement haut de gamme / la nécessité d'un conseil personnalisé], le Fournisseur a choisi de les commercialiser au sein d'un réseau de distribution sélective, composé de revendeurs sélectionnés selon les critères qualitatifs décrits en Annexe 1.
+
+Le Distributeur agréé a présenté sa candidature. Le Fournisseur a constaté qu'il remplissait ces critères et l'a agréé pour le point de vente désigné ci-après.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Distributeur agréé achète les Produits au Fournisseur et les revend, en son nom et pour son compte, au sein du réseau de distribution sélective du Fournisseur.
+
+## ARTICLE 2 – AGRÉMENT
+
+### 2.1 Point de vente agréé
+
+Le Distributeur agréé est agréé pour le point de vente situé [adresse] (ci-après « le Point de vente agréé ») [et pour le site internet [adresse du site]].
+
+### 2.2 Nouveaux points de vente
+
+Toute ouverture d'un nouveau point de vente ou tout transfert du Point de vente agréé est soumis à un agrément préalable du Fournisseur. Celui-ci répond dans un délai de [trente] jours à compter de la réception d'un dossier complet. L'agrément ne peut être refusé que si le nouveau point de vente ne remplit pas les critères de l'Annexe 1. Tout refus est motivé par écrit.
+
+### 2.3 Absence d'exclusivité territoriale
+
+Le présent contrat ne confère au Distributeur agréé aucune exclusivité territoriale. Le Fournisseur reste libre d'agréer d'autres revendeurs remplissant les critères de sélection.
+
+## ARTICLE 3 – CRITÈRES DE SÉLECTION
+
+Les critères de sélection qualitatifs du réseau figurent en Annexe 1. Ils sont appliqués de manière uniforme et non discriminatoire à tous les membres du réseau et à tous les candidats.
+
+Le Distributeur agréé s'engage à respecter ces critères pendant toute la durée du contrat.
+
+Le Fournisseur peut faire évoluer les critères pour tenir compte de l'évolution des Produits ou du marché. Toute modification est notifiée au Distributeur agréé avec un délai de mise en conformité d'au moins [six] mois. Les nouveaux critères s'appliquent à tous les membres du réseau.
+
+## ARTICLE 4 – VENTES AUTORISÉES ET INTERDICTION DE REVENTE HORS RÉSEAU
+
+### 4.1 Clients autorisés
+
+Le Distributeur agréé peut vendre les Produits :
+- à tout consommateur final ou utilisateur final, quel que soit son lieu de résidence ;
+- à tout autre distributeur agréé du réseau, quel que soit son lieu d'établissement dans l'Union européenne.
+
+### 4.2 Interdiction de revente hors réseau
+
+Le Distributeur agréé s'interdit de vendre les Produits, directement ou par personne interposée, à tout revendeur non agréé par le Fournisseur.
+
+Il refuse toute commande dont la quantité ou les circonstances laissent raisonnablement penser qu'elle est destinée à la revente hors réseau.
+
+> Note de rédaction : cette interdiction ne peut être opposée à un tiers, sur le fondement de l'article L. 442-2 du Code de commerce, que si le réseau respecte le droit de la concurrence. Elle ne doit jamais empêcher les ventes aux consommateurs ni les ventes entre membres du réseau.
+
+### 4.3 Traçabilité
+
+Le Distributeur agréé conserve pendant [trois] ans les factures d'achat et de vente des Produits et, le cas échéant, leurs numéros de série ou de lot. Il les communique au Fournisseur sur demande motivée par une suspicion de revente hors réseau.
+
+## ARTICLE 5 – PRÉSENTATION ET SERVICES
+
+Le Distributeur agréé s'engage à :
+- présenter les Produits dans un environnement conforme à l'Annexe 1 et à la charte de présentation remise par le Fournisseur ;
+- disposer d'un personnel formé, capable de conseiller la clientèle sur les Produits ;
+- détenir un assortiment minimum de [nombre ou liste de références] ;
+- assurer [le service après-vente / la mise en relation de la clientèle avec le service après-vente du Fournisseur] ;
+- participer aux formations organisées par le Fournisseur, dont le coût est à la charge de [le Fournisseur / chaque Partie pour ses propres frais].
+
+## ARTICLE 6 – VENTE EN LIGNE
+
+Le Distributeur agréé peut vendre les Produits en ligne, sur son propre site internet, dans le respect des exigences de qualité suivantes : [présentation conforme à la charte graphique, photographies officielles, description complète, service client joignable, conditions de livraison et de retour clairement affichées].
+
+> Option : Afin de préserver l'image de la marque, le Distributeur agréé s'interdit de vendre les Produits par l'intermédiaire d'une place de marché tierce visible du public (plateforme sur laquelle d'autres vendeurs proposent leurs produits).
+
+> Note de rédaction : une interdiction totale de la vente en ligne est une restriction grave de concurrence. L'interdiction des places de marché n'a été admise que pour préserver l'image de produits de luxe ou de haute qualité et doit rester proportionnée.
+
+## ARTICLE 7 – COMMANDES, PRIX ET PAIEMENT
+
+### 7.1 Commandes
+
+Les commandes sont passées par écrit, selon les conditions générales de vente du Fournisseur en vigueur, qui s'appliquent dans la mesure où elles ne sont pas contraires au présent contrat.
+
+### 7.2 Prix d'achat
+
+Les Produits sont vendus au Distributeur agréé au tarif du Fournisseur en vigueur au jour de la commande. Toute modification du tarif est notifiée au moins [trente] jours avant son entrée en vigueur.
+
+### 7.3 Liberté des prix de revente
+
+Le Distributeur agréé fixe librement ses prix de revente. Le Fournisseur peut communiquer des prix de vente conseillés, sans caractère obligatoire. Aucune mesure ne peut être prise à l'encontre du Distributeur agréé en raison du niveau de ses prix.
+
+### 7.4 Paiement
+
+Les factures sont payables à [nombre, au plus soixante] jours à compter de la date d'émission de la facture. Tout retard entraîne l'application de pénalités au taux prévu par l'article L. 441-10 du Code de commerce et d'une indemnité forfaitaire pour frais de recouvrement de 40 €.
+
+### 7.5 Réserve de propriété
+
+Le Fournisseur conserve la propriété des Produits jusqu'au paiement intégral de leur prix.
+
+## ARTICLE 8 – MARQUE ET COMMUNICATION
+
+Le Fournisseur autorise le Distributeur agréé à utiliser la marque [nom de la marque], ses logos et les visuels fournis, pour la durée du contrat et dans le seul but de promouvoir et vendre les Produits, conformément à la charte graphique remise.
+
+Le Distributeur agréé indique sur son Point de vente et sur son site la mention « Distributeur agréé [nom de la marque] ». Il s'interdit d'enregistrer un nom de domaine, un compte de réseau social ou une marque contenant la marque du Fournisseur sans son accord écrit.
+
+## ARTICLE 9 – CONTRÔLE DE CONFORMITÉ
+
+Le Fournisseur peut vérifier le respect des critères de sélection et des obligations du présent contrat, par des visites du Point de vente [et des contrôles du site internet], au plus [deux] fois par an sauf suspicion sérieuse de manquement, sur rendez-vous pris au moins [sept] jours à l'avance.
+
+Les constats sont communiqués par écrit au Distributeur agréé, qui peut présenter ses observations.
+
+## ARTICLE 10 – DURÉE
+
+Le présent contrat est conclu pour une durée de [nombre] an(s) à compter de sa signature. Il se renouvelle ensuite par tacite reconduction pour une durée indéterminée.
+
+Chaque Partie peut alors y mettre fin à tout moment par lettre recommandée avec demande d'avis de réception, en respectant un préavis de [nombre] mois, augmenté d'un mois par année d'ancienneté de la relation, dans la limite de [dix-huit] mois.
+
+> Note de rédaction : le préavis doit tenir compte de la durée de la relation commerciale (article L. 442-1, II du Code de commerce). Un préavis de dix-huit mois met l'auteur de la rupture à l'abri d'une action fondée sur une durée de préavis insuffisante.
+
+## ARTICLE 11 – RÉSILIATION POUR MANQUEMENT
+
+En cas de manquement grave de l'une des Parties à ses obligations, notamment la revente hors réseau ou le non-respect durable des critères de sélection, l'autre Partie peut résilier le contrat par lettre recommandée avec demande d'avis de réception, [trente] jours après une mise en demeure restée sans effet.
+
+Le Fournisseur ne peut pas invoquer comme motif de résiliation le niveau des prix de revente pratiqués par le Distributeur agréé.
+
+## ARTICLE 12 – CONSÉQUENCES DE LA FIN DU CONTRAT
+
+À la fin du contrat, pour quelque cause que ce soit :
+- le Distributeur agréé cesse de se présenter comme distributeur agréé et retire les signes distinctifs de la marque de son Point de vente et de son site dans un délai de [quinze] jours ;
+- le Distributeur agréé peut écouler son stock de Produits pendant [trois] mois, dans le respect du présent contrat.
+
+> Option : À l'issue de ce délai, le Fournisseur rachète le stock restant en bon état et dans son emballage d'origine, au prix d'achat hors taxes facturé, déduction faite de [pourcentage] % pour frais de reconditionnement.
+
+## ARTICLE 13 – DONNÉES PERSONNELLES
+
+Chaque Partie traite les données personnelles de ses propres clients en qualité de responsable de traitement, conformément au règlement (UE) 2016/679 et à la loi n° 78-17 du 6 janvier 1978.
+
+## ARTICLE 14 – LITIGES
+
+Le présent contrat est soumis au droit français.
+
+Les Parties s'efforcent de résoudre à l'amiable tout différend lié au présent contrat. À défaut d'accord dans un délai de [trente] jours, le litige est porté devant la juridiction compétente.
+
+> Note de rédaction : les litiges relatifs à l'application de l'article L. 442-1 du Code de commerce relèvent de juridictions commerciales spécialement désignées.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un pour chaque Partie.
+
+Le Fournisseur
+[Nom, qualité et signature]
+
+Le Distributeur agréé
+[Nom, qualité et signature]
+
+## ANNEXE 1 – CRITÈRES DE SÉLECTION QUALITATIFS
+
+- Emplacement : [type de zone commerciale, environnement compatible avec l'image de la marque]
+- Point de vente : [surface minimale consacrée aux Produits, vitrine, mobilier]
+- Personnel : [nombre minimal de personnes formées aux Produits]
+- Services : [conseil, démonstration, essai, service après-vente]
+- Site internet : [exigences de qualité de la vente en ligne]
+- Assortiment minimum : [références ou gammes]
+
+## ANNEXE 2 – CHARTE DE PRÉSENTATION ET CHARTE GRAPHIQUE
+
+[Documents remis par le Fournisseur.]

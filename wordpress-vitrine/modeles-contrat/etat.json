@@ -1796,27 +1796,53 @@
     "contrat-de-franchise": {
       "fichiers": {
         "docx": {
-          "id": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o1.id}}",
-          "url": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o1.source_url}}",
+          "id": 3669,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-franchise-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "07e09c5337fac9a0875bc53d3edbe126b9e1e42878b4f30c3841136996d0c5e3"
         },
         "pdf": {
-          "id": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o2.id}}",
-          "url": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o2.source_url}}",
+          "id": 3670,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-franchise-lumen-juris.pdf",
           "taille": "129 Ko",
           "empreinte": "07e09c5337fac9a0875bc53d3edbe126b9e1e42878b4f30c3841136996d0c5e3"
         }
       },
       "image": {
-        "id": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o3.id}}",
-        "url": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o3.source_url}}",
+        "id": 3671,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-franchise-lumen-juris.png",
         "taille": "288 Ko",
         "empreinte": "122c9534302a06b5857b8585e0ddf550453bc724522d41136b6ce6fb0a25a7e1"
       },
       "statut": "publish",
-      "id": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o7.id}}",
-      "lien": "{{20261111-091832-publier-en-ligne-contrat-de-franchise.o7.link}}",
+      "id": 3672,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-franchise/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-distribution-selective": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o1.id}}",
+          "url": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "50d676c9fc6c8b39e231e9b222b038927b0b8c2deb0e1dd2e7fa65e4cf9dbd2a"
+        },
+        "pdf": {
+          "id": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o2.id}}",
+          "url": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o2.source_url}}",
+          "taille": "111 Ko",
+          "empreinte": "50d676c9fc6c8b39e231e9b222b038927b0b8c2deb0e1dd2e7fa65e4cf9dbd2a"
+        }
+      },
+      "image": {
+        "id": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o3.id}}",
+        "url": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o3.source_url}}",
+        "taille": "297 Ko",
+        "empreinte": "a85f0af1efbf352850267ff029a68df49b9abc7145737dbe294105e4da606867"
+      },
+      "statut": "publish",
+      "id": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o7.id}}",
+      "lien": "{{20261111-092101-publier-en-ligne-contrat-de-distribution-selective.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1825,6 +1851,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261111-091832-publier-en-ligne-contrat-de-franchise"
+    "20261111-092101-publier-en-ligne-contrat-de-distribution-selective"
   ]
 }
