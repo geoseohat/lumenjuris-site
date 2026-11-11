@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-depot",
+  "nom": "Contrat de dépôt",
+  "nom_court": "contrat de dépôt",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de dépôt",
+  "mots_cles_secondaires": [
+    "contrat de dépôt",
+    "contrat de dépôt de marchandises",
+    "contrat de dépôt de biens",
+    "contrat de gardiennage",
+    "contrat de dépôt salarié",
+    "convention de dépôt de matériel"
+  ],
+  "titre_h1": "Modèle de contrat de dépôt gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de dépôt gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de contrat de dépôt gratuit (Word, PDF) pour confier la garde d'un bien : inventaire, obligation de soin, restitution, rémunération et responsabilité.",
+  "chapo": "Le contrat de dépôt sert à confier la garde d'un bien meuble à une autre personne, qui s'engage à le conserver puis à le rendre. Téléchargez un modèle conforme au Code civil et découvrez comment rédiger l'inventaire, fixer la responsabilité du gardien et organiser la restitution.",
+  "public": "Particuliers, entreprises et professionnels de la garde de biens",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-depot-lumen-juris",
+  "date_publication": "2026-11-11",
+  "date_mise_a_jour": "2026-11-11",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit civil",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Dresser l'inventaire des biens",
+      "Listez chaque bien déposé avec sa description, son numéro de série s'il en a un, son état et sa valeur estimée. Joignez des photos datées en annexe."
+    ],
+    [
+      "Choisir entre dépôt gratuit et dépôt rémunéré",
+      "Décidez si le gardien est payé. Un dépôt rémunéré rend le dépositaire plus exigeant à son égard : prévoyez alors un prix, une périodicité de paiement et les frais refacturables."
+    ],
+    [
+      "Fixer le lieu et les conditions de garde",
+      "Indiquez l'adresse du local, les conditions de stockage (température, sécurité, accès) et précisez si le dépositaire peut déplacer les biens ou les confier à un tiers."
+    ],
+    [
+      "Organiser l'assurance et la responsabilité",
+      "Précisez qui assure les biens, pour quelle valeur, et dans quelles limites le dépositaire répond d'une perte ou d'une détérioration."
+    ],
+    [
+      "Prévoir la restitution",
+      "Fixez le délai de prévenance pour reprendre les biens, le lieu de restitution, le procès-verbal de sortie et ce qui se passe si le déposant ne vient pas les chercher."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat de dépôt doit-il obligatoirement être écrit ?",
+      "Non, le dépôt se forme par la remise du bien au dépositaire. Mais un écrit est vivement conseillé : il prouve la remise, l'état et la valeur des biens. Pour un bien d'une valeur supérieure à 1 500 €, la preuve d'un acte juridique se fait en principe par écrit (article 1359 du Code civil)."
+    ],
+    [
+      "Le dépositaire peut-il utiliser le bien qu'on lui confie ?",
+      "Non, sauf autorisation expresse ou présumée du déposant (article 1930 du Code civil). Utiliser le bien sans accord engage sa responsabilité. Si vous souhaitez autoriser un usage, par exemple démarrer un véhicule pour l'entretenir, écrivez-le dans le contrat."
+    ],
+    [
+      "Peut-on récupérer ses biens avant la fin prévue du contrat ?",
+      "Oui. Le Code civil prévoit que le dépôt doit être restitué au déposant dès qu'il le réclame, même si une durée a été fixée (article 1944). Le contrat peut prévoir un délai de prévenance raisonnable pour organiser la sortie et le paiement des sommes dues, mais pas interdire la reprise."
+    ],
+    [
+      "Qui paie si le bien est volé ou abîmé pendant la garde ?",
+      "Le dépositaire répond des dommages causés par sa faute, appréciée plus sévèrement s'il est rémunéré. Il n'est pas responsable d'un cas de force majeure, sauf s'il avait déjà été mis en demeure de restituer. D'où l'intérêt de préciser l'assurance et la valeur déclarée de chaque bien."
+    ],
+    [
+      "Le dépositaire peut-il garder les biens si je ne le paie pas ?",
+      "Oui, il dispose d'un droit de rétention : il peut retenir le bien jusqu'au paiement de ce qui lui est dû au titre du dépôt (article 1948 du Code civil). Ce droit ne lui permet pas de vendre le bien de sa propre initiative."
+    ],
+    [
+      "Que faire si le déposant ne vient jamais récupérer ses affaires ?",
+      "Le dépositaire doit d'abord mettre le déposant en demeure par écrit. Il ne peut ni vendre ni jeter les biens de lui-même. Pour les objets confiés à un professionnel, une loi du 31 décembre 1903 organise leur vente après un délai d'abandon et sur autorisation du juge."
+    ],
+    [
+      "Quelle différence entre un contrat de dépôt et la location d'un box de stockage ?",
+      "Dans un dépôt, le gardien reçoit le bien et s'engage à le surveiller et à le rendre. Dans la location d'un box en libre accès, le loueur met seulement un espace à disposition : vous gardez la clé et le contrôle de vos affaires. La responsabilité du loueur en cas de vol est donc beaucoup plus limitée."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1915 à 1954 (contrat de dépôt : obligations du dépositaire et du déposant, dépôt nécessaire, dépôt hôtelier)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1170, 1231-1 et 1359 (clauses limitatives, responsabilité contractuelle, preuve par écrit)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 441-10 (pénalités de retard et indemnité forfaitaire de recouvrement entre professionnels)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, articles L. 212-1 et R. 212-1 (clauses abusives dans les contrats avec des consommateurs)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-depot"
+  }
+}

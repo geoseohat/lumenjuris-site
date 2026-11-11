@@ -1744,27 +1744,53 @@
     "contrat-de-domiciliation": {
       "fichiers": {
         "docx": {
-          "id": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o1.id}}",
-          "url": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o1.source_url}}",
+          "id": 3651,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-domiciliation-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "329074be06949a0531a90ad2eaedd7b3f63c54dd45f0cd9b818c2f5ba764bb0b"
         },
         "pdf": {
-          "id": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o2.id}}",
-          "url": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o2.source_url}}",
+          "id": 3652,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-domiciliation-lumen-juris.pdf",
           "taille": "96 Ko",
           "empreinte": "329074be06949a0531a90ad2eaedd7b3f63c54dd45f0cd9b818c2f5ba764bb0b"
         }
       },
       "image": {
-        "id": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o3.id}}",
-        "url": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o3.source_url}}",
+        "id": 3653,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-domiciliation-lumen-juris.png",
         "taille": "290 Ko",
         "empreinte": "8fdeb26f1559dd0c7580b2711171d7bd53500e9887d39ce1c236b5af5efb04b7"
       },
       "statut": "publish",
-      "id": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o7.id}}",
-      "lien": "{{20261110-092205-publier-en-ligne-contrat-de-domiciliation.o7.link}}",
+      "id": 3654,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-domiciliation/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-depot": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o1.id}}",
+          "url": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "1af85b05a04d32772e4be34f5a7e645c1261b32ee1190b7449d7db8fab8f448a"
+        },
+        "pdf": {
+          "id": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o2.id}}",
+          "url": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o2.source_url}}",
+          "taille": "127 Ko",
+          "empreinte": "1af85b05a04d32772e4be34f5a7e645c1261b32ee1190b7449d7db8fab8f448a"
+        }
+      },
+      "image": {
+        "id": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o3.id}}",
+        "url": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o3.source_url}}",
+        "taille": "285 Ko",
+        "empreinte": "5cf3fe5e6cb2b46ab3026788210e3bf914d248374dc6054200efb3c82f4f6643"
+      },
+      "statut": "publish",
+      "id": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o7.id}}",
+      "lien": "{{20261111-091548-publier-en-ligne-contrat-de-depot.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1773,6 +1799,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261110-092205-publier-en-ligne-contrat-de-domiciliation"
+    "20261111-091548-publier-en-ligne-contrat-de-depot"
   ]
 }

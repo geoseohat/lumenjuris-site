@@ -1,0 +1,232 @@
+# CONTRAT DE DÉPÔT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Pour une personne physique : Madame / Monsieur [prénom et nom], né(e) le [date] à [lieu], demeurant [adresse complète]]
+[Pour une société : la société [dénomination], [forme sociale] au capital de [montant] €, dont le siège social est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro SIREN], représentée par [prénom et nom], en qualité de [fonction], dûment habilité(e)]
+
+Ci-après dénommé(e) « le Déposant »,
+
+D'UNE PART,
+
+ET :
+
+[Identité complète du dépositaire, selon les mêmes indications]
+
+Ci-après dénommé(e) « le Dépositaire »,
+
+D'AUTRE PART,
+
+Le Déposant et le Dépositaire étant ensemble dénommés « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Déposant souhaite confier temporairement la garde des biens décrits ci-après au Dépositaire, qui accepte de les recevoir, de les conserver et de les restituer dans les conditions du présent contrat, conformément aux articles 1915 et suivants du Code civil.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le présent contrat a pour objet de définir les conditions dans lesquelles le Déposant confie au Dépositaire, qui l'accepte, la garde des biens meubles désignés à l'article 2 (ci-après « les Biens »).
+
+Le Dépositaire s'engage à garder les Biens et à les restituer au Déposant, en nature, dans les conditions prévues au présent contrat.
+
+## ARTICLE 2 – DÉSIGNATION DES BIENS DÉPOSÉS
+
+Les Biens déposés sont décrits dans l'inventaire figurant en Annexe 1, qui indique pour chacun :
+- sa désignation et, le cas échéant, sa marque, son modèle et son numéro de série ;
+- sa quantité ;
+- son état apparent au jour de la remise ;
+- sa valeur déclarée par le Déposant.
+
+Des photographies datées des Biens sont jointes à l'inventaire.
+
+Le Déposant déclare être propriétaire des Biens ou être autorisé par leur propriétaire à les déposer. Il garantit que les Biens ne sont ni dangereux, ni illicites, ni périssables, sauf mention contraire et accord exprès du Dépositaire figurant en Annexe 1.
+
+> Note de rédaction : la valeur déclarée sert de base à l'assurance et à l'indemnisation. Une valeur sous-estimée réduit l'indemnisation ; une valeur surestimée augmente le coût de l'assurance.
+
+## ARTICLE 3 – REMISE DES BIENS
+
+La remise des Biens au Dépositaire a lieu le [date], à l'adresse suivante : [adresse].
+
+Le contrat prend effet à cette remise. Un procès-verbal de remise, signé par les deux Parties, constate la remise effective des Biens et leur état apparent. Il est annexé au présent contrat (Annexe 2).
+
+Les frais de transport des Biens jusqu'au lieu de dépôt sont à la charge de [le Déposant / le Dépositaire].
+
+## ARTICLE 4 – LIEU ET CONDITIONS DE CONSERVATION
+
+Les Biens sont conservés à l'adresse suivante : [adresse du local de conservation].
+
+Le Dépositaire s'engage à conserver les Biens dans un local clos, couvert et adapté à leur nature, dans les conditions suivantes : [conditions particulières : température, hygrométrie, protection contre l'incendie, système d'alarme, stockage sur palettes, etc.].
+
+Le Dépositaire ne peut déplacer les Biens dans un autre lieu qu'avec l'accord écrit et préalable du Déposant, sauf urgence liée à la sauvegarde des Biens. Dans ce dernier cas, il en informe le Déposant sans délai.
+
+> Option : Le Dépositaire est autorisé à confier la garde de tout ou partie des Biens à un tiers [désigner le tiers ou les critères de choix]. Il demeure responsable envers le Déposant de la bonne exécution du dépôt.
+
+## ARTICLE 5 – OBLIGATIONS DU DÉPOSITAIRE
+
+### 5.1 Garde des Biens
+
+Le Dépositaire apporte à la garde des Biens les soins nécessaires à leur bonne conservation.
+
+> Note de rédaction : pour un dépôt gratuit, le Code civil exige du dépositaire les mêmes soins qu'il apporte à ses propres biens (article 1927). Pour un dépôt rémunéré, son obligation est appréciée plus sévèrement (article 1928). La rédaction ci-dessus convient aux deux cas.
+
+### 5.2 Interdiction d'usage
+
+Le Dépositaire ne peut se servir des Biens sans l'autorisation écrite du Déposant.
+
+> Option : Le Déposant autorise le Dépositaire à effectuer les opérations d'entretien suivantes, nécessaires à la conservation des Biens : [par exemple, démarrage périodique d'un véhicule, recharge de batteries].
+
+### 5.3 Confidentialité
+
+Le Dépositaire ne cherche pas à connaître le contenu des Biens remis fermés ou sous emballage scellé et s'abstient de communiquer à des tiers des informations sur les Biens déposés.
+
+### 5.4 Information
+
+Le Dépositaire informe le Déposant, par écrit et sans délai, de tout événement susceptible d'affecter les Biens (sinistre, dégradation, vol, saisie, menace sur le local).
+
+### 5.5 Accès du Déposant
+
+Le Déposant peut accéder aux Biens pour les inspecter, sur demande adressée au moins [nombre] jours ouvrés à l'avance, pendant les horaires suivants : [horaires].
+
+## ARTICLE 6 – OBLIGATIONS DU DÉPOSANT
+
+Le Déposant s'engage à :
+- remettre des Biens conformes à l'inventaire et aux déclarations de l'article 2 ;
+- payer, le cas échéant, la rémunération prévue à l'article 7 ;
+- rembourser au Dépositaire les dépenses qu'il a engagées pour la conservation des Biens et l'indemniser des pertes que le dépôt a pu lui occasionner, conformément à l'article 1947 du Code civil, sous réserve que ces dépenses aient été nécessaires ou préalablement acceptées par écrit ;
+- reprendre les Biens dans les conditions de l'article 10.
+
+## ARTICLE 7 – RÉMUNÉRATION
+
+[Choisir l'une des options suivantes.]
+
+> Option 1 – Dépôt gratuit : Le présent dépôt est consenti à titre gratuit. Seules les dépenses de conservation prévues à l'article 6 sont remboursables.
+
+> Option 2 – Dépôt rémunéré : En contrepartie de la garde des Biens, le Déposant verse au Dépositaire une rémunération de [montant] € [HT / TTC] par [mois / trimestre / mètre cube et par mois], payable [à terme échu / d'avance] le [jour] de chaque [période], par [virement / prélèvement], sur présentation d'une facture.
+
+En cas de retard de paiement entre professionnels, les sommes dues portent intérêt au taux prévu par l'article L. 441-10 du Code de commerce, auquel s'ajoute l'indemnité forfaitaire pour frais de recouvrement de 40 €.
+
+## ARTICLE 8 – ASSURANCE
+
+[Le Dépositaire / Le Déposant] assure les Biens contre les risques de vol, d'incendie, de dégât des eaux et de dommages accidentels, pour leur valeur déclarée à l'Annexe 1.
+
+La Partie qui assure les Biens remet à l'autre une attestation d'assurance à la signature du contrat, puis à chaque échéance annuelle.
+
+> Note de rédaction : lorsque le Déposant assure lui-même ses Biens, il est d'usage de prévoir une renonciation à recours de son assureur contre le Dépositaire, sauf faute lourde ou intentionnelle. Vérifiez cette possibilité auprès de l'assureur avant de l'insérer.
+
+## ARTICLE 9 – RESPONSABILITÉ
+
+Le Dépositaire répond de la perte et de la détérioration des Biens survenues pendant la garde, sauf s'il établit qu'elles ne résultent pas de son fait ou de sa faute, ou qu'elles sont dues à un cas de force majeure, au vice propre des Biens ou à une faute du Déposant.
+
+Conformément à l'article 1929 du Code civil, le Dépositaire ne répond pas des accidents de force majeure, sauf s'il avait été mis en demeure de restituer les Biens.
+
+[Choisir l'une des options suivantes.]
+
+> Option 1 – Déposant professionnel : Sauf faute lourde ou dolosive du Dépositaire, l'indemnisation due au titre d'une perte ou d'une détérioration est limitée, pour chaque Bien, à sa valeur déclarée à l'Annexe 1.
+
+> Option 2 – Déposant consommateur : L'indemnisation due au Déposant est déterminée selon le droit commun, sur la base du préjudice réellement subi. La valeur déclarée à l'Annexe 1 sert de référence, sans constituer un plafond.
+
+> Note de rédaction : face à un consommateur, une clause qui supprime ou réduit son droit à réparation est présumée abusive de manière irréfragable (article R. 212-1 du Code de la consommation). N'utilisez pas l'option 1 dans ce cas.
+
+## ARTICLE 10 – DURÉE ET RESTITUTION
+
+### 10.1 Durée
+
+Le présent contrat est conclu pour [une durée déterminée de [durée], à compter de la remise des Biens / une durée indéterminée].
+
+> Option : À l'arrivée du terme, le contrat se renouvelle par tacite reconduction pour des périodes successives de [durée], sauf dénonciation par l'une des Parties par écrit au moins [nombre] jours avant l'échéance.
+
+### 10.2 Restitution à la demande du Déposant
+
+Le Déposant peut réclamer la restitution de tout ou partie des Biens à tout moment, même avant le terme convenu. Pour permettre l'organisation matérielle de la sortie, il en informe le Dépositaire au moins [nombre] jours ouvrés à l'avance, sauf urgence.
+
+Lorsque la restitution intervient avant le terme d'un dépôt rémunéré, la rémunération reste due [jusqu'à la date de restitution / jusqu'à la fin de la période en cours].
+
+### 10.3 Restitution à la demande du Dépositaire
+
+Lorsque le contrat est à durée indéterminée, le Dépositaire peut demander au Déposant de reprendre les Biens en respectant un préavis de [nombre, au moins trente] jours, notifié par lettre recommandée avec demande d'avis de réception ou par tout moyen permettant d'en établir la réception.
+
+### 10.4 Modalités de restitution
+
+Les Biens sont restitués [au lieu du dépôt / à l'adresse suivante : [adresse]], au Déposant ou à toute personne qu'il désigne par écrit.
+
+Les Biens sont restitués dans l'état où ils se trouvent au moment de la restitution, sous réserve de la responsabilité du Dépositaire prévue à l'article 9. Un procès-verbal de restitution, signé par les deux Parties, constate l'état des Biens. Toute réserve doit y être mentionnée.
+
+## ARTICLE 11 – DROIT DE RÉTENTION
+
+Conformément à l'article 1948 du Code civil, le Dépositaire peut retenir les Biens jusqu'au paiement intégral des sommes qui lui sont dues au titre du dépôt.
+
+Le droit de rétention n'autorise pas le Dépositaire à utiliser, vendre ou détruire les Biens.
+
+## ARTICLE 12 – BIENS NON RETIRÉS
+
+Si, à la fin du contrat, le Déposant ne reprend pas les Biens, le Dépositaire le met en demeure de le faire par lettre recommandée avec demande d'avis de réception, dans un délai qui ne peut être inférieur à [nombre, au moins trente] jours.
+
+Pendant ce délai et jusqu'à la reprise effective, la rémunération et les frais de conservation continuent d'être dus [au tarif prévu à l'article 7 / au tarif de [montant] € par mois].
+
+Le Dépositaire ne peut disposer des Biens qu'en suivant les procédures prévues par la loi, notamment, pour les objets confiés à un professionnel, la procédure de vente sur autorisation judiciaire organisée par la loi du 31 décembre 1903 relative à la vente de certains objets abandonnés.
+
+## ARTICLE 13 – RÉSILIATION POUR MANQUEMENT
+
+En cas de manquement grave de l'une des Parties à ses obligations, non réparé dans un délai de [quinze] jours suivant la réception d'une mise en demeure restée sans effet, l'autre Partie peut résilier le contrat par lettre recommandée avec demande d'avis de réception, sans préjudice de tous dommages et intérêts.
+
+La résiliation entraîne la restitution des Biens dans les conditions de l'article 10.
+
+## ARTICLE 14 – DONNÉES PERSONNELLES
+
+Les données personnelles échangées pour l'exécution du présent contrat sont traitées par chaque Partie conformément au règlement (UE) 2016/679 du 27 avril 2016 et à la loi n° 78-17 du 6 janvier 1978, uniquement pour la gestion du dépôt, et conservées pendant la durée du contrat augmentée des délais de prescription applicables.
+
+## ARTICLE 15 – NOTIFICATIONS
+
+Les notifications prévues au présent contrat sont adressées aux adresses indiquées en tête du contrat, ou à toute autre adresse communiquée par écrit.
+
+## ARTICLE 16 – LITIGES
+
+Le présent contrat est soumis au droit français.
+
+En cas de différend, les Parties recherchent d'abord une solution amiable. À défaut d'accord dans un délai de [trente] jours, le litige est porté devant la juridiction compétente.
+
+> Option (uniquement si les deux Parties sont commerçantes) : Le litige est porté devant le tribunal de commerce de [ville].
+
+> Note de rédaction : lorsque le Déposant est un consommateur, il peut recourir gratuitement à un médiateur de la consommation, dont le Dépositaire professionnel doit lui communiquer les coordonnées.
+
+Fait à [ville], le [date], en deux exemplaires originaux, dont un pour chaque Partie.
+
+Le Déposant
+[Nom, qualité et signature]
+
+Le Dépositaire
+[Nom, qualité et signature]
+
+## ANNEXE 1 – INVENTAIRE DES BIENS DÉPOSÉS
+
+- Bien n° 1 : [désignation, marque, modèle, numéro de série] – Quantité : [nombre] – État : [description] – Valeur déclarée : [montant] €
+- Bien n° 2 : [désignation, marque, modèle, numéro de série] – Quantité : [nombre] – État : [description] – Valeur déclarée : [montant] €
+- Bien n° 3 : [désignation, marque, modèle, numéro de série] – Quantité : [nombre] – État : [description] – Valeur déclarée : [montant] €
+
+Valeur totale déclarée : [montant] €
+
+Photographies jointes : [nombre] clichés datés du [date].
+
+## ANNEXE 2 – PROCÈS-VERBAL DE REMISE
+
+Le [date], à [heure], à [adresse], le Dépositaire reconnaît avoir reçu du Déposant les Biens listés à l'Annexe 1.
+
+Réserves éventuelles sur l'état des Biens : [réserves ou « néant »].
+
+Signature du Déposant : [signature]
+
+Signature du Dépositaire : [signature]
+
+## ANNEXE 3 – PROCÈS-VERBAL DE RESTITUTION
+
+Le [date], à [heure], à [adresse], le Déposant reconnaît avoir repris les Biens listés à l'Annexe 1.
+
+Réserves éventuelles sur l'état des Biens : [réserves ou « néant »].
+
+Signature du Déposant : [signature]
+
+Signature du Dépositaire : [signature]
