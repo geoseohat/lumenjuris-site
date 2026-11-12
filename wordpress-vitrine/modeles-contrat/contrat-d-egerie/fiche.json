@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-d-egerie",
+  "nom": "Contrat d'égérie",
+  "nom_court": "contrat d'égérie",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat d'égérie",
+  "mots_cles_secondaires": [
+    "contrat d'égérie",
+    "contrat égérie marque",
+    "contrat de mannequin publicitaire",
+    "contrat de droit à l'image égérie",
+    "rémunération égérie",
+    "contrat ambassadeur de marque"
+  ],
+  "titre_h1": "Modèle de contrat d'égérie gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat d'égérie gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de contrat d'égérie (Word, PDF) : journées de prestation, salaire et redevance d'image, supports, exclusivité, droit de regard et fin de diffusion.",
+  "chapo": "Le contrat d'égérie lie une marque à la personne qui incarne ses campagnes : séances photo, tournages, utilisation de l'image et exclusivité. Téléchargez un modèle complet et comprenez pourquoi une égérie se rémunère à la fois par un salaire et par une redevance d'exploitation.",
+  "public": "Marques, agences de communication, mannequins et personnalités",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-d-egerie-lumen-juris",
+  "date_publication": "2026-11-12",
+  "date_mise_a_jour": "2026-11-12",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Droit à l'image",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir le cadre d'emploi",
+      "Décidez si l'égérie est employée directement par la marque ou par son agence de mannequins pour les journées de prestation."
+    ],
+    [
+      "Plafonner les journées de prestation",
+      "Fixez le nombre maximal de séances photo, tournages et apparitions, et le délai de prévenance pour en fixer les dates."
+    ],
+    [
+      "Délimiter l'exploitation de l'image",
+      "Listez les supports, le territoire, la durée et la gamme de produits concernés, puis le barème de redevance correspondant."
+    ],
+    [
+      "Définir l'exclusivité",
+      "Nommez le secteur concurrent visé, listez les engagements en cours de l'égérie et chiffrez l'indemnité d'exclusivité."
+    ],
+    [
+      "Prévoir la fin de campagne",
+      "Indiquez le délai d'écoulement des supports, le sort des publications en ligne et l'arrêt des publicités payantes."
+    ]
+  ],
+  "faq": [
+    [
+      "Une égérie doit-elle être salariée ?",
+      "Pour ses journées de présence, en principe oui. Le Code du travail présume que le contrat rémunérant la participation d'une personne qui prête son image à une publicité est un contrat de travail, même si l'activité est occasionnelle. Cette présomption joue quel que soit le nom donné au contrat."
+    ],
+    [
+      "Peut-on payer l'utilisation de l'image sans cotisations sociales ?",
+      "Oui, sous conditions. La somme versée pour l'exploitation de l'enregistrement n'est pas un salaire si la présence physique de l'égérie n'est plus nécessaire et si son montant dépend de l'exploitation, et non du salaire de la séance."
+    ],
+    [
+      "Combien de temps une marque peut-elle utiliser les photos d'une égérie ?",
+      "Le temps prévu par le contrat, ni plus ni moins. Au-delà, chaque nouvelle diffusion nécessite l'accord de l'égérie et, en général, une nouvelle redevance. Un délai d'écoulement des supports déjà imprimés est souvent prévu."
+    ],
+    [
+      "Une égérie peut-elle travailler pour plusieurs marques en même temps ?",
+      "Oui, sauf clause d'exclusivité. Celle-ci doit viser un secteur précis et réellement concurrent, pour une durée raisonnable, et être rémunérée."
+    ],
+    [
+      "La marque peut-elle retoucher les photos de son égérie ?",
+      "Les retouches techniques sont courantes. Celles qui modifient le visage ou la silhouette doivent être acceptées par l'égérie, et une photographie commerciale dont la silhouette du mannequin a été modifiée doit porter la mention « photographie retouchée »."
+    ],
+    [
+      "Que se passe-t-il si l'égérie est impliquée dans un scandale ?",
+      "Le contrat peut prévoir une résiliation en cas de condamnation définitive ou de propos publics haineux. Les sommes dues pour les prestations et exploitations déjà réalisées restent payées, et la marque arrête les nouvelles diffusions."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 7123-2 à L. 7123-6 (présomption de salariat et rémunération des mannequins) et R. 7123-1 (mentions du contrat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, article 9 (droit à l'image) et articles 1101 et suivants (contrats)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la santé publique, mention « photographie retouchée » des photographies commerciales de mannequins",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072665"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-egerie"
+  }
+}
