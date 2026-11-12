@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-cession-de-droits-d-auteur",
+  "nom": "Contrat de cession de droits d'auteur",
+  "nom_court": "contrat de cession de droits d'auteur",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de cession de droits d'auteur",
+  "mots_cles_secondaires": [
+    "contrat de cession de droits d'auteur",
+    "cession de droits d'auteur logo",
+    "cession de droits graphiste",
+    "cession de droits photographe",
+    "contrat de cession de droits patrimoniaux",
+    "rémunération forfaitaire droits d'auteur"
+  ],
+  "titre_h1": "Modèle de contrat de cession de droits d'auteur gratuit (Word et PDF)",
+  "titre_seo": "Modèle de cession de droits d'auteur gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de cession de droits d'auteur (Word, PDF) pour logo, photos ou textes : droits cédés, supports, durée, territoire, forfait ou pourcentage, droit moral.",
+  "chapo": "Payer un graphiste, un photographe ou un rédacteur ne rend pas l'entreprise titulaire des droits sur la création : il faut une cession écrite et précise. Téléchargez un modèle complet et découvrez les mentions exigées par le Code de la propriété intellectuelle et le choix entre forfait et pourcentage.",
+  "public": "Entreprises, graphistes, photographes, illustrateurs et rédacteurs",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-cession-de-droits-d-auteur-lumen-juris",
+  "date_publication": "2026-11-12",
+  "date_mise_a_jour": "2026-11-12",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la propriété intellectuelle",
+      "Droit des contrats",
+      "Droit des marques"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifier précisément l'œuvre",
+      "Décrivez la création, ses déclinaisons et joignez-en une reproduction en annexe : une cession ne peut pas viser toutes les œuvres futures."
+    ],
+    [
+      "Lister chaque droit cédé",
+      "Cochez séparément reproduction, représentation, adaptation et, pour un logo, le droit de le déposer comme marque."
+    ],
+    [
+      "Délimiter supports, destination, territoire et durée",
+      "Indiquez les usages réellement prévus et choisissez une durée en années ou la durée de protection des droits."
+    ],
+    [
+      "Choisir le mode de rémunération",
+      "Retenez un pourcentage des recettes ou, si un cas légal le permet, un forfait justifié, en distinguant prix de création et prix de cession."
+    ],
+    [
+      "Régler droit moral, garanties et fichiers",
+      "Prévoyez la mention du nom de l'auteur, les adaptations acceptées, les garanties d'originalité et la remise des fichiers sources."
+    ]
+  ],
+  "faq": [
+    [
+      "Le client qui paie un logo en devient-il propriétaire ?",
+      "Il devient propriétaire du fichier ou du support livré, mais pas des droits d'auteur. Ces droits restent au créateur tant qu'il ne les a pas cédés par un écrit qui détaille chaque droit et son domaine d'exploitation."
+    ],
+    [
+      "Peut-on céder ses droits d'auteur pour toujours ?",
+      "Les droits patrimoniaux peuvent être cédés pour toute leur durée de protection, soit en principe la vie de l'auteur et 70 ans après sa mort. Le droit moral, lui, ne se cède jamais."
+    ],
+    [
+      "Une cession de droits d'auteur peut-elle être gratuite ?",
+      "Oui, la loi admet la cession à titre gratuit, mais elle doit être clairement voulue et écrite. Dans un cadre commercial, une cession sans prix est fragile et peut être contestée par l'auteur."
+    ],
+    [
+      "Quelle différence entre cession et licence ?",
+      "La cession transfère les droits au cessionnaire, souvent de façon exclusive. La licence est une simple autorisation d'utiliser l'œuvre, l'auteur restant titulaire des droits. Dans les deux cas, l'usage autorisé doit être délimité précisément par écrit."
+    ],
+    [
+      "Le client peut-il modifier l'œuvre après la cession ?",
+      "Seulement si le droit d'adaptation lui a été cédé, et sans dénaturer l'œuvre. L'auteur garde un droit moral qui lui permet de s'opposer à une modification portant atteinte à son honneur ou à sa réputation."
+    ],
+    [
+      "Faut-il payer des charges sociales sur des droits d'auteur ?",
+      "Les droits d'auteur versés à un artiste-auteur supportent des cotisations, et l'entreprise qui les verse a des obligations déclaratives auprès de l'Urssaf. Le régime dépend de la situation de l'auteur : vérifiez-le avant le premier paiement."
+    ],
+    [
+      "Que se passe-t-il si l'œuvre copie celle d'un autre ?",
+      "Le cessionnaire risque une action en contrefaçon de l'auteur original. La clause de garantie permet alors de se retourner contre l'auteur qui a fourni l'œuvre, dans les limites prévues par le contrat."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de la propriété intellectuelle, articles L. 111-1 (titularité), L. 121-1 (droit moral), L. 123-1 (durée) et L. 131-1 à L. 131-6 (cession des droits)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code civil, articles 1101 et suivants (contrats) et 1359 (preuve par écrit)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la sécurité sociale, régime des artistes-auteurs (articles L. 382-1 et suivants)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-cession-droits-auteur"
+  }
+}
