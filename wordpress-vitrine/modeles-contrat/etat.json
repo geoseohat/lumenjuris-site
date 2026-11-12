@@ -1874,27 +1874,53 @@
     "contrat-de-sponsoring": {
       "fichiers": {
         "docx": {
-          "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o1.id}}",
-          "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o1.source_url}}",
+          "id": 3824,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-sponsoring-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "c35a6169f11d65c145bf8ea6ea20f66fde7951221543223fb8db50aee1df591f"
         },
         "pdf": {
-          "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o2.id}}",
-          "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o2.source_url}}",
+          "id": 3825,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-sponsoring-lumen-juris.pdf",
           "taille": "122 Ko",
           "empreinte": "c35a6169f11d65c145bf8ea6ea20f66fde7951221543223fb8db50aee1df591f"
         }
       },
       "image": {
-        "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o3.id}}",
-        "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o3.source_url}}",
+        "id": 3826,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-sponsoring-lumen-juris.png",
         "taille": "290 Ko",
         "empreinte": "20d6852f577490b9bff2b9a1837aa55a6645b91b8dae30521fc3bfa5d1cefbc2"
       },
       "statut": "publish",
-      "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o7.id}}",
-      "lien": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o7.link}}",
+      "id": 3828,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sponsoring/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-partenariat-influenceur": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o1.id}}",
+          "url": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "413cdc7faa7389c3d9c9f86c7121761701b2c470ad734d21cf842f78192cf846"
+        },
+        "pdf": {
+          "id": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o2.id}}",
+          "url": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o2.source_url}}",
+          "taille": "116 Ko",
+          "empreinte": "413cdc7faa7389c3d9c9f86c7121761701b2c470ad734d21cf842f78192cf846"
+        }
+      },
+      "image": {
+        "id": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o3.id}}",
+        "url": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "caf0e49fa77948e499ba716cff42cc3a84d756854bc9d8de791fb26fc836a67b"
+      },
+      "statut": "publish",
+      "id": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o7.id}}",
+      "lien": "{{20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1903,6 +1929,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261112-091612-publier-en-ligne-contrat-de-sponsoring"
+    "20261112-091916-publier-en-ligne-contrat-de-partenariat-influenceur"
   ]
 }

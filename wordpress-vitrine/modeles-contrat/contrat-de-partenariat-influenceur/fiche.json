@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-partenariat-influenceur",
+  "nom": "Contrat de partenariat influenceur",
+  "nom_court": "contrat de partenariat influenceur",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de partenariat influenceur",
+  "mots_cles_secondaires": [
+    "contrat influenceur",
+    "contrat d'influence commerciale",
+    "contrat influenceur marque",
+    "contrat de collaboration influenceur",
+    "contrat placement de produit influenceur",
+    "loi influenceur contrat écrit"
+  ],
+  "titre_h1": "Modèle de contrat de partenariat influenceur gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de partenariat influenceur gratuit (Word, PDF)",
+  "meta_description": "Modèle de contrat influenceur (Word, PDF) à jour de la loi de 2023 : mentions obligatoires, seuil de 1 000 € HT, mention Publicité, droits sur les contenus.",
+  "chapo": "Le contrat d'influence commerciale encadre la collaboration entre une marque et un créateur de contenus : publications attendues, rémunération, mention « Publicité » et réutilisation des vidéos. Téléchargez un modèle à jour et vérifiez quand l'écrit devient obligatoire et ce que la loi interdit de promouvoir.",
+  "public": "Marques, agences et créateurs de contenus",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-partenariat-influenceur-lumen-juris",
+  "date_publication": "2026-11-12",
+  "date_mise_a_jour": "2026-11-12",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit de la consommation",
+      "Droit de la propriété intellectuelle",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Calculer le montant annuel avec la marque",
+      "Additionnez cachets et valeur des produits offerts par la même marque sur l'année. À partir de 1 000 € HT, le contrat écrit avec les mentions légales est obligatoire."
+    ],
+    [
+      "Vérifier que le produit peut être promu",
+      "Écartez les catégories interdites (chirurgie esthétique, produits à la nicotine) et listez en annexe les règles des secteurs encadrés."
+    ],
+    [
+      "Décrire les contenus et le calendrier",
+      "Indiquez réseau, format, nombre de publications, dates de diffusion et durée minimale de maintien en ligne."
+    ],
+    [
+      "Régler la réutilisation des contenus",
+      "Précisez si la marque peut seulement repartager les publications ou aussi les utiliser en publicité payante, pour quelle durée et quel prix."
+    ],
+    [
+      "Contrôler la mention commerciale à la publication",
+      "Vérifiez sur chaque contenu la présence visible de « Publicité » ou « Collaboration commerciale » et archivez une capture datée."
+    ]
+  ],
+  "faq": [
+    [
+      "Un contrat écrit est-il obligatoire pour travailler avec un influenceur ?",
+      "Oui, lorsque les sommes et avantages en nature versés par une même marque atteignent 1 000 € HT sur l'année, seuil applicable depuis le 1er janvier 2026. Le contrat doit alors contenir les mentions prévues par la loi du 9 juin 2023, sous peine de nullité. En dessous, l'écrit reste recommandé."
+    ],
+    [
+      "Quelle mention l'influenceur doit-il afficher ?",
+      "La mention « Publicité » ou « Collaboration commerciale », de manière claire, lisible et identifiable sur toute la durée du contenu. Elle s'adapte au format : incrustée dans une vidéo, en début de légende pour une publication."
+    ],
+    [
+      "La marque est-elle responsable de ce que dit l'influenceur ?",
+      "Oui, vis-à-vis des tiers. La loi rend l'annonceur, l'influenceur et leurs agents solidairement responsables des dommages causés dans l'exécution du contrat. Entre eux, celui qui a commis la faute peut ensuite être appelé à en supporter la charge."
+    ],
+    [
+      "Les produits offerts comptent-ils comme une rémunération ?",
+      "Oui, lorsqu'ils sont remis en échange d'une promotion. Leur valeur s'ajoute aux sommes versées pour apprécier le seuil de 1 000 € HT et doit apparaître dans le contrat."
+    ],
+    [
+      "La marque peut-elle réutiliser la vidéo de l'influenceur dans ses publicités ?",
+      "Seulement si le contrat le prévoit. L'influenceur est auteur de ses contenus : une cession écrite doit préciser les usages, le territoire, la durée et le prix."
+    ],
+    [
+      "Peut-on payer un influenceur uniquement à la commission ?",
+      "Oui. Le contrat doit alors préciser l'assiette (ventes réalisées via le code ou le lien), le taux, le traitement des retours et la façon dont l'influenceur peut contrôler le décompte."
+    ],
+    [
+      "Que risque un influenceur qui oublie la mention publicité ?",
+      "Une pratique commerciale trompeuse, sanctionnée pénalement, et une action de la DGCCRF. Le contrat peut aussi prévoir la résiliation et la demande de retrait des contenus non conformes."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 2023-451 du 9 juin 2023 visant à encadrer l'influence commerciale, décret n° 2025-1137 (seuil du contrat écrit) et Code de la consommation, articles L. 121-1 et suivants (pratiques commerciales trompeuses)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code de la propriété intellectuelle, articles L. 131-1 et suivants (cession des droits d'auteur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code civil, article 9 (droit à l'image) et articles 1101 et suivants (contrats)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-partenariat-influenceur"
+  }
+}

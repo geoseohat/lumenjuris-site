@@ -93,7 +93,7 @@
 [x] 2026-11-11 contrat de distribution sélective -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-distribution-selective/
 [x] 2026-11-11 contrat d'affiliation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-affiliation/
 [x] 2026-11-12 contrat de sponsoring -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sponsoring/
-contrat de partenariat influenceur
+[x] 2026-11-12 contrat de partenariat influenceur -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-partenariat-influenceur/
 contrat d'égérie
 contrat de cession de droits d'auteur
 contrat de licence de marque
