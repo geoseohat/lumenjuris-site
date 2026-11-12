@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-sponsoring",
+  "nom": "Contrat de sponsoring",
+  "nom_court": "contrat de sponsoring",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de sponsoring",
+  "mots_cles_secondaires": [
+    "contrat de sponsoring",
+    "contrat de parrainage",
+    "contrat de sponsoring sportif",
+    "contrat de sponsoring association",
+    "convention de partenariat sponsor",
+    "différence sponsoring mécénat"
+  ],
+  "titre_h1": "Modèle de contrat de sponsoring gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de sponsoring gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de sponsoring (Word, PDF) pour sportif, club, association ou événement : visibilité, contribution, image, exclusivité, résiliation.",
+  "chapo": "Le contrat de sponsoring organise l'échange entre une entreprise qui finance un sportif, un club, une association ou un événement, et la visibilité qu'elle reçoit en retour. Téléchargez un modèle complet et découvrez ce qui le distingue du mécénat, les secteurs exclus et les clauses qui évitent les litiges.",
+  "public": "Entreprises, clubs sportifs, associations, sportifs et organisateurs d'événements",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-sponsoring-lumen-juris",
+  "date_publication": "2026-11-12",
+  "date_mise_a_jour": "2026-11-12",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Droit du sport"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisir entre sponsoring et mécénat",
+      "Vérifiez que la visibilité offerte est proportionnée au montant versé. Si l'entreprise n'attend presque aucune contrepartie, un don avec reçu fiscal est plus adapté."
+    ],
+    [
+      "Rédiger le plan de visibilité",
+      "Listez dans l'annexe 1 les emplacements des logos, le nombre de publications, les dates des compétitions et les invitations prévues."
+    ],
+    [
+      "Vérifier les règlements et les secteurs interdits",
+      "Consultez le règlement de la fédération ou de l'organisateur sur les marques autorisées et écartez tout produit alcoolique ou lié au tabac."
+    ],
+    [
+      "Recueillir les autorisations d'image",
+      "Obtenez l'accord écrit de chaque joueur, artiste ou bénévole dont l'image sera utilisée par le sponsor."
+    ],
+    [
+      "Facturer et archiver les preuves",
+      "Le sponsorisé facture selon l'échéancier, avec TVA s'il y est assujetti, et conserve photos et captures de chaque prestation fournie."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelle est la différence entre sponsoring et mécénat ?",
+      "Le sponsoring est un échange commercial : l'entreprise paie et reçoit une visibilité équivalente. Le mécénat est un don à un organisme d'intérêt général, avec des contreparties limitées. Le premier se déduit comme une charge, le second ouvre droit à une réduction d'impôt."
+    ],
+    [
+      "Une association doit-elle facturer la TVA sur un sponsoring ?",
+      "Les recettes de parrainage rémunèrent une prestation publicitaire : elles sont en principe des recettes commerciales. Selon sa situation, l'association peut être soumise à la TVA ou bénéficier d'une franchise. Faites vérifier son régime fiscal avant d'émettre la facture."
+    ],
+    [
+      "Le sponsor peut-il exiger que le sportif gagne ?",
+      "Non, un résultat sportif ne peut pas être garanti. Le contrat peut en revanche prévoir une prime versée en plus de la contribution de base si un résultat précis est atteint, comme une qualification ou un titre."
+    ],
+    [
+      "Une marque de bière peut-elle sponsoriser un club en France ?",
+      "Non. Le Code de la santé publique interdit le parrainage qui a pour objet ou pour effet la publicité en faveur des boissons alcooliques. La marque ne peut donc pas apparaître sur les maillots ou les supports du club à ce titre."
+    ],
+    [
+      "Le sponsor peut-il rompre le contrat après un scandale ?",
+      "Oui, si le contrat le prévoit précisément. La clause doit viser des faits graves et vérifiables, comme une condamnation définitive ou une sanction pour dopage. Les prestations déjà fournies restent payées."
+    ],
+    [
+      "Que se passe-t-il si l'événement sponsorisé est annulé ?",
+      "Le contrat doit prévoir la réponse : report des prestations, ou réduction de la contribution au prorata de ce qui n'a pas été fourni. Sans clause, les règles générales de la force majeure et de l'inexécution s'appliquent, ce qui est source de litiges."
+    ],
+    [
+      "Faut-il un contrat écrit pour un petit sponsoring local ?",
+      "La loi ne l'impose pas, mais l'écrit est fortement conseillé. Il permet au sponsor de justifier la déduction de la dépense et aux deux parties de prouver ce qui avait été promis."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1101 et suivants (contrats), 1218 (force majeure) et 9 (droit à l'image)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, article 39, 1, 7° (déduction des dépenses de parrainage) et article 238 bis (mécénat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ],
+    [
+      "Code de la santé publique, article L. 3323-2 (parrainage et boissons alcooliques)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072665"
+    ],
+    [
+      "Code de commerce, articles L. 441-10 (délais de paiement) et L. 442-1 (rupture brutale)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-sponsoring"
+  }
+}

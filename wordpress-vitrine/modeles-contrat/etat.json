@@ -1848,27 +1848,53 @@
     "contrat-d-affiliation": {
       "fichiers": {
         "docx": {
-          "id": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o1.id}}",
-          "url": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o1.source_url}}",
+          "id": 3679,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-d-affiliation-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "4f60d0afda4341b246404ce8af88879facf38e781fdef4648789dadd12a388bf"
         },
         "pdf": {
-          "id": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o2.id}}",
-          "url": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o2.source_url}}",
+          "id": 3680,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-d-affiliation-lumen-juris.pdf",
           "taille": "105 Ko",
           "empreinte": "4f60d0afda4341b246404ce8af88879facf38e781fdef4648789dadd12a388bf"
         }
       },
       "image": {
-        "id": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o3.id}}",
-        "url": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o3.source_url}}",
+        "id": 3681,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-d-affiliation-lumen-juris.png",
         "taille": "286 Ko",
         "empreinte": "d832756e6e495b7f103b05578d607c45c0eecb04c731169eeeb26e99e6b4d677"
       },
       "statut": "publish",
-      "id": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o7.id}}",
-      "lien": "{{20261111-092301-publier-en-ligne-contrat-d-affiliation.o7.link}}",
+      "id": 3682,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-affiliation/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-sponsoring": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o1.id}}",
+          "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "c35a6169f11d65c145bf8ea6ea20f66fde7951221543223fb8db50aee1df591f"
+        },
+        "pdf": {
+          "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o2.id}}",
+          "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o2.source_url}}",
+          "taille": "122 Ko",
+          "empreinte": "c35a6169f11d65c145bf8ea6ea20f66fde7951221543223fb8db50aee1df591f"
+        }
+      },
+      "image": {
+        "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o3.id}}",
+        "url": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o3.source_url}}",
+        "taille": "290 Ko",
+        "empreinte": "20d6852f577490b9bff2b9a1837aa55a6645b91b8dae30521fc3bfa5d1cefbc2"
+      },
+      "statut": "publish",
+      "id": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o7.id}}",
+      "lien": "{{20261112-091612-publier-en-ligne-contrat-de-sponsoring.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -1877,6 +1903,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261111-092301-publier-en-ligne-contrat-d-affiliation"
+    "20261112-091612-publier-en-ligne-contrat-de-sponsoring"
   ]
 }

@@ -92,7 +92,7 @@
 [x] 2026-11-11 contrat de distribution exclusive -> écarté : même intention que contrat-de-distribution : la distribution exclusive (concession) est déjà couverte par le modèle de cette page, avec ou sans exclusivité
 [x] 2026-11-11 contrat de distribution sélective -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-distribution-selective/
 [x] 2026-11-11 contrat d'affiliation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-affiliation/
-contrat de sponsoring
+[x] 2026-11-12 contrat de sponsoring -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-sponsoring/
 contrat de partenariat influenceur
 contrat d'égérie
 contrat de cession de droits d'auteur
