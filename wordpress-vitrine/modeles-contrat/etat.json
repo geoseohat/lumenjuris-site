@@ -2030,27 +2030,53 @@
     "contrat-de-cession-de-brevet": {
       "fichiers": {
         "docx": {
-          "id": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o1.id}}",
-          "url": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o1.source_url}}",
+          "id": 3855,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-cession-de-brevet-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "503139e7edc563595ffc35bdb229f87fb74ac9661fe9b096688eaeab80ad0c9b"
         },
         "pdf": {
-          "id": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o2.id}}",
-          "url": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o2.source_url}}",
+          "id": 3856,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-cession-de-brevet-lumen-juris.pdf",
           "taille": "102 Ko",
           "empreinte": "503139e7edc563595ffc35bdb229f87fb74ac9661fe9b096688eaeab80ad0c9b"
         }
       },
       "image": {
-        "id": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o3.id}}",
-        "url": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o3.source_url}}",
+        "id": 3857,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-cession-de-brevet-lumen-juris.png",
         "taille": "296 Ko",
         "empreinte": "1ec8bd462438697f244ff79c53fc95344e74ac4fcb4d9ff6cd82bae1358417c6"
       },
       "statut": "publish",
-      "id": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o7.id}}",
-      "lien": "{{20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet.o7.link}}",
+      "id": 3858,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-brevet/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-cession-de-droits-a-l-image": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o1.id}}",
+          "url": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "df734ad56752393511b05f3b6d0ac6608d86ce36851741ac35d22a782e480b83"
+        },
+        "pdf": {
+          "id": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o2.id}}",
+          "url": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o2.source_url}}",
+          "taille": "92 Ko",
+          "empreinte": "df734ad56752393511b05f3b6d0ac6608d86ce36851741ac35d22a782e480b83"
+        }
+      },
+      "image": {
+        "id": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o3.id}}",
+        "url": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o3.source_url}}",
+        "taille": "301 Ko",
+        "empreinte": "9886a220ca898a38c34e1fb5d06e1cf1406ba6ff232878f19cf23fdcf86f2951"
+      },
+      "statut": "publish",
+      "id": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o7.id}}",
+      "lien": "{{20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2059,6 +2085,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261113-091923-publier-en-ligne-contrat-de-cession-de-brevet"
+    "20261113-092122-publier-en-ligne-contrat-de-cession-de-droits-a-l-image"
   ]
 }
