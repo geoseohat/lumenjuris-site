@@ -97,7 +97,7 @@
 [x] 2026-11-12 contrat d'égérie -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-d-egerie/
 [x] 2026-11-12 contrat de cession de droits d'auteur -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-droits-d-auteur/
 [x] 2026-11-13 contrat de licence de marque -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-licence-de-marque/
-contrat de cession de marque
+[x] 2026-11-13 contrat de cession de marque -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-marque/
 contrat de cession de brevet
 contrat de cession de droits à l'image
 autorisation de droit à l'image

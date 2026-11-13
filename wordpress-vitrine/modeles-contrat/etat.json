@@ -1978,27 +1978,53 @@
     "contrat-de-licence-de-marque": {
       "fichiers": {
         "docx": {
-          "id": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o1.id}}",
-          "url": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o1.source_url}}",
+          "id": 3845,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-licence-de-marque-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "3e64dd1ea6def384a5bf5ba2b1a8ddde8d9824d2bed718b70b774f00b1a3163d"
         },
         "pdf": {
-          "id": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o2.id}}",
-          "url": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o2.source_url}}",
+          "id": 3846,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-licence-de-marque-lumen-juris.pdf",
           "taille": "120 Ko",
           "empreinte": "3e64dd1ea6def384a5bf5ba2b1a8ddde8d9824d2bed718b70b774f00b1a3163d"
         }
       },
       "image": {
-        "id": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o3.id}}",
-        "url": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o3.source_url}}",
+        "id": 3847,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-licence-de-marque-lumen-juris.png",
         "taille": "293 Ko",
         "empreinte": "4ba6e94e95c3bc12c6c86fc2c0664d6cd865710cc172bb104c79eb04bbc46ba5"
       },
       "statut": "publish",
-      "id": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o7.id}}",
-      "lien": "{{20261113-091550-publier-en-ligne-contrat-de-licence-de-marque.o7.link}}",
+      "id": 3848,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-licence-de-marque/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-cession-de-marque": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o1.id}}",
+          "url": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o1.source_url}}",
+          "taille": "40 Ko",
+          "empreinte": "56a78a86550a25ec25c372d17c3b651b71d7969f9e1d4dfc01e9b21ad535c06e"
+        },
+        "pdf": {
+          "id": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o2.id}}",
+          "url": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o2.source_url}}",
+          "taille": "103 Ko",
+          "empreinte": "56a78a86550a25ec25c372d17c3b651b71d7969f9e1d4dfc01e9b21ad535c06e"
+        }
+      },
+      "image": {
+        "id": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o3.id}}",
+        "url": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "3d1b830f3367bc902f6e9e548a0a1c88c3b359ec9229207f6ea6f1d270c25a29"
+      },
+      "statut": "publish",
+      "id": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o7.id}}",
+      "lien": "{{20261113-091743-publier-en-ligne-contrat-de-cession-de-marque.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2007,6 +2033,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261113-091550-publier-en-ligne-contrat-de-licence-de-marque"
+    "20261113-091743-publier-en-ligne-contrat-de-cession-de-marque"
   ]
 }
