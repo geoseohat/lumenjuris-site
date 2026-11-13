@@ -1,0 +1,182 @@
+# CONTRAT DE LICENCE DE MARQUE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après dénommée « le Concédant »,
+
+ET
+
+[Dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après dénommée « le Licencié »,
+
+ci-après dénommés ensemble « les Parties » et individuellement « une Partie ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Concédant est titulaire de la marque décrite à l'article 1, qu'il exploite pour [description de l'activité].
+
+Le Licencié souhaite utiliser cette marque pour [fabriquer / commercialiser / proposer] [produits ou services visés], dans les limites et aux conditions fixées par le présent contrat.
+
+Les Parties se sont rapprochées et ont arrêté ce qui suit.
+
+## ARTICLE 1 – MARQUE CONCÉDÉE
+
+Le présent contrat porte sur la marque suivante (ci-après « la Marque ») :
+
+- signe : [marque verbale / figurative / semi-figurative : reproduire le signe ou joindre sa représentation en annexe 1] ;
+- nature du titre : [marque française / marque de l'Union européenne / marque internationale désignant [pays]] ;
+- numéro d'enregistrement : [numéro] ;
+- date de dépôt : [date] ;
+- classes et produits ou services désignés : [classes et libellés tels qu'enregistrés].
+
+Le Concédant déclare que l'enregistrement est en vigueur à la date de signature et que la dernière échéance de renouvellement est fixée au [date].
+
+> Note de rédaction : vérifiez l'enregistrement sur la base des marques de l'INPI (ou de l'EUIPO pour une marque de l'Union européenne) avant de signer. Une marque seulement déposée, pas encore enregistrée, peut être concédée, mais le contrat doit alors prévoir ce qui se passe en cas de refus d'enregistrement.
+
+## ARTICLE 2 – OBJET DE LA LICENCE
+
+Le Concédant concède au Licencié, qui l'accepte, le droit d'utiliser la Marque dans les seules limites suivantes :
+
+- produits ou services autorisés : [liste précise, qui doit rester incluse dans les produits et services désignés à l'enregistrement] ;
+- actes autorisés : [apposer la Marque sur les produits / les emballages / les documents commerciaux / l'utiliser dans la publicité et sur le site internet du Licencié] ;
+- forme d'utilisation : la Marque est reproduite telle qu'enregistrée, conformément à la charte graphique jointe en annexe 2 ;
+- territoire : [France métropolitaine / pays énumérés].
+
+Tout usage en dehors de ces limites est interdit et constitue un manquement au présent contrat, sans préjudice de l'action en contrefaçon que le Concédant peut exercer contre un licencié qui dépasse les limites de sa licence.
+
+Le Licencié ne peut pas utiliser la Marque comme dénomination sociale, nom commercial, enseigne ou nom de domaine, sauf accord écrit préalable du Concédant.
+
+## ARTICLE 3 – NATURE DE LA LICENCE
+
+### 3.1 Exclusivité
+
+> Option A : La licence est exclusive. Pendant toute la durée du contrat, le Concédant s'interdit de concéder à un tiers une licence portant sur les mêmes produits ou services et le même territoire, [et s'interdit également d'exploiter lui-même la Marque pour ces produits ou services sur ce territoire / mais conserve le droit d'exploiter lui-même la Marque].
+
+> Option B : La licence est non exclusive. Le Concédant reste libre d'exploiter la Marque et de concéder d'autres licences, y compris pour les mêmes produits ou services et le même territoire.
+
+### 3.2 Sous-licence et transmission
+
+La licence est consentie en considération de la personne du Licencié. Celui-ci ne peut ni consentir de sous-licence, ni céder ou apporter le présent contrat, y compris à l'occasion d'une fusion, d'une scission ou d'une cession de fonds de commerce, sans l'accord écrit préalable du Concédant.
+
+## ARTICLE 4 – DURÉE
+
+Le présent contrat prend effet le [date] pour une durée de [nombre] ans.
+
+> Option : À son terme, il se renouvelle par tacite reconduction pour des périodes successives de [nombre] an(s), sauf dénonciation par l'une des Parties par lettre recommandée avec avis de réception adressée au moins [nombre] mois avant l'échéance.
+
+En tout état de cause, la licence ne peut pas survivre à la protection de la Marque. Le Concédant s'engage à procéder au renouvellement de l'enregistrement à chaque échéance pendant la durée du contrat et à en informer le Licencié.
+
+## ARTICLE 5 – REDEVANCES
+
+### 5.1 Montant
+
+En contrepartie de la licence, le Licencié verse au Concédant :
+
+- [le cas échéant] un droit d'entrée forfaitaire de [montant] euros hors taxes, payable à la signature ;
+- une redevance proportionnelle égale à [pourcentage] % du chiffre d'affaires net hors taxes réalisé par le Licencié sur la vente des produits ou services portant la Marque.
+
+Le chiffre d'affaires net s'entend du prix facturé aux clients, déduction faite des remises figurant sur facture, des retours effectivement remboursés et des taxes. Aucune autre déduction n'est admise.
+
+> Option : Le Licencié garantit au Concédant une redevance minimale annuelle de [montant] euros hors taxes. Si les redevances proportionnelles d'une année sont inférieures à ce montant, le Licencié verse la différence avec le dernier relevé de l'année.
+
+### 5.2 Relevés et paiement
+
+Dans les [30] jours suivant la fin de chaque [trimestre / semestre] civil, le Licencié adresse au Concédant un relevé indiquant, par produit ou service, les quantités vendues, le chiffre d'affaires net et le montant de la redevance due. La redevance est payée dans le même délai, par virement, sur présentation de la facture du Concédant.
+
+Toute somme impayée à l'échéance porte intérêt au taux de [trois fois le taux d'intérêt légal], et donne lieu à l'indemnité forfaitaire pour frais de recouvrement de 40 euros prévue par le code de commerce entre professionnels.
+
+### 5.3 Contrôle des comptes
+
+Le Licencié tient une comptabilité séparée des ventes réalisées sous la Marque et la conserve pendant [trois] ans. Le Concédant peut, une fois par an et moyennant un préavis de [15] jours, faire vérifier ces comptes par un expert-comptable ou un commissaire aux comptes tenu au secret professionnel. Les frais de vérification sont à la charge du Concédant, sauf si elle révèle un écart supérieur à [5] % au détriment du Concédant, auquel cas ils sont supportés par le Licencié, en plus du complément de redevance.
+
+## ARTICLE 6 – QUALITÉ ET CONTRÔLE
+
+Le Licencié s'engage à ce que les produits ou services vendus sous la Marque respectent les normes de qualité décrites en annexe 3, ainsi que la réglementation applicable (sécurité, étiquetage, information du consommateur).
+
+Avant la première commercialisation de chaque nouveau produit ou support, le Licencié soumet au Concédant un prototype ou une maquette. Le Concédant donne son accord ou motive son refus dans un délai de [15] jours ouvrés. Faute de réponse dans ce délai, [l'accord est réputé donné / le Licencié relance le Concédant, qui dispose d'un nouveau délai de 8 jours].
+
+Le Concédant peut, après avoir prévenu le Licencié [8] jours à l'avance, visiter les locaux où les produits sont fabriqués ou les services fournis, aux heures ouvrables, pour vérifier le respect des normes de qualité.
+
+## ARTICLE 7 – OBLIGATIONS DU LICENCIÉ
+
+Le Licencié s'engage à :
+
+- exploiter la Marque de manière effective et sérieuse sur le territoire concédé, pendant toute la durée du contrat ;
+- faire figurer, lorsque c'est possible, la mention « [Marque] est une marque déposée de [Concédant], utilisée sous licence » ;
+- ne déposer, en son nom, aucune marque, dénomination ou nom de domaine identique ou similaire à la Marque, et ne pas contester la validité de la Marque ou les droits du Concédant ;
+- informer sans délai le Concédant de toute atteinte à la Marque dont il a connaissance ;
+- conserver et fournir sur demande les preuves de son usage de la Marque (factures, catalogues, photographies datées).
+
+> Option (licence exclusive) : Le Licencié s'engage à réaliser un chiffre d'affaires minimal de [montant] euros hors taxes par année contractuelle. À défaut, et après mise en demeure restée sans effet pendant [30] jours, le Concédant peut transformer la licence en licence non exclusive ou résilier le contrat dans les conditions de l'article 11.
+
+## ARTICLE 8 – OBLIGATIONS ET GARANTIES DU CONCÉDANT
+
+Le Concédant garantit au Licencié :
+
+- qu'il est titulaire de la Marque et qu'il a le droit de consentir la présente licence ;
+- qu'il n'a consenti aucun droit incompatible avec la présente licence ;
+- qu'à sa connaissance, la Marque ne fait l'objet d'aucune action en nullité, en déchéance ou en revendication, ni d'aucune opposition en cours.
+
+Le Concédant maintient la Marque en vigueur, paie les taxes de renouvellement et garantit le Licencié contre tout trouble de droit causé par un tiers revendiquant un droit antérieur sur la Marque pour les produits ou services concédés.
+
+Si la Marque est annulée ou frappée de déchéance, en tout ou partie, le contrat prend fin de plein droit pour les produits ou services concernés à la date de la décision devenue définitive, sans remboursement des redevances déjà échues, sauf faute du Concédant.
+
+## ARTICLE 9 – DÉFENSE DE LA MARQUE
+
+Le Concédant décide seul des actions à engager contre les atteintes à la Marque et en supporte les frais. Il en conserve le produit, sous réserve de l'alinéa suivant.
+
+Le Licencié peut intervenir dans l'action engagée par le Concédant pour obtenir la réparation de son propre préjudice.
+
+> Option (licence exclusive) : Si, après avoir été mis en demeure par le Licencié, le Concédant n'agit pas contre une contrefaçon dans un délai de [un] mois, le Licencié peut agir lui-même en contrefaçon, à ses frais et à son profit. Le Concédant lui apporte son concours.
+
+## ARTICLE 10 – INSCRIPTION AU REGISTRE
+
+Pour être opposable aux tiers, le présent contrat est inscrit au Registre national des marques tenu par l'INPI (ou au registre de l'EUIPO pour une marque de l'Union européenne). [Le Concédant / Le Licencié] accomplit cette formalité dans le mois de la signature ; les frais sont supportés par [le Licencié / les Parties par moitié].
+
+> Note de rédaction : l'inscription peut être faite à partir d'un extrait du contrat qui ne reprend pas les conditions financières.
+
+## ARTICLE 11 – RÉSILIATION
+
+En cas de manquement de l'une des Parties à l'une de ses obligations, l'autre Partie peut résilier le contrat de plein droit [30] jours après une mise en demeure, adressée par lettre recommandée avec avis de réception, restée sans effet. La mise en demeure rappelle le présent article.
+
+Le contrat peut notamment être résilié par le Concédant en cas de défaut de paiement des redevances, d'usage de la Marque en dehors des limites de l'article 2, de non-respect des normes de qualité ou de contestation par le Licencié des droits du Concédant.
+
+## ARTICLE 12 – FIN DU CONTRAT
+
+À la fin du contrat, pour quelque cause que ce soit, le Licencié cesse tout usage de la Marque.
+
+> Option : Le Licencié dispose toutefois d'un délai de [trois] mois pour écouler les produits fabriqués avant la fin du contrat, conformes aux normes de qualité, la redevance restant due sur ces ventes. Ce délai ne s'applique pas en cas de résiliation pour non-respect des normes de qualité.
+
+Dans les [15] jours, le Licencié remet au Concédant l'inventaire de son stock, détruit ou restitue les étiquettes, emballages et supports portant la Marque, et retire la Marque de ses supports en ligne. Il demande, le cas échéant, la radiation de l'inscription de la licence au registre.
+
+## ARTICLE 13 – CONFIDENTIALITÉ
+
+Chaque Partie garde confidentiels les informations techniques, commerciales et financières reçues de l'autre Partie à l'occasion du contrat, pendant sa durée et [deux] ans après sa fin.
+
+## ARTICLE 14 – DROIT APPLICABLE ET LITIGES
+
+Le présent contrat est soumis au droit français.
+
+Les Parties recherchent une solution amiable à tout différend relatif à sa validité, son interprétation ou son exécution. À défaut d'accord dans un délai de [30] jours, le litige est porté devant le tribunal judiciaire compétent en matière de marques.
+
+> Note de rédaction : les actions relatives aux marques relèvent de tribunaux judiciaires spécialement désignés (dont celui de Paris). Vérifiez la juridiction compétente avant de modifier cette clause.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Pour le Concédant
+[nom, fonction, signature]
+
+Pour le Licencié
+[nom, fonction, signature]
+
+## ANNEXES
+
+- Annexe 1 : représentation de la Marque et certificat d'enregistrement
+- Annexe 2 : charte graphique d'utilisation de la Marque
+- Annexe 3 : normes de qualité des produits ou services
+- Annexe 4 (le cas échéant) : document d'information précontractuelle remis au Licencié et accusé de réception

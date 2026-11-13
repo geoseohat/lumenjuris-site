@@ -1,0 +1,105 @@
+{
+  "slug": "contrat-de-licence-de-marque",
+  "nom": "Contrat de licence de marque",
+  "nom_court": "contrat de licence de marque",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de licence de marque",
+  "mots_cles_secondaires": [
+    "contrat de licence de marque gratuit",
+    "licence d'exploitation de marque",
+    "contrat de concession de licence de marque",
+    "redevance licence de marque",
+    "licence de marque exclusive",
+    "modèle licence de marque word"
+  ],
+  "titre_h1": "Modèle de contrat de licence de marque gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de licence de marque gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de licence de marque gratuit (Word, PDF) : territoire, exclusivité, redevances, contrôle qualité, inscription INPI et fin de licence.",
+  "chapo": "Le contrat de licence de marque autorise une entreprise à exploiter votre marque sans en devenir propriétaire, contre une redevance. Téléchargez un modèle complet et découvrez les clauses qui protègent votre marque et votre licencié.",
+  "public": "Titulaires de marque, fabricants et distributeurs",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-licence-de-marque-lumen-juris",
+  "date_publication": "2026-11-13",
+  "date_mise_a_jour": "2026-11-13",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des marques",
+      "Droit des contrats d'affaires"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez le titre de marque",
+      "Consultez la base de l'INPI ou de l'EUIPO : numéro, classes, date de renouvellement. Notez exactement les produits et services couverts."
+    ],
+    [
+      "Délimitez la licence",
+      "Choisissez les produits autorisés, le territoire, la durée et le caractère exclusif ou non de la licence."
+    ],
+    [
+      "Fixez la redevance",
+      "Définissez l'assiette (chiffre d'affaires net), le taux, l'éventuel minimum garanti, le rythme des relevés et le droit d'audit."
+    ],
+    [
+      "Écrivez les normes de qualité",
+      "Joignez la charte graphique et les normes des produits, et prévoyez la validation des prototypes avant mise en vente."
+    ],
+    [
+      "Signez puis inscrivez la licence",
+      "Remettez au préalable le document d'information si une exclusivité d'activité est exigée, puis inscrivez la licence au Registre national des marques."
+    ]
+  ],
+  "faq": [
+    [
+      "Une licence de marque doit-elle être écrite ?",
+      "Le code de la propriété intellectuelle impose l'écrit pour les actes qui transmettent ou modifient les droits sur une marque. En pratique, la licence doit toujours être écrite : c'est le seul moyen de prouver ses limites (produits, territoire, durée) et de l'inscrire au registre."
+    ],
+    [
+      "Faut-il déclarer la licence à l'INPI ?",
+      "L'inscription au Registre national des marques n'est pas une condition de validité, mais sans elle la licence n'est pas opposable aux tiers. Un nouvel acquéreur de la marque, par exemple, pourrait ne pas la respecter. L'inscription se fait en ligne et peut porter sur un extrait du contrat."
+    ],
+    [
+      "Quel pourcentage de redevance prévoir pour une licence de marque ?",
+      "Aucun taux n'est fixé par la loi : il dépend de la notoriété de la marque, du secteur et des marges. Le contrat doit surtout définir précisément l'assiette (chiffre d'affaires net, remises déductibles) et, si besoin, un minimum annuel garanti."
+    ],
+    [
+      "Le licencié peut-il agir contre un contrefacteur ?",
+      "Le titulaire de la marque décide en principe des actions. Le licencié exclusif peut agir seul si, après une mise en demeure, le titulaire n'agit pas, sauf clause contraire. Tout licencié peut intervenir dans l'action du titulaire pour obtenir réparation de son propre préjudice."
+    ],
+    [
+      "L'usage de la marque par le licencié protège-t-il contre la déchéance ?",
+      "Oui. L'usage fait avec le consentement du titulaire compte comme un usage de la marque. Il évite la déchéance qui menace une marque non exploitée pendant cinq ans, à condition de pouvoir le prouver."
+    ],
+    [
+      "Le licencié peut-il revendre sa licence ou accorder une sous-licence ?",
+      "Pas sans l'accord du titulaire si le contrat l'interdit, ce qui est la règle dans ce modèle. La licence est en effet consentie en considération de la personne du licencié, de sa capacité à respecter la qualité de la marque."
+    ],
+    [
+      "Que devient le stock à la fin de la licence ?",
+      "Il faut le prévoir dans le contrat. Le modèle propose un délai d'écoulement des produits déjà fabriqués, avec paiement de la redevance, puis la destruction des emballages et étiquettes portant la marque."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de la propriété intellectuelle, articles L. 712-1 (durée de protection), L. 714-1 (licence), L. 714-5 (déchéance) et L. 714-7 (inscription au registre)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414"
+    ],
+    [
+      "Code de commerce, article L. 330-3 (information précontractuelle) et article L. 441-10 (pénalités de retard)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1103 et 1104 (force obligatoire et bonne foi des contrats)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-licence-marque"
+  }
+}
