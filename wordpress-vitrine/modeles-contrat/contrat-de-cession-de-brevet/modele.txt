@@ -1,0 +1,130 @@
+# CONTRAT DE CESSION DE BREVET
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+> Option (cédant personne physique) : [Nom, prénom], né(e) le [date] à [lieu], demeurant [adresse],
+
+ci-après dénommé(e) « le Cédant »,
+
+ET
+
+[Dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro SIREN], dont le siège social est situé [adresse], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e) aux fins des présentes,
+
+ci-après dénommée « le Cessionnaire »,
+
+ci-après dénommés ensemble « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Cédant est titulaire du brevet décrit à l'article 1, portant sur [description courte de l'invention]. Le Cessionnaire souhaite l'acquérir afin de [l'exploiter dans le cadre de son activité de … / l'intégrer à son portefeuille de brevets].
+
+Le Cessionnaire déclare avoir pu examiner le brevet, son dossier de délivrance et les documents remis par le Cédant, dont la liste figure en annexe 2.
+
+Les Parties ont arrêté ce qui suit.
+
+## ARTICLE 1 – BREVET CÉDÉ
+
+La présente cession porte sur :
+
+- [brevet français / demande de brevet français / brevet européen validé en France / brevet européen à effet unitaire] n° [numéro] ;
+- intitulé : [titre de l'invention] ;
+- date de dépôt : [date] ; [le cas échéant] date de priorité : [date] ; date de délivrance : [date ou « en cours d'examen »] ;
+- inventeur(s) désigné(s) : [noms] ;
+
+ainsi que [le cas échéant] les titres suivants, issus de la même invention ou revendiquant la même priorité : [liste des extensions étrangères, demandes divisionnaires, certificats d'utilité],
+
+ci-après ensemble « le Brevet ». Une copie du Brevet et l'état du registre à jour figurent en annexe 1.
+
+> Note de rédaction : vérifiez sur le registre de l'INPI (et de l'Office européen des brevets pour un brevet européen) que le Cédant est bien inscrit comme titulaire, que les annuités sont payées et qu'aucun nantissement ni aucune licence n'est inscrit.
+
+## ARTICLE 2 – OBJET DE LA CESSION
+
+Le Cédant cède au Cessionnaire, qui l'accepte, la pleine propriété du Brevet et de tous les droits qui y sont attachés, sur l'ensemble des territoires où il est protégé.
+
+> Option (cession partielle) : La cession porte sur une quote-part indivise de [pourcentage] % du Brevet. Les Parties concluent, le même jour, un règlement de copropriété fixant les règles d'exploitation, de licence et de maintien en vigueur.
+
+La cession comprend le droit d'agir en contrefaçon pour les faits commis [à compter de la date de transfert de propriété / y compris avant cette date, le Cédant cédant au Cessionnaire le droit d'agir et d'obtenir réparation pour ces faits].
+
+## ARTICLE 3 – SAVOIR-FAIRE ET ASSISTANCE TECHNIQUE
+
+> Option A : La cession ne comporte aucune transmission de savoir-faire ni aucune assistance technique.
+
+> Option B : Le Cédant transmet au Cessionnaire, dans les [30] jours de la signature, les connaissances techniques non brevetées nécessaires à la mise en œuvre de l'invention, décrites en annexe 3 (plans, protocoles, résultats d'essais). Il lui fournit en outre une assistance technique de [nombre] jours, [incluse dans le prix / facturée [montant] euros hors taxes par jour]. Le Cessionnaire garde ces informations confidentielles.
+
+## ARTICLE 4 – TRANSFERT DE PROPRIÉTÉ ET ANNUITÉS
+
+Le transfert de propriété intervient [à la date de signature / au paiement intégral du prix].
+
+Le Cédant a payé les annuités échues avant cette date. Les annuités échues après cette date sont à la charge du Cessionnaire, qui décide seul du maintien ou de l'abandon du Brevet dans chaque pays.
+
+## ARTICLE 5 – PRIX
+
+### 5.1 Montant
+
+> Option A (prix forfaitaire) : La cession est consentie moyennant un prix de [montant en chiffres et en lettres] euros hors taxes, [TVA en sus au taux en vigueur si elle est applicable], payable [à la signature / selon l'échéancier suivant : [dates et montants]].
+
+> Option B (prix proportionnel) : La cession est consentie moyennant un prix composé d'une partie fixe de [montant] euros hors taxes, payable à la signature, et d'une partie variable égale à [pourcentage] % du chiffre d'affaires net hors taxes réalisé par le Cessionnaire, ou par ses licenciés, sur les produits ou procédés mettant en œuvre le Brevet, pendant [toute la durée du Brevet / [nombre] ans].
+
+### 5.2 Modalités de la partie variable
+
+Le cas échéant, le Cessionnaire adresse au Cédant, dans les [60] jours de la clôture de chaque exercice, un relevé détaillé des ventes concernées et paie la partie variable dans le même délai. Le Cédant peut faire vérifier ces relevés, une fois par an, par un expert-comptable tenu au secret, à ses frais, sauf écart supérieur à [5] % à son détriment.
+
+> Option : Si le Cessionnaire n'a pas commencé l'exploitation du Brevet dans un délai de [nombre] ans à compter de la signature, il verse au Cédant un minimum annuel de [montant] euros, ou lui rétrocède le Brevet pour [un euro symbolique], au choix du Cédant.
+
+## ARTICLE 6 – DÉCLARATIONS ET GARANTIES DU CÉDANT
+
+Le Cédant déclare et garantit :
+
+- qu'il est seul titulaire du Brevet et qu'il a la capacité de le céder ;
+- que le Brevet n'est grevé d'aucun nantissement, d'aucune saisie, d'aucune licence ni d'aucun autre droit au profit d'un tiers, sauf : [néant / description] ;
+- qu'il n'a connaissance d'aucune action en nullité, en revendication ou en contrefaçon, ni d'aucune opposition, relative au Brevet, sauf : [néant / description] ;
+- que les annuités sont payées jusqu'au [date] ;
+- [si l'invention a été faite par un salarié] que l'invention a été régulièrement attribuée à l'employeur et que les droits de l'inventeur à rémunération [ont été réglés / restent à la charge du Cédant].
+
+Le Cédant garantit le Cessionnaire contre toute éviction provenant de son fait personnel et contre toute revendication d'un tiers sur le Brevet fondée sur une cause antérieure à la cession.
+
+Le Cessionnaire reconnaît qu'un brevet délivré peut toujours être contesté et que le Cédant ne garantit ni la validité du Brevet au-delà de sa connaissance, ni l'intérêt commercial de l'invention, ni l'absence de brevets de tiers dont l'exploitation de l'invention pourrait dépendre.
+
+> Option : Si le Brevet est annulé en tout ou partie par une décision devenue définitive, pour une cause dont le Cédant n'avait pas connaissance, le Cédant restitue la partie du prix [encaissée après la date de la demande en nullité / correspondant aux revendications annulées], à l'exclusion de tout autre dommage. En cas de mauvaise foi du Cédant, le droit commun s'applique.
+
+> Note de rédaction : la clause de garantie est la plus négociée. Le Cessionnaire a intérêt à faire réaliser une étude de brevetabilité et de liberté d'exploitation avant de signer.
+
+## ARTICLE 7 – INSCRIPTION AUX REGISTRES
+
+La cession est inscrite au Registre national des brevets tenu par l'INPI [et, selon le titre, au registre européen des brevets ou auprès des offices étrangers concernés]. Jusqu'à cette inscription, elle n'est pas opposable aux tiers.
+
+Le Cessionnaire accomplit ces formalités dans le mois de la signature [ou du paiement intégral du prix], à ses frais. Le Cédant signe tout document nécessaire et lui remet le dossier complet du Brevet.
+
+## ARTICLE 8 – CONFIDENTIALITÉ
+
+Les Parties gardent confidentiels les termes financiers du présent contrat et les informations techniques non publiées échangées à son occasion, pendant [cinq] ans après la signature, sauf pour les besoins de l'inscription aux registres, d'une obligation légale ou de la défense de leurs droits.
+
+## ARTICLE 9 – FRAIS ET IMPÔTS
+
+Chaque Partie supporte ses propres frais de conseil. Les frais d'inscription sont à la charge du Cessionnaire. Les conséquences fiscales de la cession sont supportées par chaque Partie pour ce qui la concerne.
+
+## ARTICLE 10 – DROIT APPLICABLE ET LITIGES
+
+Le présent contrat est soumis au droit français.
+
+Les Parties recherchent une solution amiable à tout différend. À défaut d'accord dans un délai de [30] jours, le litige est porté devant le tribunal judiciaire compétent en matière de brevets.
+
+> Note de rédaction : en France, les actions relatives aux brevets français relèvent du seul tribunal judiciaire de Paris. Pour un brevet européen ou à effet unitaire, la juridiction unifiée du brevet peut aussi être compétente. Les Parties peuvent prévoir un arbitrage pour les questions purement contractuelles.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+Le Cédant
+[nom, qualité, signature]
+
+Le Cessionnaire
+[nom, qualité, signature]
+
+## ANNEXES
+
+- Annexe 1 : copie du Brevet et extrait du registre
+- Annexe 2 : liste des documents remis au Cessionnaire (dossier de délivrance, rapport de recherche, correspondance avec les offices)
+- Annexe 3 (le cas échéant) : description du savoir-faire transmis
