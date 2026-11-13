@@ -2,7 +2,7 @@
   "https://www.lumenjuris.com/": "2026-10-01T10:07:45+00:00",
   "https://www.lumenjuris.com/faq/": "2026-10-24T09:33:07+00:00",
   "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdd/": "2026-11-11T17:39:00+00:00",
-  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/": "2026-11-12T09:24:07+00:00",
+  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/": "2026-11-13T09:22:07+00:00",
   "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-travail-cdi/": "2026-11-11T17:39:02+00:00",
   "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-d-embauche/": "2026-11-11T17:38:43+00:00",
   "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-bail-commercial/": "2026-11-11T17:35:48+00:00",
@@ -112,5 +112,9 @@
   "https://www.lumenjuris.com/revision-contractuelle-ia/relecture-contrat/clause-tunnel-bail-commercial/": "2026-11-11T17:30:22+00:00",
   "https://www.lumenjuris.com/revision-contractuelle-ia/relecture-contrat/clause-indexation-bail-commercial/": "2026-11-11T17:30:21+00:00",
   "https://www.lumenjuris.com/revision-contractuelle-ia/relecture-contrat/clause-resolutoire-bail-commercial/": "2026-11-11T17:30:20+00:00",
-  "https://www.lumenjuris.com/revision-contractuelle-ia/relecture-contrat/contrat-de-prestation-de-services/": "2026-11-11T17:30:19+00:00"
+  "https://www.lumenjuris.com/revision-contractuelle-ia/relecture-contrat/contrat-de-prestation-de-services/": "2026-11-11T17:30:19+00:00",
+  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-droits-a-l-image/": "2026-11-13T09:22:06+00:00",
+  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-brevet/": "2026-11-13T09:20:08+00:00",
+  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-marque/": "2026-11-13T09:18:06+00:00",
+  "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-licence-de-marque/": "2026-11-13T09:16:08+00:00"
 }
