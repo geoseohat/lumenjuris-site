@@ -1,0 +1,99 @@
+{
+  "slug": "contrat-de-traitement-de-donnees-personnelles",
+  "nom": "Contrat de traitement de données personnelles",
+  "nom_court": "contrat de traitement de données personnelles",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de traitement de données personnelles",
+  "mots_cles_secondaires": [
+    "accord de sous-traitance RGPD",
+    "DPA RGPD",
+    "data processing agreement modèle",
+    "clause RGPD sous-traitant",
+    "annexe RGPD contrat de prestation",
+    "contrat article 28 RGPD",
+    "contrat sous-traitant données personnelles"
+  ],
+  "titre_h1": "Modèle de contrat de traitement de données personnelles gratuit (Word et PDF)",
+  "titre_seo": "Contrat de traitement de données (RGPD) 2026 : modèle gratuit",
+  "meta_description": "Modèle d'accord de sous-traitance RGPD (article 28) : instructions, sécurité, sous-traitants ultérieurs, violations de données, audits et fin du contrat.",
+  "chapo": "Le contrat de traitement de données personnelles encadre ce qu'un prestataire peut faire des données qu'il traite pour votre compte, comme l'impose l'article 28 du RGPD. Téléchargez un modèle complet avec ses annexes et vérifiez les clauses à négocier avant de signer.",
+  "public": "Entreprises, associations et prestataires (hébergeurs, éditeurs SaaS, agences)",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-traitement-de-donnees-personnelles-lumen-juris",
+  "date_publication": "2026-11-14",
+  "date_mise_a_jour": "2026-11-14",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Protection des données personnelles",
+      "Droit des contrats",
+      "Droit du numérique"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier la qualification",
+      "Assurez-vous que le prestataire traite les données uniquement pour votre compte ; sinon, ce n'est pas un contrat de l'article 28."
+    ],
+    [
+      "Décrire le traitement en annexe 1",
+      "Listez la finalité, les opérations, les catégories de données et de personnes, en signalant les données sensibles."
+    ],
+    [
+      "Obtenir les mesures de sécurité",
+      "Demandez au prestataire de détailler en annexe 2 ses mesures concrètes : accès, chiffrement, sauvegardes, gestion des incidents."
+    ],
+    [
+      "Contrôler la chaîne de prestataires",
+      "Faites remplir l'annexe 3 avec les sous-traitants ultérieurs et leurs pays, puis choisissez autorisation générale ou spécifique."
+    ],
+    [
+      "Fixer délais et contacts",
+      "Choisissez le délai d'alerte en cas de violation, l'adresse de contact surveillée et le sort des données en fin de contrat."
+    ]
+  ],
+  "faq": [
+    [
+      "Le contrat de sous-traitance RGPD est-il obligatoire ?",
+      "Oui, dès qu'un prestataire traite des données personnelles pour votre compte. L'article 28 du RGPD exige un contrat ou un autre acte juridique écrit, y compris sous forme électronique, contenant des mentions précises. Son absence est un manquement que la CNIL peut sanctionner."
+    ],
+    [
+      "Peut-on intégrer les clauses RGPD dans le contrat de prestation ?",
+      "Oui. Les mentions de l'article 28 peuvent figurer dans le contrat commercial lui-même ou dans une annexe distincte. Un document séparé est plus simple à mettre à jour et à présenter en cas de contrôle."
+    ],
+    [
+      "Faut-il accepter le DPA standard d'un grand éditeur ?",
+      "Souvent, il n'est pas négociable pour un petit client. Lisez-le quand même : vérifiez la liste des sous-traitants ultérieurs, les lieux d'hébergement, le délai d'alerte en cas de violation et le sort des données en fin de contrat. Si un point vous pose problème, il peut justifier de choisir un autre prestataire."
+    ],
+    [
+      "Mon expert-comptable est-il un sous-traitant ?",
+      "Cela dépend des missions. Pour la tenue de la paie qu'il réalise selon vos instructions, il agit généralement comme sous-traitant. Pour ses propres obligations professionnelles, comme la lutte contre le blanchiment, il est responsable de traitement."
+    ],
+    [
+      "Quel délai pour qu'un prestataire signale une fuite de données ?",
+      "Le RGPD impose seulement « dans les meilleurs délais ». Le contrat fixe donc un délai précis, généralement entre 24 et 72 heures, en tenant compte des 72 heures dont vous disposez pour notifier la CNIL."
+    ],
+    [
+      "Que devient le contrat si le prestataire change d'hébergeur ?",
+      "Avec une autorisation générale, il doit vous prévenir à l'avance et vous pouvez vous opposer. Avec une autorisation spécifique, il doit obtenir votre accord écrit avant le changement. Dans les deux cas, l'annexe 3 doit être mise à jour."
+    ]
+  ],
+  "sources": [
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 4 (définitions), 26 (responsables conjoints), 28 (sous-traitant), 32 à 34 (sécurité et violations), 44 et suivants (transferts) et 83 (amendes)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés",
+      "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068624"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-traitement-donnees-personnelles"
+  }
+}
