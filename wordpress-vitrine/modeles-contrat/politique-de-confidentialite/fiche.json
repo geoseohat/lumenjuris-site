@@ -1,0 +1,98 @@
+{
+  "slug": "politique-de-confidentialite",
+  "nom": "Politique de confidentialité",
+  "nom_court": "politique de confidentialité",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle politique de confidentialité",
+  "mots_cles_secondaires": [
+    "politique de confidentialité site internet",
+    "politique de confidentialité RGPD",
+    "modèle politique de protection des données",
+    "exemple politique de confidentialité",
+    "politique de confidentialité gratuite",
+    "politique cookies et données personnelles"
+  ],
+  "titre_h1": "Modèle de politique de confidentialité gratuit (Word et PDF)",
+  "titre_seo": "Politique de confidentialité RGPD 2026 : modèle gratuit (Word)",
+  "meta_description": "Modèle de politique de confidentialité pour site internet : bases légales, durées de conservation, cookies, destinataires et droits des personnes.",
+  "chapo": "La politique de confidentialité informe les visiteurs et clients de votre site de l'usage de leurs données personnelles, comme l'exige le RGPD. Téléchargez un modèle complet à adapter à vos outils réels et vérifiez les informations qu'il doit obligatoirement contenir.",
+  "public": "Entreprises, indépendants, associations et éditeurs de sites ou d'applications",
+  "gratuit": true,
+  "fichier_base": "modele-politique-de-confidentialite-lumen-juris",
+  "date_publication": "2026-11-14",
+  "date_mise_a_jour": "2026-11-14",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Protection des données personnelles",
+      "Droit du numérique",
+      "Droit de la consommation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Faire l'inventaire de vos traitements",
+      "Listez les formulaires, outils et prestataires du site (emailing, paiement, statistiques, prise de rendez-vous) et les données qu'ils collectent."
+    ],
+    [
+      "Associer une base légale à chaque finalité",
+      "Pour chaque usage, choisissez contrat, obligation légale, intérêt légitime ou consentement, et supprimez les rubriques inutiles."
+    ],
+    [
+      "Chiffrer les durées de conservation",
+      "Remplacez chaque durée entre crochets par un délai précis, en vous appuyant sur les référentiels de la CNIL."
+    ],
+    [
+      "Aligner la page sur votre bandeau cookies",
+      "Vérifiez que les cookies décrits correspondent à ceux réellement déposés et à l'outil de consentement installé."
+    ],
+    [
+      "Publier et relier la politique",
+      "Mettez un lien en pied de chaque page et sous chaque formulaire de collecte, puis datez la version publiée."
+    ]
+  ],
+  "faq": [
+    [
+      "Une politique de confidentialité est-elle obligatoire pour un site vitrine ?",
+      "Oui, dès que le site collecte des données personnelles, ce qui est le cas avec un formulaire de contact, une inscription à une lettre d'information ou la plupart des outils de statistiques. L'obligation d'information du RGPD s'applique quelle que soit la taille de l'entreprise."
+    ],
+    [
+      "Peut-on mettre la politique de confidentialité dans les mentions légales ?",
+      "C'est possible, mais déconseillé. Les deux documents répondent à des obligations différentes et une page dédiée est plus lisible. L'essentiel est que l'information soit facile à trouver et rédigée en termes clairs."
+    ],
+    [
+      "Quelle sanction en l'absence de politique de confidentialité ?",
+      "La CNIL peut adresser une mise en demeure puis prononcer une amende. Pour un manquement aux obligations d'information, le RGPD prévoit un plafond de 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial. Les montants réellement prononcés dépendent de la gravité et de la taille de l'organisme."
+    ],
+    [
+      "Dans quel délai répondre à une demande d'accès à ses données ?",
+      "Dans un délai d'un mois à compter de la réception de la demande. Ce délai peut être prolongé de deux mois si la demande est complexe ou si les demandes sont nombreuses, à condition d'en informer la personne dans le premier mois."
+    ],
+    [
+      "Faut-il citer le nom de chaque prestataire ?",
+      "Le RGPD permet d'indiquer les destinataires ou leurs catégories. Citer les noms et pays des principaux prestataires est plus transparent et utile pour les transferts hors de l'Union européenne."
+    ],
+    [
+      "La politique de confidentialité suffit-elle pour les cookies ?",
+      "Non. Elle informe, mais ne recueille pas de consentement. Les traceurs qui ne sont pas strictement nécessaires exigent un accord préalable recueilli par un bandeau ou un outil équivalent, avec une possibilité de refus aussi simple que l'acceptation."
+    ]
+  ],
+  "sources": [
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 6 (bases légales), 12 à 14 (information des personnes), 15 à 22 (droits) et 83 (amendes)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ],
+    [
+      "Loi n° 78-17 du 6 janvier 1978, articles 45 (consentement des mineurs), 82 (cookies) et 85 (directives après le décès)",
+      "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068624"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "politique-confidentialite"
+  }
+}

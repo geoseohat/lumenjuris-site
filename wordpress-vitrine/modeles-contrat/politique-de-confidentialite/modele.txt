@@ -1,0 +1,146 @@
+# POLITIQUE DE CONFIDENTIALITÉ
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant publication.
+
+> Note de rédaction : ce document informe les visiteurs, clients et prospects d'un site internet ou d'une application de la manière dont leurs données personnelles sont traitées. Il doit refléter vos traitements réels : supprimez les rubriques qui ne vous concernent pas et ajoutez celles qui manquent. Il ne remplace ni les mentions légales, ni les conditions générales d'utilisation, ni le bandeau de recueil du consentement aux cookies.
+
+Version du [date de mise à jour]
+
+## ARTICLE 1 – QUI EST RESPONSABLE DE VOS DONNÉES ?
+
+Le responsable du traitement de vos données est [dénomination], [forme sociale] au capital de [montant] €, dont le siège social est situé [adresse], immatriculée au RCS de [ville] sous le numéro [numéro SIREN] (ci-après « nous »).
+
+Pour toute question sur vos données, vous pouvez nous écrire :
+- par courriel : [adresse dédiée, par exemple donnees@…] ;
+- par courrier : [adresse postale].
+
+[Option – délégué à la protection des données] Nous avons désigné un délégué à la protection des données, joignable à [adresse électronique] ou par courrier à [adresse].
+
+## ARTICLE 2 – QUELLES DONNÉES COLLECTONS-NOUS ?
+
+Nous collectons les données suivantes, selon votre utilisation du site [nom ou adresse du site] et de nos services :
+- données d'identification et de contact : nom, prénom, adresse électronique, téléphone, adresse postale ;
+- données liées à votre compte : identifiant, mot de passe chiffré, historique de vos demandes ;
+- données de commande et de facturation : produits ou services achetés, montants, moyen de paiement (les données de carte bancaire sont traitées directement par notre prestataire de paiement [nom], et nous n'y avons pas accès) ;
+- données de navigation : adresse IP, type de navigateur, pages consultées, données issues des cookies, selon vos choix (voir article 7) ;
+- données que vous nous transmettez librement, par exemple dans un formulaire de contact ou une candidature.
+
+Les champs obligatoires des formulaires sont signalés par un astérisque. Sans ces informations, nous ne pouvons pas traiter votre demande.
+
+Nous ne collectons pas de données sensibles (santé, opinions politiques ou religieuses, orientation sexuelle) [sauf : précisez et indiquez la base légale spécifique].
+
+## ARTICLE 3 – POURQUOI UTILISONS-NOUS VOS DONNÉES, ET SUR QUELLE BASE ?
+
+Chaque traitement repose sur l'une des bases légales prévues par le règlement (UE) 2016/679 (RGPD) :
+
+### 3.1 Gérer vos commandes, votre compte et la relation client
+
+Base légale : l'exécution du contrat conclu avec vous ou de mesures précontractuelles prises à votre demande.
+
+### 3.2 Répondre à vos demandes de contact
+
+Base légale : [l'exécution de mesures précontractuelles / notre intérêt légitime à répondre aux personnes qui nous sollicitent].
+
+### 3.3 Vous adresser des offres commerciales
+
+- Si vous êtes un particulier, par courriel ou SMS : votre consentement, sauf si vous êtes déjà client et que l'offre porte sur des produits ou services analogues à ceux que vous avez achetés. Dans ce cas, notre intérêt légitime, à condition que vous ayez pu vous y opposer lors de la collecte et dans chaque message.
+- Si vous êtes un professionnel : notre intérêt légitime, lorsque l'offre est en rapport avec votre activité professionnelle.
+
+### 3.4 Respecter nos obligations légales
+
+Base légale : nos obligations légales, notamment comptables et fiscales.
+
+### 3.5 Mesurer l'audience et améliorer le site
+
+Base légale : votre consentement, recueilli par le bandeau cookies, sauf pour les outils de mesure d'audience strictement nécessaires exemptés de consentement (voir article 7).
+
+### 3.6 Sécuriser le site et prévenir la fraude
+
+Base légale : notre intérêt légitime à protéger notre site, nos clients et nos utilisateurs.
+
+### 3.7 Gérer les candidatures [option, si vous recrutez]
+
+Base légale : les mesures précontractuelles prises à votre demande et, pour conserver votre candidature après le recrutement, votre consentement.
+
+> Note de rédaction : quand vous invoquez l'intérêt légitime, vous devez pouvoir démontrer que vous avez mis en balance votre intérêt et les droits des personnes. Ne choisissez pas cette base pour éviter de demander un consentement que la loi impose.
+
+## ARTICLE 4 – QUI A ACCÈS À VOS DONNÉES ?
+
+Vos données sont accessibles aux seules personnes de notre équipe qui en ont besoin : [service client, service commercial, comptabilité].
+
+Elles peuvent être transmises à nos prestataires, qui les traitent pour notre compte et selon nos instructions, dans le cadre de contrats conformes au RGPD :
+- hébergement du site : [nom, pays] ;
+- envoi de courriels : [nom, pays] ;
+- paiement en ligne : [nom, pays] ;
+- livraison : [nom, pays] ;
+- [autre prestataire].
+
+Elles peuvent aussi être communiquées aux autorités publiques lorsque la loi l'exige.
+
+Nous ne vendons pas vos données. [Option : avec votre accord, nous pouvons les transmettre à nos partenaires commerciaux suivants : [liste], pour [finalité].]
+
+## ARTICLE 5 – VOS DONNÉES QUITTENT-ELLES L'UNION EUROPÉENNE ?
+
+[Option A] Vos données sont hébergées et traitées au sein de l'Union européenne.
+
+[Option B] Certains de nos prestataires sont situés hors de l'Union européenne, ou peuvent accéder aux données depuis un pays tiers : [nom, pays]. Ces transferts sont encadrés par [une décision d'adéquation de la Commission européenne / les clauses contractuelles types adoptées par la Commission européenne]. Vous pouvez obtenir une copie de ces garanties en nous écrivant à l'adresse indiquée à l'article 1.
+
+## ARTICLE 6 – COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNÉES ?
+
+Nous conservons vos données pendant les durées suivantes :
+- données des clients : pendant la relation commerciale, puis [trois] ans à compter du dernier achat pour la prospection ;
+- données des prospects : [trois] ans à compter de leur collecte ou du dernier contact venant de vous ;
+- factures et pièces comptables : dix ans à compter de la clôture de l'exercice, pour respecter nos obligations comptables ;
+- comptes inactifs : supprimés après [deux] ans sans connexion, après vous en avoir avertis ;
+- candidatures non retenues : [deux] ans après le dernier contact, avec votre accord ;
+- cookies et traceurs soumis à consentement : [treize] mois au plus ; votre choix est conservé pendant [six] mois ;
+- journaux de connexion : [un] an.
+
+À l'issue de ces durées, les données sont supprimées ou rendues anonymes. Elles peuvent être conservées plus longtemps, en archive à accès restreint, pour la durée nécessaire à la constatation, à l'exercice ou à la défense de nos droits en justice.
+
+## ARTICLE 7 – COOKIES ET AUTRES TRACEURS
+
+Lors de votre visite, des cookies peuvent être déposés sur votre appareil :
+- cookies strictement nécessaires au fonctionnement du site (panier, connexion, sécurité, mémorisation de vos choix) : ils ne demandent pas votre accord ;
+- cookies de mesure d'audience [outil], [exemptés de consentement car configurés pour produire uniquement des statistiques anonymes / soumis à votre consentement] ;
+- cookies publicitaires et de réseaux sociaux [outils] : déposés seulement si vous les acceptez.
+
+Vous pouvez accepter ou refuser ces cookies aussi facilement l'un que l'autre, depuis le bandeau affiché lors de votre première visite, et modifier votre choix à tout moment via le lien [« Gérer mes cookies »] en bas de chaque page. Refuser ces cookies ne vous empêche pas d'utiliser le site.
+
+## ARTICLE 8 – QUELS SONT VOS DROITS ?
+
+Vous disposez des droits suivants sur vos données :
+- droit d'accès : savoir quelles données nous détenons et en obtenir une copie ;
+- droit de rectification : faire corriger des données inexactes ou incomplètes ;
+- droit à l'effacement : faire supprimer vos données, dans les cas prévus par le RGPD ;
+- droit à la limitation : faire geler temporairement l'utilisation de vos données ;
+- droit à la portabilité : recevoir les données que vous nous avez fournies dans un format structuré, ou les faire transmettre à un autre organisme, lorsque le traitement repose sur votre consentement ou sur un contrat ;
+- droit d'opposition : vous opposer à tout moment, sans avoir à vous justifier, à la prospection commerciale, et, pour des raisons tenant à votre situation particulière, aux traitements fondés sur notre intérêt légitime ;
+- droit de retirer votre consentement à tout moment, sans remettre en cause les traitements déjà réalisés ;
+- droit de définir des directives sur le sort de vos données après votre décès.
+
+Pour exercer ces droits, écrivez-nous à l'adresse indiquée à l'article 1. Nous pouvons vous demander de justifier de votre identité en cas de doute raisonnable. Nous vous répondons dans un délai d'un mois, qui peut être prolongé de deux mois en raison de la complexité ou du nombre de demandes ; nous vous en informons alors dans le premier mois.
+
+Pour vous opposer à la prospection par courriel, vous pouvez aussi utiliser le lien de désinscription présent dans chacun de nos messages. Pour la prospection par téléphone, vous pouvez vous inscrire gratuitement sur la liste d'opposition Bloctel.
+
+Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL (Commission nationale de l'informatique et des libertés), 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07, ou sur www.cnil.fr.
+
+## ARTICLE 9 – PRISE DE DÉCISION AUTOMATISÉE
+
+[Option A] Nous ne prenons aucune décision produisant des effets juridiques à votre égard, ou vous affectant de manière significative, sur le seul fondement d'un traitement automatisé, y compris le profilage.
+
+[Option B] [Décrivez le traitement, sa logique, son importance et ses conséquences pour la personne, ainsi que le moyen d'obtenir une intervention humaine.]
+
+## ARTICLE 10 – MINEURS
+
+[Option A] Notre site s'adresse aux personnes majeures. Nous ne collectons pas sciemment de données concernant des mineurs.
+
+[Option B] Lorsqu'un traitement repose sur le consentement et concerne un mineur de moins de quinze ans, le consentement est donné conjointement par le mineur et par le ou les titulaires de l'autorité parentale.
+
+## ARTICLE 11 – SÉCURITÉ
+
+Nous mettons en œuvre des mesures techniques et organisationnelles adaptées pour protéger vos données contre la perte, la destruction, l'accès non autorisé ou la divulgation : [connexion chiffrée (HTTPS), mots de passe chiffrés, accès limités et journalisés, sauvegardes régulières]. Si une violation de vos données présente un risque élevé pour vos droits, nous vous en informons dans les conditions prévues par le RGPD.
+
+## ARTICLE 12 – MODIFICATIONS DE CETTE POLITIQUE
+
+Nous pouvons modifier la présente politique pour tenir compte d'un nouveau traitement ou d'une évolution de la réglementation. La date de mise à jour figure en tête du document. En cas de changement important, nous vous en informons [par courriel / par un message sur le site] avant son application.
