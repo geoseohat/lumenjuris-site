@@ -1,0 +1,110 @@
+{
+  "slug": "contrat-de-vente-de-fonds-de-commerce",
+  "nom": "Contrat de vente de fonds de commerce",
+  "nom_court": "contrat de vente de fonds de commerce",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de vente de fonds de commerce",
+  "mots_cles_secondaires": [
+    "acte de cession de fonds de commerce",
+    "contrat de cession de fonds de commerce",
+    "modèle vente fonds de commerce",
+    "cession fonds de commerce sous seing privé",
+    "vente fonds de commerce séquestre",
+    "acte de vente fonds de commerce restaurant"
+  ],
+  "titre_h1": "Modèle de contrat de vente de fonds de commerce gratuit (Word et PDF)",
+  "titre_seo": "Vente de fonds de commerce 2026 : modèle d'acte gratuit (Word)",
+  "meta_description": "Modèle d'acte de cession de fonds de commerce : désignation, bail, prix et séquestre, salariés, non-concurrence, formalités et délais d'opposition.",
+  "chapo": "Le contrat de vente de fonds de commerce transfère à un repreneur la clientèle, le bail, le nom et le matériel d'une activité. Téléchargez un modèle d'acte complet et repérez les formalités et délais qui conditionnent le paiement du prix.",
+  "public": "Commerçants, artisans, repreneurs et sociétés qui cèdent ou rachètent une activité",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-vente-de-fonds-de-commerce-lumen-juris",
+  "date_publication": "2026-11-14",
+  "date_mise_a_jour": "2026-11-14",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit commercial",
+      "Baux commerciaux",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Réunir les pièces du fonds",
+      "Rassemblez le bail et ses avenants, les comptes des trois derniers exercices, l'inventaire du matériel et un état des inscriptions de moins d'un mois."
+    ],
+    [
+      "Vérifier les préalables",
+      "Assurez-vous que les salariés ont été informés, que le droit de préemption de la commune est purgé si nécessaire et que le bailleur a donné son accord."
+    ],
+    [
+      "Ventiler le prix et choisir le séquestre",
+      "Répartissez le prix entre éléments incorporels et matériel, fixez le prix du stock à part et désignez le séquestre qui recevra les fonds."
+    ],
+    [
+      "Compléter les déclarations et annexes",
+      "Renseignez la situation du bail, les chiffres annexés, la liste des salariés et les contrats repris par l'acheteur."
+    ],
+    [
+      "Accomplir les formalités",
+      "Faites enregistrer l'acte dans le mois, publiez l'annonce légale dans les quinze jours puis au BODACC, et mettez à jour le registre du commerce."
+    ]
+  ],
+  "faq": [
+    [
+      "Peut-on vendre un fonds de commerce sans notaire ?",
+      "Oui. L'acte peut être signé sous signature privée entre le vendeur et l'acheteur. Il doit ensuite être enregistré et publié. Un notaire devient nécessaire si les murs sont vendus en même temps ou si la banque l'exige pour son financement."
+    ],
+    [
+      "Combien de temps le prix reste-t-il bloqué chez le séquestre ?",
+      "Au minimum jusqu'à la fin du délai d'opposition, soit dix jours après la publication au BODACC, auquel s'ajoutent les délais de vérification fiscale. En pratique, le vendeur perçoit souvent le prix plusieurs mois après la signature."
+    ],
+    [
+      "À combien s'élèvent les droits d'enregistrement d'une vente de fonds, et qui les règle ?",
+      "L'acte peut les répartir librement, mais l'usage et la loi fiscale les mettent à la charge de l'acheteur. Ils se calculent par tranches sur le prix : 0 % jusqu'à 23 000 €, 3 % jusqu'à 200 000 € et 5 % au-delà."
+    ],
+    [
+      "Les salariés suivent-ils le fonds vendu ?",
+      "Oui. Les contrats de travail en cours sont transférés de plein droit au nouvel exploitant, avec leur ancienneté et leur rémunération. Un licenciement décidé pour le seul motif de la vente est privé d'effet."
+    ],
+    [
+      "Le bailleur peut-il refuser la cession du bail avec le fonds ?",
+      "Il ne peut pas interdire la cession du bail à l'acquéreur du fonds : une telle clause est réputée non écrite. Il peut en revanche exiger son agrément ou sa présence à l'acte si le bail le prévoit, et ces formalités doivent être respectées."
+    ],
+    [
+      "Que risque le vendeur s'il n'informe pas ses salariés ?",
+      "La vente reste valable, mais le vendeur s'expose à une amende civile prononcée par le juge. Depuis la réforme de 2026, son montant est plafonné à 0,5 % du prix de vente."
+    ],
+    [
+      "Quelle durée pour la clause de non-concurrence du vendeur ?",
+      "Aucune durée n'est fixée par la loi. Elle doit être limitée dans le temps et l'espace et proportionnée à la clientèle cédée : trois à cinq ans et un rayon adapté à la zone de chalandise sont courants pour un commerce de proximité."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 141-6 (privilège du vendeur), L. 141-12 à L. 141-14 (publicité et oppositions), L. 141-23 et suivants (information des salariés) et L. 145-16 à L. 145-16-2 (cession du bail commercial)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code du travail, article L. 1224-1 (transfert des contrats de travail)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code général des impôts, articles 719 (droits d'enregistrement) et 1684 (solidarité fiscale de l'acquéreur)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ],
+    [
+      "Code civil, articles 1112-1 (devoir d'information) et 1626 (garantie d'éviction)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-vente-fonds-commerce"
+  }
+}

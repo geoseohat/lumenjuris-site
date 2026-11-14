@@ -106,6 +106,6 @@
 [x] 2026-11-14 contrat de traitement de données personnelles -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-traitement-de-donnees-personnelles/
 [x] 2026-11-14 accord de sous-traitance RGPD -> écarté : même intention que contrat-de-traitement-de-donnees-personnelles : même document (article 28 du RGPD), la page couvre déjà la recherche « accord de sous-traitance RGPD »
 [x] 2026-11-14 politique de confidentialité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-confidentialite/
-contrat de vente de fonds de commerce
+[x] 2026-11-14 contrat de vente de fonds de commerce -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente-de-fonds-de-commerce/
 promesse de vente de fonds de commerce
 contrat de location-gérance

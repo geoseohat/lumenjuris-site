@@ -2134,27 +2134,53 @@
     "politique-de-confidentialite": {
       "fichiers": {
         "docx": {
-          "id": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o1.id}}",
-          "url": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o1.source_url}}",
+          "id": 3875,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-politique-de-confidentialite-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "aafc3b6ba5fe10d5324667f9328b2f71990ce9b90be481e88c814a437e03416b"
         },
         "pdf": {
-          "id": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o2.id}}",
-          "url": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o2.source_url}}",
+          "id": 3876,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-politique-de-confidentialite-lumen-juris.pdf",
           "taille": "109 Ko",
           "empreinte": "aafc3b6ba5fe10d5324667f9328b2f71990ce9b90be481e88c814a437e03416b"
         }
       },
       "image": {
-        "id": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o3.id}}",
-        "url": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o3.source_url}}",
+        "id": 3877,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-politique-de-confidentialite-lumen-juris.png",
         "taille": "292 Ko",
         "empreinte": "0be27f51dc24483e8008c9bab7fe943b3412a4fde82b54bfded8d3f521f93a68"
       },
       "statut": "publish",
-      "id": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o7.id}}",
-      "lien": "{{20261114-092020-publier-en-ligne-politique-de-confidentialite.o7.link}}",
+      "id": 3878,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-confidentialite/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-vente-de-fonds-de-commerce": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o1.id}}",
+          "url": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "0222be400b202afd289f5ad2c3fde0b156dc4e878f3bc69839dbe9fb4ac7a7db"
+        },
+        "pdf": {
+          "id": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o2.id}}",
+          "url": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o2.source_url}}",
+          "taille": "138 Ko",
+          "empreinte": "0222be400b202afd289f5ad2c3fde0b156dc4e878f3bc69839dbe9fb4ac7a7db"
+        }
+      },
+      "image": {
+        "id": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o3.id}}",
+        "url": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o3.source_url}}",
+        "taille": "302 Ko",
+        "empreinte": "1a6da4a5a3507547882a9224ef296f9e6f889d10fdfce2ee4474abe6871e3582"
+      },
+      "statut": "publish",
+      "id": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o7.id}}",
+      "lien": "{{20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2163,6 +2189,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261114-092020-publier-en-ligne-politique-de-confidentialite"
+    "20261114-092317-publier-en-ligne-contrat-de-vente-de-fonds-de-commerce"
   ]
 }
