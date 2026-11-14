@@ -100,8 +100,8 @@
 [x] 2026-11-13 contrat de cession de marque -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-marque/
 [x] 2026-11-13 contrat de cession de brevet -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-brevet/
 [x] 2026-11-13 contrat de cession de droits à l'image -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-droits-a-l-image/
-autorisation de droit à l'image
-contrat de production audiovisuelle
+[x] 2026-11-14 autorisation de droit à l'image -> écarté : même intention que contrat-de-cession-de-droits-a-l-image : la page existante couvre déjà la recherche « autorisation de droit à l'image »
+[x] 2026-11-14 contrat de production audiovisuelle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-production-audiovisuelle/
 contrat de prestation informatique
 contrat de traitement de données personnelles
 accord de sous-traitance RGPD
