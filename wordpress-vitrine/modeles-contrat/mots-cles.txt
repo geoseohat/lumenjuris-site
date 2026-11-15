@@ -108,4 +108,4 @@
 [x] 2026-11-14 politique de confidentialité -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-confidentialite/
 [x] 2026-11-14 contrat de vente de fonds de commerce -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente-de-fonds-de-commerce/
 [x] 2026-11-15 promesse de vente de fonds de commerce -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-de-vente-de-fonds-de-commerce/
-contrat de location-gérance
+[x] 2026-11-15 contrat de location-gérance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-gerance/

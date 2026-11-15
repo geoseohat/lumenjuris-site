@@ -1,0 +1,106 @@
+{
+  "slug": "contrat-de-location-gerance",
+  "nom": "Contrat de location-gérance",
+  "nom_court": "contrat de location-gérance",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de location-gérance",
+  "mots_cles_secondaires": [
+    "contrat de gérance libre",
+    "location-gérance fonds de commerce",
+    "contrat de location gérance restaurant",
+    "modèle location gérance gratuit",
+    "redevance location-gérance",
+    "location-gérance avec promesse de vente"
+  ],
+  "titre_h1": "Modèle de contrat de location-gérance gratuit (Word et PDF)",
+  "titre_seo": "Contrat de location-gérance 2026 : modèle gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de location-gérance de fonds de commerce : redevance, bail, salariés, publication en 15 jours et dettes du propriétaire expliquées.",
+  "chapo": "Le contrat de location-gérance permet de confier l'exploitation d'un fonds de commerce à un commerçant indépendant contre une redevance, sans le vendre. Téléchargez un modèle complet et repérez les formalités qui protègent le propriétaire contre les dettes du gérant.",
+  "public": "Propriétaires de fonds de commerce et locataires-gérants",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-location-gerance-lumen-juris",
+  "date_publication": "2026-11-15",
+  "date_mise_a_jour": "2026-11-15",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit commercial",
+      "Baux commerciaux",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier le bail des locaux",
+      "Relisez la clause du bail sur la location-gérance et obtenez par écrit l'accord du bailleur s'il est exigé."
+    ],
+    [
+      "Fixer la redevance et les garanties",
+      "Choisissez une redevance fixe ou mixte, le sort du loyer des locaux, le montant du dépôt de garantie et une éventuelle caution."
+    ],
+    [
+      "Dresser l'inventaire du fonds",
+      "Listez le matériel avec son état, le stock repris et les salariés transférés, puis annexez les chiffres d'affaires récents."
+    ],
+    [
+      "Immatriculer le gérant et signer",
+      "Faites immatriculer le gérant au registre du commerce en qualité de locataire-gérant avant l'entrée en jouissance, puis signez le contrat."
+    ],
+    [
+      "Publier sous quinze jours",
+      "Publiez un avis dans un journal d'annonces légales dans les quinze jours et faites mentionner la mise en gérance à l'immatriculation du propriétaire."
+    ]
+  ],
+  "faq": [
+    [
+      "Faut-il avoir exploité son fonds pendant deux ans pour le mettre en location-gérance ?",
+      "Non. Cette condition a été supprimée en 2012. Le propriétaire peut mettre son fonds en gérance dès son acquisition ou sa création, sous réserve des règles propres à certaines activités et de l'accord du bailleur si le bail l'exige."
+    ],
+    [
+      "Le propriétaire du fonds peut-il payer les dettes du locataire-gérant ?",
+      "Il peut y être contraint jusqu'à la publication du contrat dans un journal d'annonces légales : pendant cette période, il est solidairement responsable des dettes d'exploitation du gérant. D'où l'intérêt de publier dès la signature et de prévoir une clause de garantie."
+    ],
+    [
+      "Comment fixer le montant de la redevance ?",
+      "Le montant est libre. Il dépend de la rentabilité du fonds, du loyer des locaux et de la valeur du matériel. Une redevance mixte, avec une partie fixe et un pourcentage du chiffre d'affaires, partage le risque entre les parties."
+    ],
+    [
+      "Le locataire-gérant a-t-il droit au renouvellement ou à une indemnité à la fin du contrat ?",
+      "Non, sauf si le contrat le prévoit. Le gérant n'a pas de droit au renouvellement et la clientèle reste attachée au fonds du propriétaire. Il n'a pas non plus de droit propre sur le bail des locaux."
+    ],
+    [
+      "Que deviennent les salariés en cas de location-gérance ?",
+      "Leurs contrats de travail sont transférés au gérant à l'entrée en jouissance, avec leur ancienneté. À la fin du contrat, ils sont transférés au propriétaire ou au nouvel exploitant du fonds."
+    ],
+    [
+      "Le locataire-gérant peut-il acheter le fonds plus tard ?",
+      "Oui, si le propriétaire lui consent une promesse de vente. Cette promesse unilatérale doit être enregistrée dans les dix jours de son acceptation, sinon elle est nulle. Le prix peut tenir compte d'une partie des redevances déjà versées."
+    ],
+    [
+      "Quelle différence entre location-gérance et gérance-mandat ?",
+      "En location-gérance, le gérant exploite pour son compte et supporte les pertes. En gérance-mandat, il agit pour le compte du propriétaire, qui garde le risque d'exploitation, et il perçoit une commission. Les deux contrats relèvent de chapitres différents du Code de commerce."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 144-1 et suivants (location-gérance) et L. 146-1 et suivants (gérance-mandat)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code du travail, article L. 1224-1 (transfert des contrats de travail)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, article 1589-2 (enregistrement de la promesse unilatérale de vente d'un fonds de commerce)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-location-gerance"
+  }
+}
