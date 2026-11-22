@@ -86,3 +86,16 @@ contrat de cession d'actions et ordre de mouvement de titres (l'ordre est l'acte
 procès-verbal d'assemblée générale et procès-verbal de transfert de siège social ; contrat de prêt entre
 particuliers (argent) et contrat de prêt à usage (un bien, gratuitement). Le contrat de colocation ne doit pas
 reprendre la page location non meublée : angle propre (bail unique ou individuel, solidarité, départ d'un colocataire).
+
+2e lot du 22 novembre 2026 : lettre de résiliation de contrat (lettre d'une seule partie) et accord de
+résiliation amiable (acte signé par les deux) ; rupture conventionnelle (convention) et lettre de demande de
+rupture conventionnelle (courrier du salarié ou de l'employeur) ; contrat de travail CDD et ses avenants de
+renouvellement ou de rupture ; contrat de location de matériel et contrat de location de véhicule ; contrat de
+cession de droits d'auteur et contrats de création graphique, de photographe, de traduction et d'édition (angle
+propre à chaque métier) ; contrat de licence de marque et contrat de licence de brevet ; clause de
+non-concurrence et clause de non-sollicitation ; contrat de traitement de données personnelles (sous-traitant,
+art. 28 RGPD) et accord de responsabilité conjointe (art. 26 RGPD). Les clauses (force majeure, pénale,
+résolutoire…) sont des pages « clause à insérer » : ne refaites pas un contrat complet.
+Prudence particulière : garantie d'actif et de passif, accord d'intéressement et contrat de travail
+d'assistante maternelle (convention collective propre) ; si le modèle ne peut pas rester générique et sûr,
+utilisez « ecarter » en l'expliquant.
