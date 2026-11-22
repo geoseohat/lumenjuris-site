@@ -109,3 +109,33 @@
 [x] 2026-11-14 contrat de vente de fonds de commerce -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-vente-de-fonds-de-commerce/
 [x] 2026-11-15 promesse de vente de fonds de commerce -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/promesse-de-vente-de-fonds-de-commerce/
 [x] 2026-11-15 contrat de location-gérance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-gerance/
+#
+# Ajout du 22 novembre 2026 : contrats pas encore publiés, utiles aux TPE/PME, indépendants et bailleurs.
+statuts SCI
+mentions légales site internet
+mise en demeure de payer
+quittance de loyer
+état des lieux
+statuts SASU
+statuts EURL
+reçu pour solde de tout compte
+certificat de travail
+règlement intérieur d'entreprise
+lettre d'avertissement disciplinaire
+statuts d'association loi 1901
+bon de commande
+contrat de colocation
+contrat de location de parking
+contrat de prêt à usage
+contrat de location de matériel
+lettre de résiliation de contrat
+lettre d'intention
+politique de cookies
+lettre de mise à pied conservatoire
+procès-verbal de transfert de siège social
+ordre de mouvement de titres
+contrat de cession de clientèle
+contrat de collaboration libérale
+convention de forfait en jours
+contrat de cession de nom de domaine
+convention de management fees

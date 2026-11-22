@@ -79,3 +79,10 @@ Différents malgré la ressemblance (les deux pages se justifient, avec des angl
 de cession (parts, actions, fonds de commerce) ; convention de formation (financée par l'entreprise) et contrat
 de formation professionnelle (payé par la personne elle-même) ; bail commercial, dérogatoire, professionnel et
 occupation précaire ; contrat de stage et convention de mise à disposition de personnel.
+
+Ajout du 22 novembre 2026 (mêmes règles) : statuts SAS et statuts SASU, statuts SARL et statuts EURL (associé
+unique : décisions, comptes, régime fiscal différents) ; politique de confidentialité et politique de cookies ;
+contrat de cession d'actions et ordre de mouvement de titres (l'ordre est l'acte de transfert, pas la vente) ;
+procès-verbal d'assemblée générale et procès-verbal de transfert de siège social ; contrat de prêt entre
+particuliers (argent) et contrat de prêt à usage (un bien, gratuitement). Le contrat de colocation ne doit pas
+reprendre la page location non meublée : angle propre (bail unique ou individuel, solidarité, départ d'un colocataire).
