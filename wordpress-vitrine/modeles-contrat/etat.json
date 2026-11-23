@@ -2264,27 +2264,53 @@
     "mentions-legales-site-internet": {
       "fichiers": {
         "docx": {
-          "id": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o1.id}}",
-          "url": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o1.source_url}}",
+          "id": 3921,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mentions-legales-site-internet-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "cc9fe645f94f3804460480959e629312e5c1ac0150fd2d4674ba2a0ddded3eb5"
         },
         "pdf": {
-          "id": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o2.id}}",
-          "url": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o2.source_url}}",
+          "id": 3922,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mentions-legales-site-internet-lumen-juris.pdf",
           "taille": "85 Ko",
           "empreinte": "cc9fe645f94f3804460480959e629312e5c1ac0150fd2d4674ba2a0ddded3eb5"
         }
       },
       "image": {
-        "id": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o3.id}}",
-        "url": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o3.source_url}}",
+        "id": 3923,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mentions-legales-site-internet-lumen-juris.png",
         "taille": "295 Ko",
         "empreinte": "96e3cc3b19f793b3cd330e0d0c3c77102736cc82d7d901fc933ea30df0baa8f5"
       },
       "statut": "publish",
-      "id": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o7.id}}",
-      "lien": "{{20261123-091745-publier-en-ligne-mentions-legales-site-internet.o7.link}}",
+      "id": 3924,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/mentions-legales-site-internet/",
+      "gabarit": "2026-10-23"
+    },
+    "mise-en-demeure-de-payer": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o1.id}}",
+          "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o1.source_url}}",
+          "taille": "39 Ko",
+          "empreinte": "c7fbeace304423517f86b8a4e1c47ddeb8d41be7bdbd158ed068fcbca13f9329"
+        },
+        "pdf": {
+          "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o2.id}}",
+          "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o2.source_url}}",
+          "taille": "74 Ko",
+          "empreinte": "c7fbeace304423517f86b8a4e1c47ddeb8d41be7bdbd158ed068fcbca13f9329"
+        }
+      },
+      "image": {
+        "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o3.id}}",
+        "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o3.source_url}}",
+        "taille": "292 Ko",
+        "empreinte": "7e4737383a4e11e5138763f65237526833e1d3885636f6860d0fb6ece441bbcd"
+      },
+      "statut": "publish",
+      "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o7.id}}",
+      "lien": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2293,6 +2319,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261123-091745-publier-en-ligne-mentions-legales-site-internet"
+    "20261123-091920-publier-en-ligne-mise-en-demeure-de-payer"
   ]
 }

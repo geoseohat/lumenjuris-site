@@ -1,0 +1,82 @@
+# MISE EN DEMEURE DE PAYER
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant l'envoi.
+
+> Note de rédaction : envoyez ce courrier par lettre recommandée avec demande d'avis de réception, ou par lettre recommandée électronique, et gardez une copie. Il ne sert qu'après au moins une relance restée sans effet : vérifiez d'abord que la facture a bien été reçue et qu'elle n'est pas contestée.
+
+[Prénom Nom ou dénomination du créancier]
+[Forme sociale et numéro SIREN, le cas échéant]
+[Adresse]
+[Téléphone] – [Adresse électronique]
+
+[Prénom Nom ou dénomination du débiteur]
+[Adresse]
+
+À [ville], le [date]
+
+Lettre recommandée avec demande d'avis de réception n° [numéro]
+
+Objet : mise en demeure de payer la somme de [montant] euros
+
+[Madame, Monsieur],
+
+## ARTICLE 1 – ORIGINE DE LA CRÉANCE
+
+Par [contrat / devis accepté / bon de commande] du [date], [vous m'avez commandé / je vous ai fourni] [description précise des biens livrés, des travaux réalisés, des services rendus ou de la somme prêtée].
+
+## ARTICLE 2 – MONTANT IMPAYÉ
+
+J'ai exécuté mes obligations le [date de livraison, de fin des travaux ou de remise des fonds]. La facture n° [numéro] du [date], d'un montant de [montant] euros toutes taxes comprises, est arrivée à échéance le [date] sans être réglée.
+
+> Option, si plusieurs factures sont impayées : détaillez-les dans la liste ci-dessous.
+
+- Facture n° [numéro] du [date], échue le [date] : [montant] euros
+- Facture n° [numéro] du [date], échue le [date] : [montant] euros
+- Acompte reçu le [date] : – [montant] euros
+- Solde restant dû : [montant] euros
+
+## ARTICLE 3 – RELANCES RESTÉES SANS EFFET
+
+[Malgré ma relance du [date] par [courrier / courriel / téléphone]], cette somme reste due à ce jour. [Vous n'avez formulé aucune réclamation sur [la livraison / les travaux / la prestation].]
+
+## ARTICLE 4 – MISE EN DEMEURE
+
+En conséquence, je vous mets en demeure de me régler la somme de [montant] euros dans un délai de [huit / quinze] jours à compter de la réception de ce courrier.
+
+La présente lettre vaut mise en demeure au sens de l'article 1344 du Code civil. Elle fait courir les intérêts de retard au taux légal sur la somme due, conformément à l'article 1231-6 du même code.
+
+## ARTICLE 5 – PÉNALITÉS ET INDEMNITÉS
+
+> Option, entre professionnels : en application de l'article L. 441-10 du Code de commerce et de nos conditions générales de vente, la somme due est majorée de pénalités de retard au taux de [taux prévu par vos conditions, au moins trois fois le taux d'intérêt légal] depuis le [date d'échéance], soit [montant] euros à ce jour, ainsi que de l'indemnité forfaitaire pour frais de recouvrement de 40 euros.
+
+> Option, si le contrat prévoit une clause pénale : je vous rappelle que l'article [numéro] de notre contrat prévoit, en cas de retard de paiement, [reprendre la clause].
+
+> Note de rédaction : face à un particulier, ne réclamez ni indemnité forfaitaire de 40 euros ni frais de recouvrement. Ces frais restent à la charge du créancier, sauf exceptions prévues par la loi ou décision du juge.
+
+## ARTICLE 6 – MODALITÉS DE PAIEMENT
+
+Vous pouvez effectuer le règlement :
+
+- par virement sur le compte [IBAN] ouvert au nom de [titulaire], en indiquant la référence [numéro de facture] ;
+- par chèque à l'ordre de [bénéficiaire], adressé à [adresse].
+
+> Option : si vous rencontrez des difficultés de paiement, je suis disposé(e) à examiner une proposition d'échéancier écrite, à condition de la recevoir avant l'expiration du délai indiqué ci-dessus.
+
+## ARTICLE 7 – SUITES EN L'ABSENCE DE PAIEMENT
+
+À défaut de paiement complet dans ce délai, je me réserve la possibilité, sans nouvel avis, d'engager toute procédure utile au recouvrement de ma créance, notamment [une procédure d'injonction de payer / la procédure simplifiée de recouvrement des petites créances confiée à un commissaire de justice / la saisine du tribunal compétent], les frais de procédure pouvant alors être mis à votre charge par le juge.
+
+> Option, si la créance est née d'un contrat avec un consommateur : je vous informe que vous pouvez recourir gratuitement au médiateur de la consommation suivant : [nom et coordonnées du médiateur].
+
+Je vous prie d'agréer, [Madame, Monsieur], l'expression de mes salutations distinguées.
+
+[Prénom Nom]
+[Qualité, pour une société : gérant, président…]
+Signature
+
+Pièces jointes :
+
+- Copie du [contrat / devis signé / bon de commande]
+- Copie de la ou des factures impayées
+- Copie de la relance du [date]
+- [Bon de livraison, procès-verbal de réception ou autre preuve de l'exécution]

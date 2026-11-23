@@ -113,7 +113,7 @@
 # Ajout du 22 novembre 2026 : contrats pas encore publiés, utiles aux TPE/PME, indépendants et bailleurs.
 [x] 2026-11-23 statuts SCI -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sci/
 [x] 2026-11-23 mentions légales site internet -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/mentions-legales-site-internet/
-mise en demeure de payer
+[x] 2026-11-23 mise en demeure de payer -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/mise-en-demeure-de-payer/
 quittance de loyer
 état des lieux
 statuts SASU
