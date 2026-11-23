@@ -1,0 +1,100 @@
+# MENTIONS LÉGALES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant la mise en ligne.
+
+> Note de rédaction : les mentions légales identifient la personne qui édite le site et celle qui l'héberge. Elles doivent être accessibles facilement et en permanence, en pratique par un lien « Mentions légales » présent en pied de chaque page. Gardez les articles qui correspondent à votre statut (société, entrepreneur individuel, association, particulier) et supprimez les autres. Elles ne remplacent ni la politique de confidentialité, ni les conditions générales d'utilisation ou de vente.
+
+Le site [adresse du site, par exemple www.exemple.fr] (ci-après le « Site ») est édité et hébergé dans les conditions décrites ci-dessous.
+
+Dernière mise à jour : [date]
+
+## ARTICLE 1 – ÉDITEUR DU SITE
+
+### 1.1 Si l'éditeur est une société
+
+[Dénomination sociale], [forme sociale, par exemple société par actions simplifiée] au capital de [montant] euros,
+Siège social : [adresse complète],
+Immatriculée au registre du commerce et des sociétés de [ville du greffe] sous le numéro [numéro SIREN],
+Numéro de TVA intracommunautaire : [numéro],
+Téléphone : [numéro],
+Adresse électronique : [adresse],
+Représentée par [Prénom Nom], en qualité de [fonction].
+
+### 1.2 Si l'éditeur est un entrepreneur individuel
+
+[Prénom Nom], entrepreneur individuel (« EI »), exerçant sous le nom commercial [nom commercial, le cas échéant],
+Adresse professionnelle : [adresse],
+Numéro SIREN : [numéro], [immatriculé au registre national des entreprises / au registre du commerce et des sociétés de [ville]],
+Numéro de TVA intracommunautaire : [numéro, ou mention « TVA non applicable, article 293 B du CGI » si vous bénéficiez de la franchise en base],
+Téléphone : [numéro],
+Adresse électronique : [adresse].
+
+> Note de rédaction : le nom de l'entrepreneur individuel doit être précédé ou suivi des mots « entrepreneur individuel » ou des initiales « EI ».
+
+### 1.3 Si l'éditeur est une association
+
+Association [nom], déclarée à la préfecture de [département] le [date] sous le numéro RNA [numéro],
+Siège : [adresse],
+Numéro SIRET : [numéro, le cas échéant],
+Adresse électronique : [adresse],
+Représentée par [Prénom Nom], [président(e)].
+
+### 1.4 Si l'éditeur est un particulier publiant à titre non professionnel
+
+> Option : le Site est édité par une personne physique à titre non professionnel, qui a choisi de préserver son anonymat. Conformément à la loi, ses éléments d'identification ont été communiqués à l'hébergeur indiqué à l'article 3, qui les conserve. Vous pouvez joindre l'éditeur à l'adresse suivante : [adresse électronique ou formulaire de contact].
+
+> Note de rédaction : cet anonymat n'est pas possible si le site a une activité professionnelle (vente, prestation, publicité rémunérée régulière, activité d'influence commerciale).
+
+## ARTICLE 2 – DIRECTEUR DE LA PUBLICATION
+
+Le directeur de la publication est [Prénom Nom], en qualité de [fonction].
+
+> Option : [Prénom Nom] est responsable de la rédaction, au sens de l'article 93-2 de la loi n° 82-652 du 29 juillet 1982, pour les contenus publiés sur le Site.
+
+> Note de rédaction : dans une société, le directeur de la publication est en principe son représentant légal. Pour un entrepreneur individuel ou un particulier, c'est l'éditeur lui-même.
+
+## ARTICLE 3 – HÉBERGEUR
+
+Le Site est hébergé par [dénomination de l'hébergeur], [forme sociale],
+Adresse : [adresse complète],
+Téléphone : [numéro de téléphone de l'hébergeur].
+
+> Note de rédaction : les coordonnées de l'hébergeur figurent généralement dans les mentions légales de son propre site ou dans votre espace client. Si vous utilisez une plateforme de création de site (constructeur en ligne, boutique hébergée), indiquez la société qui fournit cette plateforme.
+
+## ARTICLE 4 – ACTIVITÉ RÉGLEMENTÉE
+
+> Option : l'éditeur exerce la profession réglementée de [profession], sous le titre professionnel de [titre], délivré en [pays]. Il est inscrit à [ordre ou organisme professionnel] sous le numéro [numéro]. Il est soumis aux règles professionnelles suivantes : [nom du code de déontologie ou des règles applicables], consultables sur [adresse du site de l'organisme].
+
+> Option : l'activité de l'éditeur est soumise à autorisation. Autorité ayant délivré l'autorisation : [nom et adresse de l'autorité], numéro d'autorisation ou d'immatriculation : [numéro, par exemple ORIAS, carte professionnelle immobilière].
+
+## ARTICLE 5 – VENTE EN LIGNE ET MÉDIATION DE LA CONSOMMATION
+
+> Option, si le Site permet de commander des biens ou des services : les conditions de vente sont accessibles à l'adresse [lien vers les conditions générales de vente]. Les prix sont indiqués en euros, toutes taxes comprises, et précisent si les frais de livraison sont inclus.
+
+> Option, si vous vendez à des consommateurs : en cas de litige, le consommateur peut recourir gratuitement au médiateur de la consommation suivant, après avoir tenté de résoudre le litige directement par une réclamation écrite : [nom du médiateur], [adresse postale], [site internet du médiateur].
+
+## ARTICLE 6 – PROPRIÉTÉ INTELLECTUELLE
+
+L'ensemble des éléments du Site (textes, photographies, illustrations, logos, marques, vidéos, logiciels, bases de données) est protégé par le droit de la propriété intellectuelle et appartient à l'éditeur ou fait l'objet d'une autorisation d'utilisation.
+
+Toute reproduction, représentation ou adaptation, totale ou partielle, de ces éléments sans l'autorisation écrite préalable de l'éditeur est interdite, sous réserve des exceptions prévues par la loi, notamment la courte citation avec mention de la source.
+
+Crédits : [nom des photographes, illustrateurs ou banques d'images, et licences utilisées].
+
+## ARTICLE 7 – DONNÉES PERSONNELLES ET COOKIES
+
+Les informations relatives au traitement des données personnelles des utilisateurs, à leurs droits et à l'utilisation des cookies figurent dans la politique de confidentialité, accessible à l'adresse [lien].
+
+Pour toute question relative à vos données, vous pouvez écrire à [adresse électronique ou postale du contact données personnelles].
+
+## ARTICLE 8 – SIGNALER UN CONTENU
+
+Tout contenu illicite présent sur le Site peut être signalé à l'éditeur à l'adresse [adresse électronique] ou par le formulaire [lien], en précisant l'adresse de la page concernée, la nature du contenu et les raisons pour lesquelles il paraît illicite.
+
+## ARTICLE 9 – CONTACT
+
+Pour toute question sur le Site, vous pouvez contacter l'éditeur :
+
+- par courrier électronique : [adresse] ;
+- par téléphone : [numéro] ;
+- par courrier : [adresse postale].

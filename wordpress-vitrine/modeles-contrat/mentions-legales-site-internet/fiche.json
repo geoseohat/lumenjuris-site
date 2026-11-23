@@ -1,0 +1,106 @@
+{
+  "slug": "mentions-legales-site-internet",
+  "nom": "Mentions légales site internet",
+  "nom_court": "mentions légales site internet",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle mentions légales site internet",
+  "mots_cles_secondaires": [
+    "mentions légales",
+    "modèle mentions légales",
+    "mentions légales obligatoires site internet",
+    "exemple mentions légales",
+    "mentions légales auto-entrepreneur",
+    "mentions légales site e-commerce"
+  ],
+  "titre_h1": "Modèle de mentions légales site internet gratuit (Word et PDF)",
+  "titre_seo": "Modèle de mentions légales site internet gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de mentions légales gratuit pour site internet, en Word et PDF : société, entrepreneur, association ou particulier, hébergeur et sanctions.",
+  "chapo": "Les mentions légales identifient l'éditeur, le directeur de la publication et l'hébergeur d'un site internet. Téléchargez un modèle adapté à votre statut et vérifiez les informations à publier pour être en règle.",
+  "public": "Entreprises, indépendants, associations et particuliers qui publient un site",
+  "gratuit": true,
+  "fichier_base": "modele-mentions-legales-site-internet-lumen-juris",
+  "date_publication": "2026-11-23",
+  "date_mise_a_jour": "2026-11-23",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du numérique",
+      "Droit de la consommation",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Identifiez votre statut d'éditeur",
+      "Choisissez la variante société, entrepreneur individuel, association ou particulier, et supprimez les autres."
+    ],
+    [
+      "Rassemblez vos numéros",
+      "Reprenez le SIREN, le greffe, le numéro de TVA ou le numéro RNA tels qu'ils figurent sur vos documents officiels."
+    ],
+    [
+      "Trouvez les coordonnées de l'hébergeur",
+      "Relevez la dénomination, l'adresse et le téléphone de l'hébergeur ou de la plateforme de création de site."
+    ],
+    [
+      "Ajoutez vos obligations propres",
+      "Complétez l'activité réglementée, le médiateur de la consommation et le lien vers vos conditions de vente si vous vendez en ligne."
+    ],
+    [
+      "Publiez en pied de page",
+      "Mettez le texte en ligne sur une page dédiée, reliée à toutes les pages du site, et notez la date de mise à jour."
+    ]
+  ],
+  "faq": [
+    [
+      "Les mentions légales sont-elles obligatoires pour un site vitrine ?",
+      "Oui. Tout site édité dans un cadre professionnel doit identifier son éditeur, son directeur de la publication et son hébergeur, même s'il ne vend rien en ligne."
+    ],
+    [
+      "Un blog personnel doit-il avoir des mentions légales ?",
+      "Un particulier qui publie à titre non professionnel peut rester anonyme. Il doit seulement indiquer les coordonnées de son hébergeur, après lui avoir communiqué son identité."
+    ],
+    [
+      "Où placer les mentions légales sur un site ?",
+      "La loi exige un accès facile et direct. En pratique, un lien « Mentions légales » dans le pied de page de chaque page est la solution habituelle."
+    ],
+    [
+      "Un auto-entrepreneur doit-il indiquer son adresse personnelle ?",
+      "Il doit indiquer une adresse professionnelle. S'il est domicilié chez lui, il peut utiliser une société de domiciliation pour éviter de publier son adresse personnelle."
+    ],
+    [
+      "Qui est le directeur de la publication d'un site d'entreprise ?",
+      "Dans une société, c'est en principe son représentant légal, par exemple le gérant ou le président. Pour un entrepreneur individuel, c'est l'entrepreneur lui-même."
+    ],
+    [
+      "Quelle différence entre mentions légales et politique de confidentialité ?",
+      "Les mentions légales disent qui édite et héberge le site. La politique de confidentialité explique comment les données personnelles des visiteurs sont utilisées ; ce sont deux documents distincts."
+    ],
+    [
+      "Que risque-t-on sans mentions légales ?",
+      "L'absence des informations d'identification est punie d'un an d'emprisonnement et de 75 000 euros d'amende pour une personne physique, le montant étant multiplié par cinq pour une personne morale."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, articles 1-1 et 1-2 (identification de l'éditeur et de l'hébergeur, sanctions) et article 19 (informations dues par les vendeurs en ligne)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, article R. 123-237 (mentions sur les documents et sites des personnes immatriculées)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, articles L. 111-1 et L. 616-1 (information précontractuelle et médiateur de la consommation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "mentions-legales-site-internet"
+  }
+}
