@@ -1,0 +1,60 @@
+# QUITTANCE DE LOYER
+
+> Modèle gratuit Lumen Juris pour un logement loué vide ou meublé en résidence principale, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant l'envoi.
+
+> Note de rédaction : établissez une quittance par période payée, en général chaque mois, et seulement lorsque le loyer et les charges de cette période ont été payés en totalité. En cas de paiement partiel, utilisez la variante « reçu » de l'article 6. La quittance est gratuite : aucuns frais ne peuvent être facturés au locataire pour son établissement ou son envoi.
+
+Quittance n° [numéro] – Période du [premier jour] au [dernier jour] [mois et année]
+
+## ARTICLE 1 – BAILLEUR
+
+[Prénom Nom ou dénomination du bailleur, par exemple « SCI [nom], représentée par son gérant [Prénom Nom] »]
+Adresse : [adresse complète]
+
+> Option, si le logement est géré par un mandataire : quittance établie par [dénomination de l'agence], [adresse], titulaire de la carte professionnelle n° [numéro] délivrée par la CCI de [ville], agissant au nom et pour le compte du bailleur.
+
+## ARTICLE 2 – LOCATAIRE
+
+[Prénom Nom du ou des locataires titulaires du bail]
+
+> Note de rédaction : en colocation avec bail unique, la quittance est établie au nom de tous les colocataires, sauf si un seul d'entre eux a payé et demande une quittance à son nom pour la part qu'il a réglée.
+
+## ARTICLE 3 – LOGEMENT LOUÉ
+
+Adresse du logement : [adresse complète, bâtiment, étage, numéro de porte]
+Annexes : [cave n° [numéro] / place de stationnement n° [numéro] / aucune]
+Bail [d'habitation vide / meublé] signé le [date]
+
+## ARTICLE 4 – PÉRIODE CONCERNÉE
+
+La présente quittance concerne la période de location du [date de début] au [date de fin].
+
+## ARTICLE 5 – DÉTAIL DES SOMMES VERSÉES
+
+- Loyer hors charges : [montant] euros
+- Provision pour charges : [montant] euros
+- [ou : Forfait de charges : [montant] euros]
+- [Complément de loyer, s'il est prévu au bail : [montant] euros]
+- Total payé : [montant] euros
+
+Date du paiement : [date]
+Mode de paiement : [virement / prélèvement / chèque n° [numéro] / espèces]
+
+> Option, si le locataire perçoit une aide au logement versée directement au bailleur : dont aide au logement versée par [CAF / MSA] : [montant] euros ; part payée par le locataire : [montant] euros.
+
+> Note de rédaction : le dépôt de garantie, une régularisation annuelle de charges ou une somme due au titre de réparations ne sont pas du loyer. S'ils sont payés le même mois, mentionnez-les sur une ligne distincte ou sur un reçu séparé.
+
+## ARTICLE 6 – ATTESTATION DE PAIEMENT
+
+Je soussigné(e), [Prénom Nom du bailleur ou de son mandataire], déclare avoir reçu de [Prénom Nom du locataire] la somme de [montant en chiffres] euros ([montant en lettres] euros), au titre du loyer et des charges de la période indiquée à l'article 4, et lui en donne quittance, sous réserve de tous mes droits.
+
+> Option « reçu » en cas de paiement partiel : Je soussigné(e), [Prénom Nom], déclare avoir reçu de [Prénom Nom du locataire] la somme de [montant] euros, à valoir sur le loyer et les charges de la période du [date] au [date], dont le montant total est de [montant] euros. Il reste dû la somme de [montant] euros. Ce reçu ne vaut pas quittance.
+
+## ARTICLE 7 – TRANSMISSION
+
+La présente quittance est remise au locataire [en main propre / par courrier / par voie électronique à l'adresse [adresse], avec l'accord exprès du locataire donné le [date]].
+
+Fait à [ville], le [date]
+
+[Prénom Nom du bailleur ou de son mandataire]
+Signature

@@ -2290,27 +2290,53 @@
     "mise-en-demeure-de-payer": {
       "fichiers": {
         "docx": {
-          "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o1.id}}",
-          "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o1.source_url}}",
+          "id": 3926,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mise-en-demeure-de-payer-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "c7fbeace304423517f86b8a4e1c47ddeb8d41be7bdbd158ed068fcbca13f9329"
         },
         "pdf": {
-          "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o2.id}}",
-          "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o2.source_url}}",
+          "id": 3927,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mise-en-demeure-de-payer-lumen-juris.pdf",
           "taille": "74 Ko",
           "empreinte": "c7fbeace304423517f86b8a4e1c47ddeb8d41be7bdbd158ed068fcbca13f9329"
         }
       },
       "image": {
-        "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o3.id}}",
-        "url": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o3.source_url}}",
+        "id": 3928,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-mise-en-demeure-de-payer-lumen-juris.png",
         "taille": "292 Ko",
         "empreinte": "7e4737383a4e11e5138763f65237526833e1d3885636f6860d0fb6ece441bbcd"
       },
       "statut": "publish",
-      "id": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o7.id}}",
-      "lien": "{{20261123-091920-publier-en-ligne-mise-en-demeure-de-payer.o7.link}}",
+      "id": 3929,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/mise-en-demeure-de-payer/",
+      "gabarit": "2026-10-23"
+    },
+    "quittance-de-loyer": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o1.id}}",
+          "url": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o1.source_url}}",
+          "taille": "38 Ko",
+          "empreinte": "ad35a7553d0be55f8ee08b69c0b5e39f27007e30cedeee01805f1e5c4bd8de0d"
+        },
+        "pdf": {
+          "id": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o2.id}}",
+          "url": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o2.source_url}}",
+          "taille": "64 Ko",
+          "empreinte": "ad35a7553d0be55f8ee08b69c0b5e39f27007e30cedeee01805f1e5c4bd8de0d"
+        }
+      },
+      "image": {
+        "id": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o3.id}}",
+        "url": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o3.source_url}}",
+        "taille": "286 Ko",
+        "empreinte": "db0196dcebf3b392277f5464bfae200304b257245fb0e0b3467b7ac20a5ae04a"
+      },
+      "statut": "publish",
+      "id": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o7.id}}",
+      "lien": "{{20261123-092033-publier-en-ligne-quittance-de-loyer.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2319,6 +2345,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261123-091920-publier-en-ligne-mise-en-demeure-de-payer"
+    "20261123-092033-publier-en-ligne-quittance-de-loyer"
   ]
 }
