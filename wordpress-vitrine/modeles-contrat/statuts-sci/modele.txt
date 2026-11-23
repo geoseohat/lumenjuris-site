@@ -1,0 +1,299 @@
+# STATUTS DE SOCIÉTÉ CIVILE IMMOBILIÈRE
+
+> Modèle gratuit Lumen Juris pour une société civile immobilière (SCI) de gestion patrimoniale comptant au moins deux associés, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+[Dénomination sociale]
+Société civile immobilière au capital de [montant] euros
+Siège social : [adresse complète]
+
+LES SOUSSIGNÉS :
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], [marié(e) sous le régime de [régime matrimonial] avec [Prénom Nom du conjoint] / lié(e) par un pacte civil de solidarité / célibataire],
+
+[Prénom Nom], né(e) le [date] à [ville], de nationalité [nationalité], demeurant [adresse complète], [situation de famille],
+
+ont établi ainsi qu'il suit les statuts de la société civile immobilière qu'ils ont décidé de constituer ensemble.
+
+> Note de rédaction : une SCI doit compter au moins deux associés pendant toute sa vie. Un mineur peut être associé, représenté par ses parents ou son tuteur ; un apport fait en son nom peut nécessiter l'accord du juge des tutelles selon la nature du bien.
+
+## TITRE I – FORME, OBJET, DÉNOMINATION, SIÈGE, DURÉE
+
+## ARTICLE 1 – FORME
+
+La société est une société civile (la « Société »), soumise aux articles 1832 à 1870-1 du Code civil, aux textes pris pour leur application et aux présents statuts.
+
+## ARTICLE 2 – OBJET
+
+La Société a pour objet :
+
+- l'acquisition, par voie d'achat ou d'apport, la propriété, la construction, la mise en valeur, l'administration et la location nue de tous biens et droits immobiliers, et notamment du bien situé [adresse du ou des biens visés] ;
+- l'emprunt de toutes sommes nécessaires à la réalisation de cet objet et la constitution de toutes garanties, y compris hypothécaires, sur les biens sociaux, pour les seuls besoins de la Société ;
+- l'aliénation exceptionnelle des biens sociaux, pourvu qu'elle ne remette pas en cause le caractère civil de la Société ;
+- et plus généralement toutes opérations de nature civile se rattachant directement ou indirectement à cet objet.
+
+> Note de rédaction : la location meublée exercée de façon habituelle et l'achat de biens en vue de leur revente sont des activités commerciales. Une SCI qui s'y livre risque d'être soumise à l'impôt sur les sociétés. Ne les ajoutez pas à l'objet sans conseil fiscal.
+
+## ARTICLE 3 – DÉNOMINATION
+
+La Société a pour dénomination : [dénomination].
+
+Tous les actes et documents émanant de la Société et destinés aux tiers indiquent la dénomination, précédée ou suivie des mots « société civile immobilière » ou des initiales « SCI », du montant du capital social, de l'adresse du siège et du numéro d'immatriculation au registre du commerce et des sociétés.
+
+## ARTICLE 4 – SIÈGE SOCIAL
+
+Le siège social est fixé au [adresse].
+
+Il peut être transféré en tout autre lieu par décision collective extraordinaire des associés.
+
+> Option : le siège peut être transféré dans le même département par simple décision de la gérance, sous réserve de ratification par la prochaine décision collective ordinaire.
+
+## ARTICLE 5 – DURÉE
+
+La durée de la Société est fixée à [nombre, au plus 99] années à compter de son immatriculation au registre du commerce et des sociétés, sauf dissolution anticipée ou prorogation.
+
+Un an au moins avant la date d'expiration, la gérance consulte les associés sur la prorogation éventuelle de la Société.
+
+## TITRE II – APPORTS, CAPITAL, PARTS SOCIALES
+
+## ARTICLE 6 – APPORTS
+
+Les associés font les apports suivants à la Société :
+
+### 6.1 Apports en numéraire
+
+- [Prénom Nom] apporte la somme de [montant] euros ;
+- [Prénom Nom] apporte la somme de [montant] euros.
+
+Soit au total la somme de [montant] euros, [intégralement versée / libérée à hauteur de [montant] euros, le solde étant appelé par la gérance au fur et à mesure des besoins de la Société].
+
+### 6.2 Apport en nature
+
+> Option : [Prénom Nom] apporte à la Société la pleine propriété du bien immobilier situé [adresse], cadastré section [section] numéro [numéro], d'une contenance de [surface], tel qu'il est décrit à l'annexe 1, évalué d'un commun accord à la somme de [montant] euros. Origine de propriété : [titre d'acquisition]. L'apport [est libre de toute inscription / est grevé d'un prêt restant dû de [montant] euros pris en charge par la Société].
+
+> Note de rédaction : l'apport d'un immeuble doit être constaté par acte notarié pour être publié au service de la publicité foncière. Il peut entraîner des droits d'enregistrement et, si le bien est grevé d'un prêt pris en charge par la Société, une imposition sur la part correspondante. Faites chiffrer l'opération par le notaire.
+
+### 6.3 Biens communs ou indivis
+
+> Option : l'apport de [Prénom Nom] est fait au moyen de biens communs. Son conjoint, [Prénom Nom], intervient aux présentes et déclare [renoncer à revendiquer la qualité d'associé / revendiquer la qualité d'associé pour la moitié des parts souscrites].
+
+## ARTICLE 7 – CAPITAL SOCIAL
+
+Le capital social est fixé à la somme de [montant] euros, divisé en [nombre] parts sociales de [montant] euros chacune, numérotées de 1 à [nombre] et attribuées aux associés en proportion de leurs apports :
+
+- [Prénom Nom] : [nombre] parts, numérotées de 1 à [numéro] ;
+- [Prénom Nom] : [nombre] parts, numérotées de [numéro] à [numéro].
+
+Total : [nombre] parts.
+
+Le capital peut être augmenté ou réduit par décision collective extraordinaire des associés. Une augmentation qui accroît les engagements d'un associé suppose son accord.
+
+## ARTICLE 8 – DROITS ATTACHÉS AUX PARTS
+
+Chaque part donne droit à une fraction des bénéfices et de l'actif social proportionnelle au nombre de parts existantes, et à une voix dans les décisions collectives.
+
+Les parts sociales ne peuvent pas être représentées par des titres négociables. Les droits de chaque associé résultent des présents statuts, des actes modifiant le capital et des cessions régulièrement constatées.
+
+## ARTICLE 9 – RESPONSABILITÉ DES ASSOCIÉS
+
+À l'égard des tiers, chaque associé répond indéfiniment des dettes sociales à proportion de sa part dans le capital à la date de l'exigibilité ou de la cessation des paiements.
+
+Les créanciers de la Société ne peuvent poursuivre un associé pour le paiement des dettes sociales qu'après avoir préalablement et vainement poursuivi la Société.
+
+## ARTICLE 10 – DÉMEMBREMENT DES PARTS
+
+Lorsqu'une part est grevée d'un usufruit, le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant l'affectation des bénéfices, où il est réservé à l'usufruitier.
+
+L'usufruitier et le nu-propriétaire ont le droit de participer aux décisions collectives. Ils sont convoqués et informés comme les associés.
+
+> Option : le droit de vote appartient à l'usufruitier pour toutes les décisions ordinaires et au nu-propriétaire pour les décisions extraordinaires, l'usufruitier conservant dans tous les cas le vote sur l'affectation des bénéfices.
+
+## ARTICLE 11 – COMPTES COURANTS D'ASSOCIÉS
+
+Avec l'accord de la gérance, chaque associé peut mettre à la disposition de la Société des sommes en compte courant. Les conditions de rémunération et de remboursement sont fixées par une convention écrite. À défaut, les sommes ne portent pas intérêt et sont remboursables avec un préavis de [nombre] mois, sauf si le remboursement compromet la trésorerie nécessaire au paiement des échéances d'emprunt.
+
+## TITRE III – TRANSMISSION DES PARTS
+
+## ARTICLE 12 – FORME ET OPPOSABILITÉ DES CESSIONS
+
+Toute cession de parts est constatée par écrit. Elle n'est opposable à la Société qu'après lui avoir été signifiée par acte de commissaire de justice, ou après son acceptation par la Société dans un acte authentique, ou après dépôt d'un original de l'acte de cession au siège social contre remise par la gérance d'une attestation de ce dépôt.
+
+Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et publication au registre du commerce et des sociétés.
+
+## ARTICLE 13 – AGRÉMENT
+
+Les parts ne peuvent être cédées à quelque personne que ce soit, y compris à un associé, à un conjoint, à un ascendant ou à un descendant du cédant, qu'avec l'agrément des associés représentant [la totalité / au moins les trois quarts] des parts sociales, le cédant [prenant / ne prenant pas] part au vote.
+
+> Option : les cessions entre associés sont libres. Seules les cessions à des tiers sont soumises à agrément.
+
+Le projet de cession est notifié, avec demande d'agrément, à la Société et à chacun des associés, par lettre recommandée avec demande d'avis de réception ou par acte de commissaire de justice. Il indique l'identité du cessionnaire, le nombre de parts et le prix proposé.
+
+La gérance consulte les associés dans un délai de [nombre] jours et notifie la décision au cédant.
+
+## ARTICLE 14 – REFUS D'AGRÉMENT
+
+En cas de refus, les associés sont tenus, dans le délai de six mois à compter de la dernière des notifications prévues à l'article 13, d'acquérir ou de faire acquérir les parts à un prix fixé d'un commun accord ou, à défaut, déterminé par un expert dans les conditions de l'article 1843-4 du Code civil. La Société peut aussi décider de racheter les parts en vue de réduire son capital.
+
+Si aucune offre d'achat n'est faite au cédant dans ce délai de six mois, l'agrément est réputé acquis, à moins que les autres associés ne décident, dans le même délai, la dissolution anticipée de la Société.
+
+Le cédant peut renoncer à son projet à tout moment avant la signature de l'acte de cession.
+
+## ARTICLE 15 – DÉCÈS D'UN ASSOCIÉ
+
+La Société n'est pas dissoute par le décès d'un associé. Elle continue avec ses héritiers ou légataires, [sans agrément / sous réserve de leur agrément par les associés survivants statuant à la majorité prévue à l'article 13].
+
+> Option avec agrément : en cas de refus, les héritiers ou légataires non agréés ont droit à la valeur des parts de leur auteur, payée par les nouveaux titulaires des parts ou par la Société elle-même. Cette valeur est fixée au jour du décès selon l'article 1843-4 du Code civil à défaut d'accord.
+
+Les héritiers et légataires justifient de leur qualité auprès de la gérance. Tant qu'ils n'ont pas désigné un mandataire commun, la gérance peut différer l'exercice de leur droit de vote.
+
+## ARTICLE 16 – RETRAIT D'UN ASSOCIÉ
+
+Un associé peut se retirer totalement ou partiellement de la Société avec l'autorisation d'une décision unanime des autres associés. Il peut aussi être autorisé à se retirer pour justes motifs par une décision de justice.
+
+L'associé qui se retire a droit au remboursement de la valeur de ses parts, fixée à défaut d'accord amiable par expert dans les conditions de l'article 1843-4 du Code civil.
+
+## ARTICLE 17 – NANTISSEMENT
+
+Tout associé peut obtenir le consentement des autres associés à un projet de nantissement de ses parts, dans les mêmes conditions que l'agrément d'une cession. Ce consentement emporte agrément du cessionnaire en cas de réalisation forcée des parts, à condition que la vente soit notifiée un mois à l'avance aux associés et à la Société. Chaque associé peut alors se substituer à l'acquéreur dans un délai de cinq jours francs à compter de la vente ; à défaut, la Société peut racheter les parts en vue de leur annulation.
+
+## TITRE IV – GÉRANCE
+
+## ARTICLE 18 – NOMINATION ET DURÉE
+
+La Société est administrée par un ou plusieurs gérants, associés ou non, personnes physiques ou morales.
+
+Le premier gérant est [Prénom Nom], demeurant [adresse], nommé pour une durée [indéterminée / de [nombre] années], qui déclare accepter ces fonctions.
+
+Les gérants suivants sont nommés par décision des associés représentant plus de la moitié des parts sociales.
+
+## ARTICLE 19 – POUVOIRS DU GÉRANT
+
+Dans les rapports avec les tiers, le gérant engage la Société par les actes entrant dans l'objet social.
+
+Dans les rapports entre associés, le gérant peut accomplir tous les actes de gestion que demande l'intérêt de la Société. Il ne peut toutefois, sans l'accord préalable des associés statuant à la majorité ordinaire :
+
+- acquérir, vendre ou échanger un bien immobilier ;
+- contracter un emprunt d'un montant supérieur à [montant] euros ;
+- consentir une hypothèque ou toute autre sûreté sur les biens sociaux ;
+- consentir un bail d'une durée supérieure à [nombre] ans.
+
+Ces limites sont inopposables aux tiers.
+
+S'il y a plusieurs gérants, chacun exerce seul ces pouvoirs ; l'opposition formée par un gérant aux actes d'un autre est sans effet à l'égard des tiers, sauf s'il est établi qu'ils en ont eu connaissance.
+
+## ARTICLE 20 – RÉMUNÉRATION
+
+Les fonctions de gérant sont [gratuites / rémunérées dans les conditions fixées par décision collective ordinaire]. Le gérant a droit au remboursement, sur justificatifs, des frais engagés pour la Société.
+
+## ARTICLE 21 – RÉVOCATION ET DÉMISSION
+
+Le gérant est révocable par décision des associés représentant plus de la moitié des parts sociales. Si la révocation est décidée sans juste motif, elle peut donner lieu à dommages et intérêts. Il est également révocable par le tribunal pour cause légitime, à la demande de tout associé.
+
+Le gérant peut démissionner en prévenant les associés au moins [trois] mois à l'avance par lettre recommandée avec demande d'avis de réception.
+
+## ARTICLE 22 – REDDITION DES COMPTES
+
+Au moins une fois par an, le gérant rend compte de sa gestion aux associés. Cette reddition de comptes comporte un rapport écrit d'ensemble sur l'activité de la Société au cours de l'exercice écoulé, indiquant les bénéfices réalisés ou prévisibles et les pertes encourues ou prévues.
+
+## TITRE V – DÉCISIONS COLLECTIVES
+
+## ARTICLE 23 – FORME DES DÉCISIONS
+
+Les décisions qui excèdent les pouvoirs du gérant sont prises en assemblée, par consultation écrite ou par un acte signé de tous les associés.
+
+L'assemblée est convoquée par le gérant quinze jours au moins avant la réunion, par lettre recommandée. La convocation indique l'ordre du jour, le lieu, la date et l'heure. Tout associé non gérant peut demander au gérant de provoquer une délibération sur une question déterminée.
+
+> Option : les associés peuvent participer à l'assemblée par visioconférence ; ils sont alors réputés présents.
+
+Chaque associé peut se faire représenter par un autre associé ou par son conjoint, muni d'un pouvoir écrit.
+
+Les délibérations sont constatées par des procès-verbaux signés par le gérant et, le cas échéant, par les associés présents, établis sur un registre spécial ou sur des feuillets mobiles numérotés.
+
+## ARTICLE 24 – DÉCISIONS ORDINAIRES
+
+Sont ordinaires les décisions qui ne modifient pas les statuts : approbation des comptes, affectation du résultat, nomination et révocation du gérant, autorisations prévues à l'article 19.
+
+Elles sont adoptées par un ou plusieurs associés représentant plus de la moitié des parts sociales.
+
+> Option : à défaut de cette majorité, une seconde consultation peut être organisée et la décision est alors prise à la majorité des votes émis.
+
+## ARTICLE 25 – DÉCISIONS EXTRAORDINAIRES
+
+Sont extraordinaires les décisions qui modifient les statuts, notamment le transfert du siège, la modification de l'objet, l'augmentation ou la réduction du capital, la prorogation, la transformation, la fusion ou la dissolution anticipée.
+
+Elles sont adoptées par les associés représentant [la totalité / au moins les trois quarts] des parts sociales. Une décision qui augmente les engagements d'un associé exige toujours son accord.
+
+> Note de rédaction : en l'absence de clause, la loi exige l'unanimité pour modifier les statuts. Une majorité plus faible facilite la gestion mais protège moins les associés minoritaires.
+
+## ARTICLE 26 – INFORMATION DES ASSOCIÉS
+
+Chaque associé a le droit, au moins une fois par an, d'obtenir communication des livres et documents sociaux. Il peut poser par écrit des questions sur la gestion, auxquelles le gérant répond par écrit dans le délai d'un mois.
+
+## TITRE VI – EXERCICE SOCIAL, COMPTES, RÉSULTATS
+
+## ARTICLE 27 – EXERCICE SOCIAL
+
+L'exercice social commence le [1er janvier] et se termine le [31 décembre]. Par exception, le premier exercice commence au jour de l'immatriculation et se termine le [date].
+
+## ARTICLE 28 – COMPTES
+
+La gérance tient une comptabilité [de trésorerie (recettes et dépenses) / en partie double selon le plan comptable général]. Elle établit chaque année les comptes de l'exercice et les soumet à l'approbation des associés dans les six mois de sa clôture.
+
+> Note de rédaction : une comptabilité complète est exigée en pratique si la Société opte pour l'impôt sur les sociétés.
+
+## ARTICLE 29 – AFFECTATION DU RÉSULTAT
+
+Le bénéfice de l'exercice, après imputation des pertes antérieures, peut être distribué aux associés, mis en réserve ou reporté à nouveau, par décision collective ordinaire. Il est réparti entre les associés en proportion de leurs parts.
+
+Les pertes, s'il en existe, sont supportées par les associés dans la même proportion.
+
+## ARTICLE 30 – RÉGIME FISCAL
+
+La Société relève du régime prévu à l'article 8 du Code général des impôts : chaque associé est imposé personnellement sur la part des bénéfices correspondant à ses droits.
+
+> Option : la Société opte pour l'impôt sur les sociétés. La renonciation à cette option n'est possible que dans le délai fixé par l'article 239 du Code général des impôts, qui expire au cours du cinquième exercice suivant celui de l'option ; passé ce délai, l'option devient irrévocable.
+
+## TITRE VII – DISSOLUTION, LIQUIDATION, LITIGES
+
+## ARTICLE 31 – DISSOLUTION
+
+La Société prend fin par l'arrivée du terme, par la réalisation ou l'extinction de son objet, par décision extraordinaire des associés, par décision de justice ou par toute autre cause prévue par la loi.
+
+La réunion de toutes les parts en une seule main n'entraîne pas la dissolution immédiate : tout intéressé peut demander la dissolution si la situation n'a pas été régularisée dans le délai d'un an.
+
+## ARTICLE 32 – LIQUIDATION
+
+La dissolution entraîne la liquidation. Le ou les liquidateurs sont nommés par les associés statuant à la majorité ordinaire, ou à défaut par décision de justice. Après paiement des dettes et remboursement des apports, le boni est réparti entre les associés en proportion de leurs parts.
+
+> Option : les biens apportés en nature et encore présents dans l'actif social sont attribués en priorité à l'associé qui les a apportés, à charge de soulte s'il y a lieu.
+
+## ARTICLE 33 – LITIGES
+
+Les litiges entre associés, ou entre un associé et la Société, relatifs aux présents statuts sont d'abord soumis à une tentative de règlement amiable d'une durée de [trente] jours. À défaut d'accord, ils relèvent du tribunal judiciaire du lieu du siège social.
+
+## TITRE VIII – CONSTITUTION
+
+## ARTICLE 34 – PERSONNALITÉ MORALE ET ACTES ANTÉRIEURS
+
+La Société jouira de la personnalité morale à compter de son immatriculation au registre du commerce et des sociétés.
+
+L'état des actes accomplis pour son compte avant la signature des statuts est annexé aux présentes (annexe 2). La signature des statuts emporte reprise de ces engagements par la Société une fois immatriculée.
+
+Les associés donnent mandat à [Prénom Nom] de prendre, entre la signature des statuts et l'immatriculation, les engagements suivants : [liste précise]. Ils seront repris par la Société du seul fait de son immatriculation.
+
+## ARTICLE 35 – FORMALITÉS
+
+Tous pouvoirs sont donnés au porteur d'un original des présentes pour accomplir les formalités de publicité, de déclaration des bénéficiaires effectifs et d'immatriculation.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un pour le dépôt au registre et un pour chaque associé.
+
+[Prénom Nom], associé, signature précédée de la mention « Bon pour acceptation des fonctions de gérant » pour le premier gérant
+
+[Prénom Nom], associé
+
+[Prénom Nom], conjoint intervenant (en cas d'apport de biens communs)
+
+## ANNEXES
+
+- Annexe 1 : désignation du ou des biens apportés et, le cas échéant, copie de l'acte notarié d'apport
+- Annexe 2 : état des actes accomplis pour le compte de la Société en formation
+- Annexe 3 : justificatif du versement des apports en numéraire

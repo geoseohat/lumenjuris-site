@@ -111,7 +111,7 @@
 [x] 2026-11-15 contrat de location-gérance -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-gerance/
 #
 # Ajout du 22 novembre 2026 : contrats pas encore publiés, utiles aux TPE/PME, indépendants et bailleurs.
-statuts SCI
+[x] 2026-11-23 statuts SCI -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sci/
 mentions légales site internet
 mise en demeure de payer
 quittance de loyer

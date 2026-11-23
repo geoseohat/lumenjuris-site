@@ -1,0 +1,114 @@
+{
+  "slug": "statuts-sci",
+  "nom": "Statuts SCI",
+  "nom_court": "statuts SCI",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts SCI",
+  "mots_cles_secondaires": [
+    "statuts SCI familiale",
+    "créer une SCI",
+    "statuts de société civile immobilière",
+    "modèle statuts SCI gratuit",
+    "statuts SCI Word",
+    "rédiger statuts SCI"
+  ],
+  "titre_h1": "Modèle de statuts SCI gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts SCI gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de statuts de SCI gratuit en Word et PDF : apports, gérance, majorités, agrément, décès d'un associé, régime fiscal. Avec les pièges à éviter.",
+  "chapo": "Les statuts d'une SCI organisent la détention d'un bien immobilier à plusieurs : apports, pouvoirs du gérant, votes, cessions de parts et décès. Téléchargez un modèle complet et découvrez les clauses à adapter à votre projet.",
+  "public": "Familles, couples et investisseurs immobiliers",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-sci-lumen-juris",
+  "date_publication": "2026-11-23",
+  "date_mise_a_jour": "2026-11-23",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Droit immobilier",
+      "Droit patrimonial de la famille"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Définissez le projet immobilier",
+      "Indiquez le ou les biens visés et vérifiez que l'activité reste civile : location nue, sans achat-revente ni meublé habituel."
+    ],
+    [
+      "Répartissez le capital",
+      "Chiffrez les apports de chacun et déduisez-en le nombre de parts, en faisant intervenir le conjoint si des biens communs sont apportés."
+    ],
+    [
+      "Choisissez le gérant et ses limites",
+      "Désignez le premier gérant et listez les actes qu'il ne pourra faire qu'avec l'accord des associés."
+    ],
+    [
+      "Fixez les majorités et l'agrément",
+      "Choisissez la majorité pour modifier les statuts, le seuil d'agrément des cessions et le sort des héritiers."
+    ],
+    [
+      "Signez puis immatriculez la SCI",
+      "Signez un original par associé, publiez l'annonce légale et déposez le dossier avec la déclaration des bénéficiaires effectifs sur le guichet unique."
+    ]
+  ],
+  "faq": [
+    [
+      "Combien faut-il d'associés pour créer une SCI ?",
+      "Il faut au moins deux associés, personnes physiques ou sociétés. Si toutes les parts se retrouvent entre les mains d'une seule personne, la SCI n'est pas dissoute immédiatement, mais tout intéressé peut demander sa dissolution si la situation n'est pas régularisée dans un délai d'un an."
+    ],
+    [
+      "Y a-t-il un capital minimum pour une SCI ?",
+      "Non, la loi n'impose aucun montant minimum. Le capital peut être symbolique, mais un capital trop faible oblige à financer la SCI par des comptes courants d'associés, à prévoir dans une convention écrite."
+    ],
+    [
+      "Un couple marié peut-il créer une SCI à deux ?",
+      "Oui, deux époux peuvent être les deux seuls associés. S'ils sont mariés sous un régime de communauté et apportent des biens communs, le conjoint doit être informé de l'apport et peut revendiquer la qualité d'associé pour la moitié des parts."
+    ],
+    [
+      "Les associés d'une SCI sont-ils responsables des dettes ?",
+      "Oui, sans limite de montant mais en proportion de leur part dans le capital. Les créanciers doivent d'abord poursuivre la SCI en vain avant de se retourner contre les associés."
+    ],
+    [
+      "Une SCI peut-elle louer un logement meublé ?",
+      "Elle peut le faire, mais la location meublée habituelle est une activité commerciale. La SCI risque alors d'être soumise à l'impôt sur les sociétés, avec des conséquences importantes lors de la revente du bien."
+    ],
+    [
+      "Comment un associé peut-il quitter une SCI ?",
+      "Il peut vendre ses parts, avec l'agrément prévu par les statuts, ou se retirer avec l'accord unanime des autres associés ou sur décision de justice pour justes motifs. Il a alors droit au remboursement de la valeur de ses parts, fixée par expert à défaut d'accord."
+    ],
+    [
+      "Que deviennent les parts d'un associé décédé ?",
+      "Par défaut, elles reviennent à ses héritiers, qui deviennent associés. Si les statuts prévoient un agrément et qu'il est refusé, les héritiers ont droit à la valeur des parts au jour du décès."
+    ],
+    [
+      "Faut-il un notaire pour créer une SCI ?",
+      "Non, des statuts sous seing privé suffisent si les apports sont en argent. Un acte notarié devient nécessaire dès qu'un bien immobilier est apporté à la SCI."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1832 à 1844-17 (règles communes à toutes les sociétés, dont l'article 1832-2 sur le conjoint et l'article 1844 sur le vote en cas d'usufruit)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, articles 1845 à 1870-1 (sociétés civiles : gérance, décisions, responsabilité des associés, cession de parts, retrait, décès)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code civil, article 1843-4 (prix des parts fixé par expert)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, articles 8, 206 et 239 (imposition des associés, impôt sur les sociétés et option)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-sci"
+  }
+}

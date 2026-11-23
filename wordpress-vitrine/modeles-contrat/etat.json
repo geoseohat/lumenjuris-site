@@ -2234,11 +2234,39 @@
       "id": 3903,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-gerance/",
       "gabarit": "2026-10-23"
+    },
+    "statuts-sci": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261123-091534-publier-en-ligne-statuts-sci.o1.id}}",
+          "url": "{{20261123-091534-publier-en-ligne-statuts-sci.o1.source_url}}",
+          "taille": "44 Ko",
+          "empreinte": "7978fc8a47265a58175ce829b9eab3b8bfe0e526d86c5984c95cf8c7d7bc538f"
+        },
+        "pdf": {
+          "id": "{{20261123-091534-publier-en-ligne-statuts-sci.o2.id}}",
+          "url": "{{20261123-091534-publier-en-ligne-statuts-sci.o2.source_url}}",
+          "taille": "146 Ko",
+          "empreinte": "7978fc8a47265a58175ce829b9eab3b8bfe0e526d86c5984c95cf8c7d7bc538f"
+        }
+      },
+      "image": {
+        "id": "{{20261123-091534-publier-en-ligne-statuts-sci.o3.id}}",
+        "url": "{{20261123-091534-publier-en-ligne-statuts-sci.o3.source_url}}",
+        "taille": "281 Ko",
+        "empreinte": "194367b50292d55d2716c6f45c51db2f4225ff35181353a0059966b7fd89152f"
+      },
+      "statut": "publish",
+      "id": "{{20261123-091534-publier-en-ligne-statuts-sci.o7.id}}",
+      "lien": "{{20261123-091534-publier-en-ligne-statuts-sci.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261123-091534-publier-en-ligne-statuts-sci"
+  ]
 }
