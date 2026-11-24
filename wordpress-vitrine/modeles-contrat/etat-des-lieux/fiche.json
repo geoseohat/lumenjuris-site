@@ -1,0 +1,105 @@
+{
+  "slug": "etat-des-lieux",
+  "nom": "État des lieux",
+  "nom_court": "état des lieux",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle état des lieux",
+  "mots_cles_secondaires": [
+    "modèle état des lieux",
+    "état des lieux d'entrée",
+    "état des lieux de sortie",
+    "état des lieux location meublée",
+    "état des lieux appartement PDF",
+    "grille état des lieux logement"
+  ],
+  "titre_h1": "Modèle d'état des lieux gratuit (Word et PDF)",
+  "titre_seo": "Modèle d'état des lieux gratuit 2026 : entrée, sortie (Word, PDF)",
+  "meta_description": "Modèle d'état des lieux d'entrée et de sortie gratuit (Word, PDF) : mentions obligatoires, compteurs, clés, meublé, délai de 10 jours et dépôt de garantie.",
+  "chapo": "L'état des lieux décrit le logement à l'arrivée et au départ du locataire, et décide du sort du dépôt de garantie. Téléchargez un modèle pièce par pièce, valable pour l'entrée comme pour la sortie, et retrouvez les règles de la loi du 6 juillet 1989.",
+  "public": "Propriétaires bailleurs, agences et locataires",
+  "gratuit": true,
+  "fichier_base": "modele-etat-des-lieux-lumen-juris",
+  "date_publication": "2026-11-24",
+  "date_mise_a_jour": "2026-11-24",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit immobilier",
+      "Baux d'habitation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisissez le bon moment",
+      "Fixez le rendez-vous le jour de la remise des clés, en plein jour, logement vide de préférence, pour voir sols et murs sans meubles."
+    ],
+    [
+      "Relevez compteurs et clés",
+      "Notez numéro et index de chaque compteur individuel, photographiez-les, puis listez toutes les clés, badges et télécommandes remis."
+    ],
+    [
+      "Décrivez chaque pièce",
+      "Notez sols, murs, plafonds et équipements avec l'échelle du modèle, en précisant l'emplacement et la taille de chaque défaut."
+    ],
+    [
+      "Ajoutez l'inventaire en meublé",
+      "Pour une location meublée, remplissez l'inventaire du mobilier, meuble par meuble, avec quantité et état."
+    ],
+    [
+      "Signez et gardez la trace",
+      "Écrivez les réserves éventuelles, signez chaque exemplaire, et conservez photos et document jusqu'à la restitution du dépôt de garantie."
+    ]
+  ],
+  "faq": [
+    [
+      "L'état des lieux est-il obligatoire pour une location ?",
+      "Oui, pour un logement loué vide ou meublé en résidence principale, la loi du 6 juillet 1989 impose un état des lieux à l'entrée et à la sortie, joint au bail. Il est aussi obligatoire pour un bail commercial."
+    ],
+    [
+      "Que se passe-t-il si aucun état des lieux d'entrée n'a été fait ?",
+      "Le locataire est présumé avoir reçu le logement en bon état de réparations locatives (article 1731 du Code civil). C'est à lui de prouver qu'un défaut existait déjà. La présomption ne s'applique pas si le bailleur a lui-même fait obstacle à l'état des lieux."
+    ],
+    [
+      "Le locataire peut-il compléter l'état des lieux après son entrée ?",
+      "Oui, il peut demander au bailleur de le compléter dans les dix jours qui suivent son établissement. Pour les éléments de chauffage, la demande peut être faite pendant le premier mois de la période de chauffe. Faites-le par écrit, avec une trace datée."
+    ],
+    [
+      "Qui paie l'état des lieux réalisé par une agence ?",
+      "Pour l'entrée, les frais sont partagés : la part du locataire ne peut pas dépasser celle du bailleur ni un plafond au mètre carré fixé par décret (3,03 € TTC par m² en 2026). Pour la sortie, le locataire ne paie rien, sauf recours à un commissaire de justice, dont les frais sont partagés par moitié."
+    ],
+    [
+      "Peut-on refuser de signer l'état des lieux ?",
+      "C'est possible, mais il vaut mieux signer en écrivant ses réserves précises dans la rubrique prévue. En cas de blocage, la partie la plus diligente peut faire établir l'état des lieux par un commissaire de justice, après un préavis d'au moins sept jours par lettre recommandée."
+    ],
+    [
+      "Quelle différence entre usure normale et dégradation ?",
+      "L'usure normale résulte du temps et d'un usage ordinaire, comme une peinture ternie ou une moquette tassée : elle reste à la charge du bailleur. La dégradation résulte d'un mauvais usage, comme un trou ou une brûlure : elle peut être retenue sur le dépôt de garantie, sur justificatif."
+    ],
+    [
+      "Dans quel délai le dépôt de garantie est-il rendu après l'état des lieux de sortie ?",
+      "Un mois après la remise des clés si l'état de sortie correspond à l'état d'entrée, deux mois sinon. Passé ce délai, la somme due est majorée de 10 % du loyer mensuel hors charges pour chaque mois de retard commencé."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 89-462 du 6 juillet 1989, articles 3-2 (état des lieux), 5 (frais), 7 (obligations du locataire), 22 (dépôt de garantie) et 25-5 (inventaire du meublé)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ],
+    [
+      "Code civil, article 1731 (présomption de bon état en l'absence d'état des lieux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, article L. 145-40-1 (état des lieux du bail commercial)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "etat-lieux"
+  }
+}

@@ -1,0 +1,224 @@
+# ÉTAT DES LIEUX D'UN LOGEMENT LOUÉ
+
+> Modèle gratuit Lumen Juris pour un logement loué vide ou meublé à titre de résidence principale (loi n° 89-462 du 6 juillet 1989), à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : le même document sert à l'entrée et à la sortie. À la sortie, reprenez la description faite à l'entrée et remplissez la colonne « état à la sortie » de chaque élément : la comparaison pièce par pièce est ce qui permet de retenir, ou non, une somme sur le dépôt de garantie. Établissez autant d'exemplaires que de parties, chacun signé par tous.
+
+## ARTICLE 1 – TYPE D'ÉTAT DES LIEUX ET DATE
+
+Le présent état des lieux est établi :
+- [à l'entrée dans les lieux / à la sortie des lieux]
+- le [date], à [heure de début]
+- de manière contradictoire, en présence du bailleur (ou de son mandataire) et du locataire (ou de son mandataire).
+
+> Option, pour un état des lieux de sortie : l'état des lieux d'entrée auquel celui-ci se compare a été établi le [date de l'état des lieux d'entrée].
+
+## ARTICLE 2 – PARTIES PRÉSENTES
+
+### 2.1 Bailleur
+
+[Prénom Nom ou dénomination du bailleur]
+Domicile ou siège social : [adresse complète]
+
+> Option, si le bailleur est représenté : représenté par [dénomination et adresse du mandataire, ou Prénom Nom de la personne munie d'un pouvoir écrit].
+
+### 2.2 Locataire
+
+[Prénom Nom du ou des locataires]
+
+> Option, si le locataire est représenté : représenté par [Prénom Nom], muni d'un pouvoir écrit annexé au présent état des lieux.
+
+> Option, pour un état des lieux de sortie : adresse du nouveau domicile ou du lieu d'hébergement du locataire : [adresse complète]. Cette adresse sert à la restitution du dépôt de garantie.
+
+## ARTICLE 3 – LOGEMENT CONCERNÉ
+
+- Adresse : [adresse complète, bâtiment, escalier, étage, numéro de porte]
+- Type de logement : [appartement / maison], [nombre] pièces principales, surface habitable de [surface] m²
+- Location : [vide / meublée]
+- Bail signé le [date], prenant effet le [date]
+- Annexes privatives : [cave n° [numéro] / grenier / garage ou place de stationnement n° [numéro] / jardin / aucune]
+
+## ARTICLE 4 – RELEVÉ DES COMPTEURS INDIVIDUELS
+
+- Électricité : compteur n° [numéro], index [heures pleines] / [heures creuses]
+- Gaz : compteur n° [numéro], index [valeur] / [sans objet]
+- Eau froide : compteur n° [numéro], index [valeur] m³ / [sans objet]
+- Eau chaude : compteur n° [numéro], index [valeur] m³ / [sans objet]
+- Chauffage individuel : [type d'installation, par exemple chaudière gaz, pompe à chaleur, radiateurs électriques] ; date du dernier entretien : [date]
+- Production d'eau chaude : [ballon électrique / chaudière / collective]
+
+> Note de rédaction : photographiez chaque compteur avec son index. Si un compteur est collectif, écrivez « collectif » : il n'y a alors pas de relevé individuel à faire.
+
+## ARTICLE 5 – CLÉS ET MOYENS D'ACCÈS REMIS
+
+- Clés de la porte d'entrée : [nombre] (type : [classique / sécurité])
+- Clés de la boîte aux lettres : [nombre]
+- Badges ou bips d'accès à l'immeuble : [nombre]
+- Télécommandes (portail, garage) : [nombre]
+- Clés de la cave ou du garage : [nombre]
+- Autres : [à préciser]
+
+À la sortie, le locataire restitue : [détail et nombre des clés et moyens d'accès rendus].
+
+## ARTICLE 6 – ÉCHELLE D'APPRÉCIATION
+
+Pour chaque élément, l'état est noté selon l'échelle suivante :
+- N : neuf ou refait à neuf depuis moins d'un an
+- BE : bon état, sans trace d'usure visible
+- EU : état d'usage, usure normale liée au temps et à une occupation ordinaire
+- ME : mauvais état, élément dégradé, cassé ou hors d'usage
+
+Chaque note est complétée, si besoin, par une observation précise : emplacement, taille, nature du défaut (exemple : « mur gauche, trou de cheville de 6 mm à 1,50 m du sol »). Les mentions vagues comme « état correct » ou « RAS » sont à éviter pour les éléments abîmés.
+
+## ARTICLE 7 – DESCRIPTION DU LOGEMENT PIÈCE PAR PIÈCE
+
+> Note de rédaction : recopiez le bloc ci-dessous pour chaque pièce et supprimez les lignes inutiles. Pour chaque élément, indiquez : état à l'entrée (note et observation), puis, à la sortie, état à la sortie (note et observation).
+
+### 7.1 Entrée et dégagements
+
+- Sol (nature : [parquet / carrelage / moquette / sol vinyle]) : entrée [note, observation] ; sortie [note, observation]
+- Murs (nature : [peinture / papier peint / faïence]) : entrée [note, observation] ; sortie [note, observation]
+- Plafond : entrée [note, observation] ; sortie [note, observation]
+- Porte palière, serrure, judas : entrée [note, observation] ; sortie [note, observation]
+- Interrupteurs, prises, éclairage : entrée [note, observation] ; sortie [note, observation]
+- Placards : entrée [note, observation] ; sortie [note, observation]
+
+### 7.2 Séjour
+
+- Sol : entrée [note, observation] ; sortie [note, observation]
+- Murs : entrée [note, observation] ; sortie [note, observation]
+- Plafond : entrée [note, observation] ; sortie [note, observation]
+- Fenêtres, vitrages, poignées : entrée [note, observation] ; sortie [note, observation]
+- Volets ou stores : entrée [note, observation] ; sortie [note, observation]
+- Radiateurs ou convecteurs : entrée [note, observation] ; sortie [note, observation]
+- Interrupteurs, prises, éclairage : entrée [note, observation] ; sortie [note, observation]
+
+### 7.3 Cuisine
+
+- Sol, murs, plafond : entrée [note, observation] ; sortie [note, observation]
+- Évier, robinetterie, siphon : entrée [note, observation] ; sortie [note, observation]
+- Plan de travail et crédence : entrée [note, observation] ; sortie [note, observation]
+- Meubles hauts et bas (portes, charnières) : entrée [note, observation] ; sortie [note, observation]
+- Plaques de cuisson, four, hotte : entrée [note, observation, marque et modèle] ; sortie [note, observation]
+- Réfrigérateur, congélateur : entrée [note, observation] ; sortie [note, observation]
+- Bouche de ventilation : entrée [note, observation] ; sortie [note, observation]
+
+### 7.4 Chambre n° [numéro]
+
+- Sol : entrée [note, observation] ; sortie [note, observation]
+- Murs : entrée [note, observation] ; sortie [note, observation]
+- Plafond : entrée [note, observation] ; sortie [note, observation]
+- Fenêtres, volets : entrée [note, observation] ; sortie [note, observation]
+- Placard ou penderie : entrée [note, observation] ; sortie [note, observation]
+- Radiateur, prises, éclairage : entrée [note, observation] ; sortie [note, observation]
+
+### 7.5 Salle de bains ou salle d'eau
+
+- Sol, murs, plafond : entrée [note, observation] ; sortie [note, observation]
+- Baignoire ou douche, paroi ou rideau : entrée [note, observation] ; sortie [note, observation]
+- Lavabo, robinetterie, bonde : entrée [note, observation] ; sortie [note, observation]
+- Joints silicone : entrée [note, observation] ; sortie [note, observation]
+- Miroir, meuble, éclairage : entrée [note, observation] ; sortie [note, observation]
+- Ventilation (VMC) : entrée [note, observation] ; sortie [note, observation]
+- Chauffe-eau ou ballon : entrée [note, observation] ; sortie [note, observation]
+
+### 7.6 WC
+
+- Sol, murs, plafond : entrée [note, observation] ; sortie [note, observation]
+- Cuvette, abattant, chasse d'eau : entrée [note, observation] ; sortie [note, observation]
+- Ventilation : entrée [note, observation] ; sortie [note, observation]
+
+### 7.7 Annexes et extérieurs
+
+- Cave, grenier, garage ou place de stationnement : entrée [note, observation] ; sortie [note, observation]
+- Balcon, terrasse ou jardin : entrée [note, observation] ; sortie [note, observation]
+- Boîte aux lettres : entrée [note, observation] ; sortie [note, observation]
+
+### 7.8 Détecteur de fumée
+
+Présence d'un détecteur de fumée : [oui / non]. Emplacement : [pièce]. Fonctionnement vérifié lors de l'état des lieux : [oui / non].
+
+## ARTICLE 8 – INVENTAIRE DU MOBILIER (LOCATION MEUBLÉE)
+
+> Note de rédaction : à remplir seulement pour une location meublée. L'inventaire et l'état détaillé du mobilier sont alors obligatoires et s'ajoutent à l'état des lieux. Supprimez cet article pour une location vide.
+
+Pour chaque meuble ou équipement : désignation, quantité, état à l'entrée, état à la sortie.
+- Literie (lit, matelas, couette ou couverture) : [quantité] ; entrée [note, observation] ; sortie [note, observation]
+- Dispositif d'occultation des fenêtres dans les chambres : [quantité] ; entrée [note] ; sortie [note]
+- Plaques de cuisson : [quantité] ; entrée [note] ; sortie [note]
+- Four ou four à micro-ondes : [quantité] ; entrée [note] ; sortie [note]
+- Réfrigérateur avec compartiment congélation ou congélateur : [quantité] ; entrée [note] ; sortie [note]
+- Vaisselle et ustensiles de cuisine : [détail] ; entrée [note] ; sortie [note]
+- Table et sièges : [quantité] ; entrée [note] ; sortie [note]
+- Étagères de rangement : [quantité] ; entrée [note] ; sortie [note]
+- Luminaires : [quantité] ; entrée [note] ; sortie [note]
+- Matériel d'entretien ménager adapté au logement : [détail] ; entrée [note] ; sortie [note]
+- Autres meubles : [désignation, quantité, état]
+
+## ARTICLE 9 – OBSERVATIONS ET RÉSERVES DES PARTIES
+
+Observations du bailleur : [texte libre ou « néant »]
+
+Observations du locataire : [texte libre ou « néant »]
+
+> Note de rédaction : chaque partie peut écrire ici son désaccord sur un point précis plutôt que de refuser de signer. Un état des lieux signé avec réserves vaut mieux qu'un état des lieux non signé.
+
+## ARTICLE 10 – PHOTOGRAPHIES
+
+[Nombre] photographies datées ont été prises lors de l'état des lieux. Elles sont [annexées au présent document / conservées sur un support commun : préciser lequel] et font partie de l'état des lieux.
+
+> Option : les parties renoncent à annexer des photographies.
+
+## ARTICLE 11 – DEMANDE DE COMPLÉMENT PAR LE LOCATAIRE (ENTRÉE)
+
+Conformément à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989, le locataire peut demander au bailleur, dans un délai de dix jours à compter de l'établissement de l'état des lieux d'entrée, de le compléter. Pour les éléments de chauffage, ce délai court pendant le premier mois de la période de chauffe. La demande est faite par écrit, de préférence par lettre recommandée avec avis de réception ou par courrier électronique avec accusé de lecture, et précise les défauts constatés.
+
+## ARTICLE 12 – COMPARAISON À LA SORTIE ET DÉPÔT DE GARANTIE
+
+> Note de rédaction : article à remplir seulement à la sortie.
+
+### 12.1 Constat
+
+Les parties constatent que l'état du logement à la sortie est : [conforme à l'état des lieux d'entrée, compte tenu de l'usure normale / différent de l'état des lieux d'entrée sur les points suivants : [liste précise des éléments, pièce par pièce]].
+
+### 12.2 Vétusté
+
+> Option : les parties appliquent la grille de vétusté annexée au bail, qui fixe pour chaque équipement une durée de vie et un taux d'abattement annuel. La part due à l'usure normale reste à la charge du bailleur.
+
+### 12.3 Restitution du dépôt de garantie
+
+Montant du dépôt de garantie versé à l'entrée : [montant] euros.
+Les clés ont été remises au bailleur ou à son mandataire le [date].
+
+Le dépôt de garantie est restitué dans un délai d'un mois à compter de la remise des clés si l'état des lieux de sortie est conforme à l'état des lieux d'entrée, et dans un délai de deux mois dans le cas contraire, déduction faite des sommes restant dues au bailleur et des sommes dont il pourrait être tenu en lieu et place du locataire, sous réserve qu'elles soient dûment justifiées (devis, factures). À défaut de restitution dans ces délais, le montant dû est majoré d'une somme égale à 10 % du loyer mensuel hors charges pour chaque période mensuelle commencée en retard.
+
+## ARTICLE 13 – FRAIS D'ÉTABLISSEMENT
+
+L'état des lieux est établi :
+- [gratuitement, par les parties elles-mêmes]
+- [ou : par [dénomination du professionnel] mandaté par le bailleur. Les frais sont partagés : part du bailleur [montant] euros, part du locataire [montant] euros. La part du locataire ne dépasse ni celle du bailleur, ni le plafond fixé par décret et révisé chaque année (3,03 euros TTC par mètre carré de surface habitable en 2026).]
+
+> Note de rédaction : un état des lieux de sortie réalisé par un professionnel mandaté par le bailleur reste entièrement à la charge du bailleur, sauf recours à un commissaire de justice dans les conditions ci-dessous.
+
+> Note de rédaction : si les parties ne parviennent pas à établir l'état des lieux ensemble, la partie la plus diligente peut faire appel à un commissaire de justice. Les frais sont alors partagés par moitié, à un tarif fixé par décret, et les parties sont prévenues au moins sept jours à l'avance par lettre recommandée avec avis de réception.
+
+## ARTICLE 14 – SIGNATURES
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un remis à chaque partie.
+
+Chaque page est paraphée par les parties.
+
+Le bailleur ou son mandataire
+[Prénom Nom, qualité]
+Signature :
+
+Le ou les locataires ou leur mandataire
+[Prénom Nom]
+Signature :
+
+## ANNEXES
+
+- Annexe 1 : photographies datées
+- Annexe 2 : inventaire du mobilier (location meublée), s'il fait l'objet d'un document séparé
+- Annexe 3 : grille de vétusté, si elle a été convenue dans le bail
+- Annexe 4 : pouvoir écrit du mandataire, si l'une des parties est représentée
