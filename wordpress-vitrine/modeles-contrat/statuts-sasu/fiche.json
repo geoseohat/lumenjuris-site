@@ -1,0 +1,105 @@
+{
+  "slug": "statuts-sasu",
+  "nom": "Statuts SASU",
+  "nom_court": "statuts SASU",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts SASU",
+  "mots_cles_secondaires": [
+    "statuts SASU",
+    "modèle statuts SASU gratuit",
+    "statuts SASU Word",
+    "exemple statuts SASU",
+    "rédiger statuts SASU",
+    "statuts société à associé unique"
+  ],
+  "titre_h1": "Modèle de statuts SASU gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts de SASU gratuit 2026 (Word, PDF)",
+  "meta_description": "Statuts de SASU gratuits en Word et PDF : associé unique personne physique ou société, Président, registre des décisions, apports, comparatif SASU et EURL.",
+  "chapo": "Les statuts d'une SASU organisent une société par actions simplifiée détenue par un seul associé. Téléchargez un modèle pensé pour l'associé unique et découvrez ce qui la distingue d'une SAS à plusieurs ou d'une EURL.",
+  "public": "Créateurs d'entreprise seuls et sociétés qui créent une filiale",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-sasu-lumen-juris",
+  "date_publication": "2026-11-24",
+  "date_mise_a_jour": "2026-11-24",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Création d'entreprise"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisissez la version de l'associé",
+      "Gardez l'option personne physique si vous créez seul, ou l'option société si une holding ou une autre entreprise détient la SASU."
+    ],
+    [
+      "Fixez capital et apports",
+      "Indiquez le montant apporté, la part libérée (au moins la moitié) et, pour un bien apporté, son évaluation ou la dispense de commissaire aux apports."
+    ],
+    [
+      "Organisez la présidence",
+      "Désignez le premier Président, sa durée de mandat, sa rémunération et les opérations soumises à l'accord préalable de l'associé unique."
+    ],
+    [
+      "Anticipez un futur associé",
+      "Vérifiez la clause d'agrément et le délai d'adaptation des statuts prévus pour le jour où un second associé entrerait au capital."
+    ],
+    [
+      "Signez et immatriculez",
+      "Déposez les fonds, signez les statuts, publiez l'annonce légale puis déposez le dossier sur le guichet unique des formalités."
+    ]
+  ],
+  "faq": [
+    [
+      "Peut-on créer une SASU avec 1 euro de capital ?",
+      "Oui, la loi ne fixe pas de capital minimum pour une SAS ou une SASU. Un capital très faible peut toutefois gêner l'obtention d'un prêt bancaire ou la confiance des fournisseurs, et ne couvre pas les premiers frais."
+    ],
+    [
+      "Le Président d'une SASU doit-il être l'associé unique ?",
+      "Non. Le Président peut être l'associé unique ou une autre personne, physique ou morale, nommée par lui. Dans la majorité des cas, le créateur cumule les deux rôles."
+    ],
+    [
+      "Faut-il tenir une assemblée générale dans une SASU ?",
+      "Non, il n'y a pas d'assemblée : l'associé unique prend seul ses décisions et les consigne dans un registre. Ce pouvoir ne peut pas être délégué."
+    ],
+    [
+      "Comment sont approuvés les comptes d'une SASU ?",
+      "L'associé unique les approuve dans les six mois de la clôture. S'il est une personne physique et assure lui-même la présidence, le dépôt au greffe des comptes signés et de l'inventaire vaut approbation."
+    ],
+    [
+      "Le Président de SASU cotise-t-il au chômage ?",
+      "Non. Le Président rémunéré relève du régime général de la sécurité sociale comme un salarié, mais il ne cotise pas à l'assurance chômage et n'en bénéficie pas au titre de son mandat."
+    ],
+    [
+      "Que devient la SASU si un deuxième associé entre au capital ?",
+      "Elle devient une SAS classique sans changer de forme ni de numéro. Les statuts doivent alors être complétés pour organiser les décisions collectives et la circulation des actions."
+    ],
+    [
+      "SASU ou EURL : laquelle choisir pour se verser des dividendes ?",
+      "En SASU, les dividendes ne supportent que les prélèvements sociaux. En EURL avec gérant associé unique, la part qui dépasse 10 % du capital, des primes et des comptes courants est soumise aux cotisations sociales. La comparaison complète dépend aussi de la rémunération prévue."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 227-1 à L. 227-20 (SAS et associé unique), notamment L. 227-9 (décisions et approbation des comptes) et L. 227-10 (conventions)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1832 et suivants, notamment 1844-5 (réunion des actions en une seule main et transmission universelle du patrimoine)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, article 239 bis AB (option temporaire pour l'impôt sur le revenu)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-sasu"
+  }
+}

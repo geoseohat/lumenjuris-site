@@ -1,0 +1,215 @@
+# STATUTS DE LA SOCIÉTÉ PAR ACTIONS SIMPLIFIÉE UNIPERSONNELLE [DÉNOMINATION]
+
+> Modèle gratuit Lumen Juris pour une SASU constituée par un seul associé (personne physique ou société), avec apports en numéraire et, en option, en nature. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ces statuts sont rédigés pour un associé unique. Si un deuxième associé entre au capital, la société devient une SAS ordinaire : il faudra alors compléter les statuts (agrément des cessions, modalités de vote collectif, répartition des droits). Prévoir cette évolution dès maintenant évite une réécriture dans l'urgence.
+
+LE SOUSSIGNÉ :
+
+[Option personne physique : Prénom Nom, né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse complète], [situation matrimoniale et, le cas échéant, régime matrimonial]]
+
+[Option personne morale : [dénomination], [forme sociale] au capital de [montant] euros, dont le siège est [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [numéro], représentée par [Prénom Nom], [fonction], dûment habilité(e)]
+
+a établi ainsi qu'il suit les statuts de la société par actions simplifiée qu'il constitue seul.
+
+## TITRE I – CARACTÉRISTIQUES DE LA SOCIÉTÉ
+
+## ARTICLE 1 – FORME
+
+La société est une société par actions simplifiée à associé unique (SASU), régie par les articles L. 227-1 et suivants du Code de commerce, par les autres dispositions légales applicables et par les présents statuts.
+
+Elle ne peut pas offrir ses titres au public, sauf dans les cas prévus par la loi. Elle pourra, sans changer de forme, compter plusieurs associés.
+
+## ARTICLE 2 – OBJET SOCIAL
+
+La société a pour objet, en France et à l'étranger :
+- [description précise de l'activité principale]
+- [activités annexes ou complémentaires]
+
+et, plus généralement, toutes opérations commerciales, financières, mobilières ou immobilières se rattachant directement ou indirectement à cet objet ou susceptibles d'en faciliter la réalisation.
+
+> Note de rédaction : un objet trop étroit oblige à modifier les statuts au moindre changement d'activité ; un objet trop large peut gêner l'ouverture du compte bancaire ou l'obtention d'une autorisation. Pour une activité réglementée (transport, bâtiment, immobilier, restauration…), vérifiez les diplômes, cartes ou assurances exigés.
+
+## ARTICLE 3 – DÉNOMINATION
+
+La dénomination de la société est : [DÉNOMINATION].
+
+Dans tous les actes et documents destinés aux tiers, elle est précédée ou suivie des mots « société par actions simplifiée » ou des initiales « SAS », de l'indication du montant du capital social et du numéro d'immatriculation au registre du commerce et des sociétés.
+
+## ARTICLE 4 – SIÈGE SOCIAL
+
+Le siège social est fixé au : [adresse complète].
+
+Il peut être transféré en tout autre lieu en France par décision du Président, qui modifie alors les statuts en conséquence, sous réserve de ratification par la prochaine décision de l'associé unique.
+
+> Option : siège fixé au domicile du représentant légal, ou dans les locaux d'une entreprise de domiciliation agréée (joindre le contrat de domiciliation au dossier d'immatriculation).
+
+## ARTICLE 5 – DURÉE ET EXERCICE SOCIAL
+
+La durée de la société est de [99] ans à compter de son immatriculation, sauf dissolution anticipée ou prorogation.
+
+L'exercice social commence le [1er janvier] et se termine le [31 décembre]. Par exception, le premier exercice commence à l'immatriculation et se termine le [date de clôture du premier exercice].
+
+> Note de rédaction : un premier exercice peut durer plus de douze mois ; en pratique, beaucoup de créateurs choisissent une clôture située entre 12 et 18 mois après l'immatriculation, après en avoir parlé avec leur expert-comptable.
+
+## TITRE II – APPORTS, CAPITAL ET ACTIONS
+
+## ARTICLE 6 – APPORTS
+
+### 6.1 Apport en numéraire
+
+L'associé unique apporte à la société la somme de [montant] euros, correspondant à [nombre] actions de [valeur nominale] euros chacune, souscrites en totalité et libérées [en totalité / à hauteur de [fraction, au moins la moitié]].
+
+Cette somme a été déposée sur un compte ouvert au nom de la société en formation auprès de [banque, notaire ou Caisse des dépôts et consignations], ainsi qu'en atteste le certificat du dépositaire annexé aux présentes.
+
+> Note de rédaction : les actions souscrites en numéraire doivent être libérées d'au moins la moitié lors de la constitution. Le solde est appelé par le Président, en une ou plusieurs fois, dans un délai de cinq ans à compter de l'immatriculation.
+
+### 6.2 Apport en nature
+
+> Option : l'associé unique apporte à la société [désignation précise du bien : fonds de commerce, matériel, véhicule, marque…], évalué à [montant] euros, en rémunération duquel il reçoit [nombre] actions.
+> Option : cette évaluation résulte du rapport de [Prénom Nom], commissaire aux apports désigné par l'associé unique, annexé aux présentes.
+> Option : l'associé unique a décidé de ne pas désigner de commissaire aux apports, ce que la loi permet lorsque aucun apport en nature n'excède 30 000 euros et que leur valeur totale ne dépasse pas la moitié du capital. Il est alors responsable, pendant cinq ans à l'égard des tiers, de la valeur attribuée aux apports.
+
+### 6.3 Total des apports
+
+Le total des apports s'élève à [montant] euros.
+
+## ARTICLE 7 – CAPITAL SOCIAL
+
+Le capital social est fixé à [montant] euros. Il est divisé en [nombre] actions de [valeur nominale] euros chacune, de même catégorie, entièrement souscrites et attribuées en totalité à l'associé unique.
+
+## ARTICLE 8 – MODIFICATION DU CAPITAL
+
+Le capital peut être augmenté, réduit ou amorti par décision de l'associé unique, dans les conditions prévues par la loi. L'associé unique peut déléguer au Président les pouvoirs nécessaires pour réaliser l'opération.
+
+## ARTICLE 9 – ACTIONS
+
+Les actions sont nominatives. Elles sont inscrites en compte au nom de leur titulaire, sur un registre tenu par la société ou par un mandataire désigné par elle.
+
+Chaque action donne droit à une part des bénéfices, des réserves et du boni de liquidation proportionnelle à la quotité du capital qu'elle représente.
+
+L'associé unique ne supporte les pertes qu'à concurrence de ses apports.
+
+## ARTICLE 10 – TRANSMISSION DES ACTIONS
+
+Tant que la société n'a qu'un associé, les cessions d'actions sont libres. La transmission s'opère par virement de compte à compte, sur présentation d'un ordre de mouvement signé par le cédant.
+
+En cas de cession partielle ou d'entrée d'un nouvel associé, toute cession ultérieure à un tiers est soumise à l'agrément préalable de la collectivité des associés, statuant à la majorité des [deux tiers] des voix, le cédant prenant part au vote. Les associés adaptent alors les statuts dans les [trois] mois de l'entrée du nouvel associé.
+
+> Note de rédaction : cette clause d'agrément est une protection minimale. Si l'entrée d'un associé est déjà envisagée, prévoyez dès maintenant un pacte d'associés ou des statuts de SAS pluripersonnelle.
+
+## TITRE III – DIRECTION DE LA SOCIÉTÉ
+
+## ARTICLE 11 – PRÉSIDENT
+
+### 11.1 Désignation
+
+La société est représentée, dirigée et administrée par un Président, personne physique ou morale, associé ou non. Le Président est désigné par l'associé unique, pour une durée [indéterminée / de [nombre] années renouvelable].
+
+Lorsque le Président est une personne morale, elle désigne un représentant permanent, soumis aux mêmes conditions et responsabilités que s'il était Président en son nom propre.
+
+### 11.2 Pouvoirs
+
+Le Président représente la société à l'égard des tiers. Il est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société, dans la limite de l'objet social et des pouvoirs que la loi réserve à l'associé unique.
+
+> Option, limitation interne de pouvoirs : le Président doit obtenir l'accord préalable écrit de l'associé unique avant [tout emprunt supérieur à [montant] euros / toute acquisition ou cession de fonds de commerce / toute embauche d'un salarié]. Cette limitation n'est pas opposable aux tiers.
+
+### 11.3 Rémunération
+
+Le Président peut percevoir une rémunération, fixée et modifiée par décision de l'associé unique. Il est remboursé, sur justificatifs, des frais engagés dans l'intérêt de la société.
+
+### 11.4 Fin des fonctions
+
+Les fonctions du Président prennent fin par l'arrivée du terme, la démission (avec un préavis de [un] mois, sauf accord de l'associé unique), l'incapacité, le décès ou, pour une personne morale, la dissolution ou l'ouverture d'une liquidation judiciaire. Le Président peut être révoqué à tout moment par l'associé unique.
+
+> Option : la révocation sans juste motif ouvre droit à une indemnité égale à [nombre] mois de rémunération. À ne prévoir que si le Président n'est pas l'associé unique lui-même.
+
+## ARTICLE 12 – DIRECTEUR GÉNÉRAL
+
+> Option : l'associé unique peut nommer un ou plusieurs directeurs généraux, personnes physiques ou morales, qui disposent à l'égard des tiers des mêmes pouvoirs que le Président. La décision de nomination fixe la durée des fonctions, la rémunération et les éventuelles limitations internes de pouvoirs. Le directeur général est révocable à tout moment par l'associé unique.
+
+## ARTICLE 13 – CONVENTIONS ENTRE LA SOCIÉTÉ ET SES DIRIGEANTS
+
+Conformément à l'article L. 227-10 du Code de commerce, les conventions intervenues directement ou par personne interposée entre la société et son dirigeant sont seulement mentionnées au registre des décisions de l'associé unique.
+
+Il est interdit au Président et aux dirigeants personnes physiques de contracter des emprunts auprès de la société, de se faire consentir par elle un découvert ou de faire cautionner par elle leurs engagements envers des tiers.
+
+## ARTICLE 14 – COMMISSAIRE AUX COMPTES
+
+L'associé unique désigne un commissaire aux comptes titulaire lorsque la société dépasse, à la clôture d'un exercice, deux des trois seuils fixés par décret (total du bilan, montant du chiffre d'affaires hors taxes, nombre moyen de salariés), ou lorsque la loi l'impose pour une autre raison. En dehors de ces cas, la désignation est facultative.
+
+## TITRE IV – DÉCISIONS DE L'ASSOCIÉ UNIQUE
+
+## ARTICLE 15 – DOMAINE DES DÉCISIONS
+
+L'associé unique exerce les pouvoirs que la loi et les présents statuts attribuent à la collectivité des associés. Il ne peut pas les déléguer. Relèvent notamment de sa décision :
+- l'approbation des comptes annuels et l'affectation du résultat ;
+- la nomination, la rémunération et la révocation du Président et, le cas échéant, des directeurs généraux ;
+- la nomination des commissaires aux comptes ;
+- l'augmentation, la réduction ou l'amortissement du capital ;
+- la fusion, la scission, l'apport partiel d'actif, la transformation, la dissolution de la société ;
+- toute modification des statuts, sous réserve de la faculté de transfert du siège reconnue au Président.
+
+## ARTICLE 16 – FORME ET REGISTRE DES DÉCISIONS
+
+Les décisions de l'associé unique sont prises par écrit, à son initiative ou à celle du Président. Elles sont répertoriées dans un registre coté et paraphé, ou sur un support électronique sécurisé, et signées par l'associé unique.
+
+> Note de rédaction : lorsque l'associé unique est une personne physique qui assure elle-même la présidence, le dépôt au greffe, dans les six mois de la clôture, de l'inventaire et des comptes annuels signés vaut approbation des comptes. Il n'est alors pas nécessaire de dresser une décision distincte d'approbation au registre.
+
+## TITRE V – COMPTES ET RÉSULTATS
+
+## ARTICLE 17 – COMPTES ANNUELS
+
+À la clôture de chaque exercice, le Président dresse l'inventaire, les comptes annuels et, lorsque la loi l'exige, un rapport de gestion. L'associé unique approuve les comptes dans les six mois qui suivent la clôture de l'exercice.
+
+## ARTICLE 18 – AFFECTATION DU RÉSULTAT
+
+Sur le bénéfice de l'exercice, diminué le cas échéant des pertes antérieures, il est prélevé au moins 5 % pour constituer la réserve légale, jusqu'à ce que celle-ci atteigne le dixième du capital.
+
+Le solde, augmenté du report bénéficiaire, constitue le bénéfice distribuable. L'associé unique décide de le distribuer, de le mettre en réserve ou de le reporter à nouveau.
+
+## ARTICLE 19 – CAPITAUX PROPRES INFÉRIEURS À LA MOITIÉ DU CAPITAL
+
+Si, du fait des pertes constatées dans les documents comptables, les capitaux propres deviennent inférieurs à la moitié du capital social, le Président soumet à l'associé unique, dans les délais prévus par le Code de commerce, la question de la dissolution anticipée de la société. La décision est publiée dans les conditions légales.
+
+## TITRE VI – DISSOLUTION ET LIQUIDATION
+
+## ARTICLE 20 – DISSOLUTION
+
+La société est dissoute à l'arrivée du terme, par décision de l'associé unique ou dans les autres cas prévus par la loi.
+
+Lorsque l'associé unique est une personne morale, la dissolution entraîne la transmission universelle du patrimoine de la société à cet associé, sans liquidation, dans les conditions de l'article 1844-5 du Code civil. Lorsque l'associé unique est une personne physique, la dissolution est suivie d'une liquidation, conduite par un liquidateur désigné par l'associé unique.
+
+## TITRE VII – DISPOSITIONS FINALES
+
+## ARTICLE 21 – NOMINATION DU PREMIER PRÉSIDENT
+
+Le premier Président de la société, nommé pour une durée [indéterminée / de [nombre] années], est :
+[l'associé unique lui-même / Prénom Nom, né(e) le [date] à [lieu], demeurant [adresse]], qui déclare accepter ces fonctions et n'être frappé d'aucune interdiction de gérer.
+
+## ARTICLE 22 – ACTES ACCOMPLIS AVANT L'IMMATRICULATION
+
+L'état des actes accomplis pour le compte de la société en formation est annexé aux présents statuts. La signature des statuts emporte reprise de ces engagements par la société dès son immatriculation.
+
+L'associé unique donne mandat au Président de prendre, jusqu'à l'immatriculation, les engagements suivants : [liste précise : signature du bail, ouverture du compte bancaire, souscription d'assurances…]. Ces engagements seront réputés souscrits dès l'origine par la société après son immatriculation.
+
+## ARTICLE 23 – PERSONNALITÉ MORALE ET FORMALITÉS
+
+La société jouit de la personnalité morale à compter de son immatriculation au registre du commerce et des sociétés. Tous pouvoirs sont donnés au Président, ou au porteur d'une copie des présentes, pour accomplir les formalités de publicité et d'immatriculation.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un pour le dépôt au greffe et un conservé au siège.
+
+L'associé unique
+[Prénom Nom ou dénomination et représentant]
+Signature précédée de la mention « Bon pour acceptation des statuts » :
+
+Le Président, s'il n'est pas l'associé unique
+[Prénom Nom]
+Signature précédée de la mention « Bon pour acceptation des fonctions de Président » :
+
+## ANNEXES
+
+- Annexe 1 : certificat du dépositaire des fonds
+- Annexe 2 : rapport du commissaire aux apports, en cas d'apport en nature évalué par lui
+- Annexe 3 : état des actes accomplis pour le compte de la société en formation
+- Annexe 4 : justificatif de la domiciliation du siège social
