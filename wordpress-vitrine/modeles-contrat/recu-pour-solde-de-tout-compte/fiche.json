@@ -1,0 +1,105 @@
+{
+  "slug": "recu-pour-solde-de-tout-compte",
+  "nom": "Reçu pour solde de tout compte",
+  "nom_court": "reçu pour solde de tout compte",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle reçu pour solde de tout compte",
+  "mots_cles_secondaires": [
+    "reçu pour solde de tout compte",
+    "modèle solde de tout compte",
+    "solde de tout compte gratuit",
+    "solde de tout compte Word",
+    "dénonciation solde de tout compte",
+    "solde de tout compte délai 6 mois"
+  ],
+  "titre_h1": "Modèle de reçu pour solde de tout compte gratuit (Word et PDF)",
+  "titre_seo": "Modèle de reçu pour solde de tout compte gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de reçu pour solde de tout compte (Word, PDF) : sommes à lister, délai de 6 mois pour dénoncer, effet de la signature et lettre de dénonciation incluse.",
+  "chapo": "Le reçu pour solde de tout compte récapitule les sommes versées au salarié à la fin de son contrat. Téléchargez un modèle détaillé, avec une lettre de dénonciation, et comprenez ce que change la signature pour chacun.",
+  "public": "Employeurs, services paie et salariés en fin de contrat",
+  "gratuit": true,
+  "fichier_base": "modele-recu-pour-solde-de-tout-compte-lumen-juris",
+  "date_publication": "2026-11-24",
+  "date_mise_a_jour": "2026-11-24",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Paie et fin de contrat"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Rassemblez les éléments de paie",
+      "Reprenez le dernier bulletin, le compteur de congés, les primes au prorata et l'indemnité de rupture applicable au motif du départ."
+    ],
+    [
+      "Listez chaque somme séparément",
+      "Inscrivez la nature et le montant de chaque élément ; évitez toute ligne globale qui ne libérerait l'employeur de rien."
+    ],
+    [
+      "Préparez les documents de sortie",
+      "Joignez le certificat de travail, l'attestation France Travail et, le cas échéant, l'état récapitulatif de l'épargne salariale."
+    ],
+    [
+      "Remettez en deux exemplaires",
+      "Faites signer et dater le reçu par le salarié, qui garde un exemplaire ; payez la somme nette à la même date."
+    ],
+    [
+      "Surveillez le délai de six mois",
+      "Côté employeur, notez la date de signature ; côté salarié, vérifiez les montants et dénoncez par écrit avant la fin du délai si besoin."
+    ]
+  ],
+  "faq": [
+    [
+      "Le salarié est-il obligé de signer le solde de tout compte ?",
+      "Non. Sans signature, le reçu vaut simple inventaire des sommes : il n'a pas d'effet libératoire pour l'employeur, et le délai de six mois ne court pas. Le salarié touche malgré tout les sommes qui lui sont dues."
+    ],
+    [
+      "Combien de temps a-t-on pour contester un solde de tout compte signé ?",
+      "Six mois à compter de la signature. Après ce délai, l'employeur est libéré pour les seules sommes inscrites sur le reçu ; les autres restent réclamables dans les délais de prescription."
+    ],
+    [
+      "Quand l'employeur doit-il remettre le reçu pour solde de tout compte ?",
+      "À la fin du contrat de travail, c'est-à-dire à l'expiration du préavis, qu'il soit effectué ou non. Il est remis avec le certificat de travail et l'attestation France Travail."
+    ],
+    [
+      "Le solde de tout compte doit-il être envoyé ou retiré par le salarié ?",
+      "Les juges le considèrent comme quérable : l'employeur le tient à disposition et le salarié vient le chercher. Rien n'interdit de l'envoyer, ce qui permet de prouver la date de remise."
+    ],
+    [
+      "Faut-il écrire « bon pour solde de tout compte » avant de signer ?",
+      "Non, cette mention manuscrite n'est plus exigée et n'a aucun effet particulier. La signature et la date écrites par le salarié suffisent à faire courir le délai de six mois."
+    ],
+    [
+      "Un solde de tout compte est-il obligatoire pour un CDD ?",
+      "Oui, il est dû à la fin de tout contrat de travail, CDD compris. Il mentionne alors l'indemnité de fin de contrat lorsqu'elle est due."
+    ],
+    [
+      "Quelle différence entre solde de tout compte et accord transactionnel ?",
+      "Le solde de tout compte liste ce qui a été payé, sans renonciation. L'accord transactionnel met fin à un litige par des concessions réciproques et empêche ensuite toute action sur ce qu'il règle."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1234-19 (certificat de travail), L. 1234-20 et D. 1234-7 (reçu pour solde de tout compte)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code du travail, articles L. 1243-8 (indemnité de fin de CDD) et L. 3245-1 (prescription des salaires)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code civil, articles 2044 et suivants (transaction)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "recu-solde-tout-compte"
+  }
+}
