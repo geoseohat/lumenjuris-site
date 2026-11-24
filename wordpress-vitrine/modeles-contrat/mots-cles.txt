@@ -117,7 +117,7 @@
 [x] 2026-11-23 quittance de loyer -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/quittance-de-loyer/
 [x] 2026-11-24 état des lieux -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/etat-des-lieux/
 [x] 2026-11-24 statuts SASU -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sasu/
-statuts EURL
+[x] 2026-11-24 statuts EURL -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-eurl/
 reçu pour solde de tout compte
 certificat de travail
 règlement intérieur d'entreprise

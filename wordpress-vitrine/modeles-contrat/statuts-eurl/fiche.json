@@ -1,0 +1,105 @@
+{
+  "slug": "statuts-eurl",
+  "nom": "Statuts EURL",
+  "nom_court": "statuts EURL",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts EURL",
+  "mots_cles_secondaires": [
+    "statuts EURL",
+    "modèle statuts EURL gratuit",
+    "statuts EURL Word",
+    "statuts SARL unipersonnelle",
+    "exemple statuts EURL",
+    "rédiger statuts EURL"
+  ],
+  "titre_h1": "Modèle de statuts EURL gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts d'EURL gratuit 2026 (Word, PDF)",
+  "meta_description": "Statuts d'EURL gratuits (Word, PDF) : associé unique, gérant associé ou extérieur, libération du capital, apport du conjoint, EURL ou entreprise individuelle.",
+  "chapo": "Les statuts d'une EURL organisent une SARL détenue par un seul associé, qui décide seul et nomme le gérant. Téléchargez un modèle adapté à l'associé unique et voyez ce qui change par rapport à l'entreprise individuelle.",
+  "public": "Entrepreneurs qui créent seuls une société, artisans et commerçants",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-eurl-lumen-juris",
+  "date_publication": "2026-11-24",
+  "date_mise_a_jour": "2026-11-24",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Création d'entreprise"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez la situation de l'associé",
+      "Indiquez son état civil et, s'il est marié sous un régime de communauté, prévenez le conjoint avant tout apport de biens communs."
+    ],
+    [
+      "Déterminez le capital libéré",
+      "Fixez le montant apporté et la fraction versée tout de suite, au moins un cinquième, puis obtenez le certificat du dépositaire."
+    ],
+    [
+      "Nommez le gérant",
+      "Choisissez entre gérance par l'associé lui-même ou par une personne physique extérieure, avec ses limites de pouvoirs et sa rémunération."
+    ],
+    [
+      "Ouvrez le registre des décisions",
+      "Préparez le registre où seront inscrites la nomination du gérant, l'approbation des comptes et l'affectation du résultat."
+    ],
+    [
+      "Publiez et immatriculez",
+      "Faites paraître l'avis de constitution, puis déposez statuts, certificat et justificatifs sur le guichet unique des formalités."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel montant de capital faut-il pour ouvrir une EURL ?",
+      "Le capital est fixé librement par l'associé unique ; la loi n'impose pas de minimum. Seul un cinquième des apports en argent doit être versé à la création, le reste dans les cinq ans."
+    ],
+    [
+      "Une société peut-elle être l'associé unique d'une EURL ?",
+      "Oui, une personne morale peut détenir seule une EURL. Elle ne peut pas en être gérante : la gérance doit être confiée à une personne physique."
+    ],
+    [
+      "Quel est le régime social du gérant d'EURL ?",
+      "Le gérant associé unique relève du régime des travailleurs indépendants. Un gérant extérieur rémunéré est assimilé salarié pour la sécurité sociale."
+    ],
+    [
+      "L'EURL paie-t-elle l'impôt sur les sociétés ?",
+      "Pas par défaut si l'associé unique est une personne physique : les bénéfices sont imposés à l'impôt sur le revenu de l'associé. Une option pour l'impôt sur les sociétés est possible ; elle est automatique si l'associé unique est une société."
+    ],
+    [
+      "Doit-on organiser une assemblée générale chaque année en EURL ?",
+      "Non. L'associé unique approuve les comptes par une décision inscrite au registre. S'il est aussi gérant et personne physique, le dépôt des comptes signés au greffe suffit."
+    ],
+    [
+      "Peut-on utiliser les statuts types de l'EURL ?",
+      "Oui, lorsque l'associé unique est une personne physique qui gère elle-même la société. Ces statuts fixés par décret conviennent aux projets simples mais limitent les clauses sur mesure."
+    ],
+    [
+      "Que se passe-t-il au décès de l'associé unique ?",
+      "La société n'est pas dissoute : elle continue avec ses héritiers ou légataires. Si plusieurs héritiers deviennent associés, l'EURL devient une SARL à plusieurs associés."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 223-1 à L. 223-43 (SARL et associé unique), notamment L. 223-7 (libération), L. 223-9 (apports en nature), L. 223-19 (conventions) et L. 223-31 (décisions de l'associé unique)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1832-2 (apport de biens communs) et 1844-5 (transmission universelle du patrimoine)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 131-6 (assiette des cotisations des travailleurs indépendants, dividendes)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-eurl"
+  }
+}

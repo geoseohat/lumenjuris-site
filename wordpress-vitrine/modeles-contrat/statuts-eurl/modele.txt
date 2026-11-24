@@ -1,0 +1,183 @@
+# STATUTS DE L'ENTREPRISE UNIPERSONNELLE À RESPONSABILITÉ LIMITÉE [DÉNOMINATION]
+
+> Modèle gratuit Lumen Juris pour une EURL (SARL à associé unique), avec apports en numéraire et, en option, en nature. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : l'EURL n'est pas une forme distincte de la SARL. C'est une SARL qui ne compte qu'un associé. Ces statuts organisent donc les pouvoirs de l'associé unique et du gérant ; si un second associé arrive, les règles des SARL à plusieurs (assemblées, majorités, agrément) s'appliqueront et les statuts devront être complétés.
+
+LE SOUSSIGNÉ :
+
+[Option personne physique : Prénom Nom, né(e) le [date] à [lieu], de nationalité [nationalité], demeurant [adresse complète], [célibataire / marié(e) sous le régime de [régime] / lié(e) par un pacte civil de solidarité]]
+
+[Option personne morale : [dénomination], [forme sociale] au capital de [montant] euros, siège : [adresse], RCS [ville] n° [numéro], représentée par [Prénom Nom], [fonction]]
+
+a établi les statuts de la société à responsabilité limitée dont il est l'associé unique, ainsi qu'il suit.
+
+## ARTICLE 1 – FORME
+
+Il est institué une société à responsabilité limitée à associé unique, dite entreprise unipersonnelle à responsabilité limitée (EURL), régie par les articles L. 223-1 et suivants du Code de commerce, les dispositions légales applicables et les présents statuts.
+
+La société peut, à tout moment, devenir pluripersonnelle par cession ou transmission de parts ou par augmentation de capital, sans que cela entraîne la création d'une personne morale nouvelle.
+
+## ARTICLE 2 – OBJET
+
+La société a pour objet :
+- [activité principale, décrite précisément]
+- [activités connexes]
+
+ainsi que toutes opérations, de quelque nature qu'elles soient, se rattachant directement ou indirectement à cet objet, dès lors qu'elles ne modifient pas son caractère.
+
+> Note de rédaction : si l'activité est réglementée, vérifiez les qualifications et autorisations exigées avant l'immatriculation ; le greffe peut les demander.
+
+## ARTICLE 3 – DÉNOMINATION
+
+La société a pour dénomination : [DÉNOMINATION].
+
+Tous les actes et documents émanant de la société et destinés aux tiers indiquent la dénomination, précédée ou suivie immédiatement des mots « société à responsabilité limitée » ou des initiales « SARL » et de l'énonciation du montant du capital social.
+
+## ARTICLE 4 – SIÈGE
+
+Le siège de la société est situé : [adresse complète].
+
+Le gérant peut le transférer en tout lieu du territoire français, sous réserve de la ratification de cette décision par l'associé unique.
+
+## ARTICLE 5 – DURÉE
+
+La société est constituée pour une durée de [99] ans à compter de son immatriculation au registre du commerce et des sociétés, sauf prorogation ou dissolution anticipée.
+
+## ARTICLE 6 – APPORTS
+
+### 6.1 Apports en numéraire
+
+L'associé unique apporte la somme de [montant] euros, dont [montant, au moins le cinquième] euros sont libérés à la signature des présentes, ainsi qu'il résulte du certificat établi par [banque, notaire ou Caisse des dépôts et consignations], dépositaire des fonds.
+
+> Note de rédaction : en SARL, les parts représentant des apports en numéraire doivent être libérées d'au moins un cinquième à la constitution. Le solde est versé, sur appel du gérant, dans les cinq ans de l'immatriculation. Tant que le capital n'est pas entièrement libéré, la société ne peut pas l'augmenter en numéraire.
+
+### 6.2 Apports en nature
+
+> Option : l'associé unique apporte [désignation précise du bien], qu'il évalue à [montant] euros.
+> Option : cette évaluation figure dans le rapport de [Prénom Nom], commissaire aux apports, annexé aux présentes.
+> Option : l'associé unique déclare ne pas avoir recours à un commissaire aux apports, la valeur d'aucun apport en nature n'excédant 30 000 euros et la valeur totale des apports en nature n'excédant pas la moitié du capital. Il est alors responsable pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature.
+
+### 6.3 Apport en industrie
+
+> Option : l'associé unique apporte son industrie, consistant en [description de la compétence ou du travail apporté]. Cet apport n'entre pas dans la formation du capital ; il donne droit à [nombre] parts sociales ouvrant droit au partage des bénéfices et de l'actif net, à charge de contribuer aux pertes.
+
+### 6.4 Biens communs ou indivis
+
+> Option, si l'associé unique est marié sous un régime de communauté et apporte des biens communs : son conjoint, [Prénom Nom], a été averti de cet apport et intervient aux présentes pour [renoncer à la qualité d'associé / déclarer vouloir être personnellement associé pour la moitié des parts souscrites]. Dans ce second cas, la société comptera deux associés et ces statuts devront être adaptés.
+
+## ARTICLE 7 – CAPITAL SOCIAL
+
+Le capital social est fixé à [montant] euros. Il est divisé en [nombre] parts sociales de [valeur nominale] euros chacune, numérotées de 1 à [nombre], attribuées en totalité à l'associé unique.
+
+## ARTICLE 8 – PARTS SOCIALES
+
+Les parts sociales ne peuvent jamais être représentées par des titres négociables. La propriété des parts résulte des présents statuts et des actes qui pourraient modifier le capital ou constater des cessions.
+
+Chaque part donne droit à une fraction des bénéfices et de l'actif social proportionnelle au nombre de parts existantes.
+
+## ARTICLE 9 – CESSION ET TRANSMISSION DES PARTS
+
+Les cessions de parts consenties par l'associé unique sont libres. Elles sont constatées par écrit et rendues opposables à la société par l'une des formalités prévues par la loi, puis aux tiers par le dépôt de l'acte au registre du commerce et des sociétés.
+
+Si la société devient pluripersonnelle, les cessions à des tiers étrangers à la société sont soumises à l'agrément de la majorité des associés représentant au moins la moitié des parts sociales, sauf majorité plus forte prévue par avenant aux statuts.
+
+En cas de décès de l'associé unique, la société continue avec ses héritiers ou légataires.
+
+## ARTICLE 10 – GÉRANCE
+
+### 10.1 Nomination
+
+La société est gérée par une ou plusieurs personnes physiques, associées ou non, nommées par l'associé unique, avec ou sans limitation de durée.
+
+### 10.2 Pouvoirs
+
+Dans les rapports avec les tiers, le gérant est investi des pouvoirs les plus étendus pour agir au nom de la société, sous réserve des pouvoirs que la loi attribue à l'associé unique. Toute limitation statutaire de ces pouvoirs est inopposable aux tiers.
+
+> Option, limitation interne : le gérant non associé doit obtenir l'accord préalable écrit de l'associé unique pour [tout engagement supérieur à [montant] euros / toute acquisition ou cession d'actif immobilisé / toute constitution de sûreté].
+
+### 10.3 Rémunération
+
+Les fonctions de gérant peuvent être rémunérées. La rémunération, fixe ou proportionnelle, est fixée par décision de l'associé unique.
+
+### 10.4 Révocation et démission
+
+Le gérant est révocable par décision de l'associé unique. Si la révocation est décidée sans juste motif, elle peut donner lieu à des dommages et intérêts. Le gérant peut démissionner en respectant un préavis de [trois] mois, sauf accord de l'associé unique pour un délai plus court.
+
+## ARTICLE 11 – CONVENTIONS ENTRE LA SOCIÉTÉ ET SON GÉRANT OU SON ASSOCIÉ
+
+Lorsqu'une convention est conclue entre la société et l'associé unique, il en est seulement fait mention au registre des décisions.
+
+Lorsqu'une convention est conclue avec un gérant non associé, elle est soumise à l'approbation préalable de l'associé unique, en l'absence de commissaire aux comptes.
+
+À peine de nullité, il est interdit au gérant et à l'associé unique personne physique de contracter des emprunts auprès de la société, de se faire consentir un découvert ou de faire cautionner ou avaliser par elle leurs engagements envers les tiers.
+
+## ARTICLE 12 – DÉCISIONS DE L'ASSOCIÉ UNIQUE
+
+L'associé unique exerce les pouvoirs dévolus à l'assemblée des associés. Il ne peut les déléguer.
+
+Ses décisions, prises au lieu et place de l'assemblée, sont répertoriées dans un registre coté et paraphé ou sur un support électronique sécurisé.
+
+Relèvent notamment de sa compétence : l'approbation des comptes, l'affectation des résultats, la nomination et la révocation du gérant, la nomination d'un commissaire aux comptes, toute modification des statuts, la prorogation et la dissolution de la société.
+
+## ARTICLE 13 – EXERCICE SOCIAL ET COMPTES ANNUELS
+
+L'exercice social commence le [1er janvier] et finit le [31 décembre]. Le premier exercice commence à l'immatriculation et se termine le [date].
+
+À la clôture de chaque exercice, le gérant établit l'inventaire, les comptes annuels et, le cas échéant, le rapport de gestion. L'associé unique approuve les comptes dans les six mois de la clôture.
+
+> Note de rédaction : lorsque l'associé unique, personne physique, est aussi le gérant, le dépôt au registre du commerce et des sociétés, dans ce même délai de six mois, de l'inventaire et des comptes annuels signés vaut approbation des comptes.
+
+## ARTICLE 14 – AFFECTATION DES RÉSULTATS
+
+Sur le bénéfice de l'exercice, diminué des pertes antérieures, il est d'abord prélevé 5 % au moins pour la réserve légale. Ce prélèvement cesse d'être obligatoire lorsque la réserve atteint le dixième du capital.
+
+Le bénéfice distribuable est, sur décision de l'associé unique, distribué, affecté à des réserves ou reporté à nouveau.
+
+## ARTICLE 15 – COMMISSAIRE AUX COMPTES
+
+L'associé unique nomme un commissaire aux comptes lorsque la société dépasse les seuils fixés par décret, ou lorsque la loi l'exige pour une autre raison. Il peut toujours en nommer un à titre volontaire.
+
+## ARTICLE 16 – PERTES IMPORTANTES
+
+Si, du fait des pertes constatées dans les documents comptables, les capitaux propres deviennent inférieurs à la moitié du capital social, l'associé unique décide, dans les délais et conditions du Code de commerce, s'il y a lieu à dissolution anticipée de la société.
+
+## ARTICLE 17 – DISSOLUTION ET LIQUIDATION
+
+La société n'est dissoute ni par le décès, ni par l'incapacité de l'associé unique : en cas de décès, elle continue avec ses héritiers ou légataires.
+
+À l'expiration de sa durée ou en cas de dissolution anticipée, la société est liquidée par un liquidateur nommé par l'associé unique. Toutefois, si l'associé unique est une personne morale, la dissolution entraîne la transmission universelle du patrimoine de la société à cet associé, sans qu'il y ait lieu à liquidation.
+
+## ARTICLE 18 – NOMINATION DU PREMIER GÉRANT
+
+L'associé unique nomme en qualité de premier gérant, pour une durée [indéterminée / de [nombre] années] :
+[lui-même / Prénom Nom, né(e) le [date] à [lieu], demeurant [adresse]], qui accepte ces fonctions et déclare n'être frappé d'aucune mesure lui interdisant de gérer une société.
+
+> Option : rémunération du premier gérant fixée à [montant ou mode de calcul], ou fonctions exercées à titre gratuit jusqu'à décision contraire de l'associé unique.
+
+## ARTICLE 19 – ACTES ANTÉRIEURS À L'IMMATRICULATION
+
+L'état des actes accomplis pour le compte de la société en formation, avec l'indication pour chacun de l'engagement qui en résulte, est annexé aux statuts. L'immatriculation de la société emporte reprise de ces engagements.
+
+L'associé unique donne en outre mandat au gérant de prendre, avant l'immatriculation, les engagements suivants : [liste précise].
+
+## ARTICLE 20 – PUBLICITÉ ET FORMALITÉS
+
+Tous pouvoirs sont donnés au gérant pour accomplir les formalités de publicité, de dépôt et d'immatriculation, et notamment pour publier l'avis de constitution et déposer le dossier sur le guichet unique des formalités des entreprises.
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux.
+
+L'associé unique
+[Prénom Nom ou dénomination et représentant]
+Signature :
+
+Le gérant, s'il n'est pas l'associé unique
+[Prénom Nom]
+Signature précédée de la mention « Bon pour acceptation des fonctions de gérant » :
+
+## ANNEXES
+
+- Annexe 1 : certificat du dépositaire des fonds
+- Annexe 2 : rapport du commissaire aux apports, le cas échéant
+- Annexe 3 : état des actes accomplis pour le compte de la société en formation
+- Annexe 4 : justificatif du siège
