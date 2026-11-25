@@ -2446,27 +2446,53 @@
     "certificat-de-travail": {
       "fichiers": {
         "docx": {
-          "id": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o1.id}}",
-          "url": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o1.source_url}}",
+          "id": 3959,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-certificat-de-travail-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "b293a979e1da5d37b8d63e81ee3932bf0d206dc29dccdf26012c8b21f08ac8f4"
         },
         "pdf": {
-          "id": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o2.id}}",
-          "url": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o2.source_url}}",
+          "id": 3960,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-certificat-de-travail-lumen-juris.pdf",
           "taille": "69 Ko",
           "empreinte": "b293a979e1da5d37b8d63e81ee3932bf0d206dc29dccdf26012c8b21f08ac8f4"
         }
       },
       "image": {
-        "id": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o3.id}}",
-        "url": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o3.source_url}}",
+        "id": 3961,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-certificat-de-travail-lumen-juris.png",
         "taille": "286 Ko",
         "empreinte": "a16893339bfbc838eb72e8657377a2a9b7ba02fd438a82b8a0160acbfaa79797"
       },
       "statut": "publish",
-      "id": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o7.id}}",
-      "lien": "{{20261125-091503-publier-en-ligne-certificat-de-travail.o7.link}}",
+      "id": 3962,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/certificat-de-travail/",
+      "gabarit": "2026-10-23"
+    },
+    "reglement-interieur-d-entreprise": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o1.id}}",
+          "url": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "53b7419e13453b8dba0dd783dbae99ce867ea47b0c8c4cb1a9d57a7e71d85ca6"
+        },
+        "pdf": {
+          "id": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o2.id}}",
+          "url": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o2.source_url}}",
+          "taille": "113 Ko",
+          "empreinte": "53b7419e13453b8dba0dd783dbae99ce867ea47b0c8c4cb1a9d57a7e71d85ca6"
+        }
+      },
+      "image": {
+        "id": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o3.id}}",
+        "url": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o3.source_url}}",
+        "taille": "296 Ko",
+        "empreinte": "85ceb0b697de25f4355518f3dceaa9b232b820f612831a4c787234d4bc47aa92"
+      },
+      "statut": "publish",
+      "id": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o7.id}}",
+      "lien": "{{20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2475,6 +2501,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261125-091503-publier-en-ligne-certificat-de-travail"
+    "20261125-091720-publier-en-ligne-reglement-interieur-d-entreprise"
   ]
 }
