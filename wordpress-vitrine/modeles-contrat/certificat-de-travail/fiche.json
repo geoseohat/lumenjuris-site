@@ -1,0 +1,105 @@
+{
+  "slug": "certificat-de-travail",
+  "nom": "Certificat de travail",
+  "nom_court": "certificat de travail",
+  "categorie": "Ressources humaines",
+  "mot_cle": "modèle certificat de travail",
+  "mots_cles_secondaires": [
+    "certificat de travail",
+    "modèle certificat de travail gratuit",
+    "certificat de travail Word",
+    "mentions obligatoires certificat de travail",
+    "certificat de travail fin de CDD",
+    "certificat de travail préavis non effectué"
+  ],
+  "titre_h1": "Modèle de certificat de travail gratuit (Word et PDF)",
+  "titre_seo": "Modèle de certificat de travail gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de certificat de travail gratuit (Word, PDF) : mentions obligatoires, date de sortie avec préavis, maintien de la mutuelle et mentions interdites.",
+  "chapo": "Le certificat de travail atteste des dates et des emplois d'un salarié qui quitte l'entreprise. Téléchargez un modèle conforme aux mentions fixées par le Code du travail et évitez les erreurs qui exposent l'employeur à une amende.",
+  "public": "Employeurs, services paie et salariés en fin de contrat",
+  "gratuit": true,
+  "fichier_base": "modele-certificat-de-travail-lumen-juris",
+  "date_publication": "2026-11-25",
+  "date_mise_a_jour": "2026-11-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit du travail",
+      "Fin du contrat de travail"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Rassemblez le contrat et les avenants",
+      "Reprenez la date d'embauche, les intitulés de postes et les dates de chaque changement d'emploi à partir du contrat, des avenants et des bulletins de paie."
+    ],
+    [
+      "Calculez la date de sortie",
+      "Retenez la date de fin du contrat, préavis compris, même si le salarié a été dispensé de l'effectuer."
+    ],
+    [
+      "Choisissez la mention mutuelle et prévoyance",
+      "Indiquez si le salarié bénéficie du maintien gratuit des garanties santé et prévoyance, et précisez les organismes assureurs."
+    ],
+    [
+      "Relisez pour retirer toute appréciation",
+      "Supprimez tout motif de départ, toute absence ou tout jugement sur le travail ; ajoutez « libre de tout engagement » seulement si le salarié le demande."
+    ],
+    [
+      "Signez et remettez le certificat",
+      "Faites signer par une personne habilitée, remettez le document au plus tard à la fin du contrat avec l'attestation France Travail, et gardez une copie."
+    ]
+  ],
+  "faq": [
+    [
+      "L'employeur peut-il refuser de remettre un certificat de travail ?",
+      "Non. Le certificat est dû à tout salarié dont le contrat prend fin, quel que soit le motif du départ et la durée du contrat. Le refus ou le retard est puni d'une amende contraventionnelle, et le salarié peut saisir le conseil de prud'hommes en référé pour obtenir le document."
+    ],
+    [
+      "Quand le certificat de travail doit-il être remis ?",
+      "Il doit être tenu à la disposition du salarié à la date de fin du contrat. Si le salarié est dispensé de préavis, l'employeur peut le lui remettre dès son départ, en indiquant comme date de sortie la fin du préavis."
+    ],
+    [
+      "Le salarié doit-il signer le certificat de travail ?",
+      "Non, seul l'employeur le signe. Le salarié peut signer un accusé de réception, qui prouve seulement qu'il a reçu le document, sans valoir accord sur son contenu."
+    ],
+    [
+      "Le motif du départ doit-il apparaître sur le certificat ?",
+      "Non, il ne doit pas y figurer. Le certificat contient uniquement les dates, les emplois occupés et l'information sur le maintien de la mutuelle et de la prévoyance. Le motif de la rupture figure en revanche sur l'attestation destinée à France Travail."
+    ],
+    [
+      "Que signifie « libre de tout engagement » ?",
+      "Cette mention indique que le salarié n'est plus lié à l'employeur par aucune obligation. Elle n'est pas obligatoire et ne s'ajoute qu'à la demande du salarié. Elle est à éviter si une clause de non-concurrence doit s'appliquer."
+    ],
+    [
+      "Que faire si le certificat de travail contient une erreur ?",
+      "Le salarié peut demander à l'employeur un certificat corrigé, de préférence par écrit. En cas de refus, il peut saisir le conseil de prud'hommes, qui peut ordonner la remise d'un document rectifié."
+    ],
+    [
+      "Un stagiaire a-t-il droit à un certificat de travail ?",
+      "Non, car le stagiaire n'est pas salarié. Il reçoit à la fin du stage une attestation de stage, prévue par le Code de l'éducation, qui indique notamment la durée effective du stage et le montant de la gratification versée."
+    ]
+  ],
+  "sources": [
+    [
+      "Code du travail, articles L. 1234-19 et D. 1234-6 (certificat de travail et mentions), R. 1238-3 (sanction en cas de non-remise)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Code de la sécurité sociale, article L. 911-8 (maintien des garanties santé et prévoyance)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189"
+    ],
+    [
+      "Code de l'éducation, articles L. 124-1 et suivants (attestation de stage)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071191"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "certificat-travail"
+  }
+}

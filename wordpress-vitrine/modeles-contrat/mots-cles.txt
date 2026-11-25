@@ -119,7 +119,7 @@
 [x] 2026-11-24 statuts SASU -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-sasu/
 [x] 2026-11-24 statuts EURL -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-eurl/
 [x] 2026-11-24 reçu pour solde de tout compte -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/recu-pour-solde-de-tout-compte/
-certificat de travail
+[x] 2026-11-25 certificat de travail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/certificat-de-travail/
 règlement intérieur d'entreprise
 lettre d'avertissement disciplinaire
 statuts d'association loi 1901
