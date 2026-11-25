@@ -1,0 +1,105 @@
+{
+  "slug": "statuts-d-association-loi-1901",
+  "nom": "Statuts d'association loi 1901",
+  "nom_court": "statuts d'association loi 1901",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle statuts d'association loi 1901",
+  "mots_cles_secondaires": [
+    "statuts association loi 1901",
+    "modèle statuts association",
+    "statuts association gratuit Word",
+    "créer une association loi 1901",
+    "statuts type association",
+    "déclaration association préfecture"
+  ],
+  "titre_h1": "Modèle de statuts d'association loi 1901 gratuit (Word et PDF)",
+  "titre_seo": "Modèle de statuts d'association loi 1901 gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de statuts d'association loi 1901 (Word, PDF) : objet, membres, assemblée générale, bureau, dissolution, avec les démarches de déclaration en préfecture.",
+  "chapo": "Les statuts fixent les règles de fonctionnement d'une association : objet, membres, assemblées et dirigeants. Téléchargez un modèle complet, adapté aux associations déclarées, et repérez les clauses qui évitent les conflits entre membres.",
+  "public": "Fondateurs et dirigeants d'associations",
+  "gratuit": true,
+  "fichier_base": "modele-statuts-d-association-loi-1901-lumen-juris",
+  "date_publication": "2026-11-25",
+  "date_mise_a_jour": "2026-11-25",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des associations",
+      "Droit civil"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Définissez l'objet de l'association",
+      "Rédigez un objet précis et licite qui décrit l'activité réelle, sans être si étroit qu'il faudrait le modifier au moindre projet."
+    ],
+    [
+      "Choisissez l'organisation",
+      "Décidez des catégories de membres, de l'existence d'un conseil d'administration ou d'un simple bureau, et des règles de vote."
+    ],
+    [
+      "Tenez l'assemblée constitutive",
+      "Réunissez les fondateurs, faites adopter les statuts, élisez les premiers dirigeants et rédigez un procès-verbal."
+    ],
+    [
+      "Déclarez l'association",
+      "Déposez la déclaration auprès du greffe des associations du siège, le plus souvent en ligne, avec les statuts signés et la liste des dirigeants."
+    ],
+    [
+      "Suivez la publication et la vie de l'association",
+      "Attendez la publication au Journal officiel des associations, puis déclarez dans les trois mois tout changement de dirigeants ou de statuts."
+    ]
+  ],
+  "faq": [
+    [
+      "Combien de personnes faut-il pour créer une association loi 1901 ?",
+      "Deux personnes au moins. La loi définit l'association comme une convention entre deux personnes ou plus. En Alsace-Moselle, le droit local impose sept fondateurs."
+    ],
+    [
+      "Une association peut-elle faire des bénéfices ?",
+      "Oui, elle peut dégager des excédents, mais ne peut pas les partager entre ses membres. Ils doivent servir l'objet de l'association. Des activités lucratives importantes peuvent en revanche la soumettre aux impôts commerciaux."
+    ],
+    [
+      "Le président d'une association peut-il être rémunéré ?",
+      "La loi de 1901 ne l'interdit pas. Mais une rémunération peut faire perdre à l'association le caractère désintéressé de sa gestion, et donc ses avantages fiscaux. Elle n'est admise que dans des limites strictes fixées par la loi fiscale."
+    ],
+    [
+      "Combien coûte la création d'une association ?",
+      "Le dépôt de la déclaration en préfecture est gratuit. La publication au Journal officiel des associations peut donner lieu à des frais selon la réglementation en vigueur : vérifiez-le au moment de la déclaration."
+    ],
+    [
+      "Faut-il obligatoirement un président, un trésorier et un secrétaire ?",
+      "Non, la loi n'impose aucun organe particulier. En pratique, un président et un trésorier sont presque indispensables pour ouvrir un compte bancaire et représenter l'association. Certaines associations adoptent une direction collégiale."
+    ],
+    [
+      "Comment modifier les statuts d'une association ?",
+      "Suivez la procédure prévue par les statuts, en général une assemblée générale extraordinaire avec une majorité renforcée. Déclarez ensuite la modification à la préfecture dans les trois mois."
+    ],
+    [
+      "Un membre peut-il être exclu de l'association ?",
+      "Oui, si les statuts le prévoient et si la procédure est respectée : information sur les faits reprochés et possibilité de s'expliquer avant la décision. Une exclusion décidée sans ces garanties peut être annulée par le juge."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi du 1er juillet 1901 relative au contrat d'association, articles 1 (définition), 2 (liberté de constitution), 5 (déclaration et changements) et 6 (capacité juridique)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000497458"
+    ],
+    [
+      "Décret du 16 août 1901 pris pour l'exécution de la loi du 1er juillet 1901 (déclaration, dévolution des biens)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000668093"
+    ],
+    [
+      "Code général des impôts, article 261 (gestion désintéressée des organismes sans but lucratif)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "statuts-association-loi-1901"
+  }
+}

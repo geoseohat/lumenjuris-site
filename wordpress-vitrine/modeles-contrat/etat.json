@@ -2498,27 +2498,53 @@
     "lettre-d-avertissement-disciplinaire": {
       "fichiers": {
         "docx": {
-          "id": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o1.id}}",
-          "url": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o1.source_url}}",
+          "id": 3997,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-d-avertissement-disciplinaire-lumen-juris.docx",
           "taille": "39 Ko",
           "empreinte": "05091e8cd89f018202a8594c4a42146900b73aaaf0d2768656f77739387d2af4"
         },
         "pdf": {
-          "id": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o2.id}}",
-          "url": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o2.source_url}}",
+          "id": 3998,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-d-avertissement-disciplinaire-lumen-juris.pdf",
           "taille": "63 Ko",
           "empreinte": "05091e8cd89f018202a8594c4a42146900b73aaaf0d2768656f77739387d2af4"
         }
       },
       "image": {
-        "id": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o3.id}}",
-        "url": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o3.source_url}}",
+        "id": 3999,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-lettre-d-avertissement-disciplinaire-lumen-juris.png",
         "taille": "297 Ko",
         "empreinte": "9d0b88ee895ec3025eb68cab82dd393aefdf069dfb0bffd79230cb1d5461651e"
       },
       "statut": "publish",
-      "id": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o7.id}}",
-      "lien": "{{20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire.o7.link}}",
+      "id": 4000,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-avertissement-disciplinaire/",
+      "gabarit": "2026-10-23"
+    },
+    "statuts-d-association-loi-1901": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o1.id}}",
+          "url": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "0f0e0977ae9ab9673d1b1c9488252cf9258d101a2e6c3599b6a47514def3c64c"
+        },
+        "pdf": {
+          "id": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o2.id}}",
+          "url": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o2.source_url}}",
+          "taille": "108 Ko",
+          "empreinte": "0f0e0977ae9ab9673d1b1c9488252cf9258d101a2e6c3599b6a47514def3c64c"
+        }
+      },
+      "image": {
+        "id": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o3.id}}",
+        "url": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "95060a2a34b46eba7e62b09aa117c449807f2788e901de11d44c160c36e3bbe9"
+      },
+      "statut": "publish",
+      "id": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o7.id}}",
+      "lien": "{{20261125-092039-publier-en-ligne-statuts-d-association-loi-1901.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2527,6 +2553,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261125-091846-publier-en-ligne-lettre-d-avertissement-disciplinaire"
+    "20261125-092039-publier-en-ligne-statuts-d-association-loi-1901"
   ]
 }

@@ -122,7 +122,7 @@
 [x] 2026-11-25 certificat de travail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/certificat-de-travail/
 [x] 2026-11-25 règlement intérieur d'entreprise -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/reglement-interieur-d-entreprise/
 [x] 2026-11-25 lettre d'avertissement disciplinaire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-avertissement-disciplinaire/
-statuts d'association loi 1901
+[x] 2026-11-25 statuts d'association loi 1901 -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-d-association-loi-1901/
 bon de commande
 contrat de colocation
 contrat de location de parking
