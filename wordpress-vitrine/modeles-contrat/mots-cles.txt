@@ -121,7 +121,7 @@
 [x] 2026-11-24 reçu pour solde de tout compte -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/recu-pour-solde-de-tout-compte/
 [x] 2026-11-25 certificat de travail -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/certificat-de-travail/
 [x] 2026-11-25 règlement intérieur d'entreprise -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/reglement-interieur-d-entreprise/
-lettre d'avertissement disciplinaire
+[x] 2026-11-25 lettre d'avertissement disciplinaire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-avertissement-disciplinaire/
 statuts d'association loi 1901
 bon de commande
 contrat de colocation
