@@ -1,0 +1,196 @@
+# CONTRAT DE COLOCATION (BAIL UNIQUE)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle est un bail unique signé par tous les colocataires, pour un logement loué comme résidence principale. Il est soumis à la loi n° 89-462 du 6 juillet 1989, notamment à son article 8-1 propre à la colocation. Choisissez à l'article 3 s'il s'agit d'une location vide ou meublée : plusieurs règles (durée, dépôt de garantie, préavis) en dépendent. Si chaque colocataire signe un bail distinct pour sa chambre, ce modèle ne convient pas tel quel.
+
+ENTRE LES SOUSSIGNÉS :
+
+**Le Bailleur** : [nom, prénom ou dénomination sociale], demeurant ou dont le siège est situé [adresse], [le cas échéant : représenté par [nom et adresse du mandataire], titulaire de la carte professionnelle n° [numéro]].
+
+Ci-après « le Bailleur »,
+
+ET
+
+**Les Colocataires** :
+- [nom, prénom], né(e) le [date] à [lieu], adresse électronique [adresse] ;
+- [nom, prénom], né(e) le [date] à [lieu], adresse électronique [adresse] ;
+- [nom, prénom], né(e) le [date] à [lieu], adresse électronique [adresse].
+
+Ci-après ensemble « les Colocataires » et individuellement « un Colocataire ».
+
+## ARTICLE 1 – OBJET ET RÉGIME DU CONTRAT
+
+Le Bailleur donne en location aux Colocataires, qui l'acceptent, le logement désigné à l'article 2, que chacun d'eux occupera à titre de résidence principale.
+
+Le présent contrat constitue une colocation au sens de l'article 8-1 de la loi du 6 juillet 1989. Il est conclu en un seul bail, commun à tous les Colocataires.
+
+## ARTICLE 2 – DÉSIGNATION DU LOGEMENT
+
+### 2.1 Le logement
+
+- Adresse : [adresse complète, bâtiment, étage, porte]
+- Type d'habitat : [immeuble collectif / maison individuelle] ; régime juridique : [copropriété / monopropriété]
+- Période de construction : [avant 1949 / 1949-1974 / 1975-1989 / 1990-2005 / depuis 2005]
+- Surface habitable : [nombre] m²
+- Nombre de pièces principales : [nombre], dont [nombre] chambres
+- Modalité de production de chauffage et d'eau chaude : [individuelle / collective], [énergie]
+
+### 2.2 Répartition de l'usage des pièces
+
+> Note de rédaction : dans un bail unique, chaque Colocataire a en principe accès à l'ensemble du logement. La répartition ci-dessous organise l'usage entre les Colocataires ; elle ne crée pas de location séparée de chaque chambre.
+
+- Chambre 1 ([surface] m²) : à l'usage de [nom du Colocataire]
+- Chambre 2 ([surface] m²) : à l'usage de [nom du Colocataire]
+- Chambre 3 ([surface] m²) : à l'usage de [nom du Colocataire]
+- Parties communes du logement, à l'usage de tous : [séjour, cuisine, salle d'eau, toilettes, entrée…]
+
+### 2.3 Locaux et équipements accessoires
+
+- À usage privatif : [cave n° …, place de stationnement n° …, jardin…]
+- À usage commun dans l'immeuble : [local vélos, ascenseur, espaces verts…]
+- Équipements d'accès aux technologies de l'information : [prise fibre, câble…]
+
+## ARTICLE 3 – NATURE ET DURÉE DE LA LOCATION
+
+Le logement est loué : [vide / meublé].
+
+> Option (location vide) : le bail est conclu pour une durée de [trois ans si le Bailleur est une personne physique ou une société civile familiale / six ans si le Bailleur est une personne morale], à compter du [date de prise d'effet]. À défaut de congé régulier, il est reconduit tacitement pour la même durée.
+
+> Option (location meublée) : le bail est conclu pour une durée d'un an à compter du [date de prise d'effet], reconduit tacitement pour un an à défaut de congé. Si tous les Colocataires sont étudiants, la durée peut être réduite à neuf mois, sans reconduction tacite. Le logement comporte au minimum le mobilier prévu par la réglementation, décrit dans l'inventaire annexé.
+
+## ARTICLE 4 – LOYER
+
+### 4.1 Montant
+
+Le loyer mensuel du logement est fixé à [montant] € hors charges, pour l'ensemble du logement.
+
+> Note de rédaction : le loyer est dû pour le logement entier. La répartition ci-dessous n'est opposable qu'entre les Colocataires ; à l'égard du Bailleur, elle ne réduit pas la dette de chacun s'il existe une clause de solidarité (article 8).
+
+Répartition indicative entre les Colocataires : [nom] [montant] € ; [nom] [montant] € ; [nom] [montant] €.
+
+### 4.2 Informations sur le loyer
+
+> Option (zone soumise à l'encadrement des loyers) : loyer de référence [montant] €/m² ; loyer de référence majoré [montant] €/m² ; complément de loyer éventuel [montant] € justifié par [caractéristiques].
+
+> Option (zone tendue) : montant du dernier loyer appliqué au précédent locataire : [montant] €, date de son dernier versement : [date], date de sa dernière révision : [date].
+
+### 4.3 Paiement
+
+Le loyer et les charges sont payables mensuellement et d'avance, le [jour] de chaque mois, par [virement sur le compte du Bailleur / prélèvement / autre]. Les Colocataires peuvent effectuer un paiement unique ou des paiements séparés ; dans ce dernier cas, le Bailleur indique, à la demande de chacun, la part reçue de lui.
+
+Une quittance est remise gratuitement à chaque Colocataire qui en fait la demande.
+
+### 4.4 Révision
+
+Le loyer est révisé chaque année à la date [anniversaire du bail / du [date]], en fonction de la variation de l'indice de référence des loyers publié par l'INSEE. L'indice de référence est celui du [trimestre et année].
+
+## ARTICLE 5 – CHARGES
+
+Les charges récupérables sont payées selon la modalité suivante : [choisir une option].
+
+> Option 1 (provisions) : les Colocataires versent une provision mensuelle de [montant] €, régularisée chaque année au vu des dépenses réelles, dont le décompte leur est communiqué un mois avant la régularisation.
+
+> Option 2 (forfait) : les Colocataires versent un forfait mensuel de charges de [montant] €, non régularisable. Ce forfait peut être révisé chaque année dans les mêmes conditions que le loyer. Il ne doit pas être manifestement disproportionné au regard des charges dont s'acquitte le précédent locataire ou des dépenses réelles du logement.
+
+> Note de rédaction : le forfait de charges est autorisé en colocation, en location vide comme en location meublée. Hors colocation, il n'est possible qu'en location meublée.
+
+## ARTICLE 6 – DÉPÔT DE GARANTIE
+
+Les Colocataires versent ensemble, à la signature du présent contrat, un dépôt de garantie de [montant] €, correspondant à [un mois de loyer hors charges en location vide / deux mois de loyer hors charges au plus en location meublée].
+
+Le dépôt de garantie est restitué dans un délai d'un mois après la remise des clés par le dernier Colocataire si l'état des lieux de sortie est conforme à l'état des lieux d'entrée, ou de deux mois dans le cas contraire, déduction faite des sommes restant dues et justifiées.
+
+> Option : en cas de départ d'un Colocataire remplacé par un nouveau Colocataire, la part du dépôt de garantie versée par le Colocataire sortant lui est remboursée directement par le Colocataire entrant. Le Bailleur n'intervient pas dans ce remboursement et conserve le dépôt initial jusqu'à la fin du bail.
+
+## ARTICLE 7 – ASSURANCE
+
+Les Colocataires s'assurent contre les risques locatifs et en justifient lors de la remise des clés, puis chaque année à la demande du Bailleur. Ils peuvent souscrire une assurance commune ou des assurances séparées couvrant ensemble la totalité du logement.
+
+> Option : les Parties conviennent que le Bailleur souscrit, pour le compte des Colocataires, une assurance contre les risques locatifs. Son coût annuel, de [montant] €, est récupérable par douzièmes, avec le loyer, et figure sur l'avis d'échéance et la quittance.
+
+## ARTICLE 8 – SOLIDARITÉ ENTRE COLOCATAIRES
+
+> Option (avec solidarité) : les Colocataires sont tenus solidairement et indivisiblement envers le Bailleur au paiement du loyer, des charges, des réparations locatives et de toute somme due au titre du présent contrat. Le Bailleur peut réclamer la totalité de ces sommes à l'un quelconque d'entre eux.
+
+> Option (sans solidarité) : chaque Colocataire n'est tenu envers le Bailleur que de sa part de loyer et de charges, telle que fixée à l'article 4.1, et des dégradations qui lui sont imputables.
+
+Lorsqu'un Colocataire donne congé, la solidarité qui l'engage, ainsi que celle de la personne qui s'est portée caution pour lui, prend fin à la date d'effet de son congé si un nouveau Colocataire figure au bail à cette date. À défaut, elle s'éteint au plus tard six mois après la date d'effet du congé. Cette règle est d'ordre public.
+
+## ARTICLE 9 – CAUTIONNEMENT
+
+> Option : le paiement des sommes dues est garanti par un acte de cautionnement séparé, annexé au présent contrat. L'acte précise le Colocataire dont il garantit les dettes ; c'est le congé de ce Colocataire qui met fin à l'engagement de la caution dans les conditions de l'article 8.
+
+## ARTICLE 10 – DÉPART D'UN COLOCATAIRE ET ARRIVÉE D'UN NOUVEAU COLOCATAIRE
+
+### 10.1 Congé d'un Colocataire
+
+Chaque Colocataire peut donner congé individuellement, à tout moment, par lettre recommandée avec accusé de réception, acte de commissaire de justice ou remise en main propre contre récépissé. Le préavis est de [trois mois en location vide, réduit à un mois dans les cas prévus par la loi, notamment en zone tendue / un mois en location meublée].
+
+Le bail continue entre le Bailleur et les Colocataires restants, aux mêmes conditions. Le départ d'un Colocataire ne réduit pas le loyer dû pour le logement.
+
+### 10.2 Remplacement
+
+Les Colocataires restants peuvent proposer au Bailleur un nouveau Colocataire. Son entrée dans les lieux est subordonnée à l'accord écrit du Bailleur, qui ne peut refuser pour un motif discriminatoire. L'entrée du nouveau Colocataire est constatée par un avenant au présent contrat, signé par le Bailleur et par tous les Colocataires.
+
+> Option : un état des lieux contradictoire de la chambre libérée est établi entre le Colocataire sortant, le Colocataire entrant et, s'il le souhaite, le Bailleur.
+
+### 10.3 Congé donné par le Bailleur
+
+Le Bailleur ne peut donner congé que pour le terme du bail et pour l'ensemble des Colocataires, en motivant sa décision par la reprise, la vente du logement ou un motif légitime et sérieux, dans les formes et délais prévus par la loi.
+
+## ARTICLE 11 – OBLIGATIONS DES COLOCATAIRES
+
+Les Colocataires s'engagent à :
+- payer le loyer et les charges aux termes convenus ;
+- user paisiblement du logement suivant sa destination d'habitation ;
+- répondre des dégradations survenues pendant la durée du contrat, sauf s'ils prouvent qu'elles ont eu lieu par cas de force majeure, par la faute du Bailleur ou par le fait d'un tiers qu'ils n'ont pas introduit dans le logement ;
+- prendre en charge l'entretien courant et les menues réparations ;
+- ne pas transformer les locaux sans l'accord écrit du Bailleur ;
+- ne pas sous-louer tout ou partie du logement, ni céder le bail, sans l'accord écrit du Bailleur, y compris sur le prix ;
+- laisser exécuter les travaux nécessaires dans les conditions prévues par la loi.
+
+> Option (règlement intérieur entre Colocataires) : les Colocataires peuvent adopter entre eux une charte de vie commune (ménage, invités, partage des frais, abonnements). Ce document ne lie pas le Bailleur.
+
+## ARTICLE 12 – OBLIGATIONS DU BAILLEUR
+
+Le Bailleur s'engage à :
+- remettre un logement décent, en bon état d'usage et de réparation, avec des équipements en bon état de fonctionnement ;
+- assurer aux Colocataires la jouissance paisible du logement ;
+- entretenir les locaux et faire les réparations autres que locatives ;
+- remettre gratuitement une quittance à chaque Colocataire qui la demande.
+
+> Note de rédaction : le logement doit respecter les critères de décence et les normes de peuplement, appréciés au regard du nombre total de Colocataires.
+
+## ARTICLE 13 – CLAUSE RÉSOLUTOIRE
+
+Le présent contrat est résilié de plein droit, à défaut de paiement du loyer ou des charges aux termes convenus, ou de versement du dépôt de garantie, six semaines après un commandement de payer demeuré infructueux. Il en est de même à défaut d'assurance des risques locatifs, un mois après un commandement demeuré infructueux, ou en cas de troubles de voisinage constatés par une décision de justice passée en force de chose jugée.
+
+> Note de rédaction : la clause résolutoire s'applique à l'ensemble du bail. Un impayé d'un seul Colocataire peut donc menacer tous les autres : d'où l'intérêt de suivre les paiements et d'en parler tôt.
+
+## ARTICLE 14 – ÉTAT DES LIEUX
+
+Un état des lieux est établi contradictoirement entre le Bailleur et l'ensemble des Colocataires lors de la remise des clés, puis lors de leur restitution par le dernier Colocataire. [En location meublée : un inventaire et un état détaillé du mobilier y sont joints.]
+
+## ARTICLE 15 – DONNÉES PERSONNELLES
+
+Les données personnelles des Colocataires sont utilisées par le Bailleur pour la gestion du bail. Elles sont conservées pendant la durée du bail et des prescriptions applicables. Chaque Colocataire peut exercer ses droits d'accès, de rectification et d'effacement auprès de [coordonnées du Bailleur ou du mandataire].
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, un pour chaque partie.
+
+**Le Bailleur** (ou son mandataire)
+Signature précédée de la mention « Lu et approuvé »
+
+**Les Colocataires**
+[nom] : signature précédée de la mention « Lu et approuvé »
+[nom] : signature précédée de la mention « Lu et approuvé »
+[nom] : signature précédée de la mention « Lu et approuvé »
+
+## ANNEXES
+
+- Dossier de diagnostic technique : diagnostic de performance énergétique, état des risques, constat de risque d'exposition au plomb (logement construit avant 1949), états des installations intérieures d'électricité et de gaz (installations de plus de quinze ans), information sur la présence d'amiante le cas échéant
+- Notice d'information relative aux droits et obligations des locataires et des bailleurs
+- État des lieux d'entrée (et inventaire du mobilier en location meublée)
+- Extrait du règlement de copropriété concernant la destination de l'immeuble, la jouissance et l'usage des parties privatives et communes, et la quote-part de charges
+- Acte(s) de cautionnement, le cas échéant
+- Attestation(s) d'assurance des Colocataires

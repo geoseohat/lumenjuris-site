@@ -2550,27 +2550,53 @@
     "bon-de-commande": {
       "fichiers": {
         "docx": {
-          "id": "{{20261126-091517-publier-en-ligne-bon-de-commande.o1.id}}",
-          "url": "{{20261126-091517-publier-en-ligne-bon-de-commande.o1.source_url}}",
+          "id": 4007,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-bon-de-commande-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "eaa10c16cf688ce489290f1e493d4ade9c83722387beea642ee439f7c0bfdf5c"
         },
         "pdf": {
-          "id": "{{20261126-091517-publier-en-ligne-bon-de-commande.o2.id}}",
-          "url": "{{20261126-091517-publier-en-ligne-bon-de-commande.o2.source_url}}",
+          "id": 4008,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-bon-de-commande-lumen-juris.pdf",
           "taille": "129 Ko",
           "empreinte": "eaa10c16cf688ce489290f1e493d4ade9c83722387beea642ee439f7c0bfdf5c"
         }
       },
       "image": {
-        "id": "{{20261126-091517-publier-en-ligne-bon-de-commande.o3.id}}",
-        "url": "{{20261126-091517-publier-en-ligne-bon-de-commande.o3.source_url}}",
+        "id": 4009,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-bon-de-commande-lumen-juris.png",
         "taille": "286 Ko",
         "empreinte": "d3f6beb881bd6a3385a82c169fc78f9f78fecd55041e3a656a75cd3fdd2c4b69"
       },
       "statut": "publish",
-      "id": "{{20261126-091517-publier-en-ligne-bon-de-commande.o7.id}}",
-      "lien": "{{20261126-091517-publier-en-ligne-bon-de-commande.o7.link}}",
+      "id": 4010,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/bon-de-commande/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-colocation": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o1.id}}",
+          "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "e9a49ebc20b125baaa94af1fea00188a1533a93b5ae5d56a00fd35609ceb379a"
+        },
+        "pdf": {
+          "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o2.id}}",
+          "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o2.source_url}}",
+          "taille": "132 Ko",
+          "empreinte": "e9a49ebc20b125baaa94af1fea00188a1533a93b5ae5d56a00fd35609ceb379a"
+        }
+      },
+      "image": {
+        "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o3.id}}",
+        "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o3.source_url}}",
+        "taille": "290 Ko",
+        "empreinte": "4cebd5c84198aa4bddfe124f9a7346176727d6fe39a7ce4d592859262d97372e"
+      },
+      "statut": "publish",
+      "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o7.id}}",
+      "lien": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2579,6 +2605,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261126-091517-publier-en-ligne-bon-de-commande"
+    "20261126-091807-publier-en-ligne-contrat-de-colocation"
   ]
 }

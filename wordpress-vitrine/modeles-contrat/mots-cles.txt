@@ -124,7 +124,7 @@
 [x] 2026-11-25 lettre d'avertissement disciplinaire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-avertissement-disciplinaire/
 [x] 2026-11-25 statuts d'association loi 1901 -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/statuts-d-association-loi-1901/
 [x] 2026-11-26 bon de commande -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/bon-de-commande/
-contrat de colocation
+[x] 2026-11-26 contrat de colocation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-colocation/
 contrat de location de parking
 contrat de prêt à usage
 contrat de location de matériel

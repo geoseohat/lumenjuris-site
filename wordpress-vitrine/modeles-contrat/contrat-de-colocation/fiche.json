@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-colocation",
+  "nom": "Contrat de colocation",
+  "nom_court": "contrat de colocation",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de colocation",
+  "mots_cles_secondaires": [
+    "bail de colocation",
+    "contrat de colocation gratuit",
+    "bail colocation word",
+    "clause de solidarité colocation",
+    "bail colocation meublée",
+    "avenant colocation départ colocataire"
+  ],
+  "titre_h1": "Modèle de contrat de colocation gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de colocation gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de colocation gratuit (Word, PDF) : bail unique vide ou meublé, clause de solidarité, forfait de charges, départ et remplacement.",
+  "chapo": "Le contrat de colocation réunit plusieurs locataires dans un même bail et fixe ce que chacun doit au bailleur. Ce modèle de bail unique encadre la solidarité, les charges, l'assurance et le départ d'un colocataire selon la loi du 6 juillet 1989.",
+  "public": "Propriétaires bailleurs et colocataires",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-colocation-lumen-juris",
+  "date_publication": "2026-11-26",
+  "date_mise_a_jour": "2026-11-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit immobilier",
+      "Baux d'habitation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Choisissez bail unique ou baux séparés",
+      "Vérifiez que tous les colocataires signeront un seul bail pour le logement entier ; sinon, ce modèle doit être adapté."
+    ],
+    [
+      "Décidez vide ou meublé",
+      "Ce choix fixe la durée du bail, le plafond du dépôt de garantie et le préavis de chaque colocataire."
+    ],
+    [
+      "Tranchez la question de la solidarité",
+      "Conservez ou supprimez la clause de solidarité, et faites désigner dans chaque acte de caution le colocataire garanti."
+    ],
+    [
+      "Réglez charges et assurance",
+      "Choisissez entre provisions et forfait de charges, puis entre assurances des colocataires et assurance souscrite par le bailleur."
+    ],
+    [
+      "Réunissez tous les signataires",
+      "Faites signer le bail par chaque colocataire, joignez diagnostics, notice et état des lieux, et remettez un exemplaire à chacun."
+    ]
+  ],
+  "faq": [
+    [
+      "Un colocataire qui part reste-t-il redevable du loyer ?",
+      "Seulement si le bail contient une clause de solidarité. Dans ce cas, il reste tenu jusqu'à la date d'effet de son congé si un remplaçant entre dans le bail, et au plus six mois après cette date sinon. Sans clause de solidarité, il n'est plus redevable après la fin de son préavis."
+    ],
+    [
+      "Le bailleur peut-il réclamer tout le loyer à un seul colocataire ?",
+      "Oui, si le bail prévoit la solidarité entre colocataires. Le colocataire qui a payé pour les autres peut ensuite leur réclamer le remboursement de leur part. Sans clause de solidarité, chacun ne doit que sa propre part."
+    ],
+    [
+      "Peut-on demander un dépôt de garantie à chaque colocataire ?",
+      "Dans un bail unique, le dépôt de garantie est plafonné pour le logement entier : un mois de loyer hors charges en location vide, deux mois en meublé. Les colocataires peuvent se répartir ce montant entre eux, mais le total ne peut pas dépasser le plafond."
+    ],
+    [
+      "Comment ajouter un nouveau colocataire au bail ?",
+      "Le bailleur doit donner son accord, puis un avenant au bail est signé par le bailleur, le nouveau colocataire et ceux qui restent. Sans avenant, le nouvel occupant n'est pas locataire et la solidarité du colocataire parti n'est pas levée avant six mois."
+    ],
+    [
+      "Le forfait de charges est-il possible en colocation vide ?",
+      "Oui. La colocation fait exception à la règle selon laquelle un bail vide fonctionne avec des provisions régularisées chaque année. Le forfait est révisable une fois par an et ne doit pas être manifestement disproportionné."
+    ],
+    [
+      "Un couple marié qui loue ensemble est-il en colocation ?",
+      "Non. La loi exclut de la colocation la location consentie exclusivement à des époux ou à des partenaires de PACS au moment de la signature. Leurs obligations relèvent des règles propres aux couples, notamment la solidarité ménagère."
+    ],
+    [
+      "Que se passe-t-il si un colocataire ne paie plus sa part ?",
+      "Avec une clause de solidarité, le bailleur peut se tourner vers les autres colocataires ou vers les cautions. Le défaut de paiement peut aussi déclencher la clause résolutoire, qui met fin au bail pour tous après un commandement de payer resté sans effet pendant six semaines."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 89-462 du 6 juillet 1989, articles 3 (contenu du bail), 8-1 (colocation), 15 (congé), 22 (dépôt de garantie), 24 (clause résolutoire) et 25-3 et suivants (location meublée)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ],
+    [
+      "Code civil, articles 1310 et suivants (solidarité) et 2288 et suivants (cautionnement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-colocation"
+  }
+}
