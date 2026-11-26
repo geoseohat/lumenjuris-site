@@ -1,0 +1,110 @@
+{
+  "slug": "bon-de-commande",
+  "nom": "Bon de commande",
+  "nom_court": "bon de commande",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle bon de commande",
+  "mots_cles_secondaires": [
+    "bon de commande gratuit",
+    "bon de commande word",
+    "bon de commande pdf",
+    "bon de commande entre professionnels",
+    "exemple de bon de commande",
+    "bon de commande avec acompte"
+  ],
+  "titre_h1": "Modèle de bon de commande gratuit (Word et PDF)",
+  "titre_seo": "Modèle de bon de commande gratuit 2026 (Word, PDF) | Lumen Juris",
+  "meta_description": "Modèle de bon de commande gratuit en Word et PDF : désignation, prix, livraison, acompte ou arrhes, réserve de propriété et règles B2B ou client particulier.",
+  "chapo": "Le bon de commande fixe par écrit ce que l'acheteur commande, à quel prix et pour quelle date. Ce modèle, conçu pour les ventes entre professionnels, signale aussi les règles à ajouter lorsque le client est un particulier.",
+  "public": "Entreprises, artisans, commerçants et leurs clients",
+  "gratuit": true,
+  "fichier_base": "modele-bon-de-commande-lumen-juris",
+  "date_publication": "2026-11-26",
+  "date_mise_a_jour": "2026-11-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit commercial",
+      "Droit de la consommation"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Reprenez le devis accepté",
+      "Recopiez les références, quantités et prix du devis, et indiquez son numéro pour relier les deux documents."
+    ],
+    [
+      "Qualifiez la somme versée d'avance",
+      "Choisissez acompte (commande ferme) ou arrhes (possibilité de se dédire) et écrivez le mot exact sur le bon."
+    ],
+    [
+      "Fixez une date de livraison précise",
+      "Indiquez une date ou un délai chiffré, le lieu et les horaires de réception, et décidez si des pénalités de retard s'appliquent."
+    ],
+    [
+      "Vérifiez le statut de l'acheteur",
+      "Si le client est un particulier, activez les options consommateur : rétractation, garanties légales, suppression des pénalités professionnelles."
+    ],
+    [
+      "Faites signer avant la livraison",
+      "Recueillez la signature des deux parties avant toute livraison, pour que la réserve de propriété et les conditions de paiement soient opposables."
+    ]
+  ],
+  "faq": [
+    [
+      "Un bon de commande signé peut-il être annulé ?",
+      "Une commande ferme ne peut être annulée qu'avec l'accord des deux parties. Si la somme versée d'avance est qualifiée d'arrhes, chacun peut se dédire : l'acheteur perd les arrhes, le vendeur les rend au double. Un particulier qui a commandé à distance ou à domicile dispose en outre, sauf exceptions, d'un délai de rétractation de 14 jours."
+    ],
+    [
+      "Le bon de commande remplace-t-il la facture ?",
+      "Non. Le bon de commande constate l'accord sur la vente, tandis que la facture constate la somme due et doit comporter des mentions fiscales et commerciales obligatoires. Le fournisseur doit émettre une facture même si un bon de commande a été signé."
+    ],
+    [
+      "Faut-il obligatoirement un bon de commande entre professionnels ?",
+      "Non, aucun texte ne l'impose de façon générale : un accord oral ou par courrier électronique peut suffire à former la vente. Le bon de commande reste fortement conseillé, car il permet de prouver ce qui a été commandé, au prix convenu et pour la date prévue."
+    ],
+    [
+      "Que faire si la livraison ne correspond pas au bon de commande ?",
+      "Notez des réserves précises sur le bon de livraison, puis signalez la non-conformité par écrit au fournisseur dans le délai prévu au bon. Si un transporteur est intervenu, confirmez vos réserves par lettre recommandée dans les trois jours suivant la réception, jours fériés non compris."
+    ],
+    [
+      "Quel délai de paiement peut-on prévoir sur un bon de commande ?",
+      "L'échéance inscrite sur le bon ne peut pas aller au-delà de 60 jours après l'émission de la facture, ou de 45 jours fin de mois si cette formule est expressément choisie. Si aucune échéance n'est fixée, le client professionnel paie 30 jours après réception de la marchandise. Certains secteurs ont des délais spécifiques plus courts."
+    ],
+    [
+      "Un devis signé vaut-il bon de commande ?",
+      "Un devis signé par le client avec la mention « bon pour accord » forme en principe la vente, car il y a accord sur la chose et le prix. Un bon de commande distinct reste utile pour préciser l'acompte, la date de livraison ou la réserve de propriété."
+    ],
+    [
+      "Le vendeur peut-il augmenter le prix après la signature du bon de commande ?",
+      "Non, sauf si le bon prévoit une clause de révision du prix précise et acceptée. Une fois la commande ferme, le prix convenu s'impose aux deux parties. Toute modification doit faire l'objet d'un accord écrit."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1113 (formation du contrat), 1583 et 1590 (vente, arrhes), 1641 (vices cachés), 2367 et 2368 (réserve de propriété)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 133-3 (réserves au transporteur), L. 441-9 (facture) et L. 441-10 (délais et pénalités de paiement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de la consommation, articles L. 214-1 (arrhes), L. 216-1 et suivants (livraison), L. 217-3 et suivants (garantie de conformité), L. 221-18 (rétractation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code général des impôts et son annexe II (mentions fiscales de la facture)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "bon-commande"
+  }
+}

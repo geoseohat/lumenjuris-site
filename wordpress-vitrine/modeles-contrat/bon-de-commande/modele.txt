@@ -1,0 +1,186 @@
+# BON DE COMMANDE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce bon de commande est conçu pour une commande passée entre deux professionnels. Si l'acheteur est un consommateur, reportez-vous aux options signalées dans les articles 4, 6 et 9 : plusieurs règles du code de la consommation s'appliquent alors et ne peuvent pas être écartées.
+
+Bon de commande n° [numéro]
+Date de la commande : [date]
+
+ENTRE LES SOUSSIGNÉS :
+
+**Le Fournisseur** : [dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée au registre du commerce et des sociétés (ou au registre national des entreprises) de [ville] sous le numéro [numéro SIREN], dont le siège est situé [adresse], numéro de TVA intracommunautaire [numéro], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e).
+
+Ci-après « le Fournisseur »,
+
+ET
+
+**L'Acheteur** : [dénomination sociale], [forme juridique] au capital de [montant] euros, immatriculée sous le numéro [numéro SIREN], dont le siège est situé [adresse], numéro de TVA intracommunautaire [numéro], représentée par [nom, prénom], en qualité de [fonction], dûment habilité(e).
+
+> Option : si l'Acheteur est une personne physique agissant pour ses besoins personnels, indiquez seulement ses nom, prénom, adresse, téléphone et adresse électronique.
+
+Ci-après « l'Acheteur »,
+
+Ensemble « les Parties ».
+
+## ARTICLE 1 – OBJET DE LA COMMANDE
+
+Par le présent bon de commande, l'Acheteur commande au Fournisseur, qui l'accepte, les biens et, le cas échéant, les prestations décrits à l'article 2, aux prix et conditions ci-après.
+
+Le présent bon de commande s'appuie sur [le devis n° [numéro] du [date] / l'offre du Fournisseur du [date]], dont il reprend les éléments. En cas de différence entre ce document et le présent bon, le présent bon prévaut.
+
+## ARTICLE 2 – DÉSIGNATION DES PRODUITS ET PRESTATIONS
+
+Ligne 1 :
+- Référence : [réf.]
+- Désignation précise : [description, modèle, couleur, dimensions, norme]
+- Quantité et unité : [quantité] [pièce, kg, heure…]
+- Prix unitaire HT : [prix] €
+- Taux de TVA : [taux] %
+- Total HT de la ligne : [total] €
+
+Ligne 2 :
+- Référence : [réf.]
+- Désignation précise : [description]
+- Quantité et unité : [quantité] [unité]
+- Prix unitaire HT : [prix] €
+- Taux de TVA : [taux] %
+- Total HT de la ligne : [total] €
+
+> Note de rédaction : ajoutez autant de lignes que de produits, ou joignez le détail en annexe.
+
+Récapitulatif :
+- Total hors taxes : [montant] €
+- Remise accordée : [taux ou montant] €
+- Frais de transport et d'emballage : [montant ou « inclus »] €
+- Montant de la TVA : [montant] €
+- **Total toutes taxes comprises : [montant] €**
+
+> Note de rédaction : décrivez chaque produit de façon assez précise pour pouvoir vérifier, à la livraison, que ce qui est livré correspond à ce qui a été commandé (référence, marque, caractéristiques techniques, norme applicable).
+
+## ARTICLE 3 – FORMATION DE LA COMMANDE
+
+La commande est ferme dès la signature du présent bon par les deux Parties, ou dès sa signature par l'Acheteur suivie de la confirmation écrite du Fournisseur (courrier ou courrier électronique) dans un délai de [nombre] jours ouvrés. À défaut de confirmation dans ce délai, l'Acheteur est libre de retirer sa commande sans frais.
+
+Les conditions générales de vente du Fournisseur, dont l'Acheteur reconnaît avoir reçu un exemplaire, s'appliquent en ce qu'elles ne sont pas contraires au présent bon. Les conditions particulières du présent bon priment sur les conditions générales de chacune des Parties.
+
+> Option : « Les conditions générales d'achat de l'Acheteur, jointes en annexe, s'appliquent à la présente commande. » Choisissez une seule des deux formules pour éviter un conflit entre conditions générales.
+
+## ARTICLE 4 – ACOMPTE
+
+À la commande, l'Acheteur verse la somme de [montant] €, soit [pourcentage] % du prix TTC, à titre [d'acompte / d'arrhes].
+
+- **S'il s'agit d'un acompte** : la commande est définitive. L'acompte s'impute sur le prix. Aucune des Parties ne peut se dégager unilatéralement de la commande en abandonnant cette somme.
+- **S'il s'agit d'arrhes** : chaque Partie peut renoncer à la commande, l'Acheteur en perdant les arrhes, le Fournisseur en restituant le double.
+
+> Note de rédaction : si l'Acheteur est un consommateur, les sommes versées d'avance sont des arrhes, sauf si le bon de commande indique clairement qu'il s'agit d'un acompte (article L. 214-1 du code de la consommation). Cochez donc la bonne mention de façon explicite.
+
+## ARTICLE 5 – LIVRAISON
+
+### 5.1 Date et lieu
+
+Le Fournisseur livre les produits au plus tard le [date] (ou dans un délai de [nombre] jours à compter de [la signature / la réception de l'acompte]), à l'adresse suivante : [adresse de livraison].
+
+Les modalités de livraison sont les suivantes : [livraison par le Fournisseur / par transporteur / retrait dans les locaux du Fournisseur]. Les horaires de réception sont : [jours et horaires].
+
+### 5.2 Retard de livraison
+
+Le Fournisseur informe l'Acheteur par écrit de tout retard prévisible dès qu'il en a connaissance.
+
+> Option (pénalités de retard) : en cas de retard de livraison imputable au Fournisseur, celui-ci doit à l'Acheteur une pénalité de [taux] % du montant HT de la commande par jour (ou semaine) de retard, dans la limite de [taux] % de ce montant.
+
+Si le retard dépasse [nombre] jours après la date prévue, l'Acheteur peut, après mise en demeure restée sans effet pendant [nombre] jours, résoudre la commande par écrit. Le Fournisseur lui rembourse alors les sommes versées dans un délai de [nombre] jours.
+
+### 5.3 Réception et réserves
+
+À la livraison, l'Acheteur vérifie l'état et la quantité des produits en présence du livreur. Il note toute réserve précise sur le bon de livraison.
+
+En cas de transport par un tiers, l'Acheteur confirme ses réserves au transporteur par lettre recommandée dans les trois jours qui suivent la réception, jours fériés non compris (article L. 133-3 du code de commerce), et en adresse copie au Fournisseur.
+
+L'Acheteur signale au Fournisseur tout défaut de conformité apparent dans un délai de [nombre] jours ouvrés à compter de la livraison. Le Fournisseur remplace ou complète alors, à ses frais, les produits non conformes ou manquants.
+
+## ARTICLE 6 – TRANSFERT DE PROPRIÉTÉ ET DES RISQUES
+
+### 6.1 Réserve de propriété
+
+Le Fournisseur conserve la propriété des produits livrés jusqu'au paiement complet du prix, en principal et accessoires. Jusqu'à ce paiement, l'Acheteur s'interdit de revendre ou de transformer les produits [sauf dans le cadre normal de son activité, le prix de revente étant alors affecté au paiement du Fournisseur].
+
+> Note de rédaction : la clause de réserve de propriété doit être convenue par écrit (article 2368 du code civil). Pour pouvoir revendiquer les produits si l'Acheteur fait l'objet d'une procédure collective, elle doit avoir été acceptée au plus tard au moment de la livraison : faites signer ce bon avant la livraison.
+
+### 6.2 Risques
+
+Les risques de perte et de détérioration des produits passent à l'Acheteur au moment de [la remise des produits à l'Acheteur / la remise au transporteur choisi par l'Acheteur], même si la propriété n'a pas encore été transférée.
+
+> Option (consommateur) : si l'Acheteur est un consommateur, les risques ne lui sont transférés qu'au moment où il prend physiquement possession des produits, sauf s'il a lui-même choisi un transporteur qui n'était pas proposé par le Fournisseur. Supprimez alors le choix ci-dessus.
+
+## ARTICLE 7 – PRIX ET CONDITIONS DE PAIEMENT
+
+Les prix indiqués à l'article 2 sont fermes et non révisables jusqu'à la livraison complète.
+
+Le solde du prix, après déduction de l'acompte, est payé [à la livraison / à [nombre] jours à compter de la date d'émission de la facture / à 45 jours fin de mois à compter de la date d'émission de la facture] par [virement bancaire / chèque / autre].
+
+> Note de rédaction : entre professionnels, le délai de paiement convenu ne peut pas dépasser soixante jours à compter de la date d'émission de la facture, ou quarante-cinq jours fin de mois si ce délai est expressément prévu et ne crée pas d'abus. À défaut d'accord, le délai est de trente jours après la réception des marchandises (article L. 441-10 du code de commerce). Des délais différents existent dans certains secteurs : vérifiez si le vôtre en fait partie.
+
+Le Fournisseur émet une facture comportant les mentions prévues par l'article L. 441-9 du code de commerce et par le code général des impôts.
+
+## ARTICLE 8 – RETARD DE PAIEMENT
+
+Toute somme non payée à l'échéance entraîne de plein droit, sans rappel préalable :
+
+- des pénalités de retard calculées au taux de [taux] % par an (ce taux ne peut pas être inférieur à trois fois le taux d'intérêt légal ; à défaut de taux convenu, il est égal au taux de refinancement le plus récent de la Banque centrale européenne majoré de dix points) ;
+- une indemnité forfaitaire pour frais de recouvrement de quarante euros, due pour chaque facture payée en retard.
+
+Si les frais de recouvrement réellement engagés dépassent ce montant, le Fournisseur peut demander une indemnisation complémentaire sur justificatifs.
+
+> Option : en cas de non-paiement à l'échéance, le Fournisseur peut, après mise en demeure restée sans effet pendant [nombre] jours, suspendre les livraisons en cours.
+
+> Note de rédaction : les pénalités de retard et l'indemnité forfaitaire ne s'appliquent qu'entre professionnels. Supprimez cet article si l'Acheteur est un consommateur et remplacez-le par une simple mention des intérêts au taux légal après mise en demeure.
+
+## ARTICLE 9 – GARANTIES
+
+Les produits bénéficient des garanties légales prévues par la loi, notamment la garantie contre les vices cachés (articles 1641 et suivants du code civil).
+
+> Option (garantie commerciale) : en plus des garanties légales, le Fournisseur accorde une garantie commerciale de [durée] couvrant [pièces / main-d'œuvre / déplacement], selon les modalités suivantes : [modalités].
+
+> Note de rédaction : si l'Acheteur est un consommateur, mentionnez la garantie légale de conformité de deux ans (articles L. 217-3 et suivants du code de la consommation) et l'existence de la garantie des vices cachés. Toute clause qui les limite ou les écarte est réputée non écrite.
+
+## ARTICLE 10 – ANNULATION ET MODIFICATION DE LA COMMANDE
+
+Toute modification de la commande (quantités, références, date ou lieu de livraison) fait l'objet d'un avenant écrit signé par les deux Parties, qui précise ses conséquences sur le prix et le délai.
+
+Hors le cas des arrhes prévu à l'article 4, la commande ferme ne peut être annulée par l'une des Parties qu'avec l'accord écrit de l'autre.
+
+> Option (consommateur, vente hors établissement ou à distance) : si la commande est passée à distance ou hors des locaux habituels du Fournisseur (au domicile de l'Acheteur, sur une foire avec démarchage, etc.), l'Acheteur consommateur dispose d'un délai de rétractation de quatorze jours, sauf exceptions prévues par la loi (article L. 221-18 du code de la consommation). Joignez alors au bon le formulaire type de rétractation et les informations prévues par la loi. En cas de vente hors établissement, le Fournisseur ne peut recevoir aucun paiement avant l'expiration d'un délai de sept jours à compter de la conclusion du contrat, sauf exceptions légales.
+
+## ARTICLE 11 – FORCE MAJEURE
+
+Aucune Partie n'est responsable d'un retard ou d'une inexécution causé par un événement de force majeure au sens de l'article 1218 du code civil. La Partie concernée en informe l'autre sans délai. Si l'empêchement dure plus de [nombre] jours, chaque Partie peut résoudre la commande par écrit ; les sommes versées pour des produits non livrés sont alors restituées.
+
+## ARTICLE 12 – DONNÉES PERSONNELLES
+
+Les données personnelles recueillies dans le présent bon sont utilisées par le Fournisseur pour traiter la commande, la livraison et la facturation. Elles sont conservées pendant la durée nécessaire à ces opérations et aux obligations comptables. La personne concernée peut exercer ses droits d'accès, de rectification et d'effacement auprès de [adresse électronique du Fournisseur].
+
+## ARTICLE 13 – LITIGES ET DROIT APPLICABLE
+
+Le présent bon de commande est soumis au droit français.
+
+Les Parties recherchent une solution amiable à tout différend avant toute action en justice. À défaut d'accord dans un délai de [nombre] jours, le litige est porté devant [le tribunal de commerce de [ville] / le tribunal compétent].
+
+> Note de rédaction : la clause attribuant compétence à un tribunal choisi n'est valable qu'entre commerçants. Si l'Acheteur est un consommateur, supprimez le choix du tribunal et indiquez les coordonnées du médiateur de la consommation dont relève le Fournisseur.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+**Pour le Fournisseur**
+Nom, fonction : [nom, fonction]
+Signature et cachet, précédés de la mention « Bon pour acceptation de la commande »
+
+**Pour l'Acheteur**
+Nom, fonction : [nom, fonction]
+Signature et cachet, précédés de la mention « Bon pour commande »
+
+## ANNEXES
+
+- Annexe 1 : devis ou offre du Fournisseur n° [numéro] du [date]
+- Annexe 2 : conditions générales de vente du Fournisseur (ou conditions générales d'achat de l'Acheteur)
+- Annexe 3 : fiche technique ou cahier des charges des produits, le cas échéant
+- Annexe 4 (consommateur, vente à distance ou hors établissement) : formulaire type de rétractation
