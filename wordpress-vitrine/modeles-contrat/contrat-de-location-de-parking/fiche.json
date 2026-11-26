@@ -1,0 +1,105 @@
+{
+  "slug": "contrat-de-location-de-parking",
+  "nom": "Contrat de location de parking",
+  "nom_court": "contrat de location de parking",
+  "categorie": "Immobilier et baux",
+  "mot_cle": "modèle contrat de location de parking",
+  "mots_cles_secondaires": [
+    "bail de location de parking",
+    "contrat de location de garage",
+    "location box garage contrat",
+    "contrat location place de stationnement",
+    "bail parking word",
+    "préavis location parking"
+  ],
+  "titre_h1": "Modèle de contrat de location de parking gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de location de parking gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de location de parking ou de box gratuit (Word, PDF) : durée, préavis, loyer indexé, dépôt de garantie, assurance, vol et impayés.",
+  "chapo": "Louer une place de stationnement, un box ou un garage seul relève du code civil et laisse une large liberté aux parties. Ce modèle fixe par écrit la durée, le préavis, l'usage autorisé et la responsabilité de chacun.",
+  "public": "Propriétaires et locataires de places de parking, box et garages",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-location-de-parking-lumen-juris",
+  "date_publication": "2026-11-26",
+  "date_mise_a_jour": "2026-11-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit immobilier",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez le lien avec un logement",
+      "Assurez-vous que l'emplacement est loué seul ; s'il dépend d'un logement loué au même locataire, utilisez le bail d'habitation."
+    ],
+    [
+      "Décrivez l'emplacement et ses accès",
+      "Indiquez le numéro, le niveau, la nature de la place et le nombre de badges ou télécommandes remis."
+    ],
+    [
+      "Fixez l'usage autorisé",
+      "Précisez le véhicule garé et si le stockage d'objets est permis, en tenant compte du règlement de copropriété."
+    ],
+    [
+      "Choisissez la durée et le préavis",
+      "Optez pour une durée indéterminée ou déterminée et prévoyez un préavis équivalent pour le bailleur et le locataire."
+    ],
+    [
+      "Faites un état des lieux photographié",
+      "Prenez des photographies datées de l'emplacement et de la porte le jour de la remise des accès, et annexez-les au contrat."
+    ]
+  ],
+  "faq": [
+    [
+      "Quel préavis pour résilier la location d'un parking ?",
+      "Aucun préavis n'est fixé par la loi pour un parking loué seul : c'est le contrat qui le détermine, souvent un à trois mois. Si le contrat est muet, la résiliation d'une location à durée indéterminée doit respecter un délai raisonnable, apprécié selon les usages locaux."
+    ],
+    [
+      "Le dépôt de garantie d'un parking est-il plafonné ?",
+      "Non, pour un parking loué indépendamment d'un logement, le montant du dépôt de garantie est libre. En pratique, il correspond le plus souvent à un ou deux mois de loyer. S'il est loué avec un logement, il entre dans le plafond du bail d'habitation."
+    ],
+    [
+      "Le propriétaire est-il responsable si ma voiture est volée dans le parking ?",
+      "En principe non : la location n'oblige pas le bailleur à surveiller le véhicule. Sa responsabilité peut être engagée s'il a commis une faute, par exemple en laissant une porte ou une serrure défectueuse sans réparation malgré les signalements."
+    ],
+    [
+      "Peut-on stocker des affaires dans un box loué ?",
+      "Cela dépend du contrat et du règlement de l'immeuble. Beaucoup de règlements interdisent le stockage sur une place ouverte, et les produits inflammables sont presque toujours proscrits. Le modèle prévoit une option qui autorise le stockage de biens non dangereux dans un box fermé."
+    ],
+    [
+      "Le loyer d'un parking peut-il augmenter chaque année ?",
+      "Oui, si le contrat prévoit une clause d'indexation. Elle doit se référer à un indice en rapport avec l'objet du contrat, le plus souvent l'indice de référence des loyers. Sans clause, le loyer reste celui fixé à la signature."
+    ],
+    [
+      "Un locataire de parking peut-il être expulsé pendant l'hiver ?",
+      "Oui. La trêve hivernale protège les occupants d'un local d'habitation et ne concerne pas un emplacement de stationnement loué seul. L'expulsion reste toutefois soumise à une décision de justice."
+    ],
+    [
+      "Faut-il déclarer les loyers d'une place de parking ?",
+      "Oui, pour un particulier, les loyers perçus s'ajoutent en principe aux revenus fonciers et sont déclarés chaque année. Le régime exact, notamment au regard de la TVA, dépend de la situation du bailleur et mérite d'être vérifié."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1709 et suivants (louage de choses), 1728 et 1731 (obligations du preneur, état des lieux)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code monétaire et financier, article L. 112-2 (clauses d'indexation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026"
+    ],
+    [
+      "Loi n° 89-462 du 6 juillet 1989 (parking accessoire d'un logement)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-location-parking"
+  }
+}

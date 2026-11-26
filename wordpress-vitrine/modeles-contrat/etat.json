@@ -2576,27 +2576,53 @@
     "contrat-de-colocation": {
       "fichiers": {
         "docx": {
-          "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o1.id}}",
-          "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o1.source_url}}",
+          "id": 4054,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-colocation-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "e9a49ebc20b125baaa94af1fea00188a1533a93b5ae5d56a00fd35609ceb379a"
         },
         "pdf": {
-          "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o2.id}}",
-          "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o2.source_url}}",
+          "id": 4055,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-colocation-lumen-juris.pdf",
           "taille": "132 Ko",
           "empreinte": "e9a49ebc20b125baaa94af1fea00188a1533a93b5ae5d56a00fd35609ceb379a"
         }
       },
       "image": {
-        "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o3.id}}",
-        "url": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o3.source_url}}",
+        "id": 4056,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-colocation-lumen-juris.png",
         "taille": "290 Ko",
         "empreinte": "4cebd5c84198aa4bddfe124f9a7346176727d6fe39a7ce4d592859262d97372e"
       },
       "statut": "publish",
-      "id": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o7.id}}",
-      "lien": "{{20261126-091807-publier-en-ligne-contrat-de-colocation.o7.link}}",
+      "id": 4057,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-colocation/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-location-de-parking": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o1.id}}",
+          "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "503d50a3dfec91464d7a8ad06edc45636461ee9976a32dfcfb775a5df61541a5"
+        },
+        "pdf": {
+          "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o2.id}}",
+          "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o2.source_url}}",
+          "taille": "108 Ko",
+          "empreinte": "503d50a3dfec91464d7a8ad06edc45636461ee9976a32dfcfb775a5df61541a5"
+        }
+      },
+      "image": {
+        "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o3.id}}",
+        "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "2c7a801796ed91d1c64e97436df58523b04ab3f3c008f618b6d627c55af1f139"
+      },
+      "statut": "publish",
+      "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o7.id}}",
+      "lien": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2605,6 +2631,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261126-091807-publier-en-ligne-contrat-de-colocation"
+    "20261126-092020-publier-en-ligne-contrat-de-location-de-parking"
   ]
 }

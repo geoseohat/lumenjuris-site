@@ -1,0 +1,148 @@
+# CONTRAT DE LOCATION D'UN EMPLACEMENT DE STATIONNEMENT
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle vise la location d'une place de parking, d'un box ou d'un garage loué seul, indépendamment de tout logement. Cette location relève des articles 1709 et suivants du code civil : les parties fixent librement la durée, le loyer, le dépôt de garantie et le préavis. Si l'emplacement est loué avec un logement par le même bailleur, il suit en principe les règles du bail d'habitation (loi du 6 juillet 1989) et ce modèle ne convient pas.
+
+ENTRE LES SOUSSIGNÉS :
+
+**Le Bailleur** : [nom, prénom ou dénomination sociale], demeurant ou dont le siège est situé [adresse], [numéro SIREN le cas échéant], téléphone [numéro], adresse électronique [adresse].
+
+Ci-après « le Bailleur »,
+
+ET
+
+**Le Locataire** : [nom, prénom ou dénomination sociale], demeurant ou dont le siège est situé [adresse], [numéro SIREN le cas échéant], téléphone [numéro], adresse électronique [adresse].
+
+Ci-après « le Locataire ».
+
+## ARTICLE 1 – OBJET
+
+Le Bailleur donne en location au Locataire, qui l'accepte, l'emplacement de stationnement désigné à l'article 2, aux conditions du présent contrat.
+
+## ARTICLE 2 – DÉSIGNATION DE L'EMPLACEMENT
+
+- Nature : [place de stationnement ouverte / place couverte / box fermé / garage individuel]
+- Adresse : [adresse complète de l'immeuble ou du parking]
+- Niveau et numéro : [niveau], emplacement n° [numéro], [lot de copropriété n° [numéro] le cas échéant]
+- Dimensions approximatives : [longueur] m × [largeur] m, hauteur maximale d'accès [hauteur] m
+- Équipements : [éclairage / prise électrique / borne de recharge / porte basculante motorisée / aucun]
+- Accès : [horaires d'accès ou « 24 h sur 24 »], par [badge / télécommande / clé / code]
+
+Moyens d'accès remis au Locataire : [nombre] [badge(s) / télécommande(s) / clé(s)].
+
+> Option : la remise des moyens d'accès donne lieu au versement d'une caution spécifique de [montant] €, restituée lors de leur retour en bon état de fonctionnement.
+
+## ARTICLE 3 – DESTINATION
+
+L'emplacement est destiné exclusivement au stationnement du véhicule suivant : [type de véhicule, marque, modèle, immatriculation].
+
+Le Locataire peut remplacer ce véhicule par un autre de gabarit comparable, à condition d'en informer le Bailleur par écrit et de lui communiquer la nouvelle immatriculation.
+
+Sauf accord écrit du Bailleur, il est interdit au Locataire :
+- d'entreposer dans l'emplacement des objets, meubles, marchandises ou matériaux ;
+- d'y stocker des produits inflammables, explosifs ou dangereux, à l'exception du carburant contenu dans le réservoir du véhicule ;
+- d'y exercer une activité professionnelle, de réparation ou de lavage du véhicule ;
+- d'y stationner un véhicule hors d'usage ou non assuré ;
+- d'utiliser l'emplacement comme lieu d'habitation, même temporaire.
+
+> Option (box fermé) : le Locataire peut entreposer dans le box, en plus du véhicule, des biens personnels non dangereux, à condition de ne pas gêner la fermeture de la porte et de respecter le règlement de l'immeuble.
+
+## ARTICLE 4 – DURÉE
+
+> Option 1 (durée indéterminée) : le présent contrat est conclu pour une durée indéterminée à compter du [date de prise d'effet]. Chaque partie peut y mettre fin à tout moment, par lettre recommandée avec accusé de réception ou remise en main propre contre récépissé, en respectant un préavis de [un mois / deux mois / trois mois].
+
+> Option 2 (durée déterminée) : le présent contrat est conclu pour une durée de [durée] à compter du [date de prise d'effet]. Il est ensuite renouvelé par tacite reconduction pour des périodes de [durée], sauf dénonciation par l'une des parties par lettre recommandée avec accusé de réception, au moins [délai] avant l'échéance. Le Locataire peut toutefois résilier le contrat en cours de période, moyennant un préavis de [délai].
+
+> Note de rédaction : fixez un préavis identique ou proche pour les deux parties. Un préavis très court pour le Bailleur et très long pour le Locataire peut être jugé déséquilibré, notamment si le Locataire est un consommateur.
+
+## ARTICLE 5 – LOYER ET CHARGES
+
+### 5.1 Loyer
+
+Le loyer est fixé à [montant] € par mois, [charges comprises / hors charges].
+
+> Option (charges en sus) : en plus du loyer, le Locataire verse une provision mensuelle de [montant] € au titre des charges suivantes : [entretien de la porte automatique, éclairage, nettoyage, quote-part de charges de copropriété]. Cette provision est régularisée une fois par an au vu des dépenses réelles, dont le Bailleur communique le détail.
+
+> Note de rédaction : si le Bailleur est assujetti à la TVA, précisez si le loyer s'entend hors taxe ou toutes taxes comprises. Le régime fiscal de la location d'emplacements de stationnement dépend de la situation du Bailleur : faites-le vérifier.
+
+### 5.2 Paiement
+
+Le loyer est payable d'avance, le [jour] de chaque mois, par [virement / prélèvement / chèque]. Le Bailleur remet une quittance au Locataire qui en fait la demande.
+
+### 5.3 Révision
+
+Le loyer est révisé chaque année à la date anniversaire du contrat, en fonction de la variation de l'indice [indice de référence des loyers (IRL) / autre indice publié par l'INSEE en rapport avec l'objet du contrat]. L'indice de base est celui du [trimestre et année].
+
+> Note de rédaction : une clause d'indexation doit retenir un indice en relation avec l'objet du contrat ou l'activité de l'une des parties (article L. 112-2 du code monétaire et financier). L'IRL est le plus souvent utilisé pour un parking.
+
+## ARTICLE 6 – DÉPÔT DE GARANTIE
+
+À la signature, le Locataire verse un dépôt de garantie de [montant] €, soit [nombre] mois de loyer. Ce dépôt ne porte pas intérêt. Il est restitué dans un délai de [un mois] suivant la restitution des moyens d'accès et la libération de l'emplacement, déduction faite des sommes restant dues et justifiées.
+
+Le Locataire ne peut pas imputer le dépôt de garantie sur le dernier mois de loyer.
+
+## ARTICLE 7 – ÉTAT DE L'EMPLACEMENT
+
+Un état des lieux contradictoire, accompagné le cas échéant de photographies datées, est établi à la remise des moyens d'accès et à leur restitution. À défaut d'état des lieux d'entrée, le Locataire est présumé avoir reçu l'emplacement en bon état.
+
+## ARTICLE 8 – OBLIGATIONS DU LOCATAIRE
+
+Le Locataire s'engage à :
+- payer le loyer et les charges aux termes convenus ;
+- utiliser l'emplacement conformément à sa destination et au règlement de l'immeuble ou du parking, dont il reconnaît avoir reçu un extrait ;
+- stationner uniquement sur l'emplacement loué, sans empiéter sur les places voisines ni sur les voies de circulation ;
+- maintenir l'emplacement propre et signaler sans délai au Bailleur tout dysfonctionnement des accès ;
+- répondre des dégradations causées par lui ou par son véhicule ;
+- ne pas sous-louer l'emplacement ni céder le contrat sans l'accord écrit du Bailleur ;
+- restituer l'ensemble des moyens d'accès à la fin du contrat.
+
+## ARTICLE 9 – OBLIGATIONS DU BAILLEUR
+
+Le Bailleur s'engage à :
+- mettre l'emplacement à la disposition du Locataire à la date convenue ;
+- assurer au Locataire un accès normal à l'emplacement pendant toute la durée du contrat ;
+- entretenir les équipements dont il a la charge (porte, éclairage, système d'accès) et effectuer les réparations autres que celles dues à l'usage ou à la faute du Locataire.
+
+## ARTICLE 10 – ASSURANCE ET RESPONSABILITÉ
+
+Le Locataire assure son véhicule et, le cas échéant, les biens entreposés, et justifie de cette assurance à première demande du Bailleur. [Pour un box fermé : il souscrit en outre une assurance couvrant sa responsabilité locative en cas d'incendie ou de dégât des eaux.]
+
+Le présent contrat est une location et non un contrat de garde ou de dépôt. Le Bailleur n'assure aucune surveillance de l'emplacement. Il n'est pas responsable du vol ou des dégradations commis par des tiers sur le véhicule ou les biens du Locataire, sauf faute de sa part, notamment en cas de défaut d'entretien des dispositifs de fermeture dont il a la charge.
+
+## ARTICLE 11 – RECHARGE DE VÉHICULE ÉLECTRIQUE
+
+> Option : le Locataire est autorisé à faire installer à ses frais, par un professionnel qualifié, un point de recharge pour véhicule électrique, après accord écrit du Bailleur sur le devis et l'emplacement des travaux. La consommation d'électricité est [mesurée par un sous-compteur et refacturée au Locataire / incluse dans un forfait de [montant] € par mois]. En fin de contrat, l'installation [reste acquise au Bailleur sans indemnité / est retirée par le Locataire, qui remet les lieux en état].
+
+## ARTICLE 12 – RÉSILIATION POUR MANQUEMENT
+
+À défaut de paiement d'un seul terme de loyer à son échéance, ou en cas de manquement grave du Locataire à ses obligations (notamment un usage contraire à l'article 3), le présent contrat est résilié de plein droit [quinze jours / un mois] après une mise en demeure par lettre recommandée avec accusé de réception restée sans effet, rappelant la présente clause.
+
+Le Locataire libère alors l'emplacement et restitue les moyens d'accès. À défaut, le Bailleur peut saisir le juge pour obtenir son expulsion. Le Bailleur ne peut en aucun cas enlever lui-même le véhicule ou changer les moyens d'accès sans décision de justice.
+
+## ARTICLE 13 – FIN DU CONTRAT
+
+À la fin du contrat, le Locataire libère l'emplacement de tout véhicule et de tout objet, et restitue l'ensemble des moyens d'accès. Un état des lieux de sortie est établi contradictoirement.
+
+## ARTICLE 14 – DONNÉES PERSONNELLES
+
+Les données personnelles du Locataire, y compris l'immatriculation de son véhicule, sont utilisées par le Bailleur pour la gestion du contrat et de l'accès au parking. Elles sont conservées pendant la durée du contrat et des prescriptions applicables. Le Locataire peut exercer ses droits d'accès, de rectification et d'effacement auprès de [coordonnées du Bailleur].
+
+## ARTICLE 15 – LITIGES
+
+Le présent contrat est soumis au droit français. Les parties recherchent une solution amiable avant toute action en justice. À défaut, le litige est porté devant le tribunal judiciaire du lieu de situation de l'emplacement.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+**Le Bailleur**
+Signature précédée de la mention « Lu et approuvé »
+
+**Le Locataire**
+Signature précédée de la mention « Lu et approuvé »
+
+## ANNEXES
+
+- Extrait du règlement de copropriété ou du règlement intérieur du parking
+- Plan de situation de l'emplacement, le cas échéant
+- État des lieux d'entrée et photographies
+- Attestation d'assurance du véhicule (et, pour un box, de responsabilité locative)
