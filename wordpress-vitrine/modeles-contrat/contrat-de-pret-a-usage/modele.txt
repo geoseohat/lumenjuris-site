@@ -1,0 +1,139 @@
+# CONTRAT DE PRÊT À USAGE (COMMODAT)
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : le prêt à usage est la mise à disposition gratuite d'un bien, à charge pour l'emprunteur de le rendre (articles 1875 à 1891 du code civil). Il peut porter sur un bien meuble (véhicule, matériel, œuvre, mobilier) ou sur un immeuble (logement, local, terrain). La gratuité est essentielle : si l'emprunteur verse une contrepartie, même modeste, le contrat risque d'être requalifié en bail, avec les règles protectrices qui s'y attachent.
+
+ENTRE LES SOUSSIGNÉS :
+
+**Le Prêteur** : [nom, prénom ou dénomination sociale], demeurant ou dont le siège est situé [adresse], [numéro SIREN le cas échéant], représenté par [nom, fonction] le cas échéant.
+
+Ci-après « le Prêteur »,
+
+ET
+
+**L'Emprunteur** : [nom, prénom ou dénomination sociale], demeurant ou dont le siège est situé [adresse], [numéro SIREN le cas échéant], représenté par [nom, fonction] le cas échéant.
+
+Ci-après « l'Emprunteur ».
+
+## ARTICLE 1 – OBJET
+
+Le Prêteur met gratuitement à la disposition de l'Emprunteur, qui l'accepte, le bien désigné à l'article 2, afin que l'Emprunteur s'en serve conformément à l'article 3, à charge pour lui de le restituer dans les conditions du présent contrat.
+
+Le Prêteur demeure propriétaire du bien prêté.
+
+## ARTICLE 2 – DÉSIGNATION DU BIEN
+
+> Option A (bien meuble) : [nature du bien, marque, modèle, numéro de série ou d'immatriculation, accessoires remis, état apparent].
+
+> Option B (immeuble) : [nature du bien : maison, appartement, local, terrain], situé [adresse], d'une surface de [surface] m², comprenant [description des pièces, annexes, jardin, équipements], [références cadastrales ou numéro de lot le cas échéant].
+
+Le bien est remis dans l'état décrit dans l'état des lieux ou le descriptif annexé, établi contradictoirement et accompagné de photographies datées.
+
+> Option (estimation du bien) : les parties estiment la valeur du bien à [montant] € à la date de la remise.
+
+> Note de rédaction : lorsque le bien a été estimé lors du prêt, sa perte, même par cas fortuit, est à la charge de l'Emprunteur, sauf convention contraire (article 1883 du code civil). N'inscrivez une estimation que si les deux parties ont compris cet effet ; à défaut, ajoutez : « Cette estimation est indicative et ne met pas à la charge de l'Emprunteur la perte du bien par cas fortuit. »
+
+## ARTICLE 3 – USAGE AUTORISÉ
+
+L'Emprunteur ne peut se servir du bien que pour l'usage suivant : [usage précis : habitation personnelle de l'Emprunteur et de sa famille / exercice de l'activité de [activité] / déplacements personnels / exposition…].
+
+Tout autre usage est interdit sans l'accord écrit du Prêteur. L'Emprunteur ne peut ni louer, ni prêter, ni mettre le bien à la disposition d'un tiers.
+
+> Option (immeuble prêté à une société) : l'Emprunteur peut domicilier son siège social dans les locaux prêtés pendant la durée du prêt. Il s'engage à transférer son siège dans un délai de [délai] à compter de la fin du prêt.
+
+## ARTICLE 4 – GRATUITÉ ET FRAIS
+
+Le prêt est consenti à titre gratuit. L'Emprunteur ne verse au Prêteur aucun loyer ni aucune contrepartie.
+
+Restent à la charge de l'Emprunteur les dépenses liées à l'usage du bien, notamment : [consommations d'eau, d'électricité, de gaz et de télécommunications / carburant et péages / consommables / entretien courant].
+
+> Option (immeuble) : la taxe foncière, les charges de copropriété non récupérables et les gros travaux restent à la charge du Prêteur.
+
+> Note de rédaction : faire supporter à l'Emprunteur des charges qui incombent normalement au propriétaire (taxe foncière, gros travaux, assurance du propriétaire) peut constituer une contrepartie et conduire à requalifier le prêt en bail. Limitez les frais à ceux qui découlent directement de l'usage.
+
+## ARTICLE 5 – DURÉE
+
+> Option 1 (durée déterminée) : le prêt est consenti pour une durée de [durée] à compter du [date]. Il prend fin de plein droit à cette date, sans formalité. Il peut être prolongé par un avenant écrit.
+
+> Option 2 (durée liée à un besoin) : le prêt est consenti pour la durée nécessaire à [besoin précis : la durée des études de l'Emprunteur à [établissement] / la réalisation du chantier de [description] / la saison [année]], et au plus tard jusqu'au [date].
+
+> Option 3 (durée indéterminée) : le prêt est consenti pour une durée indéterminée. Chaque partie peut y mettre fin à tout moment par lettre recommandée avec accusé de réception, en respectant un préavis de [un mois / trois mois / six mois].
+
+> Note de rédaction : lorsque le prêt n'a ni terme convenu ni terme prévisible, le Prêteur peut y mettre fin à tout moment, en respectant un délai de préavis raisonnable. Fixer ce délai dans le contrat évite toute discussion.
+
+### Restitution anticipée
+
+Si le Prêteur a un besoin pressant et imprévu du bien avant le terme, il peut en demander la restitution anticipée. À défaut d'accord amiable, le juge peut, selon les circonstances, obliger l'Emprunteur à rendre le bien (article 1889 du code civil).
+
+L'Emprunteur peut restituer le bien à tout moment avant le terme, en prévenant le Prêteur [nombre] jours à l'avance.
+
+## ARTICLE 6 – OBLIGATIONS DE L'EMPRUNTEUR
+
+L'Emprunteur s'engage à :
+- veiller raisonnablement à la garde et à la conservation du bien ;
+- ne l'utiliser que pour l'usage prévu à l'article 3 ;
+- assurer l'entretien courant du bien et effectuer les menues réparations ;
+- informer sans délai le Prêteur de tout sinistre, dégradation, vol ou trouble affectant le bien ;
+- laisser le Prêteur, sur demande préalable de [délai], vérifier l'état du bien ;
+- restituer le bien au terme, avec ses accessoires, dans l'état où il l'a reçu, sous réserve de l'usure normale.
+
+L'Emprunteur répond de la perte et des détériorations du bien, sauf s'il prouve qu'elles résultent de l'usage normal du bien ou d'un événement qu'il ne pouvait ni prévoir ni empêcher. Il en répond même par cas fortuit s'il a employé le bien à un autre usage ou plus longtemps que prévu.
+
+L'Emprunteur ne peut retenir le bien pour obtenir le paiement d'une somme que le Prêteur lui devrait.
+
+## ARTICLE 7 – OBLIGATIONS DU PRÊTEUR
+
+Le Prêteur s'engage à :
+- remettre le bien à la date convenue et en laisser l'usage à l'Emprunteur jusqu'au terme ;
+- signaler à l'Emprunteur les défauts du bien qu'il connaît et qui pourraient causer un dommage ;
+- rembourser à l'Emprunteur les dépenses extraordinaires, nécessaires et urgentes que celui-ci a dû engager pour conserver le bien, si elles ont été si urgentes que le Prêteur n'a pu être prévenu à temps.
+
+Les dépenses que l'Emprunteur engage pour user du bien restent à sa charge.
+
+> Option : toute dépense d'amélioration ou de transformation est soumise à l'accord écrit préalable du Prêteur. Sauf accord contraire, elle reste acquise au Prêteur sans indemnité en fin de prêt.
+
+## ARTICLE 8 – ASSURANCE
+
+> Option A (bien meuble) : l'Emprunteur [souscrit une assurance couvrant le bien et sa responsabilité / est couvert par l'assurance du Prêteur, qui l'a déclaré comme utilisateur]. [Pour un véhicule : le Prêteur vérifie auprès de son assureur que le prêt du véhicule à l'Emprunteur est couvert et sous quelles conditions.]
+
+> Option B (immeuble) : l'Emprunteur souscrit une assurance couvrant les risques dont il doit répondre en tant qu'occupant (incendie, dégât des eaux, explosion) et sa responsabilité civile. Le Prêteur maintient son assurance de propriétaire. L'Emprunteur justifie de son assurance à la remise des clés et chaque année.
+
+## ARTICLE 9 – RÉSILIATION POUR MANQUEMENT
+
+En cas de manquement grave de l'Emprunteur (usage non autorisé, mise à disposition d'un tiers, défaut d'assurance, dégradation volontaire), le Prêteur peut mettre fin au prêt par lettre recommandée avec accusé de réception, après une mise en demeure restée sans effet pendant [quinze jours]. L'Emprunteur restitue alors le bien dans un délai de [délai].
+
+## ARTICLE 10 – DÉCÈS D'UNE PARTIE
+
+Le présent prêt est consenti en considération de la personne de l'Emprunteur. Il prend fin en cas de décès de l'Emprunteur ou, s'il s'agit d'une personne morale, de sa dissolution ; ses héritiers ou ayants droit restituent alors le bien dans un délai de [délai].
+
+En cas de décès du Prêteur, le prêt se poursuit à l'égard de ses héritiers jusqu'au terme convenu, [sauf si la durée est indéterminée : chaque héritier peut alors y mettre fin dans les conditions de l'article 5].
+
+## ARTICLE 11 – RESTITUTION
+
+À la fin du prêt, l'Emprunteur restitue le bien, ses accessoires et [les clés / les documents du véhicule], au [lieu de restitution]. Un état des lieux ou un constat de restitution est établi contradictoirement, et comparé à celui de la remise.
+
+> Option (immeuble) : faute de restitution au terme, l'Emprunteur devient occupant sans droit ni titre. Le Prêteur peut alors saisir le juge pour obtenir son expulsion et une indemnité d'occupation.
+
+## ARTICLE 12 – DONNÉES PERSONNELLES
+
+Les données personnelles recueillies dans le présent contrat sont utilisées par chaque partie pour son exécution et conservées pendant sa durée et celle des prescriptions applicables. Chaque partie peut exercer auprès de l'autre ses droits d'accès, de rectification et d'effacement.
+
+## ARTICLE 13 – LITIGES
+
+Le présent contrat est soumis au droit français. Les parties recherchent une solution amiable avant toute action en justice. À défaut, le litige est porté devant la juridiction compétente.
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+**Le Prêteur**
+Signature précédée de la mention « Lu et approuvé »
+
+**L'Emprunteur**
+Signature précédée de la mention « Lu et approuvé »
+
+## ANNEXES
+
+- État des lieux ou descriptif du bien à la remise, avec photographies datées
+- Inventaire des accessoires ou du mobilier remis
+- Attestation(s) d'assurance
+- Pour un immeuble en copropriété : extrait du règlement de copropriété

@@ -2602,27 +2602,53 @@
     "contrat-de-location-de-parking": {
       "fichiers": {
         "docx": {
-          "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o1.id}}",
-          "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o1.source_url}}",
+          "id": 4069,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-parking-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "503d50a3dfec91464d7a8ad06edc45636461ee9976a32dfcfb775a5df61541a5"
         },
         "pdf": {
-          "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o2.id}}",
-          "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o2.source_url}}",
+          "id": 4070,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-parking-lumen-juris.pdf",
           "taille": "108 Ko",
           "empreinte": "503d50a3dfec91464d7a8ad06edc45636461ee9976a32dfcfb775a5df61541a5"
         }
       },
       "image": {
-        "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o3.id}}",
-        "url": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o3.source_url}}",
+        "id": 4071,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-parking-lumen-juris.png",
         "taille": "295 Ko",
         "empreinte": "2c7a801796ed91d1c64e97436df58523b04ab3f3c008f618b6d627c55af1f139"
       },
       "statut": "publish",
-      "id": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o7.id}}",
-      "lien": "{{20261126-092020-publier-en-ligne-contrat-de-location-de-parking.o7.link}}",
+      "id": 4072,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-de-parking/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-pret-a-usage": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o1.id}}",
+          "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "a5a28bb6ba66baa085459b26282a8d3cbb46506723b5a9c8c41b3f9b671d2297"
+        },
+        "pdf": {
+          "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o2.id}}",
+          "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o2.source_url}}",
+          "taille": "95 Ko",
+          "empreinte": "a5a28bb6ba66baa085459b26282a8d3cbb46506723b5a9c8c41b3f9b671d2297"
+        }
+      },
+      "image": {
+        "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o3.id}}",
+        "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o3.source_url}}",
+        "taille": "291 Ko",
+        "empreinte": "26a1d4a3b0c1cdd59173f52d2c7a1e8e10297293a971bbc7519b4602d17b7a94"
+      },
+      "statut": "publish",
+      "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o7.id}}",
+      "lien": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2631,6 +2657,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261126-092020-publier-en-ligne-contrat-de-location-de-parking"
+    "20261126-092227-publier-en-ligne-contrat-de-pret-a-usage"
   ]
 }

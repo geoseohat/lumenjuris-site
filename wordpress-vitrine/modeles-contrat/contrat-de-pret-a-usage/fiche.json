@@ -1,0 +1,101 @@
+{
+  "slug": "contrat-de-pret-a-usage",
+  "nom": "Contrat de prêt à usage",
+  "nom_court": "contrat de prêt à usage",
+  "categorie": "Litiges et accords amiables",
+  "mot_cle": "modèle contrat de prêt à usage",
+  "mots_cles_secondaires": [
+    "commodat",
+    "prêt à usage gratuit",
+    "convention de prêt à usage",
+    "prêt à usage logement",
+    "contrat de mise à disposition gratuite",
+    "prêt à usage local commercial société"
+  ],
+  "titre_h1": "Modèle de contrat de prêt à usage gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de prêt à usage gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de contrat de prêt à usage (commodat) gratuit en Word et PDF : bien prêté, usage permis, durée, frais, assurance, restitution et pièges du logement.",
+  "chapo": "Le prêt à usage permet de confier gratuitement un bien, logement, local, véhicule ou matériel, à charge pour l'emprunteur de le rendre. Ce modèle fixe par écrit la durée, l'usage permis, les frais et les conditions de restitution.",
+  "public": "Particuliers, familles, associés et entreprises qui prêtent un bien",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-pret-a-usage-lumen-juris",
+  "date_publication": "2026-11-26",
+  "date_mise_a_jour": "2026-11-26",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit des biens"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifiez que le prêt est vraiment gratuit",
+      "Écartez tout loyer ou participation ; ne laissez à l'emprunteur que les frais liés à son propre usage."
+    ],
+    [
+      "Décrivez le bien et son état",
+      "Rédigez un descriptif ou un état des lieux avec photographies datées, et décidez s'il faut ou non une estimation de valeur."
+    ],
+    [
+      "Définissez l'usage permis",
+      "Indiquez précisément à quoi le bien servira : habitation, activité, déplacements, et qui peut l'utiliser."
+    ],
+    [
+      "Fixez une durée ou un préavis",
+      "Choisissez une date de fin, une durée liée à un besoin avec date butoir, ou une durée indéterminée avec préavis écrit."
+    ],
+    [
+      "Organisez les assurances",
+      "Faites assurer par l'emprunteur les risques dont il répond et prévenez l'assureur du prêteur de l'occupation par un tiers."
+    ]
+  ],
+  "faq": [
+    [
+      "Comment récupérer un logement prêté gratuitement ?",
+      "Si le contrat fixe un terme, le prêteur reprend le logement à cette date. Sans terme convenu ni prévisible, il peut mettre fin au prêt à tout moment en respectant un préavis raisonnable, de préférence par lettre recommandée. Si l'occupant refuse de partir, seul le juge peut ordonner son expulsion."
+    ],
+    [
+      "Un prêt à usage doit-il être écrit ?",
+      "Non, il est valable même verbal, car il se forme par la remise du bien. Un écrit reste vivement recommandé pour prouver la gratuité, fixer la durée et décrire l'état du bien, surtout pour un logement ou un véhicule."
+    ],
+    [
+      "L'emprunteur peut-il payer les charges sans transformer le prêt en location ?",
+      "Il peut prendre en charge les dépenses liées à son propre usage, comme l'eau ou l'électricité. S'il supporte des frais qui incombent au propriétaire, comme la taxe foncière ou de gros travaux, le juge peut y voir une contrepartie et requalifier le prêt en bail."
+    ],
+    [
+      "Qui paie si le bien prêté est abîmé ?",
+      "L'emprunteur répond des dégradations, sauf s'il prouve qu'elles résultent de l'usure normale ou d'un événement imprévisible et irrésistible. Il répond même d'un accident s'il a utilisé le bien à un autre usage ou plus longtemps que prévu."
+    ],
+    [
+      "Un associé peut-il prêter un local à sa société ?",
+      "Oui, c'est un usage fréquent, notamment pour domicilier le siège social. Le contrat doit préciser la durée et la gratuité, car un loyer, même faible, ferait de la mise à disposition un bail, éventuellement commercial."
+    ],
+    [
+      "Le prêt à usage prend-il fin au décès du prêteur ?",
+      "Non, en principe, les engagements passent aux héritiers du prêteur, qui doivent respecter le terme convenu. Si le prêt a été consenti en considération de la personne de l'emprunteur, il prend fin à son décès, et ses héritiers doivent rendre le bien."
+    ],
+    [
+      "Quelle différence entre prêt à usage et contrat de dépôt ?",
+      "Dans le prêt à usage, l'emprunteur reçoit le bien pour s'en servir. Dans le dépôt, le dépositaire le reçoit pour le garder, sans pouvoir l'utiliser, et le rendre sur demande du déposant."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1875 à 1891 (prêt à usage ou commodat) et 1892 et suivants (prêt de consommation)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Loi n° 89-462 du 6 juillet 1989 (requalification d'un prêt de logement en bail d'habitation)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-pret-usage"
+  }
+}
