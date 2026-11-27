@@ -127,7 +127,7 @@
 [x] 2026-11-26 contrat de colocation -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-colocation/
 [x] 2026-11-26 contrat de location de parking -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-de-parking/
 [x] 2026-11-26 contrat de prêt à usage -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-pret-a-usage/
-contrat de location de matériel
+[x] 2026-11-27 contrat de location de matériel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-de-materiel/
 lettre de résiliation de contrat
 lettre d'intention
 politique de cookies

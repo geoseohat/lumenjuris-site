@@ -2628,27 +2628,53 @@
     "contrat-de-pret-a-usage": {
       "fichiers": {
         "docx": {
-          "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o1.id}}",
-          "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o1.source_url}}",
+          "id": 4085,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-pret-a-usage-lumen-juris.docx",
           "taille": "41 Ko",
           "empreinte": "a5a28bb6ba66baa085459b26282a8d3cbb46506723b5a9c8c41b3f9b671d2297"
         },
         "pdf": {
-          "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o2.id}}",
-          "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o2.source_url}}",
+          "id": 4086,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-pret-a-usage-lumen-juris.pdf",
           "taille": "95 Ko",
           "empreinte": "a5a28bb6ba66baa085459b26282a8d3cbb46506723b5a9c8c41b3f9b671d2297"
         }
       },
       "image": {
-        "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o3.id}}",
-        "url": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o3.source_url}}",
+        "id": 4087,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-pret-a-usage-lumen-juris.png",
         "taille": "291 Ko",
         "empreinte": "26a1d4a3b0c1cdd59173f52d2c7a1e8e10297293a971bbc7519b4602d17b7a94"
       },
       "statut": "publish",
-      "id": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o7.id}}",
-      "lien": "{{20261126-092227-publier-en-ligne-contrat-de-pret-a-usage.o7.link}}",
+      "id": 4088,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-pret-a-usage/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-location-de-materiel": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o1.id}}",
+          "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o1.source_url}}",
+          "taille": "42 Ko",
+          "empreinte": "a5e1dd8a66feada8f333d681ae99d8289fd096226d261c510ec5511074dce073"
+        },
+        "pdf": {
+          "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o2.id}}",
+          "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o2.source_url}}",
+          "taille": "113 Ko",
+          "empreinte": "a5e1dd8a66feada8f333d681ae99d8289fd096226d261c510ec5511074dce073"
+        }
+      },
+      "image": {
+        "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o3.id}}",
+        "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o3.source_url}}",
+        "taille": "295 Ko",
+        "empreinte": "220ef360dc959d6996674f4cd843f267e4fe026bef98a1a7031a0d8c88fbb0f2"
+      },
+      "statut": "publish",
+      "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o7.id}}",
+      "lien": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2657,6 +2683,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261126-092227-publier-en-ligne-contrat-de-pret-a-usage"
+    "20261127-091503-publier-en-ligne-contrat-de-location-de-materiel"
   ]
 }

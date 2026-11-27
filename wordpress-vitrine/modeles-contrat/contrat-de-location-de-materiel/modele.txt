@@ -1,0 +1,178 @@
+# CONTRAT DE LOCATION DE MATÉRIEL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle encadre la location d'un bien meuble (machine, outillage, engin, matériel informatique, audiovisuel ou événementiel) contre un loyer. Il relève du louage de choses (articles 1709 et suivants du code civil). Il est rédigé pour une location entre professionnels. Si le locataire est un particulier, relisez chaque clause au regard des règles sur les clauses abusives du code de la consommation, et supprimez celles qui limitent les droits du consommateur.
+
+ENTRE LES SOUSSIGNÉS :
+
+**Le Loueur** : [dénomination sociale], [forme sociale] au capital de [montant] €, dont le siège est situé [adresse], immatriculée sous le numéro SIREN [numéro], représentée par [nom, fonction], dûment habilité.
+
+Ci-après « le Loueur »,
+
+ET
+
+**Le Locataire** : [dénomination sociale ou nom, prénom], [forme sociale le cas échéant], dont le siège ou le domicile est situé [adresse], [numéro SIREN le cas échéant], représenté par [nom, fonction] le cas échéant.
+
+Ci-après « le Locataire ».
+
+Ensemble « les Parties ».
+
+## ARTICLE 1 – OBJET
+
+Le Loueur donne en location au Locataire, qui l'accepte, le matériel désigné à l'article 2 (ci-après « le Matériel »), pour la durée et moyennant le loyer fixés ci-après.
+
+Le présent contrat est une location simple. Il ne confère au Locataire aucune option d'achat et aucun droit de propriété sur le Matériel, qui demeure à tout moment la propriété exclusive du Loueur.
+
+> Option (location avec opérateur) : le Matériel est mis à disposition avec un opérateur salarié du Loueur, qui reste placé sous l'autorité de celui-ci. Les conditions d'intervention de l'opérateur figurent en annexe 3.
+
+## ARTICLE 2 – DÉSIGNATION DU MATÉRIEL
+
+Le Matériel loué est le suivant :
+
+- nature et désignation : [machine, engin, équipement] ;
+- marque, modèle : [marque, modèle] ;
+- numéro de série ou d'identification : [numéro] ;
+- accessoires, consommables et documents remis : [câbles, outils, notice, carnet d'entretien, certificats de contrôle] ;
+- valeur à neuf ou valeur de remplacement retenue par les Parties : [montant] € HT.
+
+La liste détaillée et l'état du Matériel figurent dans le bon de livraison et le procès-verbal d'état contradictoire annexés (annexe 1).
+
+## ARTICLE 3 – DURÉE
+
+> Option A (durée déterminée) : la location est consentie pour une durée de [nombre] [jours / semaines / mois], du [date] au [date]. Elle prend fin de plein droit à cette date, sans formalité.
+
+> Option B (durée indéterminée) : la location commence le [date] pour une durée indéterminée. Chaque Partie peut y mettre fin à tout moment par lettre recommandée avec accusé de réception ou par courrier électronique avec accusé de lecture, moyennant un préavis de [nombre] jours. Une durée minimale de location de [nombre] [jours / mois] est facturée en tout état de cause.
+
+Toute prolongation fait l'objet d'un accord écrit. Si le Locataire conserve le Matériel au-delà du terme sans accord, chaque jour de retard est facturé au tarif journalier en vigueur, sans préjudice de l'article 12.
+
+## ARTICLE 4 – LIVRAISON ET PRISE EN CHARGE
+
+Le Matériel est [livré par le Loueur à l'adresse suivante : [adresse du chantier ou du site] / retiré par le Locataire au dépôt du Loueur situé [adresse]], le [date].
+
+Les frais de transport aller sont à la charge [du Loueur / du Locataire], pour un montant de [montant] € HT.
+
+Lors de la remise, les Parties établissent contradictoirement un procès-verbal décrivant l'état du Matériel, son fonctionnement, ses compteurs (heures, kilomètres) et les éventuels défauts apparents, accompagné de photographies datées. À défaut de réserve écrite du Locataire au moment de la remise, le Matériel est réputé délivré en bon état de fonctionnement, sauf vice caché.
+
+Les risques de perte, de vol et de détérioration du Matériel sont transférés au Locataire à compter de la remise et jusqu'à la restitution constatée par le Loueur.
+
+## ARTICLE 5 – LOYER ET MODALITÉS DE PAIEMENT
+
+Le loyer est fixé à [montant] € HT par [jour / semaine / mois], soit [montant] € TTC au taux de TVA en vigueur.
+
+> Option (forfait) : le loyer est fixé forfaitairement à [montant] € HT pour toute la durée de la location.
+
+Le loyer est payable [d'avance, à la remise du Matériel / à terme échu, le [jour] de chaque mois / à réception de facture], par [virement / prélèvement / carte bancaire].
+
+Sauf mention contraire, le loyer est dû pour chaque jour calendaire de mise à disposition, que le Matériel soit utilisé ou non, y compris en cas d'intempéries.
+
+> Note de rédaction : entre professionnels, le délai de paiement ne peut dépasser soixante jours après la date d'émission de la facture, ou quarante-cinq jours fin de mois si ce mode de calcul est convenu (article L. 441-10 du code de commerce). Les mentions sur les pénalités de retard et l'indemnité forfaitaire de 40 € sont obligatoires sur les factures entre professionnels.
+
+En cas de retard de paiement entre professionnels, des pénalités sont exigibles de plein droit au taux de [taux, qui ne peut être inférieur à trois fois le taux d'intérêt légal ; à défaut de stipulation, taux de la Banque centrale européenne majoré de 10 points], ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 €.
+
+## ARTICLE 6 – DÉPÔT DE GARANTIE
+
+À la remise du Matériel, le Locataire verse un dépôt de garantie de [montant] €, par [chèque / virement / empreinte de carte bancaire].
+
+Ce dépôt ne produit pas d'intérêts. Il garantit l'exécution des obligations du Locataire et ne constitue pas une limite de sa responsabilité.
+
+Il est restitué dans un délai de [nombre] jours après la restitution du Matériel, déduction faite, sur justificatifs, des sommes restant dues au titre des loyers, des réparations, du nettoyage ou du remplacement d'accessoires manquants.
+
+## ARTICLE 7 – UTILISATION DU MATÉRIEL
+
+Le Locataire utilise le Matériel en bon professionnel, conformément à sa destination, à la notice du constructeur et aux règles de sécurité applicables, et uniquement sur le site suivant : [adresse ou zone géographique].
+
+Il s'engage à :
+
+- confier le Matériel uniquement à des personnes formées et, lorsque la réglementation l'exige, titulaires de l'autorisation de conduite ou de la qualification requise ;
+- ne pas dépasser les capacités et charges indiquées par le constructeur ;
+- ne pas modifier le Matériel, ni retirer les plaques, marquages ou dispositifs de sécurité ;
+- ne pas déplacer le Matériel hors du site ou hors de France sans l'accord écrit du Loueur ;
+- informer sans délai le Loueur de toute panne, de tout accident ou de tout incident.
+
+Le Locataire ne peut ni sous-louer, ni prêter, ni céder le Matériel ou le présent contrat sans l'accord écrit préalable du Loueur.
+
+## ARTICLE 8 – ENTRETIEN ET PANNES
+
+Le Locataire assure l'entretien courant : nettoyage, vérification quotidienne des niveaux, graissage, remplacement des consommables [carburant, huile, filtres] selon la notice.
+
+Le Loueur prend en charge l'entretien périodique, les contrôles réglementaires et les réparations liées à l'usure normale ou à un défaut du Matériel.
+
+En cas de panne non imputable au Locataire, le Loueur s'engage à [réparer le Matériel / le remplacer par un matériel équivalent] dans un délai de [nombre] heures ouvrées à compter du signalement. Le loyer n'est pas dû pendant la période d'immobilisation, à compter du signalement.
+
+Le Locataire ne fait procéder à aucune réparation sans l'accord préalable du Loueur, sauf mesure conservatoire urgente.
+
+## ARTICLE 9 – PROPRIÉTÉ DU MATÉRIEL
+
+Le Matériel n'entre pas dans le patrimoine du Locataire et ne constitue pas le gage de ses créanciers. Le Locataire s'interdit de le donner en gage ou de consentir sur lui un droit quelconque.
+
+Il informe immédiatement le Loueur de toute saisie, réquisition ou revendication d'un tiers, et en avertit ce tiers par écrit. Il en informe également, le cas échéant, le propriétaire des lieux où le Matériel est installé.
+
+En cas d'ouverture d'une procédure collective à l'encontre du Locataire, celui-ci en informe le Loueur sans délai.
+
+> Note de rédaction : si le Locataire fait l'objet d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire, le Loueur doit en principe revendiquer son matériel dans les trois mois suivant la publication du jugement d'ouverture (article L. 624-9 du code de commerce). Surveillez le BODACC pour les locations longues.
+
+## ARTICLE 10 – ASSURANCES ET RESPONSABILITÉ
+
+Le Locataire est gardien du Matériel pendant toute la durée de la location. Il répond des dégradations et des pertes survenues pendant sa jouissance, à moins qu'il ne prouve qu'elles ont eu lieu sans sa faute.
+
+> Option A (assurance du Locataire) : le Locataire souscrit, avant la remise, une assurance garantissant le Matériel contre le vol, l'incendie, le bris et les dommages, pour sa valeur de remplacement, ainsi qu'une assurance de responsabilité civile couvrant les dommages causés aux tiers par le Matériel. Il remet une attestation au Loueur avant la remise.
+
+> Option B (garantie proposée par le Loueur) : le Locataire adhère à la garantie dommages proposée par le Loueur, moyennant un supplément de [pourcentage] % du loyer. Une franchise de [montant] € par sinistre reste à sa charge. Les exclusions de cette garantie figurent en annexe 2.
+
+En cas de vol, le Locataire dépose plainte dans les 48 heures et en transmet une copie au Loueur. Le loyer reste dû jusqu'à la réception de cette copie.
+
+La responsabilité du Loueur ne peut être engagée pour les pertes d'exploitation du Locataire qu'en cas de faute de sa part, dans la limite de [montant ou « des loyers perçus au titre du présent contrat »]. Cette limitation ne s'applique pas en cas de faute lourde ou dolosive, ni aux dommages corporels.
+
+## ARTICLE 11 – RESTITUTION
+
+À la fin de la location, le Locataire restitue le Matériel, avec ses accessoires et documents, [au dépôt du Loueur / sur le site, à disposition du Loueur], nettoyé et dans l'état où il l'a reçu, sous réserve de l'usure normale.
+
+Les frais de transport retour sont à la charge [du Loueur / du Locataire].
+
+Un procès-verbal de restitution est établi contradictoirement. Si le Locataire est absent malgré une convocation, le Loueur peut faire constater l'état du Matériel par un commissaire de justice, dont les frais sont partagés par moitié, sauf dégradation imputable au Locataire.
+
+Les réparations rendues nécessaires par une utilisation non conforme, ainsi que le remplacement des accessoires manquants, sont facturés au Locataire sur devis ou facture du réparateur.
+
+## ARTICLE 12 – RÉSILIATION
+
+En cas de manquement grave de l'une des Parties à ses obligations, notamment en cas de non-paiement d'un loyer ou d'utilisation contraire à l'article 7, l'autre Partie peut résilier le contrat de plein droit, quinze jours après une mise en demeure restée sans effet, adressée par lettre recommandée avec accusé de réception et mentionnant la présente clause.
+
+En cas de résiliation aux torts du Locataire, celui-ci restitue le Matériel sans délai à ses frais. À défaut, le Loueur peut reprendre le Matériel, le Locataire lui donnant accès au site à cet effet.
+
+> Option (indemnité de résiliation anticipée) : en cas de résiliation aux torts du Locataire d'une location à durée déterminée, celui-ci verse une indemnité égale à [pourcentage] % des loyers restant à courir jusqu'au terme initial.
+
+> Note de rédaction : une indemnité de résiliation fixée à l'avance est une clause pénale, que le juge peut réduire si elle est manifestement excessive (article 1231-5 du code civil). Gardez un pourcentage raisonnable.
+
+Si le Matériel est entièrement détruit pendant la location par cas fortuit, le contrat est résilié de plein droit.
+
+## ARTICLE 13 – DONNÉES PERSONNELLES
+
+Les données personnelles des représentants et utilisateurs désignés par le Locataire sont traitées par le Loueur pour la seule exécution du présent contrat et pendant la durée nécessaire à celle-ci. Ces personnes disposent des droits prévus par le règlement (UE) 2016/679, qu'elles exercent auprès du Loueur à l'adresse [adresse électronique].
+
+> Option (matériel géolocalisé ou connecté) : le Matériel est équipé d'un dispositif de géolocalisation [et de télémétrie], utilisé uniquement pour la protection contre le vol et le suivi des heures d'utilisation. Le Locataire en informe les salariés qui utilisent le Matériel.
+
+## ARTICLE 14 – LITIGES
+
+Le présent contrat est soumis au droit français.
+
+En cas de différend, les Parties recherchent une solution amiable pendant trente jours à compter de la réception d'une lettre exposant la difficulté.
+
+> Option (entre professionnels uniquement) : à défaut d'accord amiable, tout litige est porté devant le tribunal de commerce de [ville].
+
+Fait à [ville], le [date], en deux exemplaires originaux.
+
+**Pour le Loueur**
+[Nom, fonction]
+Signature :
+
+**Pour le Locataire**
+[Nom, fonction]
+Signature, précédée de la mention « Lu et approuvé » :
+
+## ANNEXES
+
+- Annexe 1 : bon de livraison et procès-verbal d'état contradictoire, avec photographies
+- Annexe 2 : conditions de la garantie dommages proposée par le Loueur (le cas échéant)
+- Annexe 3 : conditions d'intervention de l'opérateur (location avec opérateur)
+- Annexe 4 : attestation d'assurance du Locataire
