@@ -1,0 +1,97 @@
+{
+  "slug": "lettre-d-intention",
+  "nom": "Lettre d'intention",
+  "nom_court": "lettre d'intention",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle lettre d'intention",
+  "mots_cles_secondaires": [
+    "lettre d'intention d'achat",
+    "LOI letter of intent",
+    "lettre d'intention rachat d'entreprise",
+    "lettre d'intention cession de fonds de commerce",
+    "lettre d'intention partenariat",
+    "lettre d'intention non engageante"
+  ],
+  "titre_h1": "Modèle de lettre d'intention gratuit (Word et PDF)",
+  "titre_seo": "Modèle de lettre d'intention gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de lettre d'intention gratuit en Word et PDF : rachat de société ou de fonds, prix indicatif, conditions, exclusivité, confidentialité et rupture.",
+  "chapo": "La lettre d'intention fixe le cadre d'une négociation avant le rachat d'une entreprise, d'un fonds de commerce ou la conclusion d'un partenariat. Ce modèle distingue clairement les points indicatifs et les clauses qui engagent dès la signature.",
+  "public": "Repreneurs, cédants, dirigeants et entreprises en négociation",
+  "gratuit": true,
+  "fichier_base": "modele-lettre-d-intention-lumen-juris",
+  "date_publication": "2026-11-27",
+  "date_mise_a_jour": "2026-11-27",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit des sociétés"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Délimitez l'opération",
+      "Précisez si vous visez des titres ou un fonds, quel pourcentage du capital et quels biens ou activités sont exclus."
+    ],
+    [
+      "Écrivez un prix indicatif avec sa méthode",
+      "Indiquez une fourchette, la méthode de calcul et les comptes de référence qui permettront de l'ajuster après l'audit."
+    ],
+    [
+      "Listez les conditions préalables",
+      "Audit, financement, agréments, accord du bailleur et information des salariés, avec leurs délais."
+    ],
+    [
+      "Choisissez les clauses engageantes",
+      "Fixez la durée de l'exclusivité, la portée de la confidentialité, la répartition des frais et la date de caducité."
+    ],
+    [
+      "Faites contresigner la lettre",
+      "Envoyez la lettre au destinataire et demandez son exemplaire signé avec la mention « Bon pour accord » avant la date fixée."
+    ]
+  ],
+  "faq": [
+    [
+      "Une lettre d'intention est-elle juridiquement contraignante ?",
+      "Elle ne l'est en principe pas pour la conclusion de l'opération, si elle est rédigée comme une intention. Les clauses présentées comme engageantes (exclusivité, confidentialité, frais) s'imposent en revanche dès la signature. Une lettre trop précise et sans réserve peut toutefois être requalifiée en offre ou en contrat."
+    ],
+    [
+      "Quelle différence entre lettre d'intention et promesse de cession ?",
+      "La lettre d'intention ouvre la négociation et laisse chaque partie libre de ne pas conclure. Dans la promesse unilatérale de cession, le cédant donne déjà son consentement : le bénéficiaire peut décider seul de lever l'option pendant le délai prévu. La promesse intervient donc plus tard, une fois l'audit terminé."
+    ],
+    [
+      "Qui rédige la lettre d'intention : l'acheteur ou le vendeur ?",
+      "Le plus souvent, c'est l'acquéreur pressenti qui l'adresse au cédant, parfois à la demande de celui-ci ou de son conseil lorsque plusieurs candidats sont en concurrence. Le destinataire la contresigne s'il accepte le cadre proposé, notamment l'exclusivité."
+    ],
+    [
+      "Combien de temps doit durer l'exclusivité ?",
+      "Aucune durée n'est fixée par la loi. En pratique, elle couvre le temps de l'audit et du financement, souvent entre 45 et 90 jours. Une exclusivité longue sans contrepartie est difficile à accepter pour un cédant, qui doit pouvoir reprendre sa liberté à une date certaine."
+    ],
+    [
+      "Que risque-t-on si l'on abandonne le projet après la lettre ?",
+      "Rien si l'abandon est loyal et justifié, même sans motif détaillé. Une rupture brutale ou de mauvaise foi peut obliger à indemniser l'autre partie, mais seulement de ses frais et préjudices propres. La loi exclut l'indemnisation des gains que le contrat aurait apportés."
+    ],
+    [
+      "Faut-il informer les salariés dès la lettre d'intention ?",
+      "Non, mais il faut l'anticiper. Dans les entreprises de moins de 250 salariés, la cession du fonds de commerce ou de plus de la moitié du capital doit en principe être précédée d'une information des salariés, au moins deux mois avant la cession, pour qu'ils puissent présenter une offre. La lettre doit donc prévoir ce délai dans le calendrier."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1112 à 1112-2 (négociations, devoir d'information, confidentialité), 1113 et suivants (offre et acceptation), 1231-5 (clause pénale) et 2322 (lettre d'intention, sûreté)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de commerce, articles L. 141-23 et suivants et L. 23-10-1 et suivants (information préalable des salariés en cas de cession)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "lettre-intention"
+  }
+}

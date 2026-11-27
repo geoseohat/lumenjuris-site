@@ -1,0 +1,116 @@
+# LETTRE D'INTENTION
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : cette lettre d'intention (souvent appelée « LOI », pour letter of intent) formalise l'intérêt d'un acquéreur ou d'un partenaire pour une opération encore en négociation : rachat d'une société, d'un fonds de commerce, d'une branche d'activité, ou partenariat important. Elle fixe le cadre des discussions, mais ne vaut pas accord définitif, à l'exception des clauses expressément désignées comme engageantes (exclusivité, confidentialité, frais, droit applicable). Plus la lettre est précise sur le prix et l'objet, plus elle risque d'être regardée comme une promesse ou un contrat déjà conclu : gardez des formulations indicatives pour les points encore ouverts.
+
+[Dénomination de l'auteur de la lettre (« l'Acquéreur pressenti »)]
+[Forme sociale, capital, numéro SIREN]
+[Adresse du siège]
+Représenté par [nom, fonction]
+
+[Nom ou dénomination du destinataire (« le Cédant » ou « le Partenaire »)]
+[Adresse]
+
+À [ville], le [date]
+
+Objet : lettre d'intention relative à [l'acquisition de la société [dénomination] / l'acquisition du fonds de commerce exploité à [adresse] / le projet de partenariat [désignation]]
+
+Strictement confidentiel
+
+[Madame, Monsieur],
+
+À la suite de nos échanges des [dates] et de l'examen des informations que vous nous avez transmises, nous avons le plaisir de vous confirmer notre intérêt pour l'opération décrite ci-dessous, aux conditions et dans les limites de la présente lettre.
+
+## ARTICLE 1 – OPÉRATION ENVISAGÉE
+
+Nous envisageons [d'acquérir [100 % / nombre] des [parts sociales / actions] composant le capital de la société [dénomination], [forme], immatriculée sous le numéro [SIREN] (« la Société ») / d'acquérir le fonds de commerce de [activité] exploité à [adresse] / de conclure avec vous un partenariat portant sur [objet]].
+
+> Option (périmètre) : l'opération porte sur [l'ensemble de l'activité / la seule branche [désignation]], à l'exclusion de [biens, contrats ou activités exclus].
+
+## ARTICLE 2 – PRIX INDICATIF ET MODALITÉS
+
+Sur la base des informations reçues à ce jour, et sous réserve des conditions de l'article 4, nous envisageons un prix [de [montant] euros / compris entre [montant] et [montant] euros], déterminé selon la méthode suivante : [multiple de l'excédent brut d'exploitation, valeur des capitaux propres, chiffre d'affaires…], sur la base des comptes arrêtés au [date].
+
+> Option (dette et trésorerie) : ce prix s'entend d'une société sans dette financière et disposant d'un niveau normal de besoin en fonds de roulement ; il sera ajusté de la trésorerie nette constatée à la date de réalisation.
+
+> Option (paiement différé ou complément de prix) : [pourcentage] % du prix serait payé à la réalisation, le solde [à [durée] / sous forme d'un complément de prix lié à [indicateur]].
+
+> Option (garantie) : l'acte définitif comportera une garantie d'actif et de passif consentie par le Cédant, dont le montant, la durée et les modalités seront négociés.
+
+Ce prix est indicatif. Il ne constitue ni une offre ferme, ni un engagement d'acquérir à ce prix.
+
+## ARTICLE 3 – CALENDRIER ENVISAGÉ
+
+Les étapes envisagées sont les suivantes :
+
+- accès aux informations et audit : du [date] au [date] ;
+- remise d'une offre ferme ou d'un projet d'acte : au plus tard le [date] ;
+- signature de l'acte définitif : envisagée le [date] ;
+- réalisation de l'opération : envisagée le [date].
+
+Ce calendrier est indicatif et pourra être modifié d'un commun accord.
+
+## ARTICLE 4 – CONDITIONS PRÉALABLES
+
+La conclusion d'un accord définitif reste subordonnée, notamment, aux conditions suivantes :
+
+- les résultats satisfaisants, à notre appréciation raisonnable, de l'audit [comptable, fiscal, social, juridique, environnemental] ;
+- l'obtention d'un financement bancaire de [montant] euros à des conditions compatibles avec l'opération ;
+- l'accord écrit des parties sur l'ensemble des termes de l'acte définitif et de ses annexes ;
+- [l'agrément des associés, l'accord du bailleur, l'information des salariés lorsqu'elle est requise, l'autorisation d'une autorité, l'accord d'un partenaire contractuel clé] ;
+- l'absence d'événement significatif défavorable affectant [la Société / le fonds] d'ici la signature.
+
+> Note de rédaction : avant la cession d'un fonds de commerce, ou de plus de 50 % des parts ou actions d'une société de moins de 250 salariés, les salariés doivent en principe être informés afin de pouvoir présenter une offre (articles L. 141-23 et suivants et L. 23-10-1 et suivants du Code de commerce). Intégrez ce délai dans le calendrier.
+
+## ARTICLE 5 – ACCÈS AUX INFORMATIONS
+
+Le [Cédant / Partenaire] s'efforcera de mettre à notre disposition, ainsi qu'à nos conseils, les documents et informations raisonnablement nécessaires à l'audit, notamment [comptes des trois derniers exercices, contrats principaux, bail, état du personnel, litiges en cours, situation fiscale et sociale].
+
+Chaque partie communique de bonne foi les informations dont elle sait l'importance déterminante pour le consentement de l'autre.
+
+## ARTICLE 6 – EXCLUSIVITÉ (CLAUSE ENGAGEANTE)
+
+> Option A (exclusivité) : pendant une durée de [nombre] jours à compter de la signature de la présente lettre par le destinataire, le [Cédant / Partenaire] s'interdit, directement ou indirectement, de solliciter, d'engager ou de poursuivre des discussions avec un tiers portant sur une opération similaire, et de lui transmettre des informations à cette fin. Il nous informe sans délai de toute approche d'un tiers.
+
+> Option B (absence d'exclusivité) : la présente lettre ne comporte aucune exclusivité. Chaque partie reste libre de mener des discussions avec des tiers.
+
+> Note de rédaction : une exclusivité trop longue, ou sans contrepartie, bloque le cédant. Une durée de 45 à 90 jours, liée au calendrier d'audit, est fréquente. Une indemnité forfaitaire en cas de violation est une clause pénale, que le juge peut réduire si elle est manifestement excessive.
+
+## ARTICLE 7 – CONFIDENTIALITÉ (CLAUSE ENGAGEANTE)
+
+L'existence et le contenu de la présente lettre, des négociations et des informations échangées sont confidentiels. Chaque partie s'interdit de les utiliser à d'autres fins que l'appréciation de l'opération et de les divulguer à des tiers autres que ses conseils, financeurs et dirigeants tenus à la même obligation.
+
+Cette obligation s'applique pendant [durée : deux ans / trois ans] à compter de la présente lettre, que l'opération se réalise ou non.
+
+> Option : un accord de confidentialité a déjà été signé le [date] ; il reste applicable et prévaut sur le présent article en cas de contradiction.
+
+## ARTICLE 8 – PORTÉE DE LA LETTRE
+
+À l'exception des articles 6, 7, 8, 9 et 10, qui engagent les parties dès la signature, la présente lettre exprime une intention et ne crée aucune obligation de conclure l'opération.
+
+Chaque partie reste libre de mettre fin aux négociations à tout moment, sous réserve de le faire de bonne foi, sans abus et en informant l'autre partie par écrit.
+
+## ARTICLE 9 – FRAIS
+
+Chaque partie supporte les frais qu'elle engage dans le cadre des négociations, notamment ses frais de conseil et d'audit, que l'opération se réalise ou non.
+
+> Option : en cas de violation de l'exclusivité par le [Cédant / Partenaire], celui-ci rembourse, sur justificatifs, les frais d'audit et de conseil engagés par l'Acquéreur pressenti, dans la limite de [montant] euros.
+
+## ARTICLE 10 – DURÉE, DROIT APPLICABLE ET LITIGES
+
+La présente lettre devient caduque si elle n'est pas contresignée par le destinataire au plus tard le [date], et, en tout état de cause, à défaut de signature de l'acte définitif au plus tard le [date], sauf prorogation écrite. Les articles 7 et 9 survivent à cette caducité.
+
+La présente lettre est soumise au droit français. Tout différend relatif à son interprétation ou à son exécution est soumis, à défaut d'accord amiable, au tribunal [de commerce / des activités économiques] de [ville].
+
+Nous vous remercions de bien vouloir nous retourner un exemplaire de la présente lettre, revêtu de votre signature précédée de la mention « Bon pour accord sur les termes de la présente lettre d'intention ».
+
+Nous vous prions d'agréer, [Madame, Monsieur], l'expression de nos salutations distinguées.
+
+**Pour l'Acquéreur pressenti**
+[Nom, fonction]
+Signature :
+
+**Pour le [Cédant / Partenaire]**
+[Nom, fonction]
+Date et signature, précédées de la mention « Bon pour accord sur les termes de la présente lettre d'intention » :
