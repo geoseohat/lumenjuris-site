@@ -1,0 +1,101 @@
+{
+  "slug": "politique-de-cookies",
+  "nom": "Politique de cookies",
+  "nom_court": "politique de cookies",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle politique de cookies",
+  "mots_cles_secondaires": [
+    "politique cookies site internet",
+    "politique de gestion des cookies",
+    "modèle page cookies RGPD",
+    "exemple politique de cookies",
+    "politique d'utilisation des cookies",
+    "cookies CNIL obligations site"
+  ],
+  "titre_h1": "Modèle de politique de cookies gratuit (Word et PDF)",
+  "titre_seo": "Modèle de politique de cookies gratuit 2026 (Word, PDF)",
+  "meta_description": "Modèle de politique de cookies gratuit en Word et PDF : catégories de traceurs, tableau détaillé, consentement, refus, durées et règles de la CNIL.",
+  "chapo": "La politique de cookies explique aux visiteurs quels traceurs votre site dépose, qui les dépose, à quoi ils servent et comment les refuser. Ce modèle s'accompagne d'un tableau pour savoir quels cookies exigent un consentement et d'une méthode d'inventaire.",
+  "public": "Éditeurs de sites internet, boutiques en ligne, entreprises et associations",
+  "gratuit": true,
+  "fichier_base": "modele-politique-de-cookies-lumen-juris",
+  "date_publication": "2026-11-27",
+  "date_mise_a_jour": "2026-11-27",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Protection des données personnelles",
+      "Droit du numérique"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Faites l'inventaire des traceurs",
+      "Visitez votre site sans rien accepter, puis en acceptant tout, et relevez chaque cookie, pixel ou stockage local avec son émetteur."
+    ],
+    [
+      "Classez chaque traceur",
+      "Rangez-le parmi les cookies nécessaires, la mesure d'audience exemptée ou les cookies soumis à consentement, et supprimez les inutiles."
+    ],
+    [
+      "Vérifiez le bandeau",
+      "Contrôlez qu'il propose un refus aussi simple que l'acceptation et qu'aucun traceur soumis à consentement n'est déposé avant le choix."
+    ],
+    [
+      "Complétez le tableau et les durées",
+      "Renseignez nom, émetteur, finalité et durée de chaque cookie, ainsi que la durée de conservation du choix du visiteur."
+    ],
+    [
+      "Publiez la page et datez-la",
+      "Mettez un lien dans le bandeau et dans le pied de page, avec un lien « Gérer mes cookies », et refaites l'inventaire à chaque nouvel outil."
+    ]
+  ],
+  "faq": [
+    [
+      "Une politique de cookies est-elle obligatoire ?",
+      "La loi impose d'informer clairement et complètement les visiteurs sur les traceurs utilisés, avant de recueillir leur accord. Elle n'exige pas une page portant ce titre : l'information peut figurer dans la politique de confidentialité. Une page dédiée est simplement plus lisible lorsque le site utilise plusieurs partenaires."
+    ],
+    [
+      "Un site sans publicité doit-il afficher un bandeau cookies ?",
+      "Pas nécessairement. Si le site n'utilise que des cookies nécessaires à son fonctionnement et un outil de mesure d'audience configuré pour être exempté, aucun consentement n'est requis. Il faut tout de même informer les visiteurs, et leur permettre de s'opposer à la mesure d'audience."
+    ],
+    [
+      "Google Analytics nécessite-t-il un consentement ?",
+      "Dans sa configuration habituelle, oui, car les données sont partagées avec l'éditeur de l'outil pour ses propres besoins. Certains outils de mesure d'audience peuvent être exemptés lorsqu'ils sont configurés selon les conditions fixées par la CNIL. Vérifiez la liste et les réglages qu'elle publie avant de classer votre outil."
+    ],
+    [
+      "Combien de temps conserver le choix du visiteur ?",
+      "La CNIL recommande de conserver le choix, accord ou refus, pendant six mois avant de le redemander. Redemander à chaque visite après un refus peut être considéré comme une pression exercée sur l'internaute. Le visiteur doit pouvoir changer d'avis à tout moment."
+    ],
+    [
+      "Quelle durée de vie maximale pour un cookie ?",
+      "Pour les cookies soumis à consentement, la CNIL recommande une durée de vie de treize mois au plus, non prolongée automatiquement par les nouvelles visites. Pour les cookies de mesure d'audience exemptés, les informations collectées ne devraient pas être conservées plus de vingt-cinq mois."
+    ],
+    [
+      "Peut-on bloquer l'accès au site si le visiteur refuse les cookies ?",
+      "Le « cookie wall » n'est pas interdit par principe, mais la CNIL l'apprécie au cas par cas. Elle vérifie notamment qu'une alternative réelle et équitable est proposée, par exemple un accès payant à un prix raisonnable. En cas de doute, il est plus prudent de laisser l'accès au contenu."
+    ],
+    [
+      "Que risque un site dont le bandeau n'est pas conforme ?",
+      "La CNIL peut adresser une mise en demeure, puis prononcer une sanction, y compris une amende, et rendre sa décision publique. Elle mène régulièrement des contrôles en ligne sur les bandeaux. Les visiteurs peuvent aussi déposer une réclamation auprès d'elle."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 78-17 du 6 janvier 1978, article 82 (cookies et autres traceurs)",
+      "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068624"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD), articles 4, 7 et 13 (définition et conditions du consentement, information des personnes)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "politique-cookies"
+  }
+}

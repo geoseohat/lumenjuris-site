@@ -1,0 +1,95 @@
+# POLITIQUE DE COOKIES
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant la mise en ligne.
+
+> Note de rédaction : cette page décrit les cookies et autres traceurs déposés ou lus sur le terminal des visiteurs de votre site ou de votre application, et explique comment ils peuvent accepter, refuser ou retirer leur accord. Elle complète le bandeau de consentement, sans le remplacer : seul le bandeau, ou un outil équivalent, recueille le choix. Avant de la rédiger, faites l'inventaire réel des traceurs présents (outil d'analyse du navigateur ou scanner de cookies), y compris ceux déposés par les extensions, vidéos intégrées, boutons de partage et outils publicitaires.
+
+Dernière mise à jour : [date]
+
+## ARTICLE 1 – QUI DÉPOSE DES COOKIES SUR CE SITE
+
+Le site [adresse du site] (ci-après « le Site ») est édité par [dénomination], [forme sociale], dont le siège est situé [adresse], immatriculée sous le numéro [SIREN] (ci-après « nous »).
+
+Certains cookies sont déposés par nous-mêmes. D'autres sont déposés par des partenaires (cookies « tiers »), dont la liste figure à l'article 4.
+
+Pour toute question sur cette politique, vous pouvez nous écrire à [adresse électronique] [ou à notre délégué à la protection des données : [coordonnées]].
+
+## ARTICLE 2 – QU'EST-CE QU'UN COOKIE ?
+
+Un cookie est un petit fichier enregistré sur votre ordinateur, votre téléphone ou votre tablette lorsque vous consultez un site. Il permet de reconnaître votre appareil pendant sa durée de validité.
+
+Cette politique vise aussi les autres traceurs fonctionnant de la même manière : pixels invisibles, stockage local du navigateur, identifiants publicitaires des téléphones, empreinte de l'appareil (« fingerprinting »).
+
+## ARTICLE 3 – LES CATÉGORIES DE COOKIES UTILISÉS
+
+### 3.1 Cookies nécessaires au fonctionnement du Site
+
+Ces cookies sont indispensables pour vous fournir le service que vous demandez : panier d'achat, connexion à votre compte, sécurité, équilibrage de charge, mémorisation de votre choix en matière de cookies. Ils sont déposés sans votre consentement, car la loi les en dispense.
+
+### 3.2 Cookies de mesure d'audience exemptés
+
+> Option (outil configuré pour être exempté) : nous utilisons [nom de l'outil], configuré pour produire uniquement des statistiques anonymes de fréquentation, à notre seul usage. Ces cookies ne permettent pas de suivre votre navigation sur d'autres sites, et les données ne sont pas croisées avec d'autres traitements. Ils sont déposés sans votre consentement, mais vous pouvez vous y opposer à l'aide du lien suivant : [lien d'opposition].
+
+> Note de rédaction : l'exemption n'est possible que pour une mesure d'audience strictement limitée à ce qui est nécessaire, produisant des données statistiques anonymes et sans transmission à des tiers pour leur propre compte. La CNIL publie la liste des outils et des réglages compatibles. À défaut, classez l'outil en 3.3.
+
+### 3.3 Cookies soumis à votre consentement
+
+Ces cookies ne sont déposés que si vous les acceptez. Ils servent à :
+
+- [mesurer l'audience du Site avec un outil non exempté] ;
+- [personnaliser le contenu affiché] ;
+- [afficher des publicités adaptées à vos centres d'intérêt et mesurer leur efficacité] ;
+- [permettre le partage de contenus sur les réseaux sociaux et la lecture de vidéos intégrées] ;
+- [autre finalité].
+
+## ARTICLE 4 – LISTE DÉTAILLÉE DES COOKIES
+
+Pour chaque cookie, nous indiquons son nom, l'entité qui le dépose, sa finalité, sa catégorie et sa durée de conservation :
+
+- [nom du cookie] – déposé par [nous / nom du partenaire] – finalité : [finalité] – catégorie : [nécessaire / mesure d'audience / publicité / réseaux sociaux] – durée : [durée] ;
+- [nom du cookie] – déposé par [nous / nom du partenaire] – finalité : [finalité] – catégorie : [catégorie] – durée : [durée] ;
+- [nom du cookie] – déposé par [nous / nom du partenaire] – finalité : [finalité] – catégorie : [catégorie] – durée : [durée].
+
+> Note de rédaction : si votre outil de gestion du consentement génère automatiquement cette liste, vous pouvez la remplacer par un lien vers celle-ci, à condition qu'elle reste à jour et accessible sans accepter les cookies.
+
+Les partenaires qui déposent des cookies sur le Site sont : [liste des partenaires, avec un lien vers leur politique de confidentialité].
+
+> Option (transferts hors de l'Union européenne) : certains partenaires peuvent traiter les données hors de l'Union européenne, notamment aux États-Unis. Ces transferts sont encadrés par [une décision d'adéquation de la Commission européenne / des clauses contractuelles types adoptées par la Commission européenne].
+
+## ARTICLE 5 – COMMENT DONNER, REFUSER OU RETIRER VOTRE ACCORD
+
+Lors de votre première visite, un bandeau vous permet d'accepter tous les cookies soumis à consentement, de les refuser tous, ou de choisir finalité par finalité. Refuser est aussi simple qu'accepter.
+
+Tant que vous n'avez pas fait de choix, aucun cookie soumis à consentement n'est déposé. Continuer à naviguer sans cliquer ne vaut pas accord.
+
+Vous pouvez modifier ou retirer votre choix à tout moment, aussi facilement que vous l'avez donné, en cliquant sur le lien « [Gérer mes cookies] » présent en bas de chaque page du Site.
+
+Votre choix, qu'il s'agisse d'un accord ou d'un refus, est conservé pendant [six] mois. À l'issue de ce délai, il vous sera de nouveau demandé.
+
+> Option (accès au contenu conditionné) : [si vous refusez les cookies publicitaires, vous pouvez accéder au contenu [en créant un compte gratuit / par un abonnement payant de [montant] euros par mois]].
+
+> Note de rédaction : subordonner l'accès au site à l'acceptation des cookies (« cookie wall ») n'est pas interdit par principe, mais la CNIL l'apprécie au cas par cas et exige qu'une alternative réelle et équitable soit proposée. Supprimez cette option en cas de doute.
+
+## ARTICLE 6 – PARAMÉTRER VOTRE NAVIGATEUR
+
+Vous pouvez aussi configurer votre navigateur pour bloquer ou supprimer les cookies. Les explications se trouvent dans l'aide de chaque navigateur ([Chrome], [Firefox], [Safari], [Edge]).
+
+Le blocage de tous les cookies peut empêcher certaines fonctions du Site, comme la connexion à votre compte ou le panier d'achat.
+
+## ARTICLE 7 – DURÉE DE VIE DES COOKIES ET DES DONNÉES
+
+Les cookies soumis à consentement ont une durée de vie de [treize] mois au plus à compter de leur dépôt. Cette durée n'est pas prolongée automatiquement par vos nouvelles visites.
+
+Les informations collectées par ces cookies sont conservées pendant [durée, en principe vingt-cinq mois au plus pour la mesure d'audience].
+
+## ARTICLE 8 – VOS DROITS SUR VOS DONNÉES
+
+Lorsque les cookies permettent de collecter des données personnelles, vous disposez des droits d'accès, de rectification, d'effacement, d'opposition et de limitation prévus par le règlement (UE) 2016/679 et la loi n° 78-17 du 6 janvier 1978. Vous pouvez les exercer à l'adresse [adresse électronique].
+
+Pour en savoir plus sur l'ensemble des traitements de données personnelles, consultez notre [politique de confidentialité](lien).
+
+Vous pouvez introduire une réclamation auprès de la Commission nationale de l'informatique et des libertés (CNIL), 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07, www.cnil.fr.
+
+## ARTICLE 9 – MODIFICATION DE LA POLITIQUE
+
+Nous mettons à jour cette politique à chaque ajout ou retrait d'un cookie ou d'un partenaire. Si une nouvelle finalité soumise à consentement est ajoutée, votre accord vous sera de nouveau demandé.

@@ -130,7 +130,7 @@
 [x] 2026-11-27 contrat de location de matériel -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-de-materiel/
 [x] 2026-11-27 lettre de résiliation de contrat -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-resiliation-de-contrat/
 [x] 2026-11-27 lettre d'intention -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-intention/
-politique de cookies
+[x] 2026-11-27 politique de cookies -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-cookies/
 lettre de mise à pied conservatoire
 procès-verbal de transfert de siège social
 ordre de mouvement de titres
