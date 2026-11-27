@@ -2654,27 +2654,53 @@
     "contrat-de-location-de-materiel": {
       "fichiers": {
         "docx": {
-          "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o1.id}}",
-          "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o1.source_url}}",
+          "id": 4094,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-materiel-lumen-juris.docx",
           "taille": "42 Ko",
           "empreinte": "a5e1dd8a66feada8f333d681ae99d8289fd096226d261c510ec5511074dce073"
         },
         "pdf": {
-          "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o2.id}}",
-          "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o2.source_url}}",
+          "id": 4095,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-materiel-lumen-juris.pdf",
           "taille": "113 Ko",
           "empreinte": "a5e1dd8a66feada8f333d681ae99d8289fd096226d261c510ec5511074dce073"
         }
       },
       "image": {
-        "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o3.id}}",
-        "url": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o3.source_url}}",
+        "id": 4096,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-contrat-de-location-de-materiel-lumen-juris.png",
         "taille": "295 Ko",
         "empreinte": "220ef360dc959d6996674f4cd843f267e4fe026bef98a1a7031a0d8c88fbb0f2"
       },
       "statut": "publish",
-      "id": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o7.id}}",
-      "lien": "{{20261127-091503-publier-en-ligne-contrat-de-location-de-materiel.o7.link}}",
+      "id": 4097,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-location-de-materiel/",
+      "gabarit": "2026-10-23"
+    },
+    "lettre-de-resiliation-de-contrat": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o1.id}}",
+          "url": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o1.source_url}}",
+          "taille": "39 Ko",
+          "empreinte": "1abe858649aaa57c04e51cd6fe2aa64a0580dcd057c869fd85614f9f7ac981bf"
+        },
+        "pdf": {
+          "id": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o2.id}}",
+          "url": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o2.source_url}}",
+          "taille": "73 Ko",
+          "empreinte": "1abe858649aaa57c04e51cd6fe2aa64a0580dcd057c869fd85614f9f7ac981bf"
+        }
+      },
+      "image": {
+        "id": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o3.id}}",
+        "url": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o3.source_url}}",
+        "taille": "294 Ko",
+        "empreinte": "6c9c65b7e10cc8cdd9c7af0158eabcd70ce9f7f3baa0ae421dc766220c043ace"
+      },
+      "statut": "publish",
+      "id": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o7.id}}",
+      "lien": "{{20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2683,6 +2709,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261127-091503-publier-en-ligne-contrat-de-location-de-materiel"
+    "20261127-091721-publier-en-ligne-lettre-de-resiliation-de-contrat"
   ]
 }

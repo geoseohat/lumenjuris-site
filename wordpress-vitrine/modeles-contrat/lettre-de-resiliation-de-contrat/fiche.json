@@ -1,0 +1,107 @@
+{
+  "slug": "lettre-de-resiliation-de-contrat",
+  "nom": "Lettre de résiliation de contrat",
+  "nom_court": "lettre de résiliation de contrat",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle lettre de résiliation de contrat",
+  "mots_cles_secondaires": [
+    "lettre de résiliation",
+    "courrier de résiliation de contrat",
+    "résiliation contrat lettre recommandée",
+    "lettre de non-reconduction de contrat",
+    "lettre de résiliation contrat de prestation",
+    "lettre de résiliation abonnement",
+    "lettre de résolution de contrat pour inexécution"
+  ],
+  "titre_h1": "Modèle de lettre de résiliation de contrat gratuit (Word et PDF)",
+  "titre_seo": "Modèle de lettre de résiliation de contrat gratuit (Word, PDF)",
+  "meta_description": "Modèle de lettre de résiliation de contrat gratuit en Word et PDF : préavis, refus de reconduction, résolution pour faute, droits du consommateur, envoi.",
+  "chapo": "La lettre de résiliation permet de mettre fin, de votre seule initiative, à un contrat de prestation, d'abonnement, de maintenance ou de fourniture. Ce modèle propose une rédaction pour chaque situation : préavis, refus de reconduction, sortie anticipée prévue au contrat ou manquement de l'autre partie.",
+  "public": "Entreprises, indépendants, associations et particuliers liés par un contrat",
+  "gratuit": true,
+  "fichier_base": "modele-lettre-de-resiliation-de-contrat-lumen-juris",
+  "date_publication": "2026-11-27",
+  "date_mise_a_jour": "2026-11-27",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit de la consommation",
+      "Droit commercial"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Relisez la clause de durée et de résiliation",
+      "Repérez la durée du contrat, l'échéance, le préavis, la forme d'envoi exigée et l'éventuelle indemnité de sortie."
+    ],
+    [
+      "Choisissez le fondement de la résiliation",
+      "Préavis d'un contrat sans fin, refus de reconduction, clause de sortie anticipée ou manquement de l'autre partie après mise en demeure."
+    ],
+    [
+      "Calculez la date limite et la date d'effet",
+      "Comptez le préavis à partir de la réception probable du courrier et gardez une marge d'au moins une semaine."
+    ],
+    [
+      "Complétez la lettre et rassemblez les pièces",
+      "Indiquez le numéro de contrat, l'article invoqué, la date de fin, et joignez la mise en demeure et les preuves en cas de faute."
+    ],
+    [
+      "Envoyez en recommandé et suivez la fin du contrat",
+      "Conservez l'avis de réception, prévenez votre banque pour les prélèvements et organisez la restitution du matériel."
+    ]
+  ],
+  "faq": [
+    [
+      "Peut-on résilier un contrat à durée déterminée avant son terme ?",
+      "En principe non : un contrat à durée déterminée doit être exécuté jusqu'à son terme. La sortie anticipée n'est possible que si le contrat la prévoit, si l'autre partie y consent ou en cas de manquement suffisamment grave de sa part. À défaut, les sommes restant dues jusqu'à l'échéance peuvent vous être réclamées."
+    ],
+    [
+      "Quel préavis respecter si le contrat n'en prévoit aucun ?",
+      "Pour un contrat à durée indéterminée sans préavis écrit, la loi impose un délai raisonnable. Il s'apprécie selon la durée de la relation, l'objet du contrat et le temps nécessaire à l'autre partie pour se réorganiser. Entre professionnels, une relation ancienne appelle un préavis plus long."
+    ],
+    [
+      "La lettre recommandée est-elle obligatoire pour résilier ?",
+      "Elle ne l'est que si le contrat ou un texte l'impose, mais elle reste vivement conseillée car elle prouve la date de réception. La lettre recommandée électronique a la même valeur. Pour les contrats souscrits en ligne par un consommateur, la résiliation peut se faire par la fonction de résiliation en ligne du professionnel."
+    ],
+    [
+      "Le préavis court-il à partir de l'envoi ou de la réception ?",
+      "Le plus souvent à partir de la réception, sauf si le contrat fixe une autre règle. Vérifiez la clause, puis prévoyez une marge suffisante pour que le courrier arrive avant la date limite. En cas de doute, retenez la date la plus prudente."
+    ],
+    [
+      "Que faire si le prestataire refuse ma résiliation ?",
+      "Une résiliation régulière n'a pas besoin d'être acceptée pour produire ses effets. Conservez la preuve d'envoi et de réception, arrêtez les prélèvements à la date de fin et contestez par écrit toute facture postérieure. Pour un consommateur, le recours au médiateur de la consommation du professionnel est gratuit."
+    ],
+    [
+      "Peut-on résilier immédiatement si l'autre partie ne respecte pas le contrat ?",
+      "Seulement si le manquement est suffisamment grave. Sauf urgence, il faut d'abord adresser une mise en demeure laissant un délai raisonnable et avertissant qu'à défaut le contrat sera rompu, puis notifier la résolution en expliquant ses raisons. Le juge peut ensuite vérifier si la rupture était justifiée."
+    ],
+    [
+      "Quelle différence entre résiliation et résolution ?",
+      "La résiliation met fin au contrat pour l'avenir, sans remettre en cause ce qui a déjà été exécuté. La résolution sanctionne une inexécution et peut entraîner des restitutions pour les prestations qui n'ont pas trouvé leur utilité. Dans le langage courant, on parle souvent de résiliation dans les deux cas."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1211 et 1212 (fin des contrats à durée indéterminée et déterminée), 1224 à 1230 (résolution pour inexécution) et 1344 (mise en demeure)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code de la consommation, articles L. 215-1 et L. 215-1-1 (reconduction tacite, résiliation en ligne)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+    ],
+    [
+      "Code de commerce, article L. 442-1 (rupture brutale d'une relation commerciale établie)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "lettre-resiliation-contrat"
+  }
+}
