@@ -135,7 +135,7 @@
 [x] 2026-11-28 procès-verbal de transfert de siège social -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-transfert-de-siege-social/
 [x] 2026-11-28 ordre de mouvement de titres -> écarté : même intention que contrat-de-cession-d-actions : la page couvre déjà la recherche « ordre de mouvement de titres » (mot-clé secondaire), document indissociable de la cession d'actions
 [x] 2026-11-28 contrat de cession de clientèle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-clientele/
-contrat de collaboration libérale
+[x] 2026-11-28 contrat de collaboration libérale -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-collaboration-liberale/
 convention de forfait en jours
 contrat de cession de nom de domaine
 convention de management fees

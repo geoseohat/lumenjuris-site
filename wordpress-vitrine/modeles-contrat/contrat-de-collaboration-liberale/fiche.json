@@ -1,0 +1,109 @@
+{
+  "slug": "contrat-de-collaboration-liberale",
+  "nom": "Contrat de collaboration libérale",
+  "nom_court": "contrat de collaboration libérale",
+  "categorie": "Relations commerciales",
+  "mot_cle": "modèle contrat de collaboration libérale",
+  "mots_cles_secondaires": [
+    "contrat de collaboration libérale kiné",
+    "contrat collaborateur libéral",
+    "contrat de collaboration libérale infirmier",
+    "rétrocession d'honoraires collaborateur",
+    "rupture contrat de collaboration libérale",
+    "collaborateur libéral clientèle personnelle"
+  ],
+  "titre_h1": "Modèle de contrat de collaboration libérale gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de collaboration libérale gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de collaboration libérale : mentions de la loi de 2005, rétrocession, clientèle personnelle, préavis et protections.",
+  "chapo": "Le contrat de collaboration libérale permet à un professionnel libéral d'exercer aux côtés d'un titulaire de cabinet, sans lien de subordination et avec le droit de développer sa propre clientèle. Notre modèle gratuit reprend les mentions exigées par la loi du 2 août 2005 et les clauses utiles à la pratique.",
+  "public": "Professionnels libéraux titulaires de cabinet et collaborateurs",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-collaboration-liberale-lumen-juris",
+  "date_publication": "2026-11-28",
+  "date_mise_a_jour": "2026-11-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des professions libérales",
+      "Droit des contrats"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier les règles de votre ordre",
+      "Consultez le contrat type ou les clauses imposées par votre ordre professionnel, qui priment sur le modèle."
+    ],
+    [
+      "Choisir la durée et la rémunération",
+      "Décidez d'une durée déterminée ou indéterminée et d'une rétrocession, d'un forfait ou d'une redevance."
+    ],
+    [
+      "Organiser la clientèle personnelle",
+      "Réservez des créneaux et des moyens concrets au collaborateur pour qu'il puisse recevoir ses propres clients ou patients."
+    ],
+    [
+      "Fixer le préavis et l'après-contrat",
+      "Prévoyez un préavis progressif et, si votre profession le permet, une non-réinstallation limitée et proportionnée."
+    ],
+    [
+      "Signer et transmettre à l'ordre",
+      "Signez le contrat avant le début de la collaboration et communiquez-le à votre ordre si la profession l'exige."
+    ]
+  ],
+  "faq": [
+    [
+      "Quelles professions peuvent conclure un contrat de collaboration libérale ?",
+      "Les professions libérales soumises à un statut légal ou réglementaire, ou dont le titre est protégé : professions de santé, architectes, experts-comptables, géomètres-experts, vétérinaires notamment. Sont exclus les officiers publics ou ministériels, les commissaires aux comptes et les administrateurs et mandataires judiciaires."
+    ],
+    [
+      "Le collaborateur libéral peut-il avoir sa propre clientèle ?",
+      "Oui, c'est même une condition de la collaboration libérale. Le contrat doit préciser comment il peut recevoir sa clientèle personnelle. S'il n'en a pas la possibilité réelle, le contrat risque d'être requalifié en contrat de travail."
+    ],
+    [
+      "Quelle différence entre collaborateur et remplaçant ?",
+      "Le remplaçant exerce à la place du titulaire pendant son absence, pour une durée limitée et sans clientèle personnelle. Le collaborateur travaille durablement aux côtés du titulaire, en même temps que lui, et développe sa propre clientèle."
+    ],
+    [
+      "Quel préavis pour rompre un contrat de collaboration libérale ?",
+      "La loi impose de prévoir un préavis, sans en fixer la durée, sauf règles propres à la profession. En pratique, il augmente avec l'ancienneté, par exemple de un à trois mois. Pendant la grossesse et la suspension qui suit, le titulaire ne peut pas rompre le contrat, sauf manquement grave sans lien avec la grossesse."
+    ],
+    [
+      "Le collaborateur libéral a-t-il droit à un congé maternité ?",
+      "Oui. La collaboratrice peut suspendre son contrat pendant au moins seize semaines à l'occasion de l'accouchement et percevoir les prestations de son régime de protection sociale. Le contrat peut prévoir en plus un maintien partiel de sa rémunération."
+    ],
+    [
+      "Qui paie les cotisations sociales du collaborateur ?",
+      "Le collaborateur lui-même : il relève du statut social et fiscal du professionnel libéral, s'immatricule et déclare ses revenus en bénéfices non commerciaux. Le titulaire ne verse pas de cotisations pour lui, sauf requalification en contrat de travail."
+    ],
+    [
+      "Peut-on interdire au collaborateur de s'installer à proximité ?",
+      "Une clause de non-réinstallation est possible si elle est limitée dans le temps et dans l'espace et proportionnée. Certaines professions l'encadrent strictement ou l'interdisent pour les collaborateurs, car le collaborateur a vocation à s'installer : vérifiez les règles de votre ordre."
+    ]
+  ],
+  "sources": [
+    [
+      "Loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises, article 18 (collaboration libérale)",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000452052"
+    ],
+    [
+      "Code de la santé publique, article L. 4113-9 (communication des contrats à l'ordre pour les médecins, chirurgiens-dentistes et sages-femmes)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072665"
+    ],
+    [
+      "Code du travail, article L. 8221-6 (présomption de non-salariat et requalification)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-collaboration-liberale"
+  }
+}
