@@ -2754,11 +2754,39 @@
       "id": 4118,
       "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-cookies/",
       "gabarit": "2026-10-23"
+    },
+    "lettre-de-mise-a-pied-conservatoire": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o1.id}}",
+          "url": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o1.source_url}}",
+          "taille": "39 Ko",
+          "empreinte": "a4f4af9045f8fe02011cc599949f13949efec04f457759288bb52a50d98b06d2"
+        },
+        "pdf": {
+          "id": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o2.id}}",
+          "url": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o2.source_url}}",
+          "taille": "72 Ko",
+          "empreinte": "a4f4af9045f8fe02011cc599949f13949efec04f457759288bb52a50d98b06d2"
+        }
+      },
+      "image": {
+        "id": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o3.id}}",
+        "url": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o3.source_url}}",
+        "taille": "298 Ko",
+        "empreinte": "f27591c68d3a2f30becbbbde9c351d93f56e6f1b88e951e97a40535f69924247"
+      },
+      "statut": "publish",
+      "id": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o7.id}}",
+      "lien": "{{20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire.o7.link}}",
+      "gabarit": "2026-10-23"
     }
   },
   "bibliotheque": {
     "id": 2930,
     "statut": "publish"
   },
-  "ordres_en_attente": []
+  "ordres_en_attente": [
+    "20261128-091419-publier-en-ligne-lettre-de-mise-a-pied-conservatoire"
+  ]
 }
