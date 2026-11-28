@@ -1,0 +1,149 @@
+# CONTRAT DE CESSION DE CLIENTÈLE
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle sert à céder une clientèle civile ou de services : profession libérale (santé, paramédical, expertise comptable, architecture, conseil), agent ou courtier, prestataire indépendant. Si la clientèle est attachée à un commerce (boutique, restaurant, entreprise artisanale avec bail commercial), c'est en principe un fonds de commerce qu'il faut céder, avec un contrat de vente de fonds de commerce. Vérifiez aussi le code de déontologie de votre profession : il peut imposer des clauses ou une communication du contrat à l'ordre.
+
+ENTRE LES SOUSSIGNÉS :
+
+[Prénom, nom, date et lieu de naissance, adresse professionnelle / dénomination, forme, capital, siège, numéro RCS ou SIREN, représentée par [nom, qualité]], exerçant la profession de [profession], [inscrit(e) au tableau de l'ordre de [ordre], sous le numéro [numéro]],
+
+ci-après « le Cédant »,
+
+ET
+
+[Prénom, nom, date et lieu de naissance, adresse / dénomination, forme, capital, siège, numéro RCS ou SIREN, représentée par [nom, qualité]], exerçant la profession de [profession], [inscrit(e) au tableau de l'ordre de [ordre], sous le numéro [numéro]],
+
+ci-après « le Cessionnaire »,
+
+ci-après ensemble « les Parties ».
+
+IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT :
+
+Le Cédant exerce depuis le [date] une activité de [description de l'activité] à [adresse du lieu d'exercice]. Il souhaite [cesser son activité / s'installer dans une autre ville / réduire son activité] et présenter un successeur à sa clientèle. Le Cessionnaire, qui dispose des diplômes et autorisations nécessaires à l'exercice de cette activité, souhaite reprendre cette clientèle.
+
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT :
+
+## ARTICLE 1 – OBJET
+
+Le Cédant cède au Cessionnaire, qui accepte, la clientèle attachée à son activité de [activité] exercée à [adresse], dans les conditions du présent contrat.
+
+La cession comprend :
+
+- l'engagement du Cédant de présenter le Cessionnaire à sa clientèle comme son successeur ;
+- l'engagement de non-réinstallation prévu à l'article 7 ;
+- [le droit de se dire successeur du Cédant / l'usage du nom commercial [nom] pendant [durée]] ;
+- [le numéro de téléphone professionnel et l'adresse électronique [adresse] / le site internet [adresse]] ;
+- [les éléments matériels listés en annexe 2, pour une valeur de [montant] euros].
+
+> Note de rédaction : une clientèle ne se « vend » pas comme un objet : chaque client reste libre de choisir son prestataire. La cession est licite à condition de respecter cette liberté de choix, ce que la Cour de cassation exige notamment pour les clientèles médicales depuis 2000. Ne prévoyez jamais d'obligation pour les clients de rester chez le Cessionnaire.
+
+## ARTICLE 2 – DÉSIGNATION ET CONSISTANCE DE LA CLIENTÈLE
+
+Le Cédant déclare que l'activité cédée a généré les recettes suivantes, hors taxes, au cours des trois derniers exercices :
+
+- exercice [année] : [montant] euros, pour [nombre] clients actifs ;
+- exercice [année] : [montant] euros, pour [nombre] clients actifs ;
+- exercice [année] : [montant] euros, pour [nombre] clients actifs.
+
+Ces chiffres sont justifiés par les documents comptables et fiscaux joints en annexe 1, que le Cessionnaire reconnaît avoir reçus et examinés.
+
+Le Cédant déclare en outre :
+
+- qu'il n'a consenti à aucun tiers de droit sur la clientèle cédée ;
+- qu'aucune procédure disciplinaire, judiciaire ou collective n'est en cours à son encontre en lien avec cette activité ;
+- [que les contrats en cours avec les clients figurant en annexe 3 pourront être transférés au Cessionnaire, sous réserve de l'accord de chaque client].
+
+## ARTICLE 3 – PRIX
+
+La cession est consentie moyennant le prix de [montant en chiffres] euros ([montant en lettres] euros), qui se décompose ainsi :
+
+- clientèle et éléments incorporels : [montant] euros ;
+- éléments matériels : [montant] euros.
+
+Ce prix est payable : [en totalité à la signature, par virement sur le compte [IBAN] / à hauteur de [montant] euros à la signature, le solde en [nombre] échéances [mensuelles] de [montant] euros, la première le [date]].
+
+> Option (prix ajusté) : « Le prix sera [augmenté / diminué] de [pourcentage] % si les recettes réalisées par le Cessionnaire auprès des clients du Cédant au cours des douze mois suivant l'entrée en jouissance sont [supérieures / inférieures] de plus de [pourcentage] % à la moyenne des recettes indiquées à l'article 2. Les justificatifs seront communiqués au Cédant au plus tard le [date]. » Un ajustement trop fort fait reposer sur le Cédant le risque du départ des clients : fixez des bornes raisonnables.
+
+> Option (paiement échelonné) : « En cas de défaut de paiement d'une échéance, quinze jours après une mise en demeure restée sans effet, la totalité du solde restant dû deviendra immédiatement exigible. »
+
+## ARTICLE 4 – ENTRÉE EN JOUISSANCE
+
+Le Cessionnaire prend possession de la clientèle le [date]. À compter de cette date, il exerce l'activité sous sa seule responsabilité et perçoit les honoraires des prestations qu'il réalise.
+
+Les honoraires des prestations réalisées par le Cédant avant cette date restent acquis au Cédant, même s'ils sont encaissés après.
+
+## ARTICLE 5 – PRÉSENTATION DU CESSIONNAIRE À LA CLIENTÈLE
+
+Le Cédant s'engage à présenter le Cessionnaire à sa clientèle comme son successeur, de bonne foi et par tous moyens appropriés, notamment :
+
+- l'envoi d'un courrier ou d'un message d'information à ses clients au plus tard le [date], selon le texte convenu en annexe 4 ;
+- [une période d'exercice en commun ou d'accompagnement de [durée], du [date] au [date], selon les modalités suivantes : [modalités]] ;
+- [la mention du successeur sur son répondeur, son site internet et sa plaque professionnelle pendant [durée]].
+
+Le courrier rappelle à chaque client qu'il reste libre de s'adresser au professionnel de son choix.
+
+## ARTICLE 6 – DOSSIERS DES CLIENTS ET DONNÉES PERSONNELLES
+
+Les dossiers des clients sont transmis au Cessionnaire au fur et à mesure que chaque client choisit de lui confier son suivi, ou selon les règles de la profession. Le Cédant conserve ou fait conserver les autres dossiers pendant les durées légales.
+
+Les Parties respectent le secret professionnel applicable à leur profession et le règlement (UE) 2016/679 sur la protection des données. Le courrier d'information prévu à l'article 5 précise l'identité du nouveau responsable du traitement et les droits des clients sur leurs données.
+
+> Note de rédaction : pour les professions de santé, le dossier médical reste couvert par le secret. Il ne peut être transmis au successeur que si le patient en est informé et ne s'y oppose pas, et le patient peut demander qu'il soit adressé à un autre praticien.
+
+## ARTICLE 7 – NON-RÉINSTALLATION ET NON-SOLLICITATION
+
+Le Cédant s'interdit, pendant [durée, par exemple deux ou trois ans] à compter de l'entrée en jouissance, d'exercer, directement ou par personne interposée, une activité de [activité précise] dans un rayon de [distance] kilomètres autour de [adresse ou commune].
+
+Il s'interdit également, pendant la même durée, de solliciter les clients cédés pour leur proposer des prestations concurrentes.
+
+Cette interdiction ne s'applique pas à [activité d'enseignement / remplacements ponctuels hors du périmètre / activité salariée dans [secteur]].
+
+> Note de rédaction : la clause est valable si elle est limitée dans le temps et dans l'espace et proportionnée à ce qui est cédé. Une durée ou un rayon excessifs au regard de l'activité permettent au juge de la réduire ou de l'annuler. Votre code de déontologie peut aussi encadrer la réinstallation.
+
+## ARTICLE 8 – GARANTIES
+
+Le Cédant garantit au Cessionnaire l'exactitude des informations et chiffres déclarés à l'article 2. Il s'interdit tout acte de nature à détourner la clientèle cédée.
+
+Si une déclaration se révèle inexacte et cause un préjudice au Cessionnaire, celui-ci peut demander une réduction du prix à proportion de ce préjudice, sans préjudice des autres recours prévus par la loi.
+
+> Option (garantie bancaire ou séquestre) : « Une somme de [montant] euros, prélevée sur le prix, est versée sous séquestre entre les mains de [nom du séquestre] jusqu'au [date], pour garantir les engagements du Cédant au titre des articles 7 et 8. »
+
+## ARTICLE 9 – CONDITIONS SUSPENSIVES
+
+> Option : « Le présent contrat est conclu sous les conditions suspensives suivantes, qui devront être réalisées au plus tard le [date] : [obtention par le Cessionnaire d'un prêt de [montant] euros sur [durée] au taux maximal de [taux] % / inscription du Cessionnaire au tableau de l'ordre de [ordre] / conclusion d'un bail ou d'une convention d'occupation des locaux [adresse]]. À défaut de réalisation dans ce délai, le contrat sera caduc et chaque Partie reprendra sa liberté, sans indemnité. Les sommes éventuellement versées seront restituées. »
+
+## ARTICLE 10 – LOCAUX ET CONTRATS EN COURS
+
+[Option A : Le Cédant s'engage à faire ses meilleurs efforts pour que le bailleur des locaux situés [adresse] consente au Cessionnaire [la cession du bail / un nouveau bail]. Les loyers et charges sont répartis au jour de l'entrée en jouissance.]
+
+[Option B : La cession ne porte pas sur des locaux. Le Cessionnaire exercera à [adresse].]
+
+Les contrats d'abonnement, de logiciel, d'assurance ou de maintenance liés à l'activité ne sont transférés au Cessionnaire qu'avec son accord et, le cas échéant, celui du cocontractant.
+
+## ARTICLE 11 – FORMALITÉS ET FRAIS
+
+Le présent contrat sera présenté à l'enregistrement auprès du service des impôts compétent dans le mois de sa signature. Les droits d'enregistrement et les frais de l'acte sont à la charge du [Cessionnaire / partagés par moitié].
+
+[Le présent contrat sera communiqué par chaque Partie au conseil de l'ordre de [ordre] dans le délai prévu par les règles de la profession.]
+
+## ARTICLE 12 – LITIGES
+
+Le présent contrat est soumis au droit français. En cas de différend, les Parties recherchent d'abord une solution amiable [par la conciliation organisée par le conseil de l'ordre / par une médiation]. À défaut d'accord dans un délai de [durée], le litige est porté devant la juridiction compétente [du lieu d'exercice de l'activité cédée].
+
+Fait à [ville], le [date], en [nombre] exemplaires originaux, dont un pour l'enregistrement.
+
+Le Cédant
+[Prénom Nom]
+[Signature]
+
+Le Cessionnaire
+[Prénom Nom]
+[Signature]
+
+## ANNEXES
+
+- Annexe 1 : bilans, déclarations de recettes ou déclarations fiscales des trois derniers exercices.
+- Annexe 2 : liste et valeur des éléments matériels cédés (mobilier, matériel, logiciels).
+- Annexe 3 : liste des contrats en cours avec les clients, le cas échéant.
+- Annexe 4 : texte du courrier d'information aux clients.

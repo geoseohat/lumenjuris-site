@@ -1,0 +1,109 @@
+{
+  "slug": "contrat-de-cession-de-clientele",
+  "nom": "Contrat de cession de clientèle",
+  "nom_court": "contrat de cession de clientèle",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle contrat de cession de clientèle",
+  "mots_cles_secondaires": [
+    "cession de clientèle civile",
+    "contrat de cession de patientèle",
+    "cession de clientèle profession libérale",
+    "cession de clientèle droits d'enregistrement",
+    "prix cession de clientèle",
+    "clause de non-réinstallation"
+  ],
+  "titre_h1": "Modèle de contrat de cession de clientèle gratuit (Word et PDF)",
+  "titre_seo": "Modèle de contrat de cession de clientèle gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de contrat de cession de clientèle pour professions libérales : présentation du successeur, non-réinstallation, prix et droits.",
+  "chapo": "Le contrat de cession de clientèle permet à un professionnel indépendant de présenter un successeur à ses clients contre un prix, tout en respectant leur liberté de choix. Notre modèle gratuit organise la présentation, la non-réinstallation, le prix, les dossiers et l'enregistrement.",
+  "public": "Professions libérales, agents et prestataires indépendants",
+  "gratuit": true,
+  "fichier_base": "modele-contrat-de-cession-de-clientele-lumen-juris",
+  "date_publication": "2026-11-28",
+  "date_mise_a_jour": "2026-11-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des contrats",
+      "Droit des professions libérales"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Vérifier que la clientèle est cessible seule",
+      "Assurez-vous que l'activité est civile ou de services ; si la clientèle est attachée à un commerce, cédez plutôt le fonds de commerce."
+    ],
+    [
+      "Réunir les chiffres des trois derniers exercices",
+      "Rassemblez déclarations fiscales, recettes et nombre de clients actifs, qui seront annexés et garantis par le cédant."
+    ],
+    [
+      "Négocier le prix et la non-réinstallation",
+      "Fixez le prix, son paiement et un éventuel ajustement, puis une durée et un rayon de non-réinstallation proportionnés."
+    ],
+    [
+      "Préparer la présentation aux clients",
+      "Rédigez le courrier d'information, prévoyez l'accompagnement et les règles de transmission des dossiers."
+    ],
+    [
+      "Signer, enregistrer et informer l'ordre",
+      "Faites enregistrer le contrat au service des impôts dans le mois et, si votre profession l'exige, transmettez-le à l'ordre."
+    ]
+  ],
+  "faq": [
+    [
+      "Une clientèle civile peut-elle être vendue ?",
+      "Oui. Depuis un arrêt de la Cour de cassation de 2000, la cession d'une clientèle civile, y compris médicale, est licite à condition que soit préservée la liberté de choix du client. Le contrat porte en réalité sur la présentation du successeur et l'engagement de ne pas faire concurrence."
+    ],
+    [
+      "Quels droits d'enregistrement paie-t-on sur une cession de clientèle ?",
+      "Le barème est celui des fonds de commerce : 0 % jusqu'à 23 000 euros, 3 % entre 23 000 et 200 000 euros et 5 % au-delà. Ils sont en principe payés par l'acquéreur, sauf accord contraire."
+    ],
+    [
+      "Combien de temps peut durer une clause de non-réinstallation ?",
+      "La loi ne fixe pas de durée. Elle doit être limitée dans le temps et dans l'espace et proportionnée à la clientèle cédée ; en pratique, deux à cinq ans selon les professions. Certains codes de déontologie fixent leurs propres limites."
+    ],
+    [
+      "Le contrat de cession de clientèle doit-il être enregistré ?",
+      "Oui, il doit être présenté à l'enregistrement auprès du service des impôts dans le mois qui suit sa signature. Un retard entraîne des intérêts et une majoration sur les droits dus."
+    ],
+    [
+      "Quelle différence entre cession de clientèle et cession de patientèle ?",
+      "Il s'agit du même contrat : on parle de patientèle pour les professions de santé. Les règles du Code de la santé publique s'ajoutent alors, notamment sur le secret médical et la communication du contrat à l'ordre."
+    ],
+    [
+      "Que se passe-t-il si les clients ne suivent pas le repreneur ?",
+      "Le cédant ne garantit pas la fidélité des clients, qui restent libres. Le repreneur n'a de recours que si le cédant a manqué à ses obligations (présentation insuffisante, concurrence, chiffres inexacts), sauf si le contrat prévoit un ajustement du prix selon la clientèle conservée."
+    ],
+    [
+      "Le cédant peut-il continuer à travailler après la cession ?",
+      "Oui, en dehors du périmètre de la clause de non-réinstallation, ou dans les activités que le contrat exclut expressément, comme l'enseignement ou certains remplacements. Il ne doit en aucun cas solliciter les clients cédés."
+    ]
+  ],
+  "sources": [
+    [
+      "Code civil, articles 1582 et suivants (vente), 1626 et suivants (garantie d'éviction)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ],
+    [
+      "Code général des impôts, article 719 (droits d'enregistrement sur les cessions de fonds de commerce et de clientèles) et article 635 (délai d'enregistrement)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577"
+    ],
+    [
+      "Code de la santé publique, article L. 4113-9 (communication des contrats des médecins à l'ordre)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072665"
+    ],
+    [
+      "Règlement (UE) 2016/679 (RGPD)",
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "contrat-cession-clientele"
+  }
+}

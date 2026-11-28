@@ -133,8 +133,8 @@
 [x] 2026-11-27 politique de cookies -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-cookies/
 [x] 2026-11-28 lettre de mise à pied conservatoire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-mise-a-pied-conservatoire/
 [x] 2026-11-28 procès-verbal de transfert de siège social -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-transfert-de-siege-social/
-ordre de mouvement de titres
-contrat de cession de clientèle
+[x] 2026-11-28 ordre de mouvement de titres -> écarté : même intention que contrat-de-cession-d-actions : la page couvre déjà la recherche « ordre de mouvement de titres » (mot-clé secondaire), document indissociable de la cession d'actions
+[x] 2026-11-28 contrat de cession de clientèle -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/contrat-de-cession-de-clientele/
 contrat de collaboration libérale
 convention de forfait en jours
 contrat de cession de nom de domaine

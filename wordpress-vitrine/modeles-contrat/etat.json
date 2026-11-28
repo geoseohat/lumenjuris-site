@@ -2784,27 +2784,53 @@
     "proces-verbal-de-transfert-de-siege-social": {
       "fichiers": {
         "docx": {
-          "id": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o1.id}}",
-          "url": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o1.source_url}}",
+          "id": 4125,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-transfert-de-siege-social-lumen-juris.docx",
           "taille": "40 Ko",
           "empreinte": "3edb2e6d59322bf41e62b9cf92fb7a817e539b7a8ad157fa0eaa255407fc8034"
         },
         "pdf": {
-          "id": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o2.id}}",
-          "url": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o2.source_url}}",
+          "id": 4126,
+          "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-transfert-de-siege-social-lumen-juris.pdf",
           "taille": "104 Ko",
           "empreinte": "3edb2e6d59322bf41e62b9cf92fb7a817e539b7a8ad157fa0eaa255407fc8034"
         }
       },
       "image": {
-        "id": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o3.id}}",
-        "url": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o3.source_url}}",
+        "id": 4127,
+        "url": "https://www.lumenjuris.com/wp-content/uploads/2026/11/modele-proces-verbal-de-transfert-de-siege-social-lumen-juris.png",
         "taille": "303 Ko",
         "empreinte": "da332adb462b93e2e6710d2bf00afe5caaae72b2704df082db60507c29830070"
       },
       "statut": "publish",
-      "id": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o7.id}}",
-      "lien": "{{20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social.o7.link}}",
+      "id": 4128,
+      "lien": "https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-transfert-de-siege-social/",
+      "gabarit": "2026-10-23"
+    },
+    "contrat-de-cession-de-clientele": {
+      "fichiers": {
+        "docx": {
+          "id": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o1.id}}",
+          "url": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o1.source_url}}",
+          "taille": "41 Ko",
+          "empreinte": "90479edf33326035c62619765c44a6f627f53a486acdf3233c99ef2854702be1"
+        },
+        "pdf": {
+          "id": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o2.id}}",
+          "url": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o2.source_url}}",
+          "taille": "113 Ko",
+          "empreinte": "90479edf33326035c62619765c44a6f627f53a486acdf3233c99ef2854702be1"
+        }
+      },
+      "image": {
+        "id": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o3.id}}",
+        "url": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o3.source_url}}",
+        "taille": "296 Ko",
+        "empreinte": "4bdfe1efd0c8f9a1420d8197dcb1e7aed55406f5a5068530a31b66a9bcfd3bdf"
+      },
+      "statut": "publish",
+      "id": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o7.id}}",
+      "lien": "{{20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele.o7.link}}",
       "gabarit": "2026-10-23"
     }
   },
@@ -2813,6 +2839,6 @@
     "statut": "publish"
   },
   "ordres_en_attente": [
-    "20261128-091640-publier-en-ligne-proces-verbal-de-transfert-de-siege-social"
+    "20261128-091855-publier-en-ligne-contrat-de-cession-de-clientele"
   ]
 }
