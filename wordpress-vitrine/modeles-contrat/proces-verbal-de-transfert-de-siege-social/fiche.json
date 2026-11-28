@@ -1,0 +1,105 @@
+{
+  "slug": "proces-verbal-de-transfert-de-siege-social",
+  "nom": "Procès-verbal de transfert de siège social",
+  "nom_court": "procès-verbal de transfert de siège social",
+  "categorie": "Création et vie des sociétés",
+  "mot_cle": "modèle procès-verbal de transfert de siège social",
+  "mots_cles_secondaires": [
+    "pv transfert siège social",
+    "procès-verbal transfert de siège social SARL",
+    "pv transfert siège social SAS",
+    "décision du gérant transfert siège social",
+    "transfert siège social associé unique",
+    "modèle décision transfert de siège social"
+  ],
+  "titre_h1": "Modèle de procès-verbal de transfert de siège social gratuit (Word et PDF)",
+  "titre_seo": "PV de transfert de siège social : modèle gratuit (Word, PDF)",
+  "meta_description": "Modèle gratuit de procès-verbal de transfert de siège social pour SARL, EURL, SAS et SASU : qui décide, statuts, annonce légale et formalités.",
+  "chapo": "Le procès-verbal de transfert de siège social constate la décision de déplacer l'adresse juridique de la société et la modification des statuts qui en découle. Notre modèle gratuit couvre les SARL, EURL, SAS et SASU, avec un procès-verbal de ratification et un avis de publication prêts à remplir.",
+  "public": "Dirigeants et associés de SARL, EURL, SAS et SASU",
+  "gratuit": true,
+  "fichier_base": "modele-proces-verbal-de-transfert-de-siege-social-lumen-juris",
+  "date_publication": "2026-11-28",
+  "date_mise_a_jour": "2026-11-28",
+  "relecture": {
+    "nom": "L'équipe juridique de Lumen Juris",
+    "fonction": "Rédaction et relecture des modèles de contrat",
+    "presentation": "Les modèles de contrat publiés par Lumen Juris sont rédigés et relus par notre équipe juridique, afin de vérifier leur conformité au droit français en vigueur et l'équilibre des clauses entre les parties.",
+    "url_profil": "https://www.lumenjuris.com/qui-sommes-nous/",
+    "domaines": [
+      "Droit des sociétés",
+      "Formalités des entreprises"
+    ],
+    "valide": false,
+    "date_validation": null
+  },
+  "etapes": [
+    [
+      "Lire l'article des statuts sur le siège",
+      "Vérifiez qui peut décider du transfert (associés ou dirigeant) et à quelle majorité, avant de choisir l'option du modèle."
+    ],
+    [
+      "Sécuriser les nouveaux locaux",
+      "Signez le bail ou le contrat de domiciliation, ou préparez l'attestation de domicile du dirigeant, avant la date d'effet."
+    ],
+    [
+      "Faire adopter et signer la décision",
+      "Réunissez l'assemblée ou signez la décision du dirigeant, puis mettez à jour l'article des statuts."
+    ],
+    [
+      "Publier l'avis de transfert",
+      "Faites paraître l'avis dans un journal d'annonces légales, dans les deux départements si le siège change de département."
+    ],
+    [
+      "Déclarer sur le guichet unique",
+      "Dans le mois, déposez le procès-verbal, les statuts à jour, l'attestation de parution et le justificatif d'occupation, puis faites ratifier si le dirigeant a décidé seul."
+    ]
+  ],
+  "faq": [
+    [
+      "Le gérant de SARL peut-il transférer le siège social seul ?",
+      "Oui, le gérant peut décider seul du transfert du siège en France, sauf si les statuts l'interdisent. Sa décision doit ensuite être ratifiée par les associés, à la majorité des décisions ordinaires. À défaut de ratification, elle devient caduque."
+    ],
+    [
+      "Faut-il modifier les statuts pour changer de siège social ?",
+      "Oui, l'adresse du siège est une mention obligatoire des statuts. Le procès-verbal doit donc modifier l'article correspondant, et les statuts mis à jour sont déposés avec la déclaration de modification."
+    ],
+    [
+      "Combien de temps a-t-on pour déclarer le transfert du siège ?",
+      "La déclaration sur le guichet unique doit être faite dans le mois qui suit la décision. L'avis dans un journal d'annonces légales doit être publié avant le dépôt, puisque l'attestation de parution fait partie du dossier."
+    ],
+    [
+      "Le numéro SIREN change-t-il après un transfert de siège ?",
+      "Non, le SIREN reste le même : il identifie la société pour toute sa durée de vie. Le numéro SIRET du siège change en revanche, puisqu'il désigne un établissement à une adresse donnée."
+    ],
+    [
+      "Peut-on domicilier le siège social chez soi ?",
+      "Oui, le représentant légal peut installer le siège à son domicile. Si le bail ou le règlement de copropriété l'interdit, l'installation n'est permise que pour une durée limitée fixée par le Code de commerce, et la société doit ensuite trouver une autre adresse."
+    ],
+    [
+      "Combien coûte un transfert de siège social ?",
+      "Le coût comprend surtout l'annonce légale, dont le tarif est fixé chaque année par arrêté, et les frais de greffe. Il est plus élevé en cas de changement de département, car deux annonces et une nouvelle immatriculation au greffe d'arrivée sont nécessaires."
+    ],
+    [
+      "Les salariés doivent-ils accepter le transfert du siège ?",
+      "Le transfert du siège lui-même ne leur est pas soumis. En revanche, si leur lieu de travail est déplacé hors du même secteur géographique et que leur contrat ne contient pas de clause de mobilité valable, leur accord peut être nécessaire."
+    ]
+  ],
+  "sources": [
+    [
+      "Code de commerce, articles L. 223-18 (pouvoir du gérant de SARL de déplacer le siège), L. 223-29 et L. 223-30 (majorités en SARL)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code de commerce, articles L. 227-1 et L. 227-9 (décisions collectives en SAS) et L. 123-11-1 (siège au domicile du représentant légal)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379"
+    ],
+    [
+      "Code civil, articles 1835 et 1836 (statuts et modification des statuts)",
+      "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+    ]
+  ],
+  "personnaliser": {
+    "doc": "proces-verbal-transfert-siege-social"
+  }
+}

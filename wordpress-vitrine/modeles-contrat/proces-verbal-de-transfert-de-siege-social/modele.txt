@@ -1,0 +1,106 @@
+# PROCÈS-VERBAL DES DÉCISIONS [DE L'ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE DES ASSOCIÉS / DE L'ASSOCIÉ UNIQUE / DU GÉRANT / DU PRÉSIDENT] DU [DATE] – TRANSFERT DU SIÈGE SOCIAL
+
+> Modèle gratuit Lumen Juris, à adapter à votre situation. Les passages entre crochets [ ] sont à compléter ou à choisir. Les notes de rédaction (comme celle-ci) sont à supprimer avant signature.
+
+> Note de rédaction : ce modèle sert à déplacer le siège d'une SARL, d'une EURL, d'une SAS ou d'une SASU sur le territoire français. Choisissez l'organe qui décide. Option A : les associés (ou l'associé unique) décident eux-mêmes, en modifiant les statuts. Option B : le dirigeant décide seul, lorsque la loi ou les statuts le lui permettent ; sa décision doit alors être ratifiée par les associés. Dans une SARL, le gérant peut transférer le siège partout en France, sous réserve de ratification par les associés (article L. 223-18 du Code de commerce), sauf si les statuts l'interdisent. Dans une SAS, tout dépend des statuts : lisez l'article consacré au siège social avant de choisir. Le transfert à l'étranger n'est pas couvert par ce modèle.
+
+[DÉNOMINATION SOCIALE]
+[Société à responsabilité limitée / Société par actions simplifiée] [à associé unique] au capital de [montant] euros
+Siège social : [ancienne adresse]
+[numéro] RCS [ville]
+
+## 1 – ORGANE QUI DÉCIDE ET RÉUNION
+
+[Option A1 – Assemblée des associés : le [date], à [heure], les associés de la société [dénomination] (ci-après « la Société ») se sont réunis en assemblée générale extraordinaire [au siège social / à [adresse] / par visioconférence, conformément à l'article [n°] des statuts], sur convocation adressée par [le gérant / le président] le [date].]
+
+[Option A2 – Associé unique : [prénom, nom ou dénomination], associé unique de la Société, a pris le [date] les décisions suivantes, consignées dans le registre des décisions.]
+
+[Option B – Dirigeant : [prénom, nom], agissant en qualité de [gérant / président] de la Société, en vertu de [l'article L. 223-18 du Code de commerce / l'article [n°] des statuts], a pris le [date] la décision suivante.]
+
+> Option (A1 seulement) : Sont présents ou représentés :
+> - [Nom], titulaire de [nombre] [parts / actions], [présent(e) / représenté(e) par [nom], en vertu d'un pouvoir annexé] ;
+> - [Nom], titulaire de [nombre] [parts / actions], [présent(e) / représenté(e) par [nom]].
+> Les associés présents ou représentés détiennent [nombre] [parts / actions] sur les [nombre] composant le capital, soit [pourcentage] %. La séance est présidée par [nom, qualité]. Le président de séance constate que [le quorum prévu par la loi et les statuts est atteint / aucune condition de quorum n'est requise] et que l'assemblée peut valablement délibérer.
+
+Ordre du jour :
+
+- transfert du siège social ;
+- modification corrélative de l'article [n°] des statuts ;
+- pouvoirs pour les formalités.
+
+Les documents suivants ont été [tenus à la disposition des associés / remis à chacun] : [rapport du gérant ou du président, texte des résolutions, projet de statuts modifiés].
+
+## 2 – PREMIÈRE DÉCISION : TRANSFERT DU SIÈGE SOCIAL
+
+[Les associés décident / L'associé unique décide / Le [gérant / président] décide] de transférer le siège social de la Société :
+
+- de : [ancienne adresse complète] ;
+- à : [nouvelle adresse complète] ;
+
+avec effet à compter du [date d'effet].
+
+Motif du transfert : [installation dans de nouveaux locaux / fin du bail / changement de domiciliation / rapprochement de la clientèle].
+
+La Société dispose des nouveaux locaux en vertu de [bail commercial du [date] / contrat de domiciliation conclu avec [nom de la société de domiciliation] le [date] / attestation de mise à disposition du domicile du représentant légal / titre de propriété].
+
+> Note de rédaction : choisissez une date d'effet certaine, de préférence le jour de la décision ou une date proche. La déclaration au guichet unique doit être faite dans le mois qui suit, et le greffe vous demandera de justifier que la Société occupe régulièrement la nouvelle adresse. Si le siège est fixé au domicile du dirigeant, vérifiez que le bail d'habitation ou le règlement de copropriété ne l'interdit pas ; à défaut, l'installation n'est possible que pour une durée limitée.
+
+## 3 – DEUXIÈME DÉCISION : MODIFICATION DES STATUTS
+
+En conséquence, l'article [n°] des statuts est modifié ainsi :
+
+Ancienne rédaction : « Le siège social est fixé à : [ancienne adresse]. »
+
+Nouvelle rédaction : « Le siège social est fixé à : [nouvelle adresse]. »
+
+Le reste de l'article est inchangé.
+
+> Option (B – décision du dirigeant) : « La présente décision et la modification des statuts qui en résulte seront soumises à la ratification des associés lors de [la prochaine assemblée générale ordinaire / une consultation organisée au plus tard le [date]]. »
+
+## 4 – TROISIÈME DÉCISION : POUVOIRS
+
+Tous pouvoirs sont donnés [au gérant / au président / au porteur d'un original ou d'une copie du présent procès-verbal] pour accomplir les formalités de publicité, de dépôt et de déclaration nécessaires, notamment :
+
+- la publication d'un avis dans un journal habilité à recevoir les annonces légales [du département du nouveau siège / du département de l'ancien siège et de celui du nouveau siège] ;
+- la déclaration de la modification sur le guichet unique des formalités des entreprises, accompagnée des statuts mis à jour et du justificatif d'occupation des locaux ;
+- l'information des administrations, des banques, des cocontractants et des salariés.
+
+## 5 – VOTE DES DÉCISIONS
+
+[Option A1 : Les décisions ci-dessus, mises aux voix, sont adoptées [à l'unanimité / par [nombre] voix pour, [nombre] voix contre et [nombre] abstentions], soit à la majorité requise par [l'article L. 223-30 du Code de commerce / l'article [n°] des statuts].]
+
+> Note de rédaction : dans une SARL constituée après le 3 août 2005, la modification des statuts est votée par au moins les deux tiers des parts détenues par les associés présents ou représentés, avec un quorum d'un quart des parts sur première convocation et d'un cinquième sur deuxième convocation. Les statuts peuvent prévoir des règles plus strictes. Dans une SAS, les majorités sont celles des statuts. Dans une société civile, ce modèle n'est pas adapté sans retouches : la modification des statuts y exige l'unanimité, sauf clause contraire.
+
+[Option A2 et B : Ces décisions sont prises par [l'associé unique / le gérant / le président], seul compétent.]
+
+## 6 – CLÔTURE
+
+[Option A1 : L'ordre du jour étant épuisé, la séance est levée à [heure]. Il a été dressé le présent procès-verbal, signé par [le président de séance et un associé / le gérant / le président et le secrétaire de séance], et retranscrit sur le registre des délibérations.]
+
+[Option A2 et B : Le présent procès-verbal est retranscrit sur le registre des décisions de la Société.]
+
+Fait à [ville], le [date]
+
+[Prénom Nom]
+[Qualité : président de séance / associé unique / gérant / président]
+[Signature]
+
+[Prénom Nom]
+[Qualité : associé / secrétaire de séance]
+[Signature]
+
+## ANNEXE 1 – PROCÈS-VERBAL DE RATIFICATION PAR LES ASSOCIÉS (OPTION B)
+
+Le [date], les associés de la Société, réunis en assemblée générale [ordinaire / extraordinaire, selon les statuts] [ou consultés par écrit], après avoir pris connaissance de la décision du [gérant / président] du [date] transférant le siège social de [ancienne adresse] à [nouvelle adresse] et modifiant l'article [n°] des statuts, ratifient cette décision.
+
+Cette résolution est adoptée [à l'unanimité / par [nombre] voix pour, [nombre] voix contre et [nombre] abstentions].
+
+> Note de rédaction : dans une SARL, la ratification d'un transfert décidé par le gérant se vote dans les conditions des décisions ordinaires, soit plus de la moitié des parts sociales sur première consultation (article L. 223-29 du Code de commerce), sauf majorité plus forte prévue par les statuts. Sans ratification, la décision du gérant devient caduque : le siège revient juridiquement à l'ancienne adresse et de nouvelles formalités sont à prévoir.
+
+Fait à [ville], le [date]
+
+[Signature du président de séance]
+
+## ANNEXE 2 – MODÈLE D'AVIS À PUBLIER
+
+[DÉNOMINATION SOCIALE], [forme sociale] au capital de [montant] euros. Siège social : [nouvelle adresse]. [numéro] RCS [ville de l'ancien greffe]. Aux termes [du procès-verbal de l'assemblée générale extraordinaire / des décisions de l'associé unique / de la décision du gérant / de la décision du président] du [date], le siège social a été transféré de [ancienne adresse] à [nouvelle adresse] à compter du [date d'effet]. L'article [n°] des statuts a été modifié en conséquence. [Si changement de greffe : la Société sera immatriculée au registre du commerce et des sociétés de [ville du nouveau greffe].] [Rappel des mentions de la Société : objet, durée, dirigeants, exigés dans l'avis publié dans le département d'arrivée.]

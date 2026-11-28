@@ -132,7 +132,7 @@
 [x] 2026-11-27 lettre d'intention -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-d-intention/
 [x] 2026-11-27 politique de cookies -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/politique-de-cookies/
 [x] 2026-11-28 lettre de mise à pied conservatoire -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/lettre-de-mise-a-pied-conservatoire/
-procès-verbal de transfert de siège social
+[x] 2026-11-28 procès-verbal de transfert de siège social -> https://www.lumenjuris.com/outil-generation-contrat-ia/modele-contrat/proces-verbal-de-transfert-de-siege-social/
 ordre de mouvement de titres
 contrat de cession de clientèle
 contrat de collaboration libérale
